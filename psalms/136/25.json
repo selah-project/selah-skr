@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 136,
+  "translation": "جیہڑا سبھ گوشت کوں روٹی ݙیندا ہے، کیوں جو ہمیشہ کیتے اوندا خیسِد ہے۔",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا ہے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوندا خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:07.946165792Z",
+  "model": "glm-5.3"
+}

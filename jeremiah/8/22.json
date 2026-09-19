@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیا گلعاد وِچ کوئی بام ⟨کائنی⟩؟ کیا اُتھاں کوئی علاج کرݨ آلا ⟨کائنی⟩؟ کیوں جو میݙی قوم دی دھی دی چنگائی اُٹھی نہ؟",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "بام"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "گلعاد وِچ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "علاج کرݨ آلا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "چنگائی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:15:15.357748111Z",
+  "model": "glm-5.3"
+}

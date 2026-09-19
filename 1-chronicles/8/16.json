@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے میخائیل، اِشپہ تے یوخا — بِریاہ دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "تے میخائیل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "اِشپہ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "تے یوخا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بِریاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:07.850127224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "تے میں ٹاٹ آپݨا لباس بݨایا، تے میں اُنہاں کیتے پہاکہ بݨ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "تے میں بݨایا"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "آپݨا لباس"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ٹاٹ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "تے میں تھی ڳیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کیتے"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "پہاکہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:05.442879140Z",
+  "model": "glm-5.3"
+}

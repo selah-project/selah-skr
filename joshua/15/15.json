@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے او اُتھوں دِبِر دے وسݨ آلیاں اُتے چڑھ ڳیا، تے دِبِر دا ناں پہلے قِریت سِفِر ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسݨ آلیاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبِر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبِر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفِر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:50.264431873Z",
+  "model": "glm-5.3"
+}

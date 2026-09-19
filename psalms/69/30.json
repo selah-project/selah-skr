@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "تے میں غریب تے ݙکھی ہاں؛ تیݙی نجات، ایلوہیم، میکوں اُچا کرے۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "تے ݙکھی"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "تیݙی نجات"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "میکوں اُچا کرے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:49.191369380Z",
+  "model": "glm-5.3"
+}

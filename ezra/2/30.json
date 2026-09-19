@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "مَگبِیش دے پُتراں دے ⟨⟩ ہِک سو پنجاہ تے چھی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "مَگبِیش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "تے چھی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:38.248224389Z",
+  "model": "glm-5.3"
+}

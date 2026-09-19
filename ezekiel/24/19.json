@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے لوک میکوں آکھیا: “کیا تُساں ساݙے کیتے نہ ݙسائو جو اِیہ اساں کیتے کیا ہِن، جو تُساں ایویں کریندے وے؟”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ݙسائو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندے وے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:43.863029756Z",
+  "model": "glm-5.3"
+}

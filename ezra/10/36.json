@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "وَنیاہ، مریموط، ایلیاشیو۔",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "وَنیاہ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مریموط"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ایلیاشیو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:29:21.052756047Z",
+  "model": "glm-5.3"
+}

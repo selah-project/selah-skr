@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "بھلا کیا او وݙے زور نال میݙے نال جھیڑا لاسی؟ کائنی — او تاں بس میکوں ⟨دھیان⟩ ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "جھیڑا لاسی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:18.092275923Z",
+  "model": "glm-5.3"
+}

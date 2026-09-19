@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کیا توں زمین دی چوڑائی ⟨تئیں⟩ سمجھ گھدی؟ ݙسا، جے توں ایہ سبھ کجھ ڄاݨدیں۔",
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "سمجھ گھدی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ݙسا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدیں"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "سبھ کجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:46.088000582Z",
+  "model": "glm-5.3"
+}

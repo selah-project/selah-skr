@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایں ڳالھ اُتے یاہوہ نرم تھیا؛ “ایہ نہ تھیسی”، یاہوہ آکھیا۔",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "نرم تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایں ڳالھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:55:47.811018044Z",
+  "model": "glm-5.3"
+}

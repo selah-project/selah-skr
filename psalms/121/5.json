@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "یاہوہ تیݙا رکھݨ آلا ہے، یاہوہ تیݙا چھاں ہے، تیݙے سڄے ہتھ اُتے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تیݙا رکھݨ آلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "تیݙا چھاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیݙے سڄے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.945308050Z",
+  "model": "glm-5.3"
+}

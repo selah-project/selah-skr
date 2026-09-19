@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 134,
+  "translation": "اپݨے ہتھ پاک جاہ دو چاڑھو، تے یاہوہ کوں ⟨את⟩ برکت ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "چاڑھو"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "اپݨے ہتھ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک جاہ دو"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "تے برکت ݙیوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:00.711283598Z",
+  "model": "glm-5.3"
+}

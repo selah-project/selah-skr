@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے زَبَدیّاہ، تے مِشُلّام، تے خِزقی، تے خابِر۔",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "تے زَبَدیّاہ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "تے مِشُلّام"
+    },
+    {
+      "surface": "وחזקי",
+      "gloss": "تے خِزقی"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "تے خابِر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:43.067298614Z",
+  "model": "glm-5.3"
+}

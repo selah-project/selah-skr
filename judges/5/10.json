@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "چِٹیاں ڳڈیاں تے سوارو، قیمتی پردیاں اُتے ٻیٹھو، تے رستے تے ٹُرن آلو — ڳالھ کرو!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "سوار"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "ڳڈیاں"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "چِٹیاں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ٻیٹھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "پردیاں"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "تے ٹُرن آلے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ڳالھ کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:23:05.679779527Z",
+  "model": "glm-5.3"
+}

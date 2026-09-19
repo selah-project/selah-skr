@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے شِوا کاتب ہا، تے تصدوک تے اویاتار کاہن ہن۔",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "تے شِوا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کاتب"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "تے تصدوک"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "تے اویاتار"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہن ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:59:12.930728766Z",
+  "model": "glm-5.3"
+}

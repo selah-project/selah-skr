@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "بادشاہ ٻہوں فوج نال بچدا کائنی، بہادر ٻہوں زور نال کڈھیا نہ ویندا۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "بچدا"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "کڈھیا ویندا"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:01.795738146Z",
+  "model": "glm-5.3"
+}

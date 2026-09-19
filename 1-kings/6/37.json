@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "چوتھے سال وِچ یاہوہ دے گھر دی نیہہ مہینے زِو وِچ رکھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "نیہہ رکھی ڳئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "زِو"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:40.684731557Z",
+  "model": "glm-5.3"
+}

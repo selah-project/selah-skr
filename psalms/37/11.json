@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے نرم دل زمین دے وارث بݨسن، تے ٻہوں سالھ وِچ لُٹ پُسن۔",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "تے نرم دل"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "وارث بݨسن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "تے لُٹ پُسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:01.584682910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، ⟨ایہ آکھ کے⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہ آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:57.660086229Z",
+  "model": "glm-5.3"
+}

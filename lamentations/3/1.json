@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں اوہ بندہ ہاں جئیں اوندے غصے دے سوٹے ہیٹھ تنگی ݙٹھی۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "سوٹے ہیٹھ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "اوندے غصے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:00.164809272Z",
+  "model": "glm-5.3"
+}

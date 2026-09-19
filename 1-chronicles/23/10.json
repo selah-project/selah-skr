@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے شِمعی دے پُتر یاخت، زینا، یعوش تے بریعہ — اے چار شِمعی دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخت"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زینا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "یعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "بریعہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:58.155987769Z",
+  "model": "glm-5.3"
+}

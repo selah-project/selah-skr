@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے یاہوہ تُساں کوں نہ ݙتا ہِک دل جو ڄاݨے، تے اکھیں جو ݙیکھن، تے کن جو سݨن — اِیں ݙینہہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جو ڄاݨے"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "تے اکھیں"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "جو ݙیکھن"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "تے کن"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "جو سݨن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:27.204039657Z",
+  "model": "glm-5.3"
+}

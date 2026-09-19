@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "آکھ کے: “تیکوں میں ⟨את⟩ کنعان دی زمین ݙیساں، تُہاݙی وراثت دا حصہ۔”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں ݙیساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنعان دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "تُہاݙی وراثت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:12.526955862Z",
+  "model": "glm-5.3"
+}

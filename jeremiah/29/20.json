@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "پر تُساں یاہوہ دا ڳالھ سُݨو، سارے جلاوطن، جیہڑے میں یروشلایم توں بابل کوں بھیڄے۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "پر تُساں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں بھیڄے"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "یروشلایم توں"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابل کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:32.711461521Z",
+  "model": "glm-5.3"
+}

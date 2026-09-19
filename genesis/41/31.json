@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے اُوں قحط پاروں، جو اوندے بعد آئے، بہار زمین وِچ نہ ڄاݨی ویسی، کیوں جو اوہ ٻہوں بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨی ویسی"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "بہار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "پاروں"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوں ویلے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:49.561757376Z",
+  "model": "glm-5.3"
+}

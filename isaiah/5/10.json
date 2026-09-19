@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیوں جو انگوری دے ݙاہ جوٹ ⟨ایکڑ⟩ ہِک بَتّ ݙیسن، تے ہِک چمر بیج ہِک اِیفہ ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "جوٹ ⟨ایکڑ⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوری"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ݙیسن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَتّ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "تے بیج"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "چمر"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اِیفہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:12:33.957672988Z",
+  "model": "glm-5.3"
+}

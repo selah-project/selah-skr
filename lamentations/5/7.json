@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙے پیو گناہ کیتا، او ہُݨ کائنی، اساں اُنہاں دے قصور چاتے۔",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ساݙے پیو"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گناہ کیتا"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "او ہُݨ کائنی"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اساں"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "اُنہاں دے قصور"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "چاتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:45.316034918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ساری عرابہ، یردن دے اُروار، پوادھ دو، تے عرابہ دے سمندر تئیں، پِسگاہ دیاں ڈھلاناں ہیٹھ۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عرابہ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "اُروار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "پوادھ دو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عرابہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ڈھلاناں"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پِسگاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:07.761800830Z",
+  "model": "glm-5.3"
+}

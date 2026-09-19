@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایہے وݙے جانور، جیہڑے چار ہن، او چار بادشاہ ہن، جیہڑے زمین توں اُٹھسن۔",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "די",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "او"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "اُٹھسن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:22:56.868722166Z",
+  "model": "glm-5.3"
+}

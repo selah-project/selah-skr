@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "دانائی کم عقل کیتے ٻہوں اُچی ہے؛ دروازے اُتے او آپݨا منہ نہ کھولسی۔",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ٻہوں اُچیاں"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "کم عقل کیتے"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "בשעر",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھولسی"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "آپݪا منہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.039075582Z",
+  "model": "glm-5.3"
+}

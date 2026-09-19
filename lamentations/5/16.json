@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙے سر دا تاج ڈھہہ ڳیا؛ ہائے ساکوں! کیوں جو اساں گناہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ڈھہہ ڳیا"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ساݙے سر"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہُݨ⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "اساں گناہ کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:54.525790103Z",
+  "model": "glm-5.3"
+}

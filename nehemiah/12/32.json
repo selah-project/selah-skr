@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اُنہاں دے پچھوں ہوشعیاہ ڳیا، تے یہوداہ دے سرداراں دا ادھ۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "اُنہاں دے پچھوں"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "ہوشعیاہ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:54.393898544Z",
+  "model": "glm-5.3"
+}

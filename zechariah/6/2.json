@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "پہلے رتھ وِچ سرخ گھوڑے ہن، تے ݙوجھے رتھ وِچ کالے گھوڑے۔",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "پہلے رتھ وِچ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "تے ݙوجھے رتھ وِچ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "کالے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:46.993272137Z",
+  "model": "glm-5.3"
+}

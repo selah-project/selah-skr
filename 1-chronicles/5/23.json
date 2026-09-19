@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 5:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے مݨشّہ دے ادھے قبیلے دے پُتر اُوں زمین وِچ وسے، باشان توں بعل خِرمون تے شنیر تے خِرمون پہاڑ تئیں؛ اوہ ٻہوں ودھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھے"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مݨشّہ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "وسے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "باشان توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "خرمون"
+    },
+    {
+      "surface": "ושניר",
+      "gloss": "تے شنیر"
+    },
+    {
+      "surface": "והר",
+      "gloss": "تے پہاڑ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "خرمون"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ٻہوں ودھے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:10.229353506Z",
+  "model": "glm-5.3"
+}

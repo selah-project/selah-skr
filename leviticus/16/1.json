@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اہرون دے ݙو پُتریں دے مرݨ توں بعد — جݙاں او یاہوہ دے اڳوں آئے تے مر ڳئے — یاہوہ موشے نال ڳالھ کیتی۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرݨ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں دے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "جݙاں او نزدیک آئے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "تے مر ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:19.496291795Z",
+  "model": "glm-5.3"
+}

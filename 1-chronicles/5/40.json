@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے عزریہ ⟨את⟩ سرایہ کوں پیدا کیتا، تے سرایہ ⟨את⟩ یہوصادق کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "تے عزریہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرایہ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سرایہ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "تے سرایہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوصادق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یہوصادق"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:59.815548304Z",
+  "model": "glm-5.3"
+}

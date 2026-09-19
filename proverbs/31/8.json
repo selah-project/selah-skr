@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "گونگے کیتے اپݨا مُنہ کھول، سبھ مُک ونڄݨ آلے بچیاں دے فیصلے دی ڳالھ کر۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "اپݨا مُنہ"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "گونگے کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "דין",
+      "gloss": "فیصلے دی ڳالھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچیاں دے"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "مُک ونڄݨ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:10.747074134Z",
+  "model": "glm-5.3"
+}

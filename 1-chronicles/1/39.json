@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے لوتان دے پُتر: خوری تے ہومام؛ تے لوتان دی بھیݨ تِمنع ہئی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "خوری"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "تے ہومام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "تے دی بھیݨ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تِمنع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:55.437784415Z",
+  "model": "glm-5.3"
+}

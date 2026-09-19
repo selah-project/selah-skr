@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے زمین مُکاؤݨ کیتے نہ ویچی ویسی، کیوں جو زمین میݙی ہے — کیوں جو تُساں میݙے نال مسافر تے وسنیک ہیوے۔",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ویچی ویسی"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "مُکاؤݨ کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "تے وسنیک"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:58.060797643Z",
+  "model": "glm-5.3"
+}

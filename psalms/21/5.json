@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "حیات اوں تیݙے توں منگی، تئیں اوں کوں ݙتی — ݙینہاں دی لمبائی، ہمیشہ تے ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "حیات"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیݙے توں"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تئیں ݙتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہاں دی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:16.118116192Z",
+  "model": "glm-5.3"
+}

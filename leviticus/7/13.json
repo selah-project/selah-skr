@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "خمیری روٹی دیاں ٹکیاں نال اوہ آپݨی قربانی چڑھیسی، آپݨیاں سلامتی دی شکریے دی قربانی دے نال۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "ٹکیاں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی دیاں"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیری"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "چڑھیسی"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "آپݨی قربانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبیحے"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "شکریے دی"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "آپݨیاں سلامتیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:45.312847736Z",
+  "model": "glm-5.3"
+}

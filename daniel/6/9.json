@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 6:9",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ہُݨ، اے بادشاہ، حکم کوں قائم کر تے لکھت کوں دستخط کر، جو نہ وٹیجے، مادای تے پارس دے قانون موجب، جو نہ مٹیندا۔",
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "قائم کر"
+    },
+    {
+      "surface": "אסרא",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ותרשם",
+      "gloss": "تے دستخط کر"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکھت"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "להשניה",
+      "gloss": "وٹیجے"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "قانون موجب"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "تے پارس"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעדא",
+      "gloss": "مٹیندا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:22:57.359360035Z",
+  "model": "glm-5.3"
+}

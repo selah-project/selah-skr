@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "یا او بندہ جیندے وِچ پیر ترٹیا ہووے یا ہتھ ترٹیا ہووے۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ترٹیا"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ترٹیا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:37.524065756Z",
+  "model": "glm-5.3"
+}

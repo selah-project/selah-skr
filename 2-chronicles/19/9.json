@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "اُنہاں کوں حکم ݙتس آکھݨ: “ایویں کرو یاہوہ دے ݙر وِچ، اِیمان نال تے پورے دل نال۔”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم ݙتس"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ݙر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "اِیمان نال"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "تے دل نال"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:12.456746267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "گرشوم دے پُتر: شیبوعیل سردار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گرشوم"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "شیبوعیل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:05.407010073Z",
+  "model": "glm-5.3"
+}

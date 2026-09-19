@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے چھتیر دی چوڑائی پوادھے پاسے، سِجھ اُڑھن دوں، پنجاہ ہتھ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چھتیر دی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھے"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سِجھ اُڑھن دوں"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:07.525047035Z",
+  "model": "glm-5.3"
+}

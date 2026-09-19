@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "زرخیہ دا پُتر، عُزی دا پُتر، بُکی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرخیہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:27:31.659446120Z",
+  "model": "glm-5.3"
+}

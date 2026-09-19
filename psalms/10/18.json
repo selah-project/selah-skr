@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "یتیم تے مظلوم دا انصاف کرݨ کیتے، تاکہ زمین دا بندہ ٻیا ݙر نہ ݙیوے۔",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "انصاف کرݨ کیتے"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "تے مظلوم"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ودھیک"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ݙر ݙیوے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:35.943993497Z",
+  "model": "glm-5.3"
+}

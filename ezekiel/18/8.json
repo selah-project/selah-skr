@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "سود تے قرض نہ ݙیندا، ودھیک نہ گھندا، کمبھ توں اپݨا ہتھ ہٹیندا، بندے تے بندے دے وچکار سچا فیصلہ کریندا،",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "سود تے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیندا"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "تے ودھیک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھندا"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "کمبھ توں"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ہٹیندا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:08.343077252Z",
+  "model": "glm-5.3"
+}

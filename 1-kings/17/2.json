@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے یاہوہ دا کلام اوندے کولھ آیا، آکھݨ لڳا —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوندے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:14:46.072788928Z",
+  "model": "glm-5.3"
+}

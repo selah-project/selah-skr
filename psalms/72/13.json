@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "او کمزور تے غریب اُتے رحم کریسی، تے غریباں دیاں جاناں بچاوسی۔",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "رحم کریسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "تے جاناں"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "غریباں دیاں"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "بچاوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:46.899741258Z",
+  "model": "glm-5.3"
+}

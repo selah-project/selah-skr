@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوں جِیندی چڑی ⟨את⟩ کوں شہر توں ٻاہر کھیت دے اڳوں اُݙا ݙیسی، تے گھر ⟨کیتے⟩ کفارہ کریسی، تے او پاک تھی ویسی۔",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "اُݙا ݙیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جِیندی چڑی کوں"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "چڑی"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جِیندی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "کفارہ کریسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨کیتے⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "پاک تھی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.379204039Z",
+  "model": "glm-5.3"
+}

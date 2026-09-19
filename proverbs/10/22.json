@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "یاہوہ دی برکت ⟨اوہ⟩ مالامال کر ݙیندی ہے، تے ݙکھ اُوں نال نہ رلیندا۔",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "دی برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "مالامال کر ݙیندی ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "رلیندا"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ݙکھ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اُوں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:58.769419140Z",
+  "model": "glm-5.3"
+}

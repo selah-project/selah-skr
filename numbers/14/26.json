@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ موشے نال تے اہرون نال ڳالھ کیتی، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:38.169979621Z",
+  "model": "glm-5.3"
+}

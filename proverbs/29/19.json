@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "ڳالھیں نال نوکر کائنی سکھایا ویندا، کیوں جو او سمجھدا ہے پر جواب کائنی ݙیندا۔",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "ڳالھیں نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "سکھایا ویندا"
+    },
+    {
+      "surface": "עבد",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھدا ہے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر کائنی"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:42.315002482Z",
+  "model": "glm-5.3"
+}

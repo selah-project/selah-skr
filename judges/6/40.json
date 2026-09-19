@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایلوہیم اُوں رات ایویں کیتس، تے گدی اُتے کلھی خشکی تھی ڳئی تے ساری زمین اُتے شبنم ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "خشکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "گدی"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "کلھی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:24:14.098043857Z",
+  "model": "glm-5.3"
+}

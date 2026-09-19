@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تُساں ساری سوہݨی ہِیں، میݙی سنگتاݨی، تے تُہاݙے وِچ کوئی داغ کائنی۔",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "تُساں ساری"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میݙی سنگتاݨی"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "تے داغ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہاݙے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:50.795699704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "سُٹ دے بدلے سُٹ، اکھ دے بدلے اکھ، ݙند دے بدلے ݙند — جیویں او بندے وِچ نقصان پُچاوے، اونویں اونکوں وِچوں ݙتا ویسی۔",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "سُٹ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "سُٹ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ݙند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ݙند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پُچاوے"
+    },
+    {
+      "surface": "מום",
+      "gloss": "نقصان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے وِچ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اونویں"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ݙتا ویسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اونکوں وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:15.305021353Z",
+  "model": "glm-5.3"
+}

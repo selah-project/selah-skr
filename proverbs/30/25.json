@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کَیڑے ہِک ایجھی قوم جو طاقتور کائنی، پر گرمیاں وِچ آپݨی خوراک تیار کر گھندن۔",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "کَیڑے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "تیار کر گھندن"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "گرمیاں وِچ"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "آپݨی خوراک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:51.901907619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ہر کم یاہوہ آپݨے مقصد کیتے کیتا، تے بُرے بندے کوں وی برے ݙینہہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کم کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "آپݨے مقصد کیتے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بُرے بندے کوں"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ݙینہہ کیتے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:26.707002829Z",
+  "model": "glm-5.3"
+}

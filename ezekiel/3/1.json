@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں میکوں آکھیا: “اِنسان دے پُتر، جو کجھ ملے ⟨את⟩ اوہ کھا؛ ⟨את⟩ ایہ لپھ کھا، وَل ونڄ، یِسرایل دے گھر نال ڳالھ کر۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو کجھ ملے اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملے"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ لپھ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "لپھ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "وَل ونڄ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:27:15.080666055Z",
+  "model": "glm-5.3"
+}

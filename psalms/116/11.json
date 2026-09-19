@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 116,
+  "translation": "میں آکھیا، اپݨی ہڑبݨ وِچ: “سارے بندے کُوڑے ہن۔”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "اپݨی ہڑبݨ وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "کُوڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:39.952966274Z",
+  "model": "glm-5.3"
+}

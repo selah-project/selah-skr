@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "عِدّو، گِنّیتون، اَبِیاہ۔",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "گِنّیتون"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبِیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:35.992979688Z",
+  "model": "glm-5.3"
+}

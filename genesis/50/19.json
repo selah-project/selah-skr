@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "تے یوسف اُنہاں کوں آکھیا: “ݙرو نہ، کیوں جو کیا میں ایلوہیم دی جاہ تے ہاں؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ݙرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "دی جاہ تے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:23.991595295Z",
+  "model": "glm-5.3"
+}

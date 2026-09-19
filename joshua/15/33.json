@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "نِیوںے میدان وِچ: اِشتاؤل، تے تصرعہ، تے اشنہ۔",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "نِیوںے میدان وِچ"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "اِشتاؤل"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "تے تصرعہ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "تے اشنہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:44.119955456Z",
+  "model": "glm-5.3"
+}

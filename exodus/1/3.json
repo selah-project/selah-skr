@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یِسّاخر، زبولون تے بِنیامین۔",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاخر"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بِنیامین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:51.212306293Z",
+  "model": "glm-5.3"
+}

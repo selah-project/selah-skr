@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "شمعون کیتے شلومیایل، تصورشدّای دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "شمعون کیتے"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلومیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تصورشدّای"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:38.445104463Z",
+  "model": "glm-5.3"
+}

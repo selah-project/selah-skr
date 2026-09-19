@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "رد تھئی چانڈی آکھیا ڳیا اُنہاں کیتے، کیوں جو یاہوہ اُنہاں توں منہ موڑ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چانڈی"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "رد تھئی"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "آکھیا ڳیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "منہ موڑ ڳیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُنہاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:14.025465268Z",
+  "model": "glm-5.3"
+}

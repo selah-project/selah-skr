@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "برکت آلا او بندہ جہڑا یاہوہ اُتے بھروسہ رکھے، تے یاہوہ اوندا بھروسہ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت آلا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "او بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "بھروسہ رکھے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہوسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "اوندا بھروسہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:32.852123933Z",
+  "model": "glm-5.3"
+}

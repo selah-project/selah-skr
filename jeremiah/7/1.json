@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اوہ ڳالھ جیہڑی یِرمییاہو کوں ⟨את⟩ یاہوہ ⟨مאת⟩ کنوں تھئی، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمییاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "کنوں — یاہوہ دے نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:56.709636628Z",
+  "model": "glm-5.3"
+}

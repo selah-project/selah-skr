@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "صیون دو نشان کھڑا کرو، بھڄ ونجو، نہ رُکو، کیوں جو میں اُبھے توں بلا گھن آندا ہاں، تے وݙی تباہی۔",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "کھڑا کرو"
+    },
+    {
+      "surface": "נס",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "صیون دو"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "بھڄ ونجو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "رُکو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "گھن آندا ہاں"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُبھے توں"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "تے تباہی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:23.859346371Z",
+  "model": "glm-5.3"
+}

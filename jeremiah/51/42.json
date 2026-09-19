@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "سمندر بابل اُتے چڑھ آیا، اوندیاں موجاں دی بھیڑ نال او ڈھکی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ آیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بھیڑ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "اوندیاں موجاں"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ڈھکی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:23:36.641400119Z",
+  "model": "glm-5.3"
+}

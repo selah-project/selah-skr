@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایہ گیرشونی ٹبراں دی خدمت ہے — خدمت کرݨ تے بار چاوݨ کیتے۔”",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبراں دی"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گیرشونی"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "خدمت کرݨ کیتے"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "بار چاوݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:18.518194044Z",
+  "model": "glm-5.3"
+}

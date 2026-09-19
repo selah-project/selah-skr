@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے یَنوم، تے بیت تَفُّوح، تے اَفِقہ۔",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "تے یَنوم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تَفُّوح"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "تے اَفِقہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:25.196341161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ہِکّی ڳالھ ہے، ایں کیتے آکھیا میں: بےݙوہ تے بُرے کوں اوہ مکا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ہِکّی ڳالھ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨اتے⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا میں"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بےݙوہ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "تے بُرے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "مکا ݙیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:25.493587284Z",
+  "model": "glm-5.3"
+}

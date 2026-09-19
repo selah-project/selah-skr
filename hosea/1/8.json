@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے لو-رُخامہ ⟨את⟩ دا دودہ چھڑایُس، تے اوں پڳ ڳئی تے پُتر جݨایُس۔",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "دودہ چھڑایُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لو-رُخامہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لو-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُخامہ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "پڳ ڳئی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "جݨایُس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:49:17.446010904Z",
+  "model": "glm-5.3"
+}

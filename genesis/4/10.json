@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوں آکھیا: “توں کیا کیتا؟ تیݙے بھرا دے لہو دے آواز میݙے دوالے زمین توں چِلاندے پِن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "لہو دے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیݙے بھرا"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "چِلاندے پِن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے دوالے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:27.427948526Z",
+  "model": "glm-5.3"
+}

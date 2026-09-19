@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے حِزقیاہو بادشاہ دے غلام یِشعیاہو کول آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشعیاہو"
+    }
+  ],
+  "timestamp": "2026-09-19T17:46:15.128365994Z",
+  "model": "glm-5.3"
+}

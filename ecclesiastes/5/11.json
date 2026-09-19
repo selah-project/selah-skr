@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "مزدور دی نیندر مٹھی ہوندی ہے، چاہے او تھوڑا کھاوے یا ڈھیر؛ پر امیر دا رجھاؤں اوندے سُمݨ نہ ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "مٹھی"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "نیندر"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "مزدور دی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "رجھاؤں"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر دا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ݙیندے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "سُمݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:24.369106589Z",
+  "model": "glm-5.3"
+}

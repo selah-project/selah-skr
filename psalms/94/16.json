@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "کوݨ میݙے کیتے بدکاراں دے اَڳوں اُٹھسی؟ کوݨ میݙے کیتے برائی کرݨ آلیاں دے اَڳوں کھڑسی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٹھسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے اَڳوں"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بدکاراں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے اَڳوں"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرݨ آلیاں"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:17.489310906Z",
+  "model": "glm-5.3"
+}

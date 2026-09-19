@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 8:35",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں یِربعل گِدعون دے گھر نال خیسِد نہ کیتا، اتنا جتنی ساری بھلائی جو اوں یِسرایل نال کیتی۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "یِربعل"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گِدعون"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "اتنا جتنا سارا"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:25.859284160Z",
+  "model": "glm-5.3"
+}

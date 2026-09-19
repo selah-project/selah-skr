@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "شمّہ حرودی، ایلیکا حرودی،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شمّہ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "حرودی"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ایلیکا"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "حرودی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:08.771875440Z",
+  "model": "glm-5.3"
+}

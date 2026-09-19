@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اَوراہام بئر شبَع وِچ ہِک ایشل لائی، تے اُتھاں یاہوہ، ایل عولام، دے ناں نال سݙ ماریا۔",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "لائی"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "ایشل"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بئر وِچ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبَع"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙ ماریا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "دے ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "עולم",
+      "gloss": "عولام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:37.174615606Z",
+  "model": "glm-5.3"
+}

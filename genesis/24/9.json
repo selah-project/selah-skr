@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے غلام اَوراہام اپݨے سائیں دی ران دے تلوں ⟨את⟩ اپݨا ہتھ رکھیا، تے اوں کوں ایں ڳالھ دا قسم ݙتس۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے تلوں"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپݨے سائیں دی"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم ݙتس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ایں ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:49.341394097Z",
+  "model": "glm-5.3"
+}

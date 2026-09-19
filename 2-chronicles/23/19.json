@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے دربانیاں کوں یاہوہ دے گھر دے دروازیاں اُتے کھڑکیتس، تے کوئی ناپاک کہیں وی ڳالھ وِچ نہ آوے۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑکیتس"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "دربانیاں کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازیاں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کہیں وی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:55:30.644937248Z",
+  "model": "glm-5.3"
+}

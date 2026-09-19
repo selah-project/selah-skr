@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تُساں اپݨے دِل وِچ آکھو: “میݙا زور تے میݙے ہتھ دی طاقت میکوں ⟨את⟩ ایہ دولت بݨوائی۔”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپݨے دِل وِچ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میݙا زور"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے طاقت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میݙے ہتھ دی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨوائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ دولت"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:07.779014005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کون ہے جیہڑا سبھ انہاں وِچ نہ ڄاݨے، کیوں جو یاہوہ دے ہتھ ایہ کیتا؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سبھ وِچ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "انہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "زאת",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:36.182004519Z",
+  "model": "glm-5.3"
+}

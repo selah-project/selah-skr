@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے موشے ایہ ⟨את⟩ ڳالھیں سارے اِسرائیل دے پُتراں کوں آکھیاں، تے قوم ٻہوں سوگ کریندی رہی۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ ڳالھیں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل دے"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "سوگ کریندی رہی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:03.824682788Z",
+  "model": "glm-5.3"
+}

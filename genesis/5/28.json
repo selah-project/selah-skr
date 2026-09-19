@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے لَمِیخ ݙو تے اَسی سال تے ہِک سو سال جِییا، تے ہِک پُتر ڄایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِییا"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لَمِیخ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اَسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے ہِک سو"
+    },
+    {
+      "surface": "שنה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויولד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:49.941777516Z",
+  "model": "glm-5.3"
+}

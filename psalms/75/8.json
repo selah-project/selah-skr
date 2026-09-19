@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "کیوں جو ایلوہیم فیصلہ کریندے: ایکوں جھکیندے تے اوکوں اُچا کریندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فیصلہ کریندے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایکوں"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "جھکیندے"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "تے اوکوں"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "اُچا کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:13.310608598Z",
+  "model": "glm-5.3"
+}

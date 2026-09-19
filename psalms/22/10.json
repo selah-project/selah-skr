@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "کیوں جو توں میکوں پیٹ توں کڈھیا؛ توں میکوں بھروسا ݙتس، میݙی ماء دے سِناں اُتے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "کڈھیا"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پیٹ توں"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "بھروسا ݙتس"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "سِناں"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میݙی ماء"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:45.907913916Z",
+  "model": "glm-5.3"
+}

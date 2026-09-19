@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یہوشوع تے سارا یِسرائیل اوندے نال گِلگال آلے پڑاؤ دو وَل ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَل ڳیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "گِلگال آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:11:42.534352886Z",
+  "model": "glm-5.3"
+}

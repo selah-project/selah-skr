@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 63,
+  "translation": "کیوں جو تُوں میݙی مدد بݨیا، تے تیݙے پراں دے سایے وِچ میں خوشی نال ڳانداں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بݨیا"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "تے سایے وِچ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "تیݙے پراں"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "خوشی نال ڳانداں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:31.505610164Z",
+  "model": "glm-5.3"
+}

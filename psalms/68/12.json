@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 68,
+  "translation": "ادونای ڳالھ ݙتی؛ خوشخبری سُنڑاوݨ آلیاں عورتاں وݙا لشکر ہِن۔",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "خوشخبری سُنڑاوݨ آلیاں عورتاں"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:43.321740826Z",
+  "model": "glm-5.3"
+}

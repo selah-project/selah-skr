@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "او تربیت دے بغیر مرسی، تے اوندی وݙی مورکھپن وِچ او رل ویسی۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرسی"
+    },
+    {
+      "surface": "באין",
+      "gloss": "دے بغیر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "تے وݙی … وِچ"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "اوندی مورکھپن"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "رل ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:22.139151311Z",
+  "model": "glm-5.3"
+}

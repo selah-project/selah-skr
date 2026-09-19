@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اکھ بدلے اکھ، دند بدلے دند، ہتھ بدلے ہتھ، پیر بدلے پیر۔",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:41.035742804Z",
+  "model": "glm-5.3"
+}

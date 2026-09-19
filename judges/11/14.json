@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یفتاخ ول وَدھیک ایلچی بھیجے بنے عامون دے بادشاہ کول۔",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ول"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَدھیک"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتاخ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجے"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ایلچی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنے"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عامون"
+    }
+  ],
+  "timestamp": "2026-09-19T16:28:12.016576132Z",
+  "model": "glm-5.3"
+}

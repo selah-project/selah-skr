@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 3:8",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایں ڳالھ توں، اوں ویلے کجھ کلدانی بندے نیڑے آئے تے یہودیاں دے خلاف چغلیاں کھادیونے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ایں ڳالھ توں"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "זמנא",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "نیڑے آئے"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "כשדאין",
+      "gloss": "کلدانی"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "تے کھادیونے"
+    },
+    {
+      "surface": "קרציהון",
+      "gloss": "چغلیاں"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "یہودیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:58.455611157Z",
+  "model": "glm-5.3"
+}

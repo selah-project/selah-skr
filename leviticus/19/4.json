@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "بتاں دو نہ ولو، تے پگھرے دیوتا آپݨے کیتے نہ بݨاؤ؛ میں یاہوہ تُہاݙا ایلوہیم ہاں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפנو",
+      "gloss": "ولو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "بتاں"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "تے دیوتا"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "پگھرے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بݨاؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:12.404063373Z",
+  "model": "glm-5.3"
+}

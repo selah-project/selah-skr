@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "اوں آکھیا: “تیݙا بھرا دھوکے نال آیا، تے تیݙی برکت گھن گھدی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اوں آکھیا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیݙا بھرا"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "دھوکے نال"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھن گھدی"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تیݙی برکت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:35.766947083Z",
+  "model": "glm-5.3"
+}

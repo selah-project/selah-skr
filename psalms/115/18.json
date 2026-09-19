@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "پر اساں تاں یاہ کوں برکت ݙیسوں، ہُݨ توں ہمیشہ تئیں۔ یاہ دی تعریف کرو!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "پر اساں تاں"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "برکت ݙیسوں"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ہُݨ توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:32.425914727Z",
+  "model": "glm-5.3"
+}

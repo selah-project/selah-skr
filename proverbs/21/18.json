@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "بدکار راست بازاں کیتے فدیہ ہے، تے غدار سِدھیاں دی جاہ تے ہے۔",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راست بازاں کیتے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے …دی جاہ تے"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "غدار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:54.933607356Z",
+  "model": "glm-5.3"
+}

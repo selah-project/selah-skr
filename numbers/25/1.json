@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اسرائیل شبّتیم وِچ رہ ڳیا، تے قوم موآب دیاں دھیاں دوں زنا کرݨ لڳ ڳی۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رہ ڳیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בשטیم",
+      "gloss": "شبّتیم وِچ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "لڳ ڳی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "زنا کرݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:46.238721281Z",
+  "model": "glm-5.3"
+}

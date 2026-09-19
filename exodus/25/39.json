@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ہِک ککھر خالص سونے دی ہووے، اوکوں اُوں کنوں بݨایا ویسے، ⟨את⟩ اے سارے برتن۔",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ہِک ککھر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بݨایا ویسے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "منورہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלیم",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:44.972289797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "او تیݙے کیتے کلھے ہوون، تے اوپریاں کیتے ⟨את⟩ تیݙے نال نہ ہوون۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہوون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کلھے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اوپریاں کیتے"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:52.020186781Z",
+  "model": "glm-5.3"
+}

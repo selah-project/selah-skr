@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "بانی دے پُتراں وِچوں: معَدای، عمرام، تے وُایل۔",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "دے پُتراں وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "معَدای"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "تے وُایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:29:21.051877790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "یاہوہ اے عہد اساݙے پیواماں نال نہ کیتا، بلکہ ⟨اساݙے نال⟩ — اَساں، ایہے، اِتھاں اَڄ، سارے جِوائی ⟨ہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "اساݙے پیوامے"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے عہد"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "اے عہد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ اساݙے نال"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اَساں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِوائی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:11.452204281Z",
+  "model": "glm-5.3"
+}

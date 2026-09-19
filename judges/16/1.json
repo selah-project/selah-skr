@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے شِمشون عزّہ ڳیا، تے اُتھاں ہِک فاحشہ ذال ݙٹھس، تے اوندے کول ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "عزّہ ⟨وچ⟩"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "فاحشہ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوندے کول"
+    }
+  ],
+  "timestamp": "2026-09-19T16:31:43.522695380Z",
+  "model": "glm-5.3"
+}

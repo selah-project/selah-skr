@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 70,
+  "translation": "مُنڈھ آلے کیتے، داوِد دا، یاد ݙواوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنڈھ آلے کیتے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "یاد ݙواوݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:28.911648386Z",
+  "model": "glm-5.3"
+}

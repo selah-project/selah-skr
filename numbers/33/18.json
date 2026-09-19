@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او حصیروت توں روانہ تھئے، تے رِتمہ وِچ ٹھہرے۔",
+  "tokens": [
+    {
+      "surface": "ויסעو",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "مחצרת",
+      "gloss": "حصیروت توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹھہرے"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "رِتمہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.392003840Z",
+  "model": "glm-5.3"
+}

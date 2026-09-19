@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "جݙاں تُساں اپݨیاں زیتوناں کوں پِٹو، تاں پچھوں ول ول نہ ݙیکھو؛ پرائی، یتیم تے بیوہ دا او رہسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "پِٹو"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "اپݨیاں زیتوناں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "ول ول ݙیکھو"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "پرائی"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "تے بیوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:57.935799654Z",
+  "model": "glm-5.3"
+}

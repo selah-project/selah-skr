@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "او تریمتے کنوں، کنواری ہوندی ہوئی، سنگھت کریسی۔",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمتے"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "کنواری ہوندی ہوئی"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "سنگھت کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:14.481066125Z",
+  "model": "glm-5.3"
+}

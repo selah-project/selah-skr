@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے اپھرایم دے پُتراں دے ٹبر دا سردار کَموایل، شِفتان دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے ٹبر دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپھرایم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کَموایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "شِفتان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:07.507181649Z",
+  "model": "glm-5.3"
+}

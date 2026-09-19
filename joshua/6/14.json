@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ݙوجھے ݙینہہ ⟨את⟩ شہر کوں ہِک واری گھم آئے، تے پڑاؤ وِچ واپس ول آئے؛ ایویں چھی ݙینہہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "تے گھم آئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "واری"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "تے واپس آئے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:09:22.914407566Z",
+  "model": "glm-5.3"
+}

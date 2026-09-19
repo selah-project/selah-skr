@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "یاہوہ، میݙیاں ڳالھیں کوں کن دھر تے سُݨ، میݙی کُرک کوں سمجھ۔",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "میݙیاں ڳالھیں"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کن دھر تے سُݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "میݙی کُرک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:45.076966182Z",
+  "model": "glm-5.3"
+}

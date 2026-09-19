@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کرݨ آلے دا کیہ فائدہ ہے، اوں کم وِچ جیندے وِچ او محنت کریندے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "کرݨ آلے دا"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "اوں کم وِچ جیندے وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:00.520572424Z",
+  "model": "glm-5.3"
+}

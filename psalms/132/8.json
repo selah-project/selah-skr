@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 132,
+  "translation": "اُٹھ یاہوہ، اپݨی آرام گاہ دو، تُوں تے اپݨے زور دا صندوق۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "اپݨی آرام گاہ دو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "تے صندوق"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "اپݨے زور دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:24.957774100Z",
+  "model": "glm-5.3"
+}

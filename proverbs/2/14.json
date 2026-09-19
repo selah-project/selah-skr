@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "جیڑھے بُرائی کرݨ تے خوش تھیندن، تے کجھی بُرائی وِچ رَڄ تے خُشی کریندن،",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "خوش تھیندن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "رَڄ تے خُشی کریندن"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "کجھی وِچ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:21.596385639Z",
+  "model": "glm-5.3"
+}

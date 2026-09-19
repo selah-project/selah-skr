@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اوندے عجیب کم یاد کرو جو اوں کیتے، اوندے نشان تے اوندے مُنہ دے فیصلے۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یاد کرو"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عجیب کم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "اوندے نشان"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "تے فیصلے"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اوندے مُنہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:03.478392345Z",
+  "model": "glm-5.3"
+}

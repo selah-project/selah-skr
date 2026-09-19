@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "ڈھال تے بزرہ پکڑ، تے میݙی مدد کیتے اُٹھی کھڑا تھیں۔",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "پکڑ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "تے بزرہ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "اُٹھی کھڑا تھیں"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "میݙی مدد کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:24.523397252Z",
+  "model": "glm-5.3"
+}

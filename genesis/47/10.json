@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے یعقوو ⟨את⟩ پرعوہ کوں برکت ݙتی، تے پرعوہ دی حاضری توں ٻاہر نکھتھا۔",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "برکت ݙتی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرعوہ"
+    },
+    {
+      "surface": "پرعوہ",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ٻاہر نکھتھا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دی حاضری توں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:41:39.731812739Z",
+  "model": "glm-5.3"
+}

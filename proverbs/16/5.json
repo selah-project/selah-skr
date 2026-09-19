@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ہر اُچے دل آلا یاہوہ کیتے گھناؤنی شے ہے؛ ہتھ ہتھ نال ہووے، اوہ بَری نہ تھیسی۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنی شے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بَری تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:24.452944823Z",
+  "model": "glm-5.3"
+}

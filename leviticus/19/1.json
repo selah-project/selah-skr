@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یاہوہ موشے دو ٻولیا، آکھݨ جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:12.403537076Z",
+  "model": "glm-5.3"
+}

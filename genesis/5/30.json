@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے لامک نُوح کوں ⟨את⟩ ڄمایا توں بعد پنج تے نوّے سال تے پنج سو سال جیوا، تے پُتر تے دھیاں ڄمائین۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جیوا"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامک"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "تے نوّے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمائین"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:46.957568344Z",
+  "model": "glm-5.3"
+}

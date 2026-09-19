@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے پِینحس کھڑا تھیا تے انصاف ٹوریا، تے اوہ وبا رُک ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھیا"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِینحس"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "انصاف ٹوریا"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "رُک ڳئی"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "اوہ وبا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:04.685369669Z",
+  "model": "glm-5.3"
+}

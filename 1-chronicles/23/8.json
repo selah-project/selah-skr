@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "لعدن دے پُتر: سردار یحی ایل، تے زیتام، تے یوایل — تریہے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لعدن"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یحی ایل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "تے زیتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "تے یوایل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تریہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:46.236368910Z",
+  "model": "glm-5.3"
+}

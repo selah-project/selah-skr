@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے ہُݨ ایہ او ڳالھ ہے جو اساں گِبعہ نال کریسوں — اُوندے اُتے گورال نال۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "اساں کریسوں"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "گِبعہ نال"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "گورال نال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:32:02.800870275Z",
+  "model": "glm-5.3"
+}

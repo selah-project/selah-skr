@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "نہراں دے واہݨاں کوں نہ ݙیکھسی — شہد تے مکھݨ دیاں نہراں دے وہاؤ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "واہݨاں کوں"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "نہراں دے"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "وہاؤ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شہد"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "تے مکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:58.141322324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یاہوہ تُہاݙے پیؤاں اُتے ٻہوں غصہ تھیا۔",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "تُہاݙے پیؤاں"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غصہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:41.303964942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یاہوہ خیمے وِچ بادل دے تَنّے وِچ ظاہر تھیا، تے بادل دا تَنّا خیمے دے دروازے اُتے کھڑا ریہا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ظاہر تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "تَنّے وِچ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل دے"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھڑا ریہا"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "تَنّا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:50.191356105Z",
+  "model": "glm-5.3"
+}

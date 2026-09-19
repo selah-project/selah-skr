@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوہناں یوسف دی کرتا ⟨את⟩ گھدی، تے ہِک ٻکری دا نَر ذبح کیتا، تے کرتا ⟨את⟩ لہو وِچ ٻُݙائی۔",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "گھدی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کرتا"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "کرتا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ذبح کیتا"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکری دا"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ٻُݙائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کرتا"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "کرتا"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:24.664304945Z",
+  "model": "glm-5.3"
+}

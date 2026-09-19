@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے بیت یہودہ دے گھر دا جو ٹولا بچیا، او ٻجھ وِچ ولا جڑ لاسی تے اُتے پھل بݨیسی۔",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "تے ولا"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "بچیا ہویا ٹولا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "جیڑھا بچیا"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "جڑ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے بݨیسی"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "اتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:45:39.743730341Z",
+  "model": "glm-5.3"
+}

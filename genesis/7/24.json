@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے پاݨی زمین اُتے غالب رہیا پنجاہ تے ہک سو ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "غالب رہے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے ہک سو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:48.724680184Z",
+  "model": "glm-5.3"
+}

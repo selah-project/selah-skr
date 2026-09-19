@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "بندے کیتے آپݨے مُنہ دے جواب وِچ خوشی ہے، تے ویلھے دا ڳالھ — کتنا چنڳا ہے!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے کیتے"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "جواب وِچ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "آپݨے مُنہ دا"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے ڳالھ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ویلھے دا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کتنا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:57.755506766Z",
+  "model": "glm-5.3"
+}

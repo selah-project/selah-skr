@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "“میݙے ادونای، میں کیا آکھاں، جݙاں جو یسرایل اپݨا نقارہ دشمناں دے اڳوں ولائی بیٹھا ہے۔”",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "میݙے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھاں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "جݙاں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ولائی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "نقارہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "دشمناں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:10:42.379046305Z",
+  "model": "glm-5.3"
+}

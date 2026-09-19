@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "nehemiah 7:71",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے جو باقی لوکاں ݙتا: سونا درخماں ویہہ ہزار، تے چاندی مݨے ݙو ہزار، تے کاہناں دیاں قمیضاں سَٹھ تے ست۔",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "درخماں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "دہ ہزار"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "مݨے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ݙو ہزار"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "تے قمیضاں"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہناں دیاں"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سَٹھ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے ست"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:12.224210242Z",
+  "model": "glm-5.3"
+}

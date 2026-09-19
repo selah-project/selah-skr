@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "یاہوہ دا سڄا ہتھ اُچا تھیا، یاہوہ دا سڄا ہتھ بہادری کریندا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "سڄا ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "اُچا تھیا"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "سڄا ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:50.808929349Z",
+  "model": "glm-5.3"
+}

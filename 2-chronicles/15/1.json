@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے عزریاہو، عودید دے پُتر، اُتے ایلوہیم دی روح آ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "تے عزریاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "عودید"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:53:04.423175248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "سادہ لوحی چھوڑو تے جیوو، تے سمجھ دے رستے اُتے ٹرو۔",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "چھوڑو"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادہ لوحی"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "تے جیوو"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "تے ٹرو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے اُتے"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:12.560701794Z",
+  "model": "glm-5.3"
+}

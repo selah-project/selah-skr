@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھیس:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:54.275494604Z",
+  "model": "glm-5.3"
+}

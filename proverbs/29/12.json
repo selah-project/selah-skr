@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "حاکم جے کوڑی ڳالھ کوں کَن دھر گھنے، اوندے سارے خادم بدکار تھی ویندے ہن۔",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "کَن دھر گھنے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "اوندے خادم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:47.333440472Z",
+  "model": "glm-5.3"
+}

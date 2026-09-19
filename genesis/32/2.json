@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یعقوو آپݨے رستے ٹُریا، تے ایلوہیم دے فرشتے اونکوں ملئے۔",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "تے یعقوو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "آپݨے رستے"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ملئے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:34.104443702Z",
+  "model": "glm-5.3"
+}

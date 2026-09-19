@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے سارے لوک ہر ہِک اپݨے گھر ڳئے، تے داوِد ولا ⟨את⟩ اپݨے گھر کوں برکت ݙیوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "تے ڳئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "اپݨے گھر"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "تے ولا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "برکت ݙیوݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے گھر کوں"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپݨے گھر کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:50.783471125Z",
+  "model": "glm-5.3"
+}

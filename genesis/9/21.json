@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اوں پیتی شراب توں، تے نشی تھی ڳیا، تے آپݨے خیمے دے وچکار ننگا تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "پیتی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "نشی تھی ڳیا"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "ننگا تھی ڳیا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "آپݨے خیمے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:34.782334696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے مریَم ست ݙینہہ پڑاؤ دے ٻاہر بند تھی ڳئی، تے قوم مریَم دے وَلا آوݨ تئیں کوچ نہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "بند تھی ڳئی"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مریَم"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاؤ توں"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "کوچ کیتا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "وَلا آوݨ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مریَم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:52.436722132Z",
+  "model": "glm-5.3"
+}

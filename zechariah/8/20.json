@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "ایں طرح یاہوہ تصواوت آکھیا: اَڄاں ایہ تھیسی جو قوماں آئیسِن، تے ٻہوں ساریاں شہراں دے وسنیک۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اَڄاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئیسن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "تے وسنیک"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہراں دے"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ٻہوں ساریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:22.492890234Z",
+  "model": "glm-5.3"
+}

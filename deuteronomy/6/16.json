@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تُساں ⟨את⟩ یاہوہ، تُہاݙے ایلوہیم، دی آزمائش نہ کرو، جیویں تُساں مَسّہ وِچ آزمایا ہَاوے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "آزمائش کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙے ایلوہیم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "آزمایا"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "مَسّہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:56.948762299Z",
+  "model": "glm-5.3"
+}

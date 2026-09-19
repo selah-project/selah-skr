@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ⟨את⟩ شہر دا کھیت تے ⟨את⟩ اوندیاں وستیاں او کالب کوں، یِفُنّہ دے پُتر کوں ݙتے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شہر دا کھیت"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندیاں وستیاں"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "اوندیاں وستیاں"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ݙتے"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کالب کوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفُنّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:15.956105067Z",
+  "model": "glm-5.3"
+}

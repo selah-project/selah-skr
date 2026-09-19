@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ⟨את⟩ حوریاں کوں اُنہاں دے پہاڑ سیعر وِچ، عیل پاران تئیں، جیڑھا بیابان اُتے ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حوریاں"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوریاں"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "اُنہاں دے پہاڑ وِچ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سیعر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "איל",
+      "gloss": "عیل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:32.970572504Z",
+  "model": "glm-5.3"
+}

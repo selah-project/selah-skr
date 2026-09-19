@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "جِتنے ݙینہہ او یاہوہ کیتے وکھرا رہندا ہے، کہیں مرے ہوئے ⟨جان⟩ کول نہ ونجسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "وکھرا رہندا ہے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرے ہوئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ونجسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:04.876508260Z",
+  "model": "glm-5.3"
+}

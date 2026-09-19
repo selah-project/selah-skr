@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ڳالھا، ݙنگریں دا پُتر، ہِک دَنّا، ہِک مینھ، ہِک سال دا، ساڑ قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڳالھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ݙنگریں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دَنّا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مینھ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک سال دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڑ قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:48.994320760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ہر قبیلے توں ہِک سردار، ہِک سردار، گھنو، تاں جو ⟨את⟩ زمین دا ورثہ ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "تے ہِک سردار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ہر قبیلے توں"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گھنو"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "تاں جو ورثہ ݙیوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:43.115592552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اُنہاں توں توں ہِک پوری ہوا میݙے کیتے آویسی؛ ہُݨ وِچ وی اُنہاں بارے فیصلے ٻولیساں ⟨את⟩ ⟨אותם⟩۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "اُنہاں توں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آویسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ٻولیساں"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "اُنہاں بارے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:39.235523464Z",
+  "model": "glm-5.3"
+}

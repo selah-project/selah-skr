@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے اَشیر دے سرحد اُتے، پوادھی لَکھ توں پچھادھی لَکھ تئیں — نفتالی ⟨ہِک حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشیر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لَکھ توں"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "پوادھی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لَکھ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سَمَندر"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:25.901946504Z",
+  "model": "glm-5.3"
+}

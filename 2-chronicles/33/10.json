@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے یاہوہ مَنَشّہ نال تے اوندے لوکاں نال ڳالھ کیتی، پر اوناں کن نہ دھریا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اون٘دے لوکاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "کن دھریا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:58:05.336853004Z",
+  "model": "glm-5.3"
+}

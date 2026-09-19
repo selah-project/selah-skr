@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ݙاہ ہتھ ⟨ہئی⟩ لمبائی ⟨ہک⟩ تخت دی، تے ہِک ہتھ تے ادھا ہتھ ⟨ہئی⟩ چوڑائی ⟨ہک⟩ تخت دی۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے ہِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھا"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:28.932255514Z",
+  "model": "glm-5.3"
+}

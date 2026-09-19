@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "سجے پاسے نہ جُھب، نہ کھٻے پاسے؛ تیݙا پیر برائی توں ہٹا گھن۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "جُھب"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "سجے پاسے"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "نہ کھٻے پاسے"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا گھن"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیݙا پیر"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائی توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:25.228346749Z",
+  "model": "glm-5.3"
+}

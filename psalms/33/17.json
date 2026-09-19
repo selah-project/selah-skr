@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "ڳھوڑا نجات کیتے ہِک کُوڑ ہے، تے اِیندے وَݙے زور دی کثرت نال کوئی نہ بَچسی۔",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ڳھوڑا"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "نجات کیتے"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "تے کثرت نال"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "اِیندے زور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بَچسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:41.971717342Z",
+  "model": "glm-5.3"
+}

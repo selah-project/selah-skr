@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے موشے اوں دا مِشپاط ⟨את⟩ یاہوہ دے اَڳوں گھن ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "گھن ڳیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِشپاط (اوں دا مِشپاط)"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "مِشپاط"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:58.448053074Z",
+  "model": "glm-5.3"
+}

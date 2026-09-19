@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک وچھا ڈھور دی نسل دا، ہِک دنبہ، ہِک برا ہِک ورہے دا، ساڑھ قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "وچھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڈھور دی"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "برا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک ورہے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڑھ قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:29.943147432Z",
+  "model": "glm-5.3"
+}

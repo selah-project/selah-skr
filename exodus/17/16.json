@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے آکھیس: ”کیوں جو ہتھ یاہ دے تخت اُتے ہے — یاہوہ دی جنگ عمالق نال ہے، نسلاں توں نسلاں تئیں۔“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כס",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "عمالق نال"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "نسلاں توں"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسلاں تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:19.601076250Z",
+  "model": "glm-5.3"
+}

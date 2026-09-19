@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ⟨את⟩ یَتّیر تے اوندی چراہ گاہ، تے ⟨את⟩ اشتِموع تے اوندی چراہ گاہ،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یَتّیر"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یَتّیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراہ گاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراہ گاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اشتِموع"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "اشتِموع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراہ گاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراہ گاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:07.605469023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 86,
+  "translation": "آپݨے خادم دی جان خوش کر، کیوں جو میں، ادونای، تیݙے دو آپݨی جان چا تے گھنساں۔",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "خوش کر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "آپݨے خادم دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے دو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "آپݨی جان"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چا تے گھنساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:46.874954037Z",
+  "model": "glm-5.3"
+}

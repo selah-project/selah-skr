@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ہُݨ ادونای دا زور وݙا تھیوے، منّوں، جیویں تُساں آکھیا، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وݙا تھیوے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منّوں"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:27.169161830Z",
+  "model": "glm-5.3"
+}

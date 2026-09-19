@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے شلومو اوں ویلھے ⟨את⟩ عید ست ݙینہہ منائی، تے سارا یِسرائل اُوندے نال — ٻہوں وݙا کٹھ، خامت دے وڑݨ توں مِتصرایم دے نخل تئیں۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "منائی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عید"
+    },
+    {
+      "surface": "החג",
+      "gloss": "عید"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اوں ویلھے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "او"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "وכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُوندے نال"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کٹھ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "وڑݨ توں"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خامت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نخل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:25:06.478023307Z",
+  "model": "glm-5.3"
+}

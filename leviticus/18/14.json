@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙے پیو دے بھرا دی برہنگی نہ کھولیں؛ اوندی ذال دے قریب نہ تھیوو؛ او تیݙی چاچی ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے قریب"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تھیوو"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "تیݙی چاچی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:57.575308587Z",
+  "model": "glm-5.3"
+}

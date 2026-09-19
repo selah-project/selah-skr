@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "انہاں کوں زمین وراثت وِچ نانواں دی ڳنتری موجب ونڈی ویسی۔",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ونڈی ویسی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "وراثت وِچ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ڳنتری وِچ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نانواں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:06.884828628Z",
+  "model": "glm-5.3"
+}

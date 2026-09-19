@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے میکل کوں، شاؤل دی دھی کوں، اوندی موت دے ݙینہہ تئیں کوئی ٻال نہ تھیا۔",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "تے میکل کوں"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "اوندی موت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:05.428668265Z",
+  "model": "glm-5.3"
+}

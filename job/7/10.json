@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "او وَلا اپݨے گھر نہ ولسی، تے اوندی جاہ اوں کوں ولا نہ سُنجاسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ولسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَلا"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "اپݨے گھر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "سُنجاسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَلا"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "اوندی جاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:50.368721575Z",
+  "model": "glm-5.3"
+}

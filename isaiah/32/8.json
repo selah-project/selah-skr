@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے سخی سخی ڳالھیں سوچیندے، تے او سخی ڳالھیں اُتے قائم رہندے۔",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "تے سخی"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "سخی ڳالھیں"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "سوچیندے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "سخی ڳالھیں"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم رہندے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:43:51.935732205Z",
+  "model": "glm-5.3"
+}

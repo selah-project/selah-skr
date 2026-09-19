@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 13:21",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اَبیّہ مضبوط تھیا، تے اوندے کیتے چوݙاں ذالیں گھن گھدیاں، تے اوندے ݙو تے ویہہ پُتر تے سولھاں دھیاں ڄمیاں۔",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "مضبوط تھیا"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "اَبیّہ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "گھن گھدیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمیاں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ڳݨ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:47.034582541Z",
+  "model": "glm-5.3"
+}

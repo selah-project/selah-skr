@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "او برے ویلھے شرمندہ نہ تھیسن، تے قحط دے ݙینہہ وِچ اُرو Psychic رہسِن؛",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ تھیسن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلھے وِچ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "تے ݙینہہ وِچ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "پُر تھیسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:57.869952469Z",
+  "model": "glm-5.3"
+}

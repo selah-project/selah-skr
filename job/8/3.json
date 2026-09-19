@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیا ایل فیصلہ وِڑھ گھٹیسی؟ یا کیا شدّای راستی وِڑھ گھٹیسی؟",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "کیا ایل"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "وِڑھ گھٹیسی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا کیا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "وِڑھ گھٹیسی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:42.512562383Z",
+  "model": "glm-5.3"
+}

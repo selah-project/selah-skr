@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "او ݙیوے اپݨی ڳال اُوں کوں جیڑھا مارے، تے رسوائی نال ⟨مکمل⟩ تھیوے۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ݙیوے"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "اُوں کوں جیڑھا مارے"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "اپݨی ڳال"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "⟨مکمل⟩ تھیوے"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "رسوائی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:10.221866405Z",
+  "model": "glm-5.3"
+}

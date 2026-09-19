@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ستاؤ ⟨את⟩ مِدیانیاں کوں، تے انہاں کوں مارو۔",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ستاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِدیانیاں"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "مِدیانیاں"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "تے مارو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:36.505375375Z",
+  "model": "glm-5.3"
+}

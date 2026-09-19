@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے قادِش، تے ادریعِی، تے عِین ختصور۔",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "تے قادِش"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "تے ادریعِی"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے عِین"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ختصور"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:06.850859056Z",
+  "model": "glm-5.3"
+}

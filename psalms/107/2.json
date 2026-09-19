@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "یاہوہ دے چھڑائے ہوئے ⟨ایہ⟩ آکھن، جنہاں کوں اوں دشمن دے ہتھ توں چھڑایا۔",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "چھڑائے ہوئے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں کوں"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "چھڑایا"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:17.217471009Z",
+  "model": "glm-5.3"
+}

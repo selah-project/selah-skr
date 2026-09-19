@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "کاہلی نال چھت ڈھاندی ہے، تے ہتھاں دی ڈھِل نال گھر ٹپکدے۔",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "کاہلی نال"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ڈھاندی ہے"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "چھت"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ڈھِل نال"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھاں دی"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ٹپکدے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:33.872430510Z",
+  "model": "glm-5.3"
+}

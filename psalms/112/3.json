@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 112,
+  "translation": "دولت تے مال اوندے گھر وِچ ہن، تے اوندی راستی ہمیشہ کھڑی رہسی۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے مال"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اوندے گھر وِچ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "تے اوندی راستی"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "کھڑی رہسی"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:48.253789147Z",
+  "model": "glm-5.3"
+}

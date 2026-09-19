@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اساں یروشلایم پُڄوسے، تے اُتھاں ترے ݙینہہ رہیوسے۔",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "تے اساں پُڄوسے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "تے رہیوسے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:29:12.312393982Z",
+  "model": "glm-5.3"
+}

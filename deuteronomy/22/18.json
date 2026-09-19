@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے اوں شہر دے وُݙسے ⟨את⟩ بندے کوں پکڑسن، تے ⟨את⟩ اوندے کوں سِکھیسیسن۔",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "تے پکڑسن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "وُݙسے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "تے سِکھیسیسن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوندے",
+      "marks": "اوندے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:31.386007468Z",
+  "model": "glm-5.3"
+}

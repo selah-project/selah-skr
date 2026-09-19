@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے تُہاݙے لاشے — تُساں آپ — ایں بےابانی وِچ ڈھیسو۔",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "تے تُہاݙے لاشے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں آپ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈھیسو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بےابانی وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:53.647546930Z",
+  "model": "glm-5.3"
+}

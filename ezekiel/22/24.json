@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اِنسان دے پُتر، اُوں نال آکھ: تُوں او بھومی ایں جیہڑی پاک کائنی تھئی، نہ غصے دے ݙینہہ مینہہ اُتے وسیا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اُوں نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بھومی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "پاک تھئی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غصے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:12.872844711Z",
+  "model": "glm-5.3"
+}

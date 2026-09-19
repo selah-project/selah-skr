@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جے چور نہ ملے، تاں گھر دا مالک ایلوہیم دے اڳوں حاضر تھیسی — ⟨جو⟩ اوں آپݨے سنگتی دے کم وِچ ہتھ نہ پاتا ہووے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ملے"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "تاں حاضر تھیسی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨جو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "پاتا ہووے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "کم وِچ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "آپݨے سنگتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:51.791989327Z",
+  "model": "glm-5.3"
+}

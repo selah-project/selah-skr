@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "نہ آکھ: “میں بُرائی دا بدلہ ݙیساں”؛ یاہوہ دا انتظار کر، تے او تیکوں بچاوسی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "بدلہ ݙیساں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائی دا"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "انتظار کر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "بچاوسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:12.860180341Z",
+  "model": "glm-5.3"
+}

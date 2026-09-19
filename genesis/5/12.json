@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کینان ستر سال جِیا، تے اوں ⟨את⟩ مہلالایل کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "کینان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مہلالایل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:07.866130566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "کیوں جو کون ایل ہے یاہوہ توں سِوا؟ تے کون چٹان ہے ساݙے ایلوہیم توں سِوا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "توں سِوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "توں سِوا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T17:01:53.887518813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "مَخلی دے وَلّوں ایلعازر ⟨ہا⟩، تے اوندے پُتر کائنی ہَن۔",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "مَخلی دے وَلّوں"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ایلعازر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:51.061013411Z",
+  "model": "glm-5.3"
+}

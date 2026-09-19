@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ہاتاخ آ ڳیا، تے اِستیر کوں مردخای دیاں ڳالھیں ⟨את⟩ ݙسایا۔",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ہاتاخ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسایا"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اِستیر کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالھیں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخای"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:55.082744462Z",
+  "model": "glm-5.3"
+}

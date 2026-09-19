@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "میݙے دو رُخ کر تے میݙے اُتے مہربان کر، کیوں جو میں کلہا تے غریب ہاں۔",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "رُخ کر"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے دو"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "تے میݙے اُتے مہربان کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:00.939343375Z",
+  "model": "glm-5.3"
+}

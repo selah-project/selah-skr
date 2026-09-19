@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 59,
+  "translation": "تے تُوں، اے یاہوہ، اُنہاں تے کِھلسِیں، ساریاں قومیں دا مذاق اُسائیں۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "کِھلسِیں"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اُنہاں تے"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "مذاق اُسائیں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:23.725209657Z",
+  "model": "glm-5.3"
+}

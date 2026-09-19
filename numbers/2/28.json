@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر تے انہاں دے ڳݨے ہوئے — ہِک تے چالھی ہزار تے پنج سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے انہاں دے ڳݨے ہوئے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:39.896956760Z",
+  "model": "glm-5.3"
+}

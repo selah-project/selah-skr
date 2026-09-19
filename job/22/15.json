@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 22:15",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "کیا تُساں او پراݨا رستہ منیسو، جیڑھا برائی دے بندیاں ٹُر تے ڳئے؟",
+  "tokens": [
+    {
+      "surface": "הארח",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پراݨا"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "منیسو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ٹُر تے ڳئے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:54.804496089Z",
+  "model": "glm-5.3"
+}

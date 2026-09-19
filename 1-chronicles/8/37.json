@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے موتسا ⟨את⟩ بِنِعا کوں ڄݨایا؛ رافا اوندا پُتر ہا، ایلعاسا اوندا پُتر، اتسل اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "تے موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِنِعا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بِنِعا"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "رافا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ایلعاسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "اتسل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:28.876070545Z",
+  "model": "glm-5.3"
+}

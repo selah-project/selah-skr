@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "امصی دا پُتر، بانی دا پُتر، شیمر دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "امصی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شیمر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:17.752330432Z",
+  "model": "glm-5.3"
+}

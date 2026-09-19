@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تاکہ تیݙا کَن سیانت ٻُدھے، تے تُساں اپݨا دِل سمجھ دو جھکاؤ۔",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "تاکہ ٻُدھے"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "سیانت دو"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تیݙا کَن"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "جھکاؤ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپݨا دِل"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ دو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:02.932969674Z",
+  "model": "glm-5.3"
+}

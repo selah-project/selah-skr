@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے سب ڳݨوتے چھی سو ہزار تے ترے ہزار تے پنج سو تے پنجاہ تھئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ڳݨوتے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:48.142972279Z",
+  "model": "glm-5.3"
+}

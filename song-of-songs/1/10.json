@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "سوہݨے ہن تیݙے گال قطاراں نال، تیݙی ڳچی مُنیاں نال۔",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "سوہݨے ہن"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "تیݙے گال"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "قطاراں نال"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "تیݙی ڳچی"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "مُنیاں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:37.836893816Z",
+  "model": "glm-5.3"
+}

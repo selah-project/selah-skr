@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "پنجی سالاں دا ہا جݙاں بادشاہ بݨیا، تے سولھاں سال یروشلایم وِچ بادشاہی کیتی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر ⟨پیٹوں⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالاں دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "بادشاہ بݨݨ وِچ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے سولہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨سال⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کیتی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:03.267344207Z",
+  "model": "glm-5.3"
+}

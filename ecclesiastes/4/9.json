@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ٻہوں چنڳے ہن ݙو، کلھے توں، کیوں جو اُنہاں کوں اپݨی محنت دا چنڳا بدلا ملدے۔",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ٻہوں چنڳے ہن"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "کلھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "بدلا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "اپݨی محنت دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:08.604897217Z",
+  "model": "glm-5.3"
+}

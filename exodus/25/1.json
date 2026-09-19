@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یاہوہ موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:28.269443453Z",
+  "model": "glm-5.3"
+}

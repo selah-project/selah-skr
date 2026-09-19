@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "میکوں ایں جال توں کڈھ، جیہڑا اوہناں میݙے کیتے لُکایا؛ کیوں جو تُوں میݙا قلعہ ایں۔",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "کڈھ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "لُکایا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "میݙا قلعہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:45.488037078Z",
+  "model": "glm-5.3"
+}

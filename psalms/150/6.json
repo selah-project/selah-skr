@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 150,
+  "translation": "ہر ساہ یاہ دی تعریف کرے، تعریف کرو یاہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "تعریف کرے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:37.463976235Z",
+  "model": "glm-5.3"
+}

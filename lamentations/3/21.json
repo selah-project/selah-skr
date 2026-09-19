@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایہ میں اپݨے دل وِچ ولا ولائی، ایں کیتے میکوں اُمید ہے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ولا ولائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اپݨے دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "میکوں اُمید ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:53.457705003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "یِتصہریاں وِچوں شلوموت؛ شلوموت دیاں اولاداں وِچوں یَحت۔",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "یِتصہریاں وِچوں"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلوموت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دیاں اولاداں وِچوں"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلوموت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:45.403212526Z",
+  "model": "glm-5.3"
+}

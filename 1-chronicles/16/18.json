@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "آکھ کے: “تیکوں کنعان دی زمین ݙیساں، تُہاݙی میراث دا حصہ۔”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ݙیساں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "חבل",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "تُہاݙی میراث"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:35.715945382Z",
+  "model": "glm-5.3"
+}

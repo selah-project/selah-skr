@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "صرف اِیویں جیویں ⟨את⟩ غزال تے ⟨את⟩ ہرن کھادے ویندن، اونکوں کھاویسی؛ ناپاک تے پاک کٹھے اونکوں کھاسن۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادا ویندا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غزال"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "غزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہرن"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ہرن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "اونکوں کھاویسی"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "تے پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "کٹھے"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "اونکوں کھاسن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:40.151415198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "یاہوہ مواب دیاں عربوتاں وِچ، یردن دے اُتے، یریکھو دے سامݨے موشے نال ڳالھ کیتی، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "عربوتاں وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریکھو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:54.362595242Z",
+  "model": "glm-5.3"
+}

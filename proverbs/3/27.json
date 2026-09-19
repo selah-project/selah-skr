@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "مالکاں توں چنڳائی نہ روک، جݙاں تیݙے ہتھ ایل ⟨دی طاقت⟩ ہوون کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳائی"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "مالکاں توں"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "جݙاں ہوون"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تیݙے ہتھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:50.128094938Z",
+  "model": "glm-5.3"
+}

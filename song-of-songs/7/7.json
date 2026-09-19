@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کتنی سوہݨی ہِیں تے کتنی مِٹھی ہِیں، اے محبت! تے ٹھڳیاں وِچ۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کتنی"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "سوہݨی ہِیں"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کتنی"
+    },
+    {
+      "surface": "נעمת",
+      "gloss": "مِٹھی ہِیں"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "اے محبت"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ٹھڳیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:40.389899050Z",
+  "model": "glm-5.3"
+}

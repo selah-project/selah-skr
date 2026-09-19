@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کیوں جو میں آپݨی بُرائی ݙسیساں، میں آپݨے پاپ توں فکر مند ہاں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "آپݨی بُرائی"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ݙسیساں"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "فکر مند ہاں"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "آپݨے پاپ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:17.289584155Z",
+  "model": "glm-5.3"
+}

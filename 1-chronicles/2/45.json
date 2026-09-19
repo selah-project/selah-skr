@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شمّای دا پُتر ماعون ہا، تے ماعون بیت تصور دا پیو ہا۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے … دا پُتر"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ماعون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "تے ماعون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تصور"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:43.624155489Z",
+  "model": "glm-5.3"
+}

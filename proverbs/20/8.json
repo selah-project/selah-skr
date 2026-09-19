@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "بادشاہ عدل دے تخت اُتے ٻیٹھا، اپݨیاں اکھیاں نال ہر برائی بکھیر ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ٻیٹھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "عدل"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "بکھیر ݙیندے"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اپݨیاں اکھیاں نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:14.866961901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ٻارہاں مہینیاں دے انت تے او بابل دی بادشاہی دے محل وِچ ٹُریا ودا ہا۔",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "انت تے"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "مہینیاں"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "محل"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "די",
+      "gloss": "دی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ٹُریا ودا"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:37.223662310Z",
+  "model": "glm-5.3"
+}

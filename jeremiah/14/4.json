@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "کیوں جو زمین ترٹ ڳئی ہے، کیوں جو ملک وِچ مینہہ نہ ہا؛ کھیتی والے شرمندہ تھئے، او اپݨا سر ڈھک گھدے۔",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ترٹ ڳئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک وِچ"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "شرمندہ تھئے"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "کھیتی والے"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "ڈھک گھدے"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "اپݨا سر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:09.971127853Z",
+  "model": "glm-5.3"
+}

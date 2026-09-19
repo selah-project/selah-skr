@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے دیبون اُتے، تے نیبو اُتے، تے بیت دِبلاتایِم اُتے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نیبو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "دِبلاتایِم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:10.117573263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایلوہیم موشے نال ڳالھ کیتی، تے اونکوں آکھیس: “میں یاہوہ ہاں۔”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:46:34.849307508Z",
+  "model": "glm-5.3"
+}

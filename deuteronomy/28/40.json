@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "زیتون تیݙے ہوسن تیݙی ساری حد وِچ، پر تیل نہ ورتسیں، کیوں جو تیݙے زیتون ڈھہہ پوسن۔",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "حد وِچ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "پر تیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "ورتسیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "ڈھہہ پوسن"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "تیݙے زیتون"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:47.718629189Z",
+  "model": "glm-5.3"
+}

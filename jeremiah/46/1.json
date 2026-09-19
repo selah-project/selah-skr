@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "او ڳالھ جو یاہوہ توں نبی یِرمیہو دو قوماں بارے آئی۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:36.815139254Z",
+  "model": "glm-5.3"
+}

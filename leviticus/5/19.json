@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "قصور دی قربانی ہے او — یقیناً مجرم ہے، یاہوہ دے اَڳے۔",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "قصور دی قربانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "مجرم"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "یقیناً مجرم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے اَڳے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:11.145455328Z",
+  "model": "glm-5.3"
+}

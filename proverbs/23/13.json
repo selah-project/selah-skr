@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ٻال کنوں تادیب نہ روک؛ کیوں جو تُساں اوندے کوں سوٹی نال ماریسو، تاں او نہ مرسی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روک"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ٻال کنوں"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "اوندے کوں … ماریسو"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "سوٹی نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:52.197994297Z",
+  "model": "glm-5.3"
+}

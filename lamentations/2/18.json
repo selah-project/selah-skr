@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اندا دل ادونای دوں چیکیا: اے صیون دی دھی دی کندھ! ہنجھوں نہہ وانگوں ڈھا، ݙینہہ تے رات؛ آپ کوں ترے نہ ݙے، اَکھ دا تارا نہ رکاویں۔",
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "چیکیا"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اندا دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "ڈھا"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "نہہ وانگوں"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ہنجھوں"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "رکاویں"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیݙی اَکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:20.686392094Z",
+  "model": "glm-5.3"
+}

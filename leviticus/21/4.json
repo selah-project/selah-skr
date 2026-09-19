@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "او آپݨی قوم وِچ ⟨سردار⟩ بݨ کے آپ کوں ناجس نہ کرے، آپ کوں پلیت نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناجس تھیوے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨سردار⟩"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "آپݨی قوم وِچ"
+    },
+    {
+      "surface": "لהחלו",
+      "gloss": "آپ کوں پلیت کرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:31.745407532Z",
+  "model": "glm-5.3"
+}

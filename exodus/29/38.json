@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے ایہ اوہ ہے جو تُساں قربان گاہ اُتے کریسو: مینھے، ہِک ورھے دے پُتر، ݙو ہر ݙینہہ، ہمیشہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مینھے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ہر ݙینہہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:30.143941912Z",
+  "model": "glm-5.3"
+}

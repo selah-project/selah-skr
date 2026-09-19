@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایہ سب کجھ نَبوکَدنِتصر بادشاہ اُتے آیا۔",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ایہ سب کجھ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نَبوکَدنِتصر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:37.221674113Z",
+  "model": "glm-5.3"
+}

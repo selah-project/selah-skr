@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یہوداہ آکھیا: “بھار چاوݨ آلیاں دا طاقت تھک ڳیا ہے، تے ملبہ ٻہوں ہے، تے اساں کوٹ نہ بݨا سڳدے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "تھک ڳیا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "بھار چاوݨ آلیاں"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "تے ملبہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "تے اساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "سڳدے"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بݨاوݨ"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "کوٹ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:42.011122180Z",
+  "model": "glm-5.3"
+}

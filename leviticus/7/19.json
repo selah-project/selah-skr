@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے گوشت جیڑھا کہیں ناپاک شے کوں چھوہے، کھادا نہ ویسی — بھا وِچ ساڑیا ویسی؛ تے گوشت کوں ہر پاک شخص کھا سڳدے۔",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "تے گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھوہے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کہیں وی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادا ویسی"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڑیا ویسی"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "تے گوشت کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھا سڳدے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:49.142416802Z",
+  "model": "glm-5.3"
+}

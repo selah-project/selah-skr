@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "غریب کیتے اپݨی ہتھیلی کھولیُس، تے محتاج کیتے اپݨے ہتھ درڑیُس۔",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "اپݨی ہتھیلی"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "کھولیُس"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "غریب کیتے"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "تے اپݨے ہتھ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "درڑیُس"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "محتاج کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:36.702087670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو لمبے ݙینہہ، تے جیوݨ دے ورھے، تے سلامتی تیکوں ودھیسن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "تے ورھے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیوݨ دے"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "تے سلامتی"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ودھیسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.846509335Z",
+  "model": "glm-5.3"
+}

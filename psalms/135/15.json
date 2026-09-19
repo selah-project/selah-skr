@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "قومیں دے بت چاندی تے سونا ہن، بندیاں دے ہتھاں دا کَم۔",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "بت"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں دے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:32.113405247Z",
+  "model": "glm-5.3"
+}

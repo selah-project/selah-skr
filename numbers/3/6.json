@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "لوی دی گوت کوں حاضر کرو، تے اونکوں کاہن اہرون دے اڳوں کھڑا کرو، تاں جو او اوندی خدمت کرن۔",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "حاضر کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوی دی گوت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "گوت"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "کھڑا کرو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اونکوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "خدمت کرن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اون٘دی (خدمت)"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:25.664968326Z",
+  "model": "glm-5.3"
+}

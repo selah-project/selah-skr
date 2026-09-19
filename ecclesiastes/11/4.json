@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "جو ہوا دی نگاہ رکھے اوہ بیجسی نہ، تے جو بدلاں دو ݙیکھے اوہ کپسی نہ۔",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نگاہ رکھے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "بیجسی"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھے"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "بدلاں دو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "کپسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:36.299216511Z",
+  "model": "glm-5.3"
+}

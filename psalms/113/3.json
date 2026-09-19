@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "سِجھ اُبھرݨ توں اوندے لہݨ تئیں یاہوہ دا ناں تعریف والا ہے۔",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "اُبھرݨ توں"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "اوندے لہݨ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "تعریف والا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:38.009556994Z",
+  "model": "glm-5.3"
+}

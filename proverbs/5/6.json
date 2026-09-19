@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "جیون دا رستہ ⟨متاں⟩ او تولسی، اوندے راہ ہِل ویندن، او ⟨آپ⟩ نہ ڄاݨدی۔",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیون دا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متاں"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "تولسی"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "ہِل ویندن"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "اوندے راہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاݨدی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:56.022423048Z",
+  "model": "glm-5.3"
+}

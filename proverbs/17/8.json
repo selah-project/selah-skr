@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "رشوت اوندے مالک دیاں اکھیں وِچ چن دی ہِک پتھر ⟨ہے⟩؛ جیڑھے پاسے او ول ونجے، ہر جا کامیابی پوندی ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن دی"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "اوندے مالک دیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ول ونجے"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "کامیابی پوندی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:40.690027589Z",
+  "model": "glm-5.3"
+}

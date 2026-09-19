@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے موشے دا سوہرا اوں کوں آکھیا: “او ڳالھ جیڑھی توں کریندا ایں، نہ چنگی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "سوہرا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "او ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:23.317936025Z",
+  "model": "glm-5.3"
+}

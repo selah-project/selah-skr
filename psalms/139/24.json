@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 139,
+  "translation": "تے ݙیکھ جے میݙے وچ کوئی تکلیف دی رَاہ ہے، تے میکوں ہمیشہ دی رَاہ وچ ٹور۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رَاہ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "تکلیف دی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے وچ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "تے میکوں ٹور"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رَاہ وچ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:36.710497670Z",
+  "model": "glm-5.3"
+}

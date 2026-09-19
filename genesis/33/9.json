@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے عیسو آکھیا: “میݙے کول ٻہوں ہے، میݙے بھرا؛ جو تیݙا ہے او تیݙا رہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میݙے بھرا"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:06.765583564Z",
+  "model": "glm-5.3"
+}

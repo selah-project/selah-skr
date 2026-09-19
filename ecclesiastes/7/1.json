@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "چنڳا ناں چنڳے خُشبو دار تیل توں چنڳا ہے، تے موت دا ݙینہہ ڄمݨ دے ݙینہہ توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "تیل توں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "تے ݙینہہ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت دا"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ݙینہہ توں"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ڄمݨ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.304321447Z",
+  "model": "glm-5.3"
+}

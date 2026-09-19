@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے موشے کلھا یاہوہ دو نیڑے ویسی، پر او نہ نیڑے ویسن، تے قوم اوندے نال نہ چڑھسی۔",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "تے نیڑے ویسی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "نیڑے ویسن"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھسی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:47.963512060Z",
+  "model": "glm-5.3"
+}

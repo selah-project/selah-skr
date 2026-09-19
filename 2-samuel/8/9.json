@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے توعی بادشاہ حماہ سُݨیا جو داوِد ہددعزر دے سارے لشکر کوں ⟨את⟩ مار ݙتا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "توعی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "مار ݙتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہددعزر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:32.113205190Z",
+  "model": "glm-5.3"
+}

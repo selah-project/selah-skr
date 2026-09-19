@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اَمصیاہو اوندا پُتر، عزریاہ اوندا پُتر، یوتام اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "اَمصیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:05.006641004Z",
+  "model": "glm-5.3"
+}

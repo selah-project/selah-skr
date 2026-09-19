@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "وَل آ، یاہوہ، میݙی جان کوں چھڑا؛ اپݨے خیسِد دی خاطر میکوں بچا۔",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "وَل آ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "چھڑا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان کوں"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "میکوں بچا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "دی خاطر"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "اپݨے خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:13.403976801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "بلکہ تُوں ݙر کوں مٹا ݙتے، تے ایل دے اڳوں دعا گھٹا ݙتی ہے۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "مٹا ݙتے"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "گھٹا ݙتی ہے"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:36.690499201Z",
+  "model": "glm-5.3"
+}

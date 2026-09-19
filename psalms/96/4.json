@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "کیوں جو یاہوہ وݙا ہے تے ٻہوں تعریف والا، او ساریاں معبوداں توں ݙر ݙیوݨ جوڳا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "تے تعریف والا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ݙر ݙیوݨ جوڳا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "ساریاں … توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبوداں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:45.104249601Z",
+  "model": "glm-5.3"
+}

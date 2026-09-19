@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "او اپݨے ایلوہیم دا کھاݙ — پاک پاک شیں وِچوں تے پاک شیں وِچوں — کھاسی۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "کھاݙ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اپݨے ایلوہیم دا"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "پاک پاک شیں وِچوں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک پاک شیں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے وِچوں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک شیں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:59.059959342Z",
+  "model": "glm-5.3"
+}

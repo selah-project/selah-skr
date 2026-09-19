@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ایہ گَرشون دے پُتراں دے ناں ہن، آپݨیاں ٹبراں موجب: لِونی تے شِمعی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گَرشون"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "آپݨیاں ٹبراں موجب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِونی"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "شِمعی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:08.266670523Z",
+  "model": "glm-5.3"
+}

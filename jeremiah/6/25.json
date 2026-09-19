@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کھیت وِچ نہ نکل، تے راہ تے نہ ٹُر، کیوں جو دشمن کیتے تلوار ہے، خوف چودھے پاسوں ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "نکلیں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "تے راہ تے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ٹُریں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دشمن کیتے"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چودھے پاسوں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:25.711101716Z",
+  "model": "glm-5.3"
+}

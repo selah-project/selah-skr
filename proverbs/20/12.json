@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "سُݨݨ آلا کَن تے ݙیکھݨ آلی اکھ — یاہوہ ݙوہیں بݨائیاں۔",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "کَن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُݨݨ آلا"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے اکھ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھݨ آلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائیاں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ݙوہیں"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:03.099240775Z",
+  "model": "glm-5.3"
+}

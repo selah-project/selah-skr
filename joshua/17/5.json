@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے منشہ دے حصے ݙاہ نِبھے، گلعاد تے بشان دی زمین توں وکھرے، جیڑھی یردن دے پار ہے۔",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "نِبھے"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "حصے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ دے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وکھرے"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "تے بشان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "یردن دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:27.437663875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ساری زور آلی ہتھ تے ساری وݙی دہشت وِچ جیہڑی موشے سارے یسرایل دے اَکھیں اَمݨے کیتی۔",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "زور آلی"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اَکھیں اَمݨے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:47.530771877Z",
+  "model": "glm-5.3"
+}

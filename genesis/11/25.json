@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ناحور تِرح کوں ⟨את⟩ ڄݨاوݨ دے بعد انوی سال تے سو سال جییا، تے پُتراں تے دھیاں کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨاوݨ دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تِرح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِرح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "تِن٘"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:04.476787987Z",
+  "model": "glm-5.3"
+}

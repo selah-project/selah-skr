@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "پیو دی بے پردیگی تیݙے وِچ کھولیونیں؛ حیض دی ناپاکی والی ⟨عورت⟩ کوں تیݙے وِچ دبایونیں۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "بے پردیگی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کھولیونیں"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ناپاکی"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "حیض"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "دبایونیں"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیݙے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:21.725517343Z",
+  "model": "glm-5.3"
+}

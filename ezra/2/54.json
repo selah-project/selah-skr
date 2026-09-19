@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نَتصیax دے پُتر، خَتیفا دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نَتصیح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "خَتیفا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:35.616424986Z",
+  "model": "glm-5.3"
+}

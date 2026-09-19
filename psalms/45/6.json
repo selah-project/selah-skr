@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تیݙے تیر تکھے ہن — قومیں تیݙے ہیٹھ ڈھہسن — بادشاہ دے دشمناں دے دل وِچ۔",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "تیݙے تیر"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تکھے ہن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تیݙے ہیٹھ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈھہسن"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "دشمناں دے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:38.895082763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے او بندہ موشے زمین دے مُہرے اُتے ہر بندے توں ودھ نِرم تے نواز ہا۔",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "تے او بندہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "نِرم تے نواز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر … توں ودھ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُہرے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:59.574098643Z",
+  "model": "glm-5.3"
+}

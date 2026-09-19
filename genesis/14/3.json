@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "سبھ اِیہے وادی شِدّیم وِچ کٹھے تھئے — او ہے نمکین سمندر۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِیہے"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "کٹھے تھئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "شِدّیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمکین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:12.363495775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "کیوں جو اوں میکوں مَرہم توں نہ ماریا، تے میݙی ماء میݙی قبر تھی ہا، تے اوندا مَرہم سدا دی حاملہ۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "میکوں ماریا"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "مَرہم توں"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تھی ہا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "اوندا مَرہم"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "حاملہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سدا دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:55.052994215Z",
+  "model": "glm-5.3"
+}

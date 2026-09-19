@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے او چڑھیے تے ⟨את⟩ ملک کوں پڑتال کیتونے، تسین دے ریگستان توں رحوب تئیں، خامات آوݨ ⟨تک⟩۔",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھیے"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "پڑتال کیتونے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ریگستان توں"
+    },
+    {
+      "surface": "צן",
+      "gloss": "تسین"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خامات"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:14.032594650Z",
+  "model": "glm-5.3"
+}

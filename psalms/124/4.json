@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 124,
+  "translation": "تݙاں پاݨی ساکوں وہا ویندے، وہیڑا اساݙی جان اُتے لنگھ ویندا،",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݥی"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ساکوں وہا ویندے"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وہیڑا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھ ویندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "اساݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:25.254620167Z",
+  "model": "glm-5.3"
+}

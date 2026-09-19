@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 61,
+  "translation": "کیوں جو تُساں میݙا پناہ گاہ رہیو، ویری دے اَکھ توں طاقت دا مݙھ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היית",
+      "gloss": "رہیو"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ گاہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مݙھ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت دا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "اَکھ توں"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ویری دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:12.955970945Z",
+  "model": "glm-5.3"
+}

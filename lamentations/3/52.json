@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میݙے دشمن میکوں شکار کر تے، پرندے وانگوں، بے سبب پکڑ گھدا۔",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "شکار کر تے"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "میکوں پکڑ گھدا"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "پرندے وانگوں"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میݙے دشمن"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.379625790Z",
+  "model": "glm-5.3"
+}

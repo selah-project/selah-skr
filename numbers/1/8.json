@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یساکر کیتے نتانایل، تصوعر دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "یساکر کیتے"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتانایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تصوعر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:38.445332164Z",
+  "model": "glm-5.3"
+}

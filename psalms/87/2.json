@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 87,
+  "translation": "یاہوہ صیون دے دروازیاں کوں پیار کریندے، یعقوو دے سارے مسکناں توں ودھ۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کریندے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں توں ودھ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:07.990340133Z",
+  "model": "glm-5.3"
+}

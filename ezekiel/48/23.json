@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے باقی قبیلے: پوادھ آلے پاسے توں پچادھ آلے پاسے تئیں — بِنیامین ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "تے باقی"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسے توں"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "پوادھ آلے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچادھ آلے"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:22.370775139Z",
+  "model": "glm-5.3"
+}

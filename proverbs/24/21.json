@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پُتر، یاہوہ ⟨את⟩ تے بادشاہ توں ݙر، تے بدلݨ والیاں نال نہ رل۔",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "بدلݨ والیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "رل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:42.227790823Z",
+  "model": "glm-5.3"
+}

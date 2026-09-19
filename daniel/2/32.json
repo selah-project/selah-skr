@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "او مورت دا سر چنڳے سونے دا ہا، اوندا سینہ تے ٻانہہ چاندی دے ہن، اوندا ڈھڈ تے راناں تانبے دے ہن۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "مورت"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "سر"
+    },
+    {
+      "surface": "די",
+      "gloss": "دا"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "טב",
+      "gloss": "چنڳے"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "سینہ"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "تے ٻانہہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "ڈھڈ"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "تے راناں"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "تانبے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:31.621932266Z",
+  "model": "glm-5.3"
+}

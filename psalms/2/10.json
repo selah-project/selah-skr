@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ہُݨ، اے بادشاہو، عقل کرو؛ دھرتی دے منصفو، سِکھو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "اے بادشاہو"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "عقل کرو"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "سِکھو"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "منصفو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:14.080095798Z",
+  "model": "glm-5.3"
+}

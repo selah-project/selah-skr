@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ایہ عِیسو دی نَسلیں دا حساب ہِن — اوہُو ای ادوم ہِے۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسلیں دا حساب"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِیسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہُو ای"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:43.518130471Z",
+  "model": "glm-5.3"
+}

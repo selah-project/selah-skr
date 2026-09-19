@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے او اتھ موجود ⟨את⟩ ہر جان تلوار دی دھار نال ماریس، فنا کر ݙتس؛ کوئی ساہ گھنݨ آلا نہ بچیا، تے ⟨את⟩ ختصور بھا وِچ ساڑیس۔",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ماریس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر جان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اتھ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دی دھار نال"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "فنا کر ݙتس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "بچیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساہ گھنݨ آلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ختصور"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ختصور"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڑیس"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:46.143644531Z",
+  "model": "glm-5.3"
+}

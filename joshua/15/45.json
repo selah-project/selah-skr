@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "عِقرون، اُوندیاں بستیاں تے اُوندے پنڈ،",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "عِقرون"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "اُوندیاں بستیاں"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "تے اُوندے پنڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:46.033183187Z",
+  "model": "glm-5.3"
+}

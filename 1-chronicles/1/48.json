@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے سملہ مر ڳیا، تے اُوندی جاہ تے شاؤل بادشاہ تھیا، او رحوبوتِ دریا توں ہا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سملہ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ تھیا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اُوندی جاہ تے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "رحوبوت توں"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:29.005636261Z",
+  "model": "glm-5.3"
+}

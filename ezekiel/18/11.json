@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے او ایہہ سبھ کجھ نہ کیتا، کیوں جو او پہاڑاں اُتے وی کھادا تے ⟨את⟩ آپݨے سنگتی دی ذال کوں میلا کیتا۔",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ سبھ کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے سنگتی دی ذال"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "آپݨے سنگتی دی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "میلا کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:41.974177801Z",
+  "model": "glm-5.3"
+}

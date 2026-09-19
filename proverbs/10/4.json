@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "سُست ہتھیں آلا غریب تھیندے، تے محنتیاں دا ہتھ امیر کریندے۔",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "غریب تھیندے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سُستی"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "محنتیاں"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "امیر کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:34.235427059Z",
+  "model": "glm-5.3"
+}

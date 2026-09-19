@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "کیوں جو اوں آکھیا تے اوہ تھی ڳیا؛ اوں حکم ݙتا تے اوہ کھڑا تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھی ڳیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھی ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:27.277080627Z",
+  "model": "glm-5.3"
+}

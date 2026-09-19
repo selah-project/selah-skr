@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے لوطان دے پُتر ہن حوری تے ہیمام؛ تے لوطان دی ہِک بھیݨ ہئی تِمنع۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان دے"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "تے ہیمام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "تے بھیݨ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان دی"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تِمنع"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:19.307798503Z",
+  "model": "glm-5.3"
+}

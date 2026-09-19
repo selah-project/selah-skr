@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے تُساں ⟨את⟩ ڈانہ کوں یاہوہ دے اڳوں، ملاقات دے خیمے دے دروازے اُتے، ذبح کریسوں۔",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "تے ذبح کریسوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڈانہ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڈانہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:27.817558919Z",
+  "model": "glm-5.3"
+}

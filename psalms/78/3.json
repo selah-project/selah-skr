@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "جو اَساں سُݨیئے تے ڄاݨ گھدے، تے ساݙے پِتاواں ساکوں ݙسیے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "اَساں سُݨیئے"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "تے ڄاݨ گھدے"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "تے ساݙے پِتاواں"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ݙسیے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:41.935433116Z",
+  "model": "glm-5.3"
+}

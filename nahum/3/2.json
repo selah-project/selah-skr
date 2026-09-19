@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کوڑی دی آواز، تے پہیے دے کھڑکاؤ دی آواز، تے اوڑکیندا گھوڑا، تے نچدا ہویا رتھ۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "کھڑکاؤ"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "پہیہ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "تے گھوڑا"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "اوڑکیندا"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "تے رتھ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "نچدا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:18:57.497899161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے اُچیاں جاہیں نہ ہٹیاں؛ پر آسا دا دل یاہوہ نال سارے اوندے ݙینہہیں پورا رہیا۔",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "تے اُچیاں جاہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ہٹیاں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہیا"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اوندے ݙینہہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:14:31.796111471Z",
+  "model": "glm-5.3"
+}

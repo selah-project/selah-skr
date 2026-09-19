@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے او آپݨے بھراواں کول وَلیا تے آکھیس: “ٻال کوئینی — تے میں کتھاں ویندا؟”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَلیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آپݨے بھراواں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "کوئینی"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کتھاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ویندا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:18.662416715Z",
+  "model": "glm-5.3"
+}

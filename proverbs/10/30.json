@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راست والا ہمیشہ کیتے کݙاہیں نہ لڑکسی، تے بدکار زمین وِچ نہ وسنسن۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راست والا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "בל",
+      "gloss": "کݙاہیں نہ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لڑکسی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "تے بدکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "وسنسن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:44.947899511Z",
+  "model": "glm-5.3"
+}

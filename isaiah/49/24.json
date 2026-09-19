@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "بھلا جنگجو توں لُٹ کڈھائی ویندی ہے؟ یا نیک قیدی چھُٹ ویندا ہے؟",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "بھلا … کڈھائی ویندی ہے"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "جنگجو توں"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "چھُٹ ویندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:50:41.842134495Z",
+  "model": "glm-5.3"
+}

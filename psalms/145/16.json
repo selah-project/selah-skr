@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 145,
+  "translation": "تُوں ⟨את⟩ اپݨاں ہتھ کھولیندے، تے ہر جیوِ کوں رضا نال رڄا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "کھولیندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨاں ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپݨاں ہتھ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "تے رڄا ݙیندے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوِ کوں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:16.846202635Z",
+  "model": "glm-5.3"
+}

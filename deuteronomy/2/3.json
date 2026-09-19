@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ٻہوں تھی ڳیا تُساں ایں پہاڑ ⟨את⟩ دے دوالے پھرݨ؛ مُڑو تُساں اُترلے پاسے۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "סב",
+      "gloss": "دوالے پھرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایں پہاڑ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "مُڑو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "اُترلے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:21.692550837Z",
+  "model": "glm-5.3"
+}

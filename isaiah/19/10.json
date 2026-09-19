@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اوندے تھمبھے کُٹیے ہوئے تھیسن، سبھے اجرت کمݨ آلے جان توں غمگین۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "تھیسن"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "اوندے تھمبھے"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "کُٹیے ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کم کرݨ آلے"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجرت"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "غمگین"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:38:39.766076858Z",
+  "model": "glm-5.3"
+}

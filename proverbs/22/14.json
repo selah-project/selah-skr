@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اوپری تریمتیں دا مُنہہ ڳوڑھی کھُڈّ ہے؛ اُتھاں یاہوہ دا غصہ ڈہسی۔",
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "کھُڈّ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ڳوڑھی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہہ"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "اوپری تریمتیں دا"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈہسی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:19.014501554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "شاؤل ⟨את⟩ پلشتياں دے ݙاہݙے کوں ݙٹھا، تے ݙریا، تے اوندا دل ٻہوں کپیا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پلشتياں دا ݙاہݙا"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ݙاہݙا"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتياں"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ݙریا"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "کپیا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندا دل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:49:15.706452549Z",
+  "model": "glm-5.3"
+}

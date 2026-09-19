@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کُوڑ دیاں لٹاں یاہوہ کیتے عبرت ہن، تے ایمانداری کرݨ آلے اوندے پسندیدہ ہن۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "عبرت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لٹاں"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ دیاں"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "تے کرݨ آلے"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمانداری"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "اوندے پسندیدہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:51.750511416Z",
+  "model": "glm-5.3"
+}

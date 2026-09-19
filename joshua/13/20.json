@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے بیت فعور، تے فسگہ دے ڈھلوان، تے بیت ہیشیموت،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "تے ڈھلوان"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "فسگہ دے"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "הישیمות",
+      "gloss": "ہیشیموت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:50.315348024Z",
+  "model": "glm-5.3"
+}

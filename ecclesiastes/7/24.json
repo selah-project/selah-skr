@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "جو کجھ تھیا ہے او پریں ہے، تے ڳوڑھا ڳوڑھا — کون ⟨اوکوں⟩ لَبھسی؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "پریں ہے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "تھیا ہے"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "تے ڳوڑھا"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ڳوڑھا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "⟨اوکوں⟩ لَبھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:19.281313770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تُساں جواناں کوں میں سݙ مرینداں، تے میݙی آواز اِنسانیں دی اَولاد دو ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "تُساں … دو"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "جواناں"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں سݙ مرینداں"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "تے میݙی آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دی اَولاد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسانیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:05.019081026Z",
+  "model": "glm-5.3"
+}

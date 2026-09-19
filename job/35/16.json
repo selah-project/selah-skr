@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے اَیّوب ویانا منہ کھولیندے، بغیر ڄاݨ کنوں لفظ ودھیندے۔",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "تے اَیّوب"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ویانا"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "کھولیندے"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "ودھیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:30.545095999Z",
+  "model": "glm-5.3"
+}

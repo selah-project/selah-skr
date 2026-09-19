@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 101,
+  "translation": "ٹیڑھا دل میں توں ہٹسی؛ برائی کوں میں نہ ڄاݨساں۔",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ہٹسی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ڄاݨساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:27.237815706Z",
+  "model": "glm-5.3"
+}

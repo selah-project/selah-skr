@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "آپݨے سنگتی دے خلاف کُوڑی گواہی نہ ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب ݙیوو"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "آپݨے سنگتی دے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:54.154501675Z",
+  "model": "glm-5.3"
+}

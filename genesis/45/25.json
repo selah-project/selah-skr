@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تے او مِتصرایم توں چڑھ ڳئے، تے کنعان دے دیس آئے، اپݨے پیو یعقوو کولھ۔",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھ ڳئے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "انہاں دے پیو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:17.901011204Z",
+  "model": "glm-5.3"
+}

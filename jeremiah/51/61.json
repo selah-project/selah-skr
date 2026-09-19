@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "jeremiah 51:61",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "تے یرمیاہو شریاہ کوں آکھیا: “جݙاں تُساں بابل وِچ آؤ، ݙیکھو تے ⟨את⟩ ایہ سارے لفظ پڑھو،”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "شریاہ"
+    },
+    {
+      "surface": "כבאך",
+      "gloss": "تُساں آؤ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "پڑھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ سارے لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:18.516071243Z",
+  "model": "glm-5.3"
+}

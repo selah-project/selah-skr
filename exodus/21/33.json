@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے جے کوئی بندہ ڳَڑھا کھولے، یا جے کوئی بندہ ڳَڑھا پٹے تے اوکوں نہ ڄَڑے، تے ݙاند یا کھوہ اُتھاں ڈھے پووے،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھولے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ڳَڑھا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "پٹے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ڳَڑھا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "اوکوں ڄَڑے"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "تے ڈھے پووے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "کھوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:10.972639465Z",
+  "model": "glm-5.3"
+}

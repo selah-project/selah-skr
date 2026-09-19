@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے وِی اَجڑ میں سِجھ تلے ایہ ݙٹھا: انصاف دی جاہ اُتھاں بدی ہے، تے راستی دی جاہ اُتھاں بدی ہے۔",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "تے وِی اَجڑ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "انصاف دی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "تے جاہ"
+    },
+    {
+      "surface": "ہצדק",
+      "gloss": "راستی دی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:18.626182847Z",
+  "model": "glm-5.3"
+}

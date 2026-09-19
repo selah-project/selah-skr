@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "چُپ کرو، سبھ بدن، یاہوہ دے اڳوں، کیوں جو او اُٹھیا ہے اپݨے پاک ٹکاݨے توں۔",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "چُپ کرو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بدن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "اُٹھیا ہے"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "اپݨے ٹکاݨے توں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:42.746624327Z",
+  "model": "glm-5.3"
+}

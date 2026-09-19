@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "دیکھو، سبھ کجھ میݙی اکھ ݙٹھا، میݙے کن سُݨیا، تے اوں کوں سمجھ گھدا۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میݙی اکھ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "میݙے کن"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "تے سمجھ گھدا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:13.863413459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "یریخو دے پُتر ترے سَو پنتالی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریخو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:35.979072721Z",
+  "model": "glm-5.3"
+}

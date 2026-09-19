@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "چغل خور دے لفظ مِٹھے ٹکڑے وانگوں ہن، تے او لہہ ویندن پیٹ دے اندرلے کمرے دو۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "چغل خور دے"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "مِٹھے ٹکڑے وانگوں"
+    },
+    {
+      "surface": "והם",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "لہہ ویندن"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "کمرے"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پیٹ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:41.285318761Z",
+  "model": "glm-5.3"
+}

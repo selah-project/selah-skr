@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "سُݨو ⟨את⟩ اے ڳالھ جیہڑی میں تُہاݙے اُتے چیندا ہِک ماتم-ڳیت ہے، گھر یِسرایل۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چیندا"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاݙے اُتے"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتم-ڳیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:18:25.984305957Z",
+  "model": "glm-5.3"
+}

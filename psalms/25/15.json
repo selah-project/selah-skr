@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "میݙیاں اکھیں ہمیشہ یاہوہ دو ہن، کیوں جو او میݙے پیر جال کنوں کڈھیسی۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "میݙیاں اکھیں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھیسی"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "جال کنوں"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "میݙے پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:00.939208989Z",
+  "model": "glm-5.3"
+}

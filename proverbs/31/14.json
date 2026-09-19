@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "اُوہ وپاری ٻیڑیاں وانگوں ہئی، پَرے توں آپݨاں کھاݨاں گھن آندی ہئی۔",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "ٻیڑیاں وانگوں"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "وپاری"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "پَرے توں"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "گھن آندی ہئی"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "آپݨاں کھاݨاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:12.131196558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے بیلع دے پُتر تھئے: اَدّر، تے گیرا، تے اَبیہود۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے تھئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بیلع دے"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدّر"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "تے گیرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "تے اَبیہود"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:44.405331752Z",
+  "model": "glm-5.3"
+}

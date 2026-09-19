@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے جیں اپݨے پیو یا اپݨی ماء کوں ماریا، او موت نال مریسی۔",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "تے مارݨ آلا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپݨے پیو"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "تے اپݨی ماء"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت نال"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:14.356881077Z",
+  "model": "glm-5.3"
+}

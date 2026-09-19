@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوندے وِچ راست یاہوہ ہے؛ اوں زیادتی نہ کریسی؛ صبح صبح آپݨاں انصاف اُجالی وِچ ݙیسی، اوہ نہ ہٹسی؛ پر بےانصاف شرم نہ ڄاݨدا۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زیادتی"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "آپݨاں انصاف"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "اُجالی وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ہٹسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بےانصاف"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "شرم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:23.870733211Z",
+  "model": "glm-5.3"
+}

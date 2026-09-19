@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے میں کنیز دے پُتر ⟨את⟩ کوں وی ہِک قوم بݨیسی، کیوں جو او تیݙا نسل ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُتر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "کنیز دے"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ہِک قوم"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "میں بݨیسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیݙا نسل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:23.327807634Z",
+  "model": "glm-5.3"
+}

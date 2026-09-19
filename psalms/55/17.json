@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "میں ایلوہیم کوں سݙساں، تے یاہوہ میکوں بچا گھِنسی۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "سݙساں"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "میکوں بچا گھِنسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:49.895141737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اکھ پِنڄݨ آلا ݙکھ ݙیندے، تے لَبّاں دا بک بکاڑو بیوقوف ڈھہہ پوندا۔",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "پِنڄݨ آلا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیندے"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ݙکھ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "تے بیوقوف"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لَبّاں دا"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ڈھہہ پوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:25.210507113Z",
+  "model": "glm-5.3"
+}

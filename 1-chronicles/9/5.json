@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شیلوݨیاں وِچوں عسایا پہلوں ڄَمیا تے اوندے پُتر۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "شیلوݨی"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسایا"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلوں ڄَمیا"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوندے پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:37.475079672Z",
+  "model": "glm-5.3"
+}

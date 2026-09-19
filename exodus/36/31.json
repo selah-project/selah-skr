@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اونے کیکر دی لکڑ دیاں پنج پَٹیاں بݨایاں، مسکن دے ہِک پاسے دیاں تختیاں کِیتے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بݨایا"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "پَٹیاں"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑ دیاں"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "تختیاں کِیتے"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:50.675282759Z",
+  "model": "glm-5.3"
+}

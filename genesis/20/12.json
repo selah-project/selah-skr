@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے سچ او میݙی بھیݨ وی ⟨ہے⟩ — او میݙے پیو دی دھی ہے، پر میݙی ماء دی دھی کائنی — تے او میݙی ذال بݨی۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "میݙی بھیݨ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو دی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میݙی ماء دی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "بݨی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:03.247848128Z",
+  "model": "glm-5.3"
+}

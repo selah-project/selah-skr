@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے جو گوشت وِچ تے روٹی وِچ باقی رہسی، اوکوں بھا وِچ تُساں ساڑو۔",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "تے جو باقی"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "گوشت وِچ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "تے روٹی وِچ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "تُساں ساڑو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:14.813688071Z",
+  "model": "glm-5.3"
+}

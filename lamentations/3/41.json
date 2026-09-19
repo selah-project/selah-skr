@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اساں آپݨاں دِل ہتھاں ⟨تائیں⟩ چا کے، اسماناں وِچ آلے ایل دو اٹھیندے ہیں۔",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "چا اٹھیندے ہیں"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "آپݨاں دِل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨تائیں⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ہتھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:47.392091098Z",
+  "model": "glm-5.3"
+}

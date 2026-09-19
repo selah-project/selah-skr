@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ایہ کڑوتی جان نال مر پوندے، تے بھلائی وِچوں کائنی کھادا۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مر پوندے"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جان نال"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "کڑوتی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادا"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "بھلائی وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:05.746653697Z",
+  "model": "glm-5.3"
+}

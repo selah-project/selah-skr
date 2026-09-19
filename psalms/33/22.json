@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تھیوے تیݙا خیسِد یاہوہ اساں اُتے، جیویں اساں تیݙی اُس رکھی ہے۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "تھیوے"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیݙا خیسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اساں اُتے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "اساں اُس رکھی ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:18.494598898Z",
+  "model": "glm-5.3"
+}

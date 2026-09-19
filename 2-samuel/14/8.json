@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے بادشاہ تریمت کوں آکھیا: ‘‘ونڄ، آپݨے گھر، تے میں تیݙے بارے حکم ݙیساں۔’’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "آپݨے گھر"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "حکم ݙیساں"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے بارے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:55:38.855668947Z",
+  "model": "glm-5.3"
+}

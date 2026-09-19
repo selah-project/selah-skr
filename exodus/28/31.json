@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے تُساں ایفود دا ⟨את⟩ چولا مکمل نیلا بݨاؤ۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُساں بݨاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولا"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولا"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ایفود دا"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مکمل"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:00:12.026501730Z",
+  "model": "glm-5.3"
+}

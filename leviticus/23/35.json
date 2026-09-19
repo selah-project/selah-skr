@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "پہلے ݙینہہ پاک سَݙ ہوسی؛ کوئی نوکری آلا کم نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "سَݙ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "نوکری آلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:20.413729805Z",
+  "model": "glm-5.3"
+}

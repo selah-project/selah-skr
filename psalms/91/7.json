@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 91,
+  "translation": "تیرے پاس ہزار ڈھاسیِن، تے تیݙے سجّے پاس ودھ ہزار، پر تیکوں نیڑے نہ آسی۔",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ڈھاسی"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "تے ودھ ہزار"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "تیݙے سجّے پاس"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "نیڑے آسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:56.564899805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "بُڈھے دروازے توں رُک ڳئے، نوجوان اپݨی ساز توں۔",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "بُڈھے"
+    },
+    {
+      "surface": "משער",
+      "gloss": "دروازے توں"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "رُک ڳئے"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "اپݨی ساز توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:54.522276445Z",
+  "model": "glm-5.3"
+}

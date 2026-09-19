@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے تُساں اٹھویں سال ⟨את⟩ بیج ویسو، تے پراݨی فصل توں کھاسو، ناںویں سال تئیں — جے تئیں اوندی فصل آوے، پراݨی کھاسو۔",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "بیج ویسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سال"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "اٹھویں"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "تے کھاسو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "پراݨی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "ناںویں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جے تئیں"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آوَݨ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اوندی فصل"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاسو"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "پراݨی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:58.060579791Z",
+  "model": "glm-5.3"
+}

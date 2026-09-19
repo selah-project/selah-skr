@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تُساں اُنہاں نال تے اُنہاں دے ایلوہیماں نال عہد نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں نال"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "تے اُنہاں دے ایلوہیماں نال"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:12.299207089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے جے اوندے کنوں چوری چوری تھی ونڄے، تاں او مالک کوں پورا کریسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چوری"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "تھی ونڄے"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "اوندے کنوں"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پورا کریسی"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "مالک کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:45.236990311Z",
+  "model": "glm-5.3"
+}

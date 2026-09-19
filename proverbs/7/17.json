@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "میں اپݨے پلنگ کوں مُر، عود تے دارچینی نال چھڑکیا۔",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "چھڑکیا"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "اپݨے پلنگ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مُر"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "عود"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "تے دارچینی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:33.413970679Z",
+  "model": "glm-5.3"
+}

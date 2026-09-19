@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "پر میں جِیندا ہاں، تے بھری ویسی ⟨את⟩ ساری زمین یاہوہ دے جلال نال۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "تے بھری ویسی"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:41.432010439Z",
+  "model": "glm-5.3"
+}

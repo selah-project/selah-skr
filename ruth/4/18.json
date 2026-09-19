@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ایہ پِرتص دیاں نسلاں ہن: پِرتص ⟨את⟩ خِتصرون کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "نسلاں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پِرتص دیاں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پِرتص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خِتصرون کوں"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خِتصرون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:55.920157358Z",
+  "model": "glm-5.3"
+}

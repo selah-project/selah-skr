@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "ادونای اُوندے اُتے کِھلسی، کیوں جو اُوں ݙٹھا جو اُوندا ݙینہہ آندا ہے۔",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "کِھلسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "اُوں ݙٹھا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آندا ہے"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "اُوندا ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:18.786990560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے نفتالی دے پُتر: یحتصیل، گونی، ییتصیر تے شِلیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "یحتصیل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "گونی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ییتصیر"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "شِلیم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:20.327090822Z",
+  "model": "glm-5.3"
+}

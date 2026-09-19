@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے تھیا جو ݙائیاں ایلوہیم ⟨את⟩ توں ݙریندیاں ہن، تے اوں انہاں کوں گھر بݨا ݙتے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ݙریندیاں ہن"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ݙائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "بݨا ݙتے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:38.077840711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ہر رینگݨ آلی اُݨائی جیڑھی چار ⟨پیراں⟩ اُتے ٹُردی ہے، او تُہاݙے کیتے گھناؤنا ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رینگݨ آلی"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "اُݨائی"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ٹُردی ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:26.987102653Z",
+  "model": "glm-5.3"
+}

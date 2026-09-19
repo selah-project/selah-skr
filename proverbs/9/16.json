@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "“کوئی نادان ہے؟ او اِتھاں ولا آوے۔” تے دل توں محروم بندے کوں او آکھیدی ہے:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ولیا آوے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "تے محروم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل توں"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "آکھیدی ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:01.677256138Z",
+  "model": "glm-5.3"
+}

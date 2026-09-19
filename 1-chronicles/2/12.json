@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے بوَز ⟨את⟩ عوفیدد کوں ڄمایا، تے عوفید ⟨את⟩ یِشای کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "تے بوَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوفید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوفید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "تے عوفید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:33.226425978Z",
+  "model": "glm-5.3"
+}

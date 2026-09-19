@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے موشے پہاڑ توں لہہ کے قوم کول آیا، تے اوں قوم کوں پاک کیتا ⟨את⟩، تے اوہناں آپݨیاں جُھگے دھوئے۔",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لہہ کے آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "پاک کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "دھوئے"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "آپݨیاں جُھگے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:11.200878464Z",
+  "model": "glm-5.3"
+}

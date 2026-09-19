@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ݙوجھا حصہ ملکیہ پُتر خارِم تے خشّوب پُتر پخت موآب مرمت کیتس — تے ⟨את⟩ تندوراں دا مینار۔",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مرمت کیتس"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ملکیہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارِم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "تے خشّوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پخت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تندوراں دا مینار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "تندوراں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:04.558203683Z",
+  "model": "glm-5.3"
+}

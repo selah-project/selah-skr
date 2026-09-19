@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "جے لوہا کُند ہووے تے اوندا دھار نہ تِھیا ہووے، تاں وَدھ زور لاوݨا پوندے، پر دانائی فیدا ݙے کے ٹھیک کریندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "کُند"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوندا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "دھار ⟨منہ⟩"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "خراب تھیا"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "تے زوراں"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ودھدن"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "پر فیدا"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "ٹھیک کریندی ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:37.339301203Z",
+  "model": "glm-5.3"
+}

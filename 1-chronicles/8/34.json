@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یہوناتن دا پُتر مِریب بعل ہا، تے مِریب بعل ⟨את⟩ میکا کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مِریب بعل"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "تے مِریب بعل"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکا کوں"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:26.483305368Z",
+  "model": "glm-5.3"
+}

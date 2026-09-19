@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "حکیم لوک ڄاݨکاری سانبھ رکھدے ہن، پر مورکھ دا مونہہ بربادی دے نیڑے ہے۔",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "سانبھ رکھدے ہن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨکاری"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "تے مونہہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نیڑے ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:54.812367737Z",
+  "model": "glm-5.3"
+}

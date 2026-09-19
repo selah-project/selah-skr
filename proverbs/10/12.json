@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "نفرت جھیڑے بھڑکیندی ہے، تے محبت ساریاں سرکشیاں اُتے پردہ پائی۔",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "بھڑکیندی ہے"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "جھیڑے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "سرکشیاں"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "پردہ پائی"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:25.210837770Z",
+  "model": "glm-5.3"
+}

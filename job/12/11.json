@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کیا کن ڳالھیں نہ پرکھدا، تے تالو اپݨے کیتے کھاݨاں نہ چکھدا؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "پرکھدا"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "تے تالو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاݨاں"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "چکھدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپݨے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:36.186134367Z",
+  "model": "glm-5.3"
+}

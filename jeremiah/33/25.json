@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "ایں طرح یاہوہ آکھیا: جے میݙا عہد ݙینہہ تے رات نال کائنی، تے جے میں اسماناں تے زمین دے قنون نہ رکھئے ہن،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میݙا عہد"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "قنون"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "رکھئے ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:50.666387433Z",
+  "model": "glm-5.3"
+}

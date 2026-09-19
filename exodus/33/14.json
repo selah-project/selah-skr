@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "اُوں آکھیا: “میݙا چہرہ ٹُرسی، تے میں تیکوں آرام ݙیساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اُوں آکھیا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میݙا چہرہ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ٹُرسی"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "تے میں آرام ݙیساں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:39.849954839Z",
+  "model": "glm-5.3"
+}

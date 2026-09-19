@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یِشمعیاہ گبعون والا، تریہاں وِچ بہادر، تے تریہاں اُتے ⟨سردار⟩۔",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "تے یِشمعیاہ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "گبعون والا"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "تریہاں وِچ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "تریہاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:46.874648481Z",
+  "model": "glm-5.3"
+}

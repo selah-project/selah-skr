@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوہ ٻئے پتھر گھنسن تے انہاں کوں انہاں پتھراں دی جاہ تے رکھیسن، تے اوہ ٻئی مٹی گھن کے ⟨את⟩ گھر کوں لیپسی۔",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "گھنسن"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "رکھیسن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جاہ تے"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "انہاں پتھراں دی"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ٻئی مٹی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئی"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھن کے"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "لیپسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:33.266593091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مَتنیاہ، مَتنای، تے یعاشو۔",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "مَتنیاہ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "مَتنای"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے یعاشو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:48.202906315Z",
+  "model": "glm-5.3"
+}

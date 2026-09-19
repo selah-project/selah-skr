@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایں طرح ادونای یاہوہ آکھیا: بُرائی، ہِکلّی بُرائی — ݙیکھو، او آندی پئی ہے۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِکلّی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آندی پئی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:16:05.790827570Z",
+  "model": "glm-5.3"
+}

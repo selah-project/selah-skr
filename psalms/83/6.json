@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "کیوں جو اُنہاں دِل نال رَل کے تیݙے خلاف صلاح کیتی، عہد بݨیندن تیݙے اُتے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "صلاح کیتی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل نال"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے خلاف"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "بݨیندن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:49.523681694Z",
+  "model": "glm-5.3"
+}

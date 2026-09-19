@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے یاہوہ موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:22.752629558Z",
+  "model": "glm-5.3"
+}

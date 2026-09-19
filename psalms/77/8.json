@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 77,
+  "translation": "کیا ادونای ہمیشہ کیتے ترٹ ویسی؟ تے اوہ ٻیا رضا کائنی کریسی؟",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "کیا ہمیشہ کیتے"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ترٹ ویسی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ٻیا کریسی"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:23.496840717Z",
+  "model": "glm-5.3"
+}

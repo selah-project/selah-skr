@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "یاہوہ مرویندے تے جِویندے، شیول دو لہاڳیندے تے چاڑھیندے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "مرویندے"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "تے جِویندے"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "لہاڳیندے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "تے چاڑھیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:33:08.359222442Z",
+  "model": "glm-5.3"
+}

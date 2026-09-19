@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے کاہن ⟨את⟩ چربی قربان گاہ اُتے ساڑسی، تے سینہ اہرون تے اوندے پُتراں دا ہوسی۔",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ساڑسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "سینہ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کیتے"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "تے اوندے پُتراں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:21.132749972Z",
+  "model": "glm-5.3"
+}

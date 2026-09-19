@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے یِسرایل دے پُتر اَناج خریدݨ کیتے آلیاں وِچ آئے، کیوں جو کنعان دی زمین وِچ قحط ہا۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "اَناج خریدݨ کیتے"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آلیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان دی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:48.916682475Z",
+  "model": "glm-5.3"
+}

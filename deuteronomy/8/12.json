@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "متاں تُساں کھاسیں تے رجھ ویسوں، تے چنڳے گھر بݨا تے اُتھاں رہ ویسوں۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متاں"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاسیں"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "تے رجھ ویسوں"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنڳے"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بݨیسیں"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "تے رہ ویسوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:39.952797481Z",
+  "model": "glm-5.3"
+}

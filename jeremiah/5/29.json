@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیا اِنہاں اُتے میں جانچ نہ کریساں؟ یاہوہ دا اعلان ہے۔ ایجھی قوم اُتے کیا میݙی جان انتقام نہ گھنسی؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "کیا اُتے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "جانچ کریساں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "قوم اُتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ایجھی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "انتقام گھنسی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:39.228511247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "او پرعوہ کولوں ٻاہر نکلیا تے یاہوہ کنوں منت کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکلیا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "منت کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:48:55.392794900Z",
+  "model": "glm-5.3"
+}

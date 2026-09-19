@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "پُتر تے دھیاں تُوں جݨسیں، پر او تیݙے نہ ہوسن، کیوں جو او قیدی بݨ تے ٹُر ویسن۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تُوں جݨسیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ویسن"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قیدی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:07.252206430Z",
+  "model": "glm-5.3"
+}

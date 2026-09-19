@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "لہو اُتے کجھ نہ کھاؤ، قسمت نہ ݙسو تے اگ Complex نہ ݙیکھو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُساں کھاؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "قسمت نہ ݙسو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "اگ Complex نہ ݙیکھو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:54.567760501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کیوں جو جے بندہ ٻہوں سال جیسی، سبھ وِچ خوش رہوے، تے یاد رکھے ⟨את⟩ کالاں ݙینہاں کوں، کیوں جو او ٻہوں ہوسن؛ جو کجھ آوݨ والا ہے، سبھ ہوا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیسی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "سبھ وِچ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش رہوے"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "تے یاد رکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کالاں ݙینہاں کوں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہاں کوں"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "کالاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "آوݨ والا ہے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:54.295027806Z",
+  "model": "glm-5.3"
+}

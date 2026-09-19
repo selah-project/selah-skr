@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاہوہ موشے نال آکھیا، آکھݨ لڳا،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:09.286094289Z",
+  "model": "glm-5.3"
+}

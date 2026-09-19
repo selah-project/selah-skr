@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "دان دے ٹبر وِچوں عمیایل، گملی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "دے ٹبر وِچوں"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عمیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "گملی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:08.244294264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے ہر بیماری تے ہر مار جیہڑی اِیں تورات ⟨تورات دی کتاب⟩ وِچ لکھی کائنی، اُوہ یاہوہ تیݙے اُتے چاڑھسی، تئیں جو تُساں مُک ویسو۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لکھی"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "چاڑھسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں جو"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "تُساں مُک ویسو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:04:35.043594894Z",
+  "model": "glm-5.3"
+}

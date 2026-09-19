@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او ہور پہاڑ توں روانہ تھئے، تے تصلمنہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ہور پہاڑ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "تصلمنہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:39.319167400Z",
+  "model": "glm-5.3"
+}

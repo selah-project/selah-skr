@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "تُوں یاہوہ تیݙی بھومی تے رازی تھیا، تُوں یعقوو دی گرفتاری کوں پھیر ݙتا۔",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "رازی تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تیݙی بھومی"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "پھیر ݙتا"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "گرفتاری"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:49.542034134Z",
+  "model": "glm-5.3"
+}

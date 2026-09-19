@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے یاہوہ موشے کوں آکھیا: “ایں عباریم پہاڑ اُتے چڑھ، تے ⟨את⟩ اوہ زمین ݙیکھ جیہڑی میں بنی اِسرائیل کوں ݙتی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…اُتے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "عباریم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…کوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "بنی اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:29.652311759Z",
+  "model": "glm-5.3"
+}

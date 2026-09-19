@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "«او بندے، مُلک دے آقا، ساݙے نال سخت ڳالھ کیتی، تے اَساکوں مُلک دے جاسوس ڳݨیا۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "او بندے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "مُلک دے"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ساݙے نال ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے ڳݨیا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "اَساکوں"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُلک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "مُلک"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:47.677578602Z",
+  "model": "glm-5.3"
+}

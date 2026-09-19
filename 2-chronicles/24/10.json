@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے سارے سردار تے سارے لوک خوش تھئے، تے گھن آئے تے صندوق وِچ سٹیا، تئیں جو مُک ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "خوش تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "گھن آئے"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "سٹیا"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "صندوق وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "مُکݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:55:39.146014813Z",
+  "model": "glm-5.3"
+}

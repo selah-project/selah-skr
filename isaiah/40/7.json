@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "گھاہ سُک ڳیا، پھُل مرجھا ڳیا، کیوں جو یاہوہ دی ہوا اوں وِچ واہندی ہے؛ سچ ای، قوم دا لوک گھاہ ہے۔",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سُک ڳیا"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "مرجھا ڳیا"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "واہندی ہے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوں وِچ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "سچ ای"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دا لوک"
+    }
+  ],
+  "timestamp": "2026-09-19T21:12:53.918213558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اَے زمین، اَے زمین، اَے زمین، یاہوہ دا ⟨את⟩ لفظ سُݨ۔",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:02.191656069Z",
+  "model": "glm-5.3"
+}

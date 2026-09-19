@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "ݙیکھ، میں کوٹ کوٹے دور بھڄ ویندا، چولستان وِچ رات کٹاں۔ سیلہ۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "کوٹ کوٹے دور"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "بھڄ ویندا"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "رات کٹاں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چولستان وِچ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:03.787702604Z",
+  "model": "glm-5.3"
+}

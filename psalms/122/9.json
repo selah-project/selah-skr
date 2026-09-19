@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 122,
+  "translation": "یاہوہ ساݙے ایلوہیم دے گھر دی خاطر میں تیݙے کیتے بھل ڳولیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "دی خاطر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙے ایلوہیم"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "میں ڳولیندا ہاں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:42.447429284Z",
+  "model": "glm-5.3"
+}

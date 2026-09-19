@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "سٹھ ملکاں ہن، تے اسی رکھیلاں، تے کنواریاں بے ڳݨتی۔",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ملکاں"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اسی"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "رکھیلاں"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "تے کنواریاں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:33.512599147Z",
+  "model": "glm-5.3"
+}

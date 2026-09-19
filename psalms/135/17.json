@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "انہاں دے کَن ہن تے نہ او سُݨدے؛ بلکہ انہاں دے مُنہ وِچ ساہ وی کائنی۔",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "کَن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "سُݨدے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ہُو⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "انہاں دے مُنہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:52.114285462Z",
+  "model": "glm-5.3"
+}

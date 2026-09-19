@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "ساݙی ہِک نِکی بھیݨ ہے، تے اوندے چھاتیاں کائنی؛ ساݙی بھیݨ نال کیا کریں اوں ݙینہہ جݙاں اوندا ذکر تھیسی؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "بھیݨ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙی"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "نِکی"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "تے چھاتیاں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "ساݙی بھیݨ نال"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "جݙاں… ذکر تھیسی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:08:00.279733355Z",
+  "model": "glm-5.3"
+}

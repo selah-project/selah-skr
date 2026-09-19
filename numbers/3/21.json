@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "لگِرشون کٹنب ہَلبنی تے کٹنب ہَشِمِعی — ایہے ہِن کٹنب ہَگِرشونی۔",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "لگِرشون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کٹنب"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "ہَلبنی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "تے کٹنب"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "ہَشِمِعی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہِن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کٹنب"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ہَگِرشونی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:15.180927323Z",
+  "model": "glm-5.3"
+}

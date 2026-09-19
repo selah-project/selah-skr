@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "جیہڑا حکم دی راکھی کرے او کوئی بری ڳالھ نہ ڄاݨسی، تے سیاݨے دا دل ویلھے تے انصاف کوں ڄاݨدے۔",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "راکھی کرے"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨسی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلھے"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨے دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:01.105239911Z",
+  "model": "glm-5.3"
+}

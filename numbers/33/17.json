@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 33:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او کِبروت ہَتّعاواہ توں روانہ تھئے، تے حصیروت وِچ ٹھہرے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מקברת",
+      "gloss": "کِبروت توں"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ہَتّعاواہ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹھہرے"
+    },
+    {
+      "surface": "בחצרת",
+      "gloss": "حصیروت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.391803379Z",
+  "model": "glm-5.3"
+}

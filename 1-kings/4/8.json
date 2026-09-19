@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ایہ اُنہاں دے ناں ہن: بنِ خور، ایفرایم دی پہاڑی وِچ۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "اُنہاں دے ناں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خور"
+    },
+    {
+      "surface": "بהר",
+      "gloss": "پہاڑی وِچ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ایفرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T17:04:20.280723864Z",
+  "model": "glm-5.3"
+}

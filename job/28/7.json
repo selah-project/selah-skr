@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "اوں رستے کوں شکاری پرندہ نہ ڄاݨدا، تے شاہین دی اکھ اوں کوں نہ ݙٹھا۔",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "شکاری پرندہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "شاہین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:09.758261417Z",
+  "model": "glm-5.3"
+}

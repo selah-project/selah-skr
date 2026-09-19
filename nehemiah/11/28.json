@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے صقلگ وِچ، تے مخونہ تے اوندے پنڈاں وِچ۔",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "تے صقلگ وِچ"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "تے مخونہ"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "تے اوندے پنڈاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:04.986058595Z",
+  "model": "glm-5.3"
+}

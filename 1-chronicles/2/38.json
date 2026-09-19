@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے عُوِبید یِہُوء کوں ڄمایا، تے یِہُوء عزریاہ کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "تے عُوِبید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِہُوء"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یِہُوء"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "تے یِہُوء"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریاہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:20.022421022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیوں جو او ایہ نہیں ڄاݨدا جو کیا تھیسی، کیوں جو جݙاں او تھیسی، کون اونکوں ݙسیسی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:01.108173908Z",
+  "model": "glm-5.3"
+}

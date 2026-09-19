@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پر ہُݨ اپݨا ہتھ دراڑ تے اوندی ہر شے کوں ہتھ پا — جے او تیݙے مُکھ اُتے تیکوں برکت نہ ݙیوے۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "دراڑ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "تے ہتھ پا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر اوں شے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے مُکھ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "تیکوں برکت ݙیوے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:15.593763367Z",
+  "model": "glm-5.3"
+}

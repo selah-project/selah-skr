@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے تُساں وِچوں ہر سیاݨا دل آوے، تے بݨاوے ⟨את⟩ او سبھ جیہڑا یاہوہ حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُساں وِچوں"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے بݨاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او سبھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:24.435459072Z",
+  "model": "glm-5.3"
+}

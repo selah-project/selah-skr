@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے او اوندے وِچ وسسن، تے تباہی نہ ہوسی ولا؛ تے یروشلایم بھروسے نال وسسی۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "تے وسسن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "تے تباہی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "تے وسسی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:27.179954784Z",
+  "model": "glm-5.3"
+}

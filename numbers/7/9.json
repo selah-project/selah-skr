@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "پر قبہت دے پُتراں کوں کجھ نہ ݙتس، کیوں جو پاک خدمت اُنہاں اُتے ہئی — مونڈھے اُتے او چیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قبہت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "مونڈھے اُتے"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چیندے ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:49.172470062Z",
+  "model": "glm-5.3"
+}

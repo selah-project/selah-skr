@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "تے او ڄاݨن جو تیݙا ناں یاہوہ ہے، تُوں کلہا سارے زمین اُتے سبھ توں اُچا ہیں۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے او ڄاݨن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیݙا ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سبھ توں اُچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:27.780287167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے یاہوہ دا غلام موشے اُتھاں مُوآب دی زمین وِچ یاہوہ دے مُنہ ⟨موجب⟩ مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨موجب⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:32.888510009Z",
+  "model": "glm-5.3"
+}

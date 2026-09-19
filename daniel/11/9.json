@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨او⟩ لمے دے بادشاہ دی سلطنت وِچ آسی، تے اپݨی بھوئیں دو ولوسی۔",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "تے آسی"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "سلطنت وِچ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے ولوسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "اپݨی بھوئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:53.142807524Z",
+  "model": "glm-5.3"
+}

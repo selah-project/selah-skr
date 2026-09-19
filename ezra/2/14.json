@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بِگْوای دے پُتر، ہزار ݙو سو پنجاہ تے چھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگْوای"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار ݙو سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "تے چھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:30.970731514Z",
+  "model": "glm-5.3"
+}

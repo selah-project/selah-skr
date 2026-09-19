@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے بلعم بالاق دے نال ڳیا، تے او قریت خُصوت آئے۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "خُصوت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:50.110080451Z",
+  "model": "glm-5.3"
+}

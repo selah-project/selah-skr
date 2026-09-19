@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "کیوں جو ایں طرح ادونای میکوں آکھیا: “ونڄ، پہرے دار کوں کھڑا کرو، جو کجھ او ݙیکھسی، او ݙسیسی۔”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "کھڑا کرو"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "پہرے دار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:39:26.177765312Z",
+  "model": "glm-5.3"
+}

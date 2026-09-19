@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "ہر مردہ تے پھاٹی ہوئی شے، پرندیاں وِچوں تے ڈھوراں وِچوں، کاہن کھاسن نہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "مردہ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "تے پھاٹی ہوئی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندیاں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے وِچوں"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڈھوراں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاسن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:36.168854726Z",
+  "model": "glm-5.3"
+}

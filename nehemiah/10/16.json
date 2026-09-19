@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "بُنّی، عزگد، بیوائی،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بُنّی"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگد"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بیوائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:01.611532980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اوہ قوم توں قوم وَل ٹُردے ریہے، ہِک مملکت توں ٻئی قوم وَل۔",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ٹُردے ریہے"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "قوم توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "تے مملکت توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:35.716340434Z",
+  "model": "glm-5.3"
+}

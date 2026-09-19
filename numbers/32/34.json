@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے گاد دے پُتراں ڈیبون ⟨את⟩، تے عطاروت ⟨את⟩، تے عروعیر ⟨את⟩ اُساریاں۔",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "اُساریاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڈیبون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ڈیبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عطاروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عطاروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عروعیر"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عروعیر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:56.957701060Z",
+  "model": "glm-5.3"
+}

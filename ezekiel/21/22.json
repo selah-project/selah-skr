@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے میں وی ہِک ہتھیلی کوں ݙوجھی ہتھیلی تے مریساں، تے اپݨا غصّہ ٹھیریساں — میں یاہوہ ایہ آکھیا ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "مریساں"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "ٹھیریساں"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "غصّہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "آکھیا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:57.659613798Z",
+  "model": "glm-5.3"
+}

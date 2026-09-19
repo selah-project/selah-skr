@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیویں عیسو ڳولیا ڳیا! کیویں اوندے لُکے خزانے ٻاہر نکل ڳئے!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ڳولیا ڳیا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ٻاہر نکل ڳئے"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "اوندے لُکے خزانے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:55:06.793054667Z",
+  "model": "glm-5.3"
+}

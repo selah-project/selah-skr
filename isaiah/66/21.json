@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "تے اوہناں وِچوں وی میں کاہناں تے لویاں کیتے گھنساں، یاہوہ آکھیا۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں وِچوں"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "گھنساں"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "کاہناں کیتے"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لویاں کیتے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:58:17.846134335Z",
+  "model": "glm-5.3"
+}

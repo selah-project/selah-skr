@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو ساݙی چٹان وانگوں انہاں دی چٹان کائنی، تے ساݙے ویری آپ فیصلہ کریندے ہن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "ساݙی چٹان وانگوں"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "انہاں دی چٹان"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "تے ساݙے ویری"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "فیصلہ کرݨ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:04.220731833Z",
+  "model": "glm-5.3"
+}

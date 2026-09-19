@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے ہِک قاصد شاؤل کول آیا، آکھیس: “جلے آ، کیوں جو پلشتیم ملک اُتے چڑھ آئن۔”",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "تے ہِک قاصد"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "جلے آ"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ڄُل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "چڑھ آئن (کھنڈ پئن)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:45:21.576851734Z",
+  "model": "glm-5.3"
+}

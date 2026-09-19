@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں ⟨את⟩ اکھیاں اُٹھا تے ݙٹھا، تے اِتھے چار سنگھ ہن۔",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "اُٹھا تے ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اکھیاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکھیاں"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اِتھے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سنگھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:09.393954611Z",
+  "model": "glm-5.3"
+}

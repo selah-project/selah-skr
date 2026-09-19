@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اَخیاہ، خنان، عنان۔",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "تے اَخیاہ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خنان"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "عنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:55.396668871Z",
+  "model": "glm-5.3"
+}

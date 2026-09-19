@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "رِحبیاہو کیتے: رِحبیاہو دیاں اولاداں وِچوں یِششیاہ سردار ہا۔",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "رِحبیاہو کیتے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دیاں اولاداں وِچوں"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "رِحبیاہو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "یِششیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:45.403004383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ترے ڳالھیں توں زمین کپی ویندی ہے، تے چار توں او سہہ کائنی سڳدی ⟨اوں توں⟩۔",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "کپی ویندی ہے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے چار توں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "سہہ سڳدی"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "چاوݨ ⟨اوں توں⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:19.283386431Z",
+  "model": "glm-5.3"
+}

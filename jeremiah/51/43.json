@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 51:43",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "اوندے شہر ویران تھی ڳئے، سُکی بھوئیں تے بنجر، ہِک بھوئیں جتھاں کوئی بندہ نہ وسے، تے کوئی اِنسان پُتر اُتھوں نہ لنگھے۔",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "تھی ڳئے"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بھوئیں"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُکی"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "تے بنجر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بھوئیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وسے"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "اتھاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگھے"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:23:36.641583049Z",
+  "model": "glm-5.3"
+}

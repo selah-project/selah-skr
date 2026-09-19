@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "تنگ جاہی توں میں یاہ کوں سݙیا، یاہ میکوں کھلے وِچ جواب ݙتس۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "تنگ جاہی"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں سݙیا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "میکوں جواب ݙتس"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "کھلے وِچ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:37.749669042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے اِسرائیل دا گھر ڄاݨسی جو میں یاہوہ، اُنہاں دا ایلوہیم ہاں، اُو ݙینہہ توں تے اڳوں۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ڄاݨسی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اُنہاں دا ایلوہیم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "تے اڳوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:10.288887259Z",
+  "model": "glm-5.3"
+}

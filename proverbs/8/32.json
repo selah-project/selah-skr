@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ہُݨ، اَے پُتراں، میݙی سݨو: خوش اُو ہن جیہڑے میݙے راہ رکھدِن۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اَے پُتراں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "تے خوش"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میݙے راہ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "رکھدِن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:25.239565679Z",
+  "model": "glm-5.3"
+}

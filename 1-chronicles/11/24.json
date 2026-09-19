@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ایہ کماں بِنایاہ، یہویاداع دے پُتر، کیتے، تے تِنہاں بہادراں وِچ اوندا ناں ہا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویاداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "تے اوندا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "تِنہاں وِچ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "بہادراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:50.974878558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ماشیاخ کاہن پَھٹ دے لہو وِچوں گھنسی، تے ⟨אתו⟩ اونوں ملاقات دے خیمے وِچ ڳھن ویسی۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "گھنسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ماشیاخ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "لہو وِچوں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "پَھٹ دے"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ڳھن ویسی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اونوں (لہو)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:02.702808270Z",
+  "model": "glm-5.3"
+}

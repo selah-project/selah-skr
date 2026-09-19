@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یہوداہ یِسرائل دے اڳوں مارا ڳیا، تے ہر بندہ اپݨے خیمے کوں بھڄ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "مارا ڳیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "بھڄ ڳئے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "اپݨے خیمے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:32.453812601Z",
+  "model": "glm-5.3"
+}

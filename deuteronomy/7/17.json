@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو تُوں آپݨے دل وِچ آکھسیں: “ایہ قوماں میں توں ٻہوں ہِن؛ میں اِنہاں کوں کِویں ہٹا سڳداں؟”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھسیں"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "آپݨے دل وِچ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سڳداں"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "اِنہاں کوں ہٹاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:08.803338861Z",
+  "model": "glm-5.3"
+}

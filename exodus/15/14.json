@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "قوماں سُݨیا تاں کانب ڳیاں؛ پِڑاں نے پلست دے وسݨ آلیاں کوں پکڑ گھدا۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "کانب ڳیاں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "پِڑاں"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "پکڑ گھدا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسݨ آلیاں کوں"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "پلست"
+    }
+  ],
+  "timestamp": "2026-09-19T14:50:18.650807688Z",
+  "model": "glm-5.3"
+}

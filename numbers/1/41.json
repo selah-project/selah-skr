@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں دی ڳݨتی، اَشیر دے قبیلے دی: ہِک تے چالھی ہزار تے پنج سَو۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اُنہاں دی ڳݨتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشیر دے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:48.599564010Z",
+  "model": "glm-5.3"
+}

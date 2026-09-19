@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "یقیناً تُو لُکا ہویا ایل ہیں، یِسرایل دے ایلوہیم، چھُڑاوݨ آلا۔",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "مסתתר",
+      "gloss": "لُکا ہویا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "چھُڑاوݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:50:13.242754781Z",
+  "model": "glm-5.3"
+}

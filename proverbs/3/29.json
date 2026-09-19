@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "آپݨے سنگتی بارے برائی نہ گھڑ، جݙاں او تیݙے نال امانت نال ٻیٹھا ہے ⟨אתך⟩۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "گھڑ (سازش کر)"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "تیݙے سنگتی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ٻیٹھا ہے"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "امانت نال"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "تیݙے نال ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.883745862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "او ہے یاہوہ، ساݙا ایلوہیم؛ ساری زمین اُتے اوندے انصاف ہن۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "اوندے انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:53.752837685Z",
+  "model": "glm-5.3"
+}

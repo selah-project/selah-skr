@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیوں جو میں سݙ ماریا تے تُساں منہ موڑ گھدا، میں ہتھ اَݙا تے کوئی کن نہ ݙتا،",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں سݙ ماریا"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "منہ موڑ گھدا"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "میں اَݙا"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "کوئی نہ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "کن ݙتا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:43.245827014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "موشے تے لوی کاہن سارے یسرائیل کوں آکھیا: “چُپ کر تے سݨ، اے یسرائیل! اَڄ دے ݙینہہ توں یاہوہ تیݙے ایلوہیم دا قوم بݨیوں۔”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "تے کاہن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "چُپ کر"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سݨ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "بݨیوں"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:55.813390094Z",
+  "model": "glm-5.3"
+}

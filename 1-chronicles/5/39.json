@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے شلوم ⟨את⟩ حلقیہ کوں پیدا کیتا، تے حلقیہ ⟨את⟩ عزریہ کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "تے شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حلقیہ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حلقیہ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "تے حلقیہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:59.815384166Z",
+  "model": "glm-5.3"
+}

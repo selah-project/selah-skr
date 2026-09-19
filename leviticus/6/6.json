@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "بھا ہمیش قربان گاہ اُتے سڑدی رہسی، نہ وسمسی۔",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "سڑدی رہسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "وسمسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:37.294833724Z",
+  "model": "glm-5.3"
+}

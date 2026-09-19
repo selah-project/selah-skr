@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ڳنھ والے ڈان٘ڈے کوں اوندے داݨے وہیندے ویلے نہ جھکائیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "جھکائیں"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڈان٘ڈے کوں"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "اوندے داݨے وہیندے ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:51.533432664Z",
+  "model": "glm-5.3"
+}

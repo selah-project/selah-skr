@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "زکّای دے پُتر، ست سو تے سٹھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زکّای"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:47.466465750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے ⟨את⟩ ادوم کوں، تے ⟨את⟩ موآب کوں، تے ⟨את⟩ عمون دے پُتراں کوں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عمون دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    }
+  ],
+  "timestamp": "2026-09-19T18:08:44.925276160Z",
+  "model": "glm-5.3"
+}

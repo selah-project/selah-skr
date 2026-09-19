@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے او وڑسن نہ ݙیکھن لڑھائی ویلے ⟨את⟩ پاک شے، نہ تاں مر ویسن۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "وڑسن"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ݙیکھن"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "لڑھائی ویلے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاک شے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک شے"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "مر ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:13.857018519Z",
+  "model": "glm-5.3"
+}

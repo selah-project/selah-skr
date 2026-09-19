@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "گنہگاراں نال میݙی جان کوں تے خون وہاوݨ آلے بندیاں نال میݙی حیاتی کوں کٹھا نہ کر۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "کٹھا کر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گنہگاراں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے … نال"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون والے"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میݙی حیاتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:53.440618305Z",
+  "model": "glm-5.3"
+}

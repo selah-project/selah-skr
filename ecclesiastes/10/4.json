@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "جے حاکم دا غصہ تیݙے اُتے چڑھے، آپݨی جا نہ چھوڑ — کیوں جو نرمی وݙے گناہاں کوں سُکا ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "حاکم دا"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "آپݨی جا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "نرمی"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "سُکا ݙیندی ہے"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہاں کوں"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "وݙے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:17.095648464Z",
+  "model": "glm-5.3"
+}

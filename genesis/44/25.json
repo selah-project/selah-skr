@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے ساݙے پیو آکھیا: “ولو ونڄو، ساݙے کیتے تھوڑا جیہا کھاوݨاں گھن آؤ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ساݙے پیو"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ولو ونڄو"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "گھن آؤ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا جیہا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاوݨاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:34.925583333Z",
+  "model": "glm-5.3"
+}

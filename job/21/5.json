@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "میݙے دوں منہ کرو، حیران تھی ونجو، تے ہتھ ⟨את⟩ مُنہ اُتے رکھو۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "منہ کرو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے دوں"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "تے حیران تھی ونجو"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "تے رکھو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פה",
+      "gloss": "مُنہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:07.644892246Z",
+  "model": "glm-5.3"
+}

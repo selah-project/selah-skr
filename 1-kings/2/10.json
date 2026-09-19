@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے داوِد اپݨے پیواں نال سُتا، تے داوِد دی شہر وِچ دفن تھیا۔",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "تے سُتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپݨے پیواں"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "تے دفن تھیا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:55.600087099Z",
+  "model": "glm-5.3"
+}

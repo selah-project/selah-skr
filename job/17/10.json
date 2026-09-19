@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے ول تُساں سارے وَل آؤ، آؤ ہُݨ، پر میکوں تُہاݙے وچوں کوئی سیاݨا نہ لہسی۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "تُساں سارے"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "وَل آؤ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لہسی"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُہاݙے وچوں"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:18.207038586Z",
+  "model": "glm-5.3"
+}

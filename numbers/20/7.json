@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یاہوہ موشے نال اِیں şekilde الایا، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:20.381061490Z",
+  "model": "glm-5.3"
+}

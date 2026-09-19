@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "اسماناں توں یاہوہ ݙٹھا، ⟨את⟩ سارے آدم دے پُتراں کوں ݙیکھیا۔",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ٻہوں غور نال ݙٹھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے آدم دے پُتر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:01.795207868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "ساڑ دے بدلے ساڑ، زخم دے بدلے زخم، چوٹ دے بدلے چوٹ۔",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ساڑ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ساڑ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "چوٹ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "چوٹ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:54.535290731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "راؤبݨ جیوے تے نہ مرے، تے اوندے بندے ڳݨتی دے ہوون۔",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "جیوے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راؤבݨ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مرے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "اوندے بندے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:21.300428034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ تَخات کنوں ٹُرے، تے تَراخ وِچ پڑاؤ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تَخات کنوں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پڑاؤ کیتا"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "تَراخ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:33.069743867Z",
+  "model": "glm-5.3"
+}

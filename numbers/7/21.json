@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ڳاں دا پُتر، ہِک دنبہ، ہِک بھاݨاں، ہِک ورہے دا پُتر، سوختنی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھاݨاں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ورہے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوختنی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:19.777849829Z",
+  "model": "glm-5.3"
+}

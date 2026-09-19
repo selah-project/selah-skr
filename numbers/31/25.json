@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یاہوہ موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:18.141508097Z",
+  "model": "glm-5.3"
+}

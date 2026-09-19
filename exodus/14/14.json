@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "یاہوہ تُہاݙے کیتے لڑسی، تے تُساں چپ راہسو۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "لڑسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "تے تُساں"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "چپ راہسو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:13.076911443Z",
+  "model": "glm-5.3"
+}

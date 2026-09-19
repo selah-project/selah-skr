@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے تُساں میکوں ⟨את⟩ جواب ݙتا تے آکھیا: “جیہڑی ڳالھ تُساں کرݨ کیتے آکھی ہے او چنگی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "میکوں"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تُساں آکھی ہے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:38.290657388Z",
+  "model": "glm-5.3"
+}

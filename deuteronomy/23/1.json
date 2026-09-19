@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کوئی بندہ ⟨את⟩ اپݨے پیو دی ذال نہ گھنسی، تے اپݨے پیو دا دامن نہ کھولسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھنسی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے پیو دی ذال"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پیو دی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "کھولسی"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پیو دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:13.214630945Z",
+  "model": "glm-5.3"
+}

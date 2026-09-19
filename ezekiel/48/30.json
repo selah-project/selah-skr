@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے ایہ نے شہر دے نکاس ہن، اُبھے پاسوں: پنج سے تے چار ہزار ناپ۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ نے"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "نکاس"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسوں"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُبھے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سے"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:37.856431608Z",
+  "model": "glm-5.3"
+}

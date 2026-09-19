@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "انہاں دا گوشت نہ کھاؤ تے انہاں دی لاش کوں ہتھ نہ لاؤ — او تُہاݙے کیتے نجس ہن۔",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "انہاں دا گوشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "تے انہاں دی لاش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגעو",
+      "gloss": "ہتھ لاؤ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او ہن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:38.710979703Z",
+  "model": "glm-5.3"
+}

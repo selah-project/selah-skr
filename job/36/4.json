@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "کیوں جو سچ، میݙیاں ڳالھیں وِچ کوڑ کائنی؛ کامل علم والا تُہاݙے نال ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میݙیاں ڳالھیں"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "علم والا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تُہاݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:55.858417962Z",
+  "model": "glm-5.3"
+}

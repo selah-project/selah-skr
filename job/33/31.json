@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "اِیوب، دھیان ݙے تے میکوں سُݨ؛ چُپ تھی، تے میں ٻولساں۔",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "دھیان ݙے"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیوب"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "چُپ تھی"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ٻولساں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:24.134528094Z",
+  "model": "glm-5.3"
+}

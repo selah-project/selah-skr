@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے جے سٹھ سالاں توں اُتے ہووے، جے نر ہووے تاں تیݙا اندازہ پندرہ شکل ہوسی، تے مادی کیتے ݙاہ شکلاں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تاں ہوسی"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیݙا اندازہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پندرہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(پندرہ دا ٹکرا)"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "تے مادی کیتے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکلاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:40.408934100Z",
+  "model": "glm-5.3"
+}

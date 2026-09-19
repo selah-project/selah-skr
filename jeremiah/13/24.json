@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے میں انہاں کوں بکھیریساں، روہی دی ہوا نال اُڑدے بھوسے وانگوں۔",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "بکھیریساں"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "بھوسے وانگوں"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "اُڑدے"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ہوا نال"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "روہی دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:16.036186290Z",
+  "model": "glm-5.3"
+}

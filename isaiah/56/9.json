@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 56,
+  "translation": "سارے کھیتر دے جانور، آؤ کھاؤݨ کیتے، سارے جانور جنگل دے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کھیتر دے"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھاؤݨ کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "جنگل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:52:48.074082256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے یاہوہ دی ڳالھ نبی یرمیاہو کولھ آئی، آکھݨ آلی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:24.741452397Z",
+  "model": "glm-5.3"
+}

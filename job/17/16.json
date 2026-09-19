@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "شیول دیاں تڑیاں دوالے لہسن؛ کیا رل کے دھوڑ اُتے آرام ہوسی؟",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "تڑیاں"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "لہسن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "رل کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:42.077542896Z",
+  "model": "glm-5.3"
+}

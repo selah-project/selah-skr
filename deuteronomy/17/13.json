@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے سارا لوک سُݨسی تے ݙرسی، تے ولا ہٹھیا نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "تے ݙرسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ہٹھیا کریسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:59:04.461148029Z",
+  "model": "glm-5.3"
+}

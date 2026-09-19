@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے یاہوہ دی ڳالھ اونکوں تھئی، ٻولی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ٻولی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:13:56.023155835Z",
+  "model": "glm-5.3"
+}

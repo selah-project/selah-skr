@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اوہ ⟨את⟩ خوشبو کوں بھا اُتے یاہوہ دے اڳوں رکھسی، تے خوشبو دا بدل ⟨את⟩ کفورت کوں ڈھک گھنسے جیڑھا گواہی اُتے ہے، تے اوہ مرسی نہ۔",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "رکھسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشبو"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ڈھک گھنسے"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "خوشبو دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفورت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفورت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:31.281878573Z",
+  "model": "glm-5.3"
+}

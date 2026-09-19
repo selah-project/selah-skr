@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے دانی توں جنگ دی صف بَدھݨ والے ویہہ تے اَٹھ ہزار تے چھ سو۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "دانی"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "صف بَدھݨ والے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ دی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "تے اَٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:07.290219474Z",
+  "model": "glm-5.3"
+}

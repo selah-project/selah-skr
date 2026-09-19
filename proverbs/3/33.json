@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "رشعیں دے گھر وِچ یاہوہ دی لعنت ہے، پر اوہ راستبازاں دے ٹکانے کوں برکت ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشعیں دے"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "پر ٹکانے"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازاں دے"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت ݙیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:17.492355368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "جیہڑا آپݨی زبان نال چُغلخی نہ کرے، آپݨے یار کوں برائی نہ کرے، تے آپݨے قریبی اُتے بے عزتی نہ چاوے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "چُغلخی"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "آپݨی زبان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "آپݨے یار کوں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "تے بے عزتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاوے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "آپݨے قریبی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:40.012552018Z",
+  "model": "glm-5.3"
+}

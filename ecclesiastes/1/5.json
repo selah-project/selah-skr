@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے سِجھ چڑھدا ہے، تے سِجھ ڈھلدا ہے، تے اپݨی جاء دوڑدا ہانپدا ہویا او اُتھائیں وَل چڑھدا ہے جتھاں او ڈھلدے۔",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "تے چڑھدا ہے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے ڈھلدا ہے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اپݨی جاء"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ہانپدا ہویا"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "چڑھدا ہویا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھائیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:51.069274113Z",
+  "model": "glm-5.3"
+}

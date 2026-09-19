@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "جݙاں میں مقرر وقت گھنساں، میں آپ سِدھی راستی نال فیصلہ کریساں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "میں گھنساں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر وقت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سِدھی راستی نال"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "فیصلہ کریساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:06.279698961Z",
+  "model": "glm-5.3"
+}

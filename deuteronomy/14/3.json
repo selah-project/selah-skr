@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "کوئی کریہت شے نہ کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کریہت شے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:34.284696681Z",
+  "model": "glm-5.3"
+}

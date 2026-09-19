@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او سُوف دے سمندر توں ٹُرے، تے سِن دی بیابان وِچ ٹکاݨے ۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف دے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹکاݨے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سِن دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:47.176099156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اوندا ناں یِسراایل وِچ ایہ سݙیا ویسی: “جُتی لہائی ہوئے دا گھر۔”",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "تے سݙیا ویسی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسراایل وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "لہائی ہوئے دا"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "جُتی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:46.961305401Z",
+  "model": "glm-5.3"
+}

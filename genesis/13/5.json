@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے لوت کوں وی، جیہڑا ⟨את⟩ اَوراہام ⟨نال⟩ ٹُردا ہا، بھیڈاں، ڳاواں تے خیمے ہن۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "لوت کوں"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ٹُردا ہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڈاں"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "تے ڳاواں"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "تے خیمے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:25.851792233Z",
+  "model": "glm-5.3"
+}

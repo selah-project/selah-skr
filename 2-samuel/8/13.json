@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے داوِد ناں کمایا اوں ویلے جݙاں اوں ⟨את⟩ آرام کوں مار کے وَلیا، نمک دی وادی وِچ — اَٹھارہ ہزار۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کمایا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "جݙاں اوں وَلیا"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "مار کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آرام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "نمک"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ارہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:07.929358344Z",
+  "model": "glm-5.3"
+}

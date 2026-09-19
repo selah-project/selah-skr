@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 4:15",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "“ہٹ ونجو، نجس!” اُنہاں کوں سݙ ماریا، “ہٹ ونجو، ہٹ ونجو، چھووے نہ!” کیوں جو او بھج وی ڳئے، رُل وی ڳئے؛ قومیں وِچ آکھیا ڳیا: “او ہور نہ رہسن۔”",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ہٹ ونجو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سݙ ماریا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ہٹ ونجو"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ہٹ ونجو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "چھووے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נצו",
+      "gloss": "بھج ڳئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "رُل ڳئے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا ڳیا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "رہوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:40.503949862Z",
+  "model": "glm-5.3"
+}

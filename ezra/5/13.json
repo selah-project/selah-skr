@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پر بابل دے بادشاہ کوِرش دے پہلے سال وِچ، کوِرش بادشاہ ہِک فرمان رکھیا جو ایہ ایلاہ دا گھر بݨایا ونڄے۔",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کوِرش دے"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "کوِرش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایلاہ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "بݨݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:27:31.577273213Z",
+  "model": "glm-5.3"
+}

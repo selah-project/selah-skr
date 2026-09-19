@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پُتر میݙا، جے گنہگار تیکوں لالچ ݙیون، تُوں رضا نہ کر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر میݙا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "لالچ ݙیون"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گنہگار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "رضا نہ کر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:21.890896345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "پر تُساں ہمت کرو، تے تُہاݙے ہتھ نہ ڈھِلّو، کیوں جو تُہاݙے کم دا اجر ہے۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "پر تُساں"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ہمت کرو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ڈھِلّو"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "تُہاݙے ہتھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "تُہاݙے کم دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:29.567165023Z",
+  "model": "glm-5.3"
+}

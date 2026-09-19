@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے یرمیاہو ⟨את⟩ باروک کوں ایہ حکم ݙتس، آکھ تے: “میں قید ہاں، میں یاہوہ دے گھر وِچ نہ ونڄ سڳدا۔”",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "تے حکم ݙتس"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باروک"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروک"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "قید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سڳدا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ونڄݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:15:37.475887324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ایہ لِیوی دے پُتر ہن، آپݨیاں نانواں نال: گَرشون، قِہات تے مَراری۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِیوی"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "آپݨیاں نانواں نال"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گَرشون"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "مَراری"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:08.266395046Z",
+  "model": "glm-5.3"
+}

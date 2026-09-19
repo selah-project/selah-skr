@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بادشاہ تے ہامان ملکہ اِستیر نال پیوݨ کیتے آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "تے ہامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پیوݨ کیتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستیر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:18:02.992031189Z",
+  "model": "glm-5.3"
+}

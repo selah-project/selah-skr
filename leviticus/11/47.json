@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ناپاک تے پاک وِچ فرق کرݨ کیتے، تے کھاوݨ آلی جان تے اوں جان وِچ جیہڑی نہ کھادی ونڄے۔",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "فرق کرݨ کیتے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "کھاوݨ آلی"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھادی ونڄے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:11:51.003383674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "ݙیکھ، یِسرایل دے سردار، ہر ہِک اپݨی ٻانہہ دے زور نال، تیں وِچ ہَن، لہو وہاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "اپݨی ٻانہہ دے زور نال"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیں وِچ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "وہاوݨ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:50.900919047Z",
+  "model": "glm-5.3"
+}

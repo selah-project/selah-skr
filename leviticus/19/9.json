@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے جݙاں تُساں آپݨی زمین دی فصل ⟨את⟩ کپو، آپݨے کھیت دا کنڈا مککل نہ کپو، تے آپݨی فصل دی وَڑی نہ چُݨو۔",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "جݙاں تُساں کپو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فصل"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "آپݨی زمین دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "مککل"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "کنڈا"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "آپݨے کھیت دا"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "کپو"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "تے وَڑی"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "آپݨی فصل دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "چُݨو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:27.036428410Z",
+  "model": "glm-5.3"
+}

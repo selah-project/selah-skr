@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 91,
+  "translation": "تو رات دے ݙر توں نہ ڈرسیں، نہ ݙینہہ اُݙدی تیر توں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈرسیں"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ݙر توں"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات دے"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "تیر توں"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "اُݙدی"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:56.564523677Z",
+  "model": "glm-5.3"
+}

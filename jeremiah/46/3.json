@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "سِدھیاں کرو ڈھال تے وݙی ڈھال، تے جنگ دو ونڄو۔",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "سِدھیاں کرو"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "تے وݙی ڈھال"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "تے ونڄو"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ دو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:36.815700195Z",
+  "model": "glm-5.3"
+}

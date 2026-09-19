@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "پر نُوح یاہوہ دیاں اکھیں وِچ مہر ڳولی۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "پر نُوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ڳولی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:07.955013970Z",
+  "model": "glm-5.3"
+}

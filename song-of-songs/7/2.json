@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیا سوہݨے ہن تیݙے قدم جتیاں وِچ، اے نواب دی دھی! تیݙیاں راناں دے گول کنارے گہݨیاں وانگوں ہن، کاریگر دے ہتھاں دا کم۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "سوہݨے"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "تیݙے قدم"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "جتیاں وِچ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نواب"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "گول کنارے"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "راناں دے"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "گہݨیاں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "کاریگر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:38.088588137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "سارا ریندا جی جیہڑا جِیوا ہے، تُہاݙے کیتے کھاوݨ ہوسی؛ سبز گھاہ وانگوں میں تُہاکوں ⟨את⟩ سب کجھ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ریندا جی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "کھاوݨ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "سبز گھاہ وانگوں"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:41.998517658Z",
+  "model": "glm-5.3"
+}

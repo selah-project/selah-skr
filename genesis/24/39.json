@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تاں میں اپݨے سائیں کوں آکھیا: “کیناں او ذال میݙے پچھوں نہ ٹُری؟”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اپݨے سائیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "کیناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ٹُری"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "او ذال"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "میݙے پچھوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:26.422526850Z",
+  "model": "glm-5.3"
+}

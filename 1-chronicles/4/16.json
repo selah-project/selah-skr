@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یہللیلایل دے پُتر: زیف، زیفاہ، تیریا تے اشرایل ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "یہللیلایل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "تے زیفاہ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تیریا"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "تے اشرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:42.233961992Z",
+  "model": "glm-5.3"
+}

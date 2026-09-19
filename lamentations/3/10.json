@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "او میݙے کیتے ہِک چُکݨ آلا رِچھ ہے، لُکݨ آلیاں جاہیں وِچ ہِک شیر۔",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "رِچھ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "چُکݨ آلا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "لُکݨ آلیاں جاہیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:26.100820682Z",
+  "model": "glm-5.3"
+}

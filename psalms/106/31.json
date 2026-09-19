@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے اُوکوں راستی وجھی ڳئی، نسل در نسل، ہمیشہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "وجھی ڳئی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوکوں"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "در نسل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:04.685566289Z",
+  "model": "glm-5.3"
+}

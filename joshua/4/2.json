@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تُساں قوم وِچوں اپݨے کیتے ٻارہاں بندیاں کوں گھنو — ہِک بندہ، ہِک بندہ ⟨ہر ہِک⟩ قبیلے وِچوں۔",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "گھنو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں اپݨے کیتے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "قبیلے وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:58.070616914Z",
+  "model": "glm-5.3"
+}

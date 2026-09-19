@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اے سُستا، کاݨی کیتے ونڄ، اوندے رستیاں کوں ݙیکھ، تے سیاݨا تھی۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "کاݨی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "اے سُستا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "اوندے رستیاں کوں"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "تے سیاݨا تھی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:20.354726715Z",
+  "model": "glm-5.3"
+}

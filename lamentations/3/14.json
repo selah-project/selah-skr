@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں سارے میݙے لوکاں دا ہَسّہ بݨیا، سارا ݙینہہ اُنہاں دی ڳانی۔",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "بݨیا"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہَسّہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙے لوکاں"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "اُنہاں دی ڳانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.011033434Z",
+  "model": "glm-5.3"
+}

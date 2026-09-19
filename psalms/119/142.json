@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙی راستی ہمیش دی راستی ہے، تے تیݙی تورات سچ ہے۔",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "تیݙی راستی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "تے تیݙی تورات"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:08.998193585Z",
+  "model": "glm-5.3"
+}

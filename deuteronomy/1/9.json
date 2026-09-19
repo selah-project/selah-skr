@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے میں تُساں کوں اوں ویلے آکھیا، جو میں کلہا نہ سڳدا تُساں ⟨אתכם⟩ دا بار چاوݨ۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تُساں کوں"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اوں ویلے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سڳدا"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "بار چاوݨ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "تُساں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:33.246653396Z",
+  "model": "glm-5.3"
+}

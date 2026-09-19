@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یِسرایل دا ہر بندہ شہر دو ہِک بندے وانگوں کٹھا تھیا — سنگتی۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "تے کٹھا تھیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "بندے وانگوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "سنگتی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:32:02.801328611Z",
+  "model": "glm-5.3"
+}

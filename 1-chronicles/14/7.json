@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اِلیشماع، تے بِعلیاداع، تے اِلیپلت۔",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "تے اِلیشماع"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "تے بِعلیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "تے اِلیپلت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:24.072935409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اسرائیل داوِد دے گھر توں بغاوت کیتی، اِیں ݙینہہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "بغاوت کیتی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:11:39.279860828Z",
+  "model": "glm-5.3"
+}

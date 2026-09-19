@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے جیہڑا جانور دی جان مارے، او اونکوں بدل ݙیسی — جان دے بدلے جان۔",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "تے جیہڑا مارے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور دی"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "بدل ݙیسی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:15.304675262Z",
+  "model": "glm-5.3"
+}

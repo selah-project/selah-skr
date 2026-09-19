@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اَٹّھ تختیاں ہَن، تے اُنہاں دے نیہے چاندی دے سولھاں نیہے ہَن — ہر ہِک تختی تلے ݙو ݙو نیہے۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اَٹّھ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختیاں"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "تے اُنہاں دے نیہے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی دے"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چَھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "نیہے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "نیہے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "نیہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تَلے"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:50.675127490Z",
+  "model": "glm-5.3"
+}

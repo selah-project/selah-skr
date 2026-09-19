@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "مراری دے پُتر مَخلی تے موشی ⟨ہن⟩؛ یَعزیاہو دے پُتر — اوندا پُتر بِنو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "تے موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "یَعزیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:51.060722430Z",
+  "model": "glm-5.3"
+}

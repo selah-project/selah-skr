@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اختتام آ ڳیا، اختتام آ ڳیا؛ او تیݙے اُتے جاڳ ڳیا — ݙیکھو، او آندی پئی ہے۔",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "اختتام"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "اختتام"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "جاڳ ڳیا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آندی پئی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:16:05.791053525Z",
+  "model": "glm-5.3"
+}

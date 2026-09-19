@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ترائے صفیں وِچ وجھڑیکے، تے وجھڑیکا وجھڑیکے دے اُSAMݨے، ترے واری۔",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "تے وجھڑیکے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترائے"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "صفیں"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "تے وجھڑیکا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے اُSAMݨے"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "وجھڑیکا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:16.157004035Z",
+  "model": "glm-5.3"
+}

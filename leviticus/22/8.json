@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "مُردار تے پھاڑی ہوئی شے او نہ کھاوسی جیندے نال او نجیس تھیوے؛ میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "مُردار"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "تے پھاڑی ہوئی شے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "نجاست کیتے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:02.792979962Z",
+  "model": "glm-5.3"
+}

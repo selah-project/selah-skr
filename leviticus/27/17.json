@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "جے یوبل دے سال توں او اپݨا کھیت پاک کرے، تاں تیݙے اندازے موجب او قائم رہسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "سال توں"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یوبل دے"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پاک کرے"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "اپݨا کھیت"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "تیݙے اندازے موجب"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم رہسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:24.140754810Z",
+  "model": "glm-5.3"
+}

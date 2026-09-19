@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ⟨את⟩ یبوسی، تے ⟨את⟩ عیموری، تے ⟨את⟩ گرگشی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یبوسی"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یبوسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عیموری"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "عیموری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گرگشی"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گرگشی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:43.609830604Z",
+  "model": "glm-5.3"
+}

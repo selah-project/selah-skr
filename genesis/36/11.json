@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے الیفز دے پُتر ہن: تیمن، عمر، تصفو، غعتام تے قنز۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "الیفز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمن"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "عمر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "تصفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "تے غعتام"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "تے قنز"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:45.666741029Z",
+  "model": "glm-5.3"
+}

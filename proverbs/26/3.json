@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "گھوڑے کیتے چابک، کھوتے کیتے لگام، تے مورخاں دی پٹھ کیتے عصا۔",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "چابک"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "گھوڑے کیتے"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "لگام"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "کھوتے کیتے"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "تے عصا"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "پٹھ کیتے"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورخاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:36.649603219Z",
+  "model": "glm-5.3"
+}

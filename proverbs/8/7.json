@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیوں جو میݙا تالو سچ ٻولسی، تے میݙے ہونٹھاں کیتے بدی گھناؤنی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ٻولسی"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "میݙا تالو"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "تے گھناؤنی"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میݙے ہونٹھاں کیتے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:26.273046858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "افسوس اوندے اُتے جیڑھی باغی تے میلی تھئی ہوئی ہے، اوہ لُٹݨ آلا شہر!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "تے میلی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اوہ شہر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "لُٹݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:10.470395821Z",
+  "model": "glm-5.3"
+}

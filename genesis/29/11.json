@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے یعقوو راحیل کوں چُمیا، تے ⟨את⟩ آپݨی آواز چاتا تے رویا۔",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "چُمیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحیل کوں"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی آواز"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "آپݨی آواز"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "رویا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:32.390988672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے تیݙی اکھ ترس نہ کھاوے — جان بدلے جان، اکھ بدلے اکھ، ݙند بدلے ݙند، ہتھ بدلے ہتھ، پیر بدلے پیر۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ترس کھاوے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیݙی اکھ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بدلے جان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "بدلے اکھ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ݙند"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بدلے ݙند"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بدلے ہتھ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "بدلے پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:43.850331283Z",
+  "model": "glm-5.3"
+}

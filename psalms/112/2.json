@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 112,
+  "translation": "زمین اُتے اوندا ٻچا طاقتور ہوسی، سِدھیاں دی نسل برکت پاوسی۔",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "اوندا ٻچا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں دی"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت پاوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:48.253639185Z",
+  "model": "glm-5.3"
+}

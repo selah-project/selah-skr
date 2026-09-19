@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں اُوندے اُتے ⟨את⟩ خوشن ⟨سینہ بند⟩ رکھیا، تے خوشن وِچ ⟨את⟩ اُوریم تے ⟨ואת⟩ تُمیم پائے۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشن"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "خوشن"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "پائے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "خوشن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُوریم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "اُوریم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "تُمیم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تُمیم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:14.763584072Z",
+  "model": "glm-5.3"
+}

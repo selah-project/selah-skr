@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 29:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "سرداراں ٻولیاں روکیاں تے آپݨے منہ اُتے ہتھ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "עצרו",
+      "gloss": "روکیاں"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "ٻولیاں"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "یשימו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "לפיהם",
+      "gloss": "آپݨے منہ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:27.578360149Z",
+  "model": "glm-5.3"
+}

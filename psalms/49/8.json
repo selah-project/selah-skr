@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "بھرا کوئی بھرا کوں کڈھائیں نہ چھڑویسی، نہ ایلوہیم کوں اوندا فدیہ ݙے سڳسی۔",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "چھڑویسی"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "کوئی … چھڑویسی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙے سڳسی"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم کوں"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "اوندا فدیہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:42.909680839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایِتان دا پُتر، زِمّاہ دا پُتر، شِمعِی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایِتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعِی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:40.879395691Z",
+  "model": "glm-5.3"
+}

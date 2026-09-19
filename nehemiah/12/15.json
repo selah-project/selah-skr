@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "خرم دے وِچوں عدنا؛ مریوت دے وِچوں خَلقَی۔",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "خرم دے وِچوں"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "عدنا"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "مریوت دے وِچوں"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "خَلقَی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:21.621847635Z",
+  "model": "glm-5.3"
+}

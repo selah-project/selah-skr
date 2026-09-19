@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے وَل جݙاں مورکھ رستے وِچ ٹُردا ہے، اوندا دل چُٹا ہے، تے او ہر ہِک کوں ⟨ݙس ݙیندے⟩ جو او مورکھ ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وَل"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "مورکھ بݨ کے"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُردا ہے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندا دل"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "چُٹا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیندے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر ہِک کوں"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:17.093431309Z",
+  "model": "glm-5.3"
+}

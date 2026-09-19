@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "“اِنسان دے پُتر، ہِک پہیلی پُچھ، تے ہِک مثال بیت یِسرائیل ⟨ٹبر⟩ کوں ݙس۔”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "پُچھ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "پہیلی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے مثال"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:11.662258850Z",
+  "model": "glm-5.3"
+}

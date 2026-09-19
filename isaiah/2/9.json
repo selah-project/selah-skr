@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے آدمی جُھک ڳیا، تے بندہ نیواں تھی ڳیا — ⟨ٻس⟩ انہاں کوں معاف ⟨نہ⟩ کر۔",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "جُھک ڳیا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "نیواں تھی ڳیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "معاف کر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:31:51.062120556Z",
+  "model": "glm-5.3"
+}

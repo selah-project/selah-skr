@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "میݙا مونہہ حکمتاں ٻولسی، تے میݙے دِل دی سوچ سمجھاں ݙیسے۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "میݙا مونہہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ٻولسی"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمتاں"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "تے سوچ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙے دِل"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "سمجھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:15.084339128Z",
+  "model": "glm-5.3"
+}

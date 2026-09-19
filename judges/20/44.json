@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے بنیامین وِچوں اَٹھ ݙاہ ہزار بندے ڈھے پئے، ⟨את⟩ ایہہ سارے بہادر جوان ہن۔",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "تے ڈھے پئے"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "بنیامین وِچوں"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ سارے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:33:16.925688061Z",
+  "model": "glm-5.3"
+}

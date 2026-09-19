@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایسراایل دے پُتراں لویاں کوں ⟨את⟩ شہر تے ⟨ואת⟩ انہاں دے میدان ݙتے۔",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ݙتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ایسراایل"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لویاں کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "انہاں دے میدان"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "انہاں دے میدان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:31.803276651Z",
+  "model": "glm-5.3"
+}

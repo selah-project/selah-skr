@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ناتن بادشاہ کوں آکھیا: “جو کجھ تیݙے دل وِچ ہے، ونڄ کر، کیوں جو یاہوہ تیݙے نال ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تیݙے دل وِچ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:54.393646281Z",
+  "model": "glm-5.3"
+}

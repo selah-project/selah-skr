@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "لمے پاسے ⟨את⟩ ماپیا، پنج سو نرس، نپݨ آلی نرس نال۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لمے پاسے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ماپیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نرساں"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "نرس نال"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپݨ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:26.539750866Z",
+  "model": "glm-5.3"
+}

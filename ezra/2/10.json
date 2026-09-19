@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بانی دے پُتر، چھ سو چالیہہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:47.468131113Z",
+  "model": "glm-5.3"
+}

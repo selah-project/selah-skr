@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "بار ⟨ہے⟩ یاہوہ دا کلام یِسرائل کیتے، ملآخی دے ہتھ راہیں۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ راہیں"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ملآخی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:22.828296798Z",
+  "model": "glm-5.3"
+}

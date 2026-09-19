@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے جݙاں اوناں اوندے ݙٹھا، تاں تریہہ سنگتی چاتُس، تے او اوندے نال تھی ڳئے ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "جݙاں اوناں ݙٹھا"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ اوندے",
+      "marks": "אותו marks the object of כראותם — اوندے ݙٹھا"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "چاتُس"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "سنگتی"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تھی ڳئے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:28:16.645442773Z",
+  "model": "glm-5.3"
+}

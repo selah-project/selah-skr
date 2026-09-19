@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اِپھرایم دے قبیلے توں ہوشِع، نون دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے توں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِپھرایم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ہوشِع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:14.930362541Z",
+  "model": "glm-5.3"
+}

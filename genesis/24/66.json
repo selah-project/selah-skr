@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے غلام یِتصخاق کوں ⟨את⟩ ساریاں ڳالھیں ݙسیاں جیہڑیاں اوں کیتیاں۔",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ݙسیاں"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں ڳالھیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:44.825589963Z",
+  "model": "glm-5.3"
+}

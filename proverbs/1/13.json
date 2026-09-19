@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "سارا قیمتی مال مل پوسی، اساں آپݨے گھر لُٹ نال بھر گھنسوں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "مل پوسی"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "بھر گھنسوں"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "آپݨے گھر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٹ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:50.454009567Z",
+  "model": "glm-5.3"
+}

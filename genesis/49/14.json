@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "یِساکار ہِک ہݙی آلا کھوہا ہوسی، بھیڈاں دے واڑاں دے وچالے لتھا ہویا۔",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "کھوہا"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ہݙی آلا"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "لتھا ہویا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وچالے"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "بھیڈاں دے واڑاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:19.557552069Z",
+  "model": "glm-5.3"
+}

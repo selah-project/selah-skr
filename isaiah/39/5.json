@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے یشعیاہو خزقیاہو کوں آکھیا: “یاہوہ تصواوت دا ڳالھ سُݨ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خزقیاہو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-09-19T17:46:36.078108002Z",
+  "model": "glm-5.3"
+}

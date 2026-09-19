@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "داوِد دا مزمور۔ یاہوہ کوں ݙیوو، ایلیم دے پُترؤ، یاہوہ کوں جلال تے طاقت ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُترؤ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ایلیم دے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے طاقت"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:07.173827083Z",
+  "model": "glm-5.3"
+}

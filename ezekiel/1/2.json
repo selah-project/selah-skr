@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پنج مہینے دی — او سال یوياکین بادشاہ دی جلاوطنی دا پنجواں سال ہا۔",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "لחדש",
+      "gloss": "مہینے دی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "پنجویں"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "جلاوطنی دے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "یوياکین"
+    }
+  ],
+  "timestamp": "2026-09-19T18:25:12.906209512Z",
+  "model": "glm-5.3"
+}

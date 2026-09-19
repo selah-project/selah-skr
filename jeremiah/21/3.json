@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یرمیاہو اوہناں کوں آکھیا: “تُساں صدقیاہو کوں اےویں آکھسو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں کوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اےویں"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "آکھسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:49.885316822Z",
+  "model": "glm-5.3"
+}

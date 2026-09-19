@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ آکھیا: ”کیا تیکوں ایویں غصہ ٻلݨ ٹھیک ہے؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "کیا … ٹھیک ہے"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ ٻلݨ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:03.592661652Z",
+  "model": "glm-5.3"
+}

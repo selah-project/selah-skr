@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "یاہوہ دا جلال ہمیشہ کیتے رہے؛ یاہوہ اپݨیاں کماں وِچ خُش تھیوے۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خُش تھیوے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "اپݨیاں کماں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:19.144060565Z",
+  "model": "glm-5.3"
+}

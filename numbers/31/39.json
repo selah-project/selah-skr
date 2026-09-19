@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے کھوتے تریہہ ہزار تے پنج سَو، تے انہاں دا محصول یاہوہ کیتے ہِک تے سٹھ۔",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "تے کھوتے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "تے انہاں دا محصول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:09.952412069Z",
+  "model": "glm-5.3"
+}

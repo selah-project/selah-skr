@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "کیوں جو یاہوہ وݙا ہے تے ٻہوں تعریف آلا ہے، تے او سارے معبوداں کنوں ڈراؤنا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "تے تعریف آلا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "تے ڈراؤنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبوداں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:36.044456015Z",
+  "model": "glm-5.3"
+}

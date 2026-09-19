@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ⟨את⟩ اوہ ٻارہاں پتھر، جیہڑے یاردن توں گھدے ہن، یہوشوع گلگل وِچ کھڑے کیتے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻارہاں پتھر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "گھدے ہن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "کھڑے کیتے"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گلگل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:44.968036569Z",
+  "model": "glm-5.3"
+}

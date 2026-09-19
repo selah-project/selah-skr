@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "کیوں جو ⟨את⟩ ساری زمین جیڑھی تُوں ݙیدھا، تیکوں اونکوں ݙیساں، تے تیݙے پیٹھ کوں ہمیشہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیدھا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ݙیساں"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "تے تیݙے پیٹھ کوں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:29.380020120Z",
+  "model": "glm-5.3"
+}

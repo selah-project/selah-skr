@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اِلیشع گھر وِچ آیا، تے ݙیکھے تاں ٻال مر ڳیا ہا، اوندے پلنگ اُتے پیا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشع"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "پیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "اوندے پلنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:21:56.597819592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے تُساں وَل آیو تے یاہوہ دے اڳوں روئے، پر یاہوہ تُہاݙی آواز نہ سُنی تے تُساں والے کن نہ لایس۔",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "وَل آیو"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "روئے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "تُہاݙی آواز"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "کن لایس"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُساں والے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:21.579814235Z",
+  "model": "glm-5.3"
+}

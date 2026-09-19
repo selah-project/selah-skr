@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ شترمرغ دی مادہ، تے ⟨את⟩ تُخمِس، تے ⟨את⟩ شُخَف، تے ⟨את⟩ نِتس آپݨی قسم دے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "شترمرغ دی مادہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دی مادہ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تُخمِس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تُخمِس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "شُخَف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شُخَف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "نِتس"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "نِتس"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "آپݨی قسم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:11:50.803877107Z",
+  "model": "glm-5.3"
+}

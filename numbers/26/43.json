@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 26:43",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "شُوحامی دے سبھ خاندان، اِنہاں دی ڳݨتری موجب، چوسٹھ ہزار تے چار سؤ ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "شُوحامی دے"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "اِنہاں دی ڳݨتری موجب"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:04.944207751Z",
+  "model": "glm-5.3"
+}

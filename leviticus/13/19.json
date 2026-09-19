@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے سوج آلی جاہ اُتے چِٹا ابھار ہووے یا چِٹا چٹاک، کجھ سرخ — تاں کاہن کوں ݙیکھایا ویسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاہ اُتے"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "سوج آلی"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ابھار"
+    },
+    {
+      "surface": "لבנה",
+      "gloss": "چِٹا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "چٹاک"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "چِٹا"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "کجھ سرخ"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ݙیکھایا ویسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:01.144321516Z",
+  "model": "glm-5.3"
+}

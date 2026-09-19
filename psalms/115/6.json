@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "کَنّ انہاں دے ⟨ہن⟩ پر او سُݨدے کائنی، نَکّ انہاں دا ⟨ہے⟩ پر او سُنگھدے کائنی۔",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "کَنّ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر کائنی"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨدے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَکّ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر کائنی"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "سُنگھدے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:21.427243525Z",
+  "model": "glm-5.3"
+}

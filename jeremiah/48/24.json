@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے قریوت اُتے، تے بوصراہ اُتے، تے موآب دی زمین دے سبھ شہراں اُتے — پرے آلے تے نیڑے آلے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "قریوت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "بوصراہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "پرے آلے"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "تے نیڑے آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:10.117858589Z",
+  "model": "glm-5.3"
+}

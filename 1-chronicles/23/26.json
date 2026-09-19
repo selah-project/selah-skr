@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے لوییاں کیتے وی مسکن ⟨את⟩ تے ⟨ואת⟩ اوندے سارے برتھے اوندی خدمت کیتے چاوݨ کائنی۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لوییاں کیتے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چاوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "سارے برتھے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "برتھے"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "اوندی خدمت کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:07.073598070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "“اُٹھ، کیوں جو کم تیݙے اُتے ⟨ہے⟩، تے اساں تیݙے نال ہیسے؛ ہمت کر تے کر ݙِس۔”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "تے اساں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ہمت کر"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:58.893901762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "یاہوہ وِچ یِسرائل دا سارا نسل راست ٹھہریسی، تے فخر کرِسن۔",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "راست ٹھہریسی"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "تے فخر کرِسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:49:12.479767491Z",
+  "model": "glm-5.3"
+}

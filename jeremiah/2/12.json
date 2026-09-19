@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اسمانو، اینہہ اُتے حیران تھیوو، تے ہڑبھڄو، ٻہوں اجڑ ونجو — یاہوہ دا آکھیا ہے۔",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "حیران تھیوو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اینہہ"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "تے ہڑبھڄو"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "اجڑ ونجو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دے آکھے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:56:55.430326835Z",
+  "model": "glm-5.3"
+}

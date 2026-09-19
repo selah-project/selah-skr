@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ادھ — اوہناں دا حصہ جہڑے لشکر وِچ ٹُرے — بھیڈاں دی ڳݨتی موجب ترے سو ہزار تے تریہہ ہزار تے ست ہزار پنج سو۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ٹُرے ہوئے"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "لشکر وِچ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڈاں دی"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تریہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:39.792802845Z",
+  "model": "glm-5.3"
+}

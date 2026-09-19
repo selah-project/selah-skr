@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "کیوں جو خون دا پچھا کرݨ آلا ⟨אותם⟩ یاد رکھیندے، غریباں دی چیک بھلے نہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "پچھا کرݨ آلا"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون دا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "یاد رکھیندے (کوں)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھیندے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "بھلے"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "چیک"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "غریباں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:52.773056502Z",
+  "model": "glm-5.3"
+}

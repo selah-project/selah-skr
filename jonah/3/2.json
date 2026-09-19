@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "“اُٹھ، نینوہ — اوہ وݙا شہر — دو ونڄ، تے اوں کوں ⟨את⟩ اوہ پُکار پُکار جیڑھی میں تیکوں آکھدا ہاں۔”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "پُکار کر"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُکار"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "پُکار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھدا ہاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:56:50.720665706Z",
+  "model": "glm-5.3"
+}

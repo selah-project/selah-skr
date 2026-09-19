@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "جیویں یاہوہ ⟨את⟩ موشے کوں حکم ݙتا، تصلوفخاد دیاں دھیاں اوویں کیتا۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوویں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "تصلوفخاد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:33.494179538Z",
+  "model": "glm-5.3"
+}

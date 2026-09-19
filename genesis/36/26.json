@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اِیہ دِشان دے پُتر ہَن: خِمدان تے اِشبان تے یِتران تے کِران۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے اِیہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دِشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "خِمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "تے اِشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "تے یِتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "تے کِران"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:11.388356526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اُتھوں او ٹُر پئے، تے زارد دے نالے وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "او ٹُر پئے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نالے وِچ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:19.675458503Z",
+  "model": "glm-5.3"
+}

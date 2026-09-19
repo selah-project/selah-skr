@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ایں کیتے ایہو ادونای یاہوہ آکھیا: “افسوس ہے خوناں شہر کوں! میں وی ݙیوالی وݙی کریساں۔”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "خوناں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "وݙی کریساں"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "ݙیوالی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:39.486109316Z",
+  "model": "glm-5.3"
+}

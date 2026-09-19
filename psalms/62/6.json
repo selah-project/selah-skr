@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "صرف ایلوہیم کیتے، میݙی جان، چُپ رہ؛ کیوں جو میݙی اُمید اوں توں ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم کیتے"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "چُپ رہ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "میݙی اُمید"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:50.036918558Z",
+  "model": "glm-5.3"
+}

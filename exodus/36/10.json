@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اوں ⟨את⟩ پنج پردے ہِک کوں ݙوجھے نال جوڑیٔس، تے پنج پردے جوڑیٔس ہِک کوں ݙوجھے نال۔",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "جوڑیٔس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنج پردے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "جوڑیٔس"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ݙوجھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:08.275071715Z",
+  "model": "glm-5.3"
+}

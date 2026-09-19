@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں آپݨے کیتے باغ بݨوائے تے پھلوارے، تے اُنہاں وِچ ہر پھل دے رُکھ لایم۔",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "بݨوائے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "تے پھلوارے"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "تے … لایم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُنہاں وِچ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:19.744420407Z",
+  "model": "glm-5.3"
+}

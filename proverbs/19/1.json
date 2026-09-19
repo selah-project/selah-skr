@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "چنگا ہے غریب جیہڑا اپݨی سِدھی راہ وِچ ٹُردا، کُجھے ہونٹاں آلا نادان توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ٹُردا"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "اپݨی سِدھی راہ وِچ"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "کُجھا"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ہونٹاں آلا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:45.627104192Z",
+  "model": "glm-5.3"
+}

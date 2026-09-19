@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "میں وی اونکوں پہلوٹھا رکھسی، دھرتی دے بادشاہاں توں سبھ توں اُچا۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوٹھا"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "اونکوں رکھسی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سبھ توں اُچا"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہاں کیتے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:51.542038832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے کھوتے — ہِک تے سٹھ ہزار۔",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "کھوتے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:39.792491675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 139,
+  "translation": "جو کہیں میں سویر دے پراں کوں چا گھناں، تے سمندر دے انت وِچ ٹِک رہواں۔",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "چا گھناں"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ٹِک رہواں"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "انت وِچ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:35.088626179Z",
+  "model": "glm-5.3"
+}

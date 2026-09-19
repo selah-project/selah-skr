@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "کھُلی تُوخچہ چنگی ہے، لُکائی ہوئی محبت توں۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چنگی ہے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تُوخچہ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "کھُلی"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "محبت توں"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "لُکائی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:21.000858847Z",
+  "model": "glm-5.3"
+}

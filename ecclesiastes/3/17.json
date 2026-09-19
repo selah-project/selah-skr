@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں آپݨے دل وِچ آکھیا: ایلوہیم ⟨אت⟩ ⟨את⟩ راست کوں تے ⟨אت⟩ ⟨את⟩ ظالم کوں انصاف کریسی، کیوں جو ہر مرضی کیتے ویلہا ہے، تے ہر کَم اُتے اُتھاں۔",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "بלבי",
+      "gloss": "آپݨے دل وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راست"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ظالم"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "انصاف کریسی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مرضی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:49.604176368Z",
+  "model": "glm-5.3"
+}

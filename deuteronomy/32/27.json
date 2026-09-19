@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 32:27",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "جے دشمن دے غصے دا ݙر نہ ہوندا، جو نہ اوہناں دے دشمن ڄاݨ گھنن، جو نہ آکھن: “اساݙا ہتھ اُچا تھیا، یاہوہ ایہ سارا کجھ نہ کیتا۔”",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "جے … نہ ہوندا"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "פן",
+      "gloss": "جو نہ"
+    },
+    {
+      "surface": "ינכרו",
+      "gloss": "ڄاݨ گھنن"
+    },
+    {
+      "surface": "צרימו",
+      "gloss": "اوہناں دے دشمن"
+    },
+    {
+      "surface": "פן",
+      "gloss": "جو نہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "اساݙا ہتھ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "اُچا تھیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ کجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:19.244433634Z",
+  "model": "glm-5.3"
+}

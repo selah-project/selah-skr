@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اُوندے پچھوں گَبّای تے سَلّای — نَوں سو ویہہ تے اَٹھ۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اُوندے پچھوں"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گَبّای"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سَلّای"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:14.593954573Z",
+  "model": "glm-5.3"
+}

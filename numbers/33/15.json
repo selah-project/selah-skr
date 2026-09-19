@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او رِفیدیم توں ٹُرے، تے سینای دے بنجر وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے ٹُرے"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "رِفیدیم توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بنجر وِچ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:00.374336259Z",
+  "model": "glm-5.3"
+}

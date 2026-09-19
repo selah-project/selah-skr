@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایہ سب داوِد دے پُتر ⟨ہن⟩، پیلگشیں ⟨پیلگش⟩ دے پُتراں توں وکھ، تے تامار اوہناں دی بھیݨ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "توں وکھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "پیلگشیں"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "تے تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "اوہناں دی بھیݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:05.005971807Z",
+  "model": "glm-5.3"
+}

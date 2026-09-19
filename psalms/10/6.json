@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "او ⟨آپ⟩ دل وِچ آکھیا: “میں کݙاہیں نہ لہساں، نسل در نسل تئیں برائی میݙے اُتے نہ آسی۔”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لہساں"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل تئیں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:42.380347259Z",
+  "model": "glm-5.3"
+}

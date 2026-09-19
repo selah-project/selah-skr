@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "بِنیاہو پِرعَتونی؛ ہِدّای نَخلِیاں دی، گاعَش دیاں۔",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "بِنیاہو"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "پِرعَتونی"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ہِدّای"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "نَخلِیاں دی"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گاعَش"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:19.860115701Z",
+  "model": "glm-5.3"
+}

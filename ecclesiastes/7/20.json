@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو زمین اُتے کوئی راستباز بندہ کائنی، جو بھلائی کرے تے گناہ نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناہ کرے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:04.969299419Z",
+  "model": "glm-5.3"
+}

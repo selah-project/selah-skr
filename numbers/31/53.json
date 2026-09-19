@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "کیوں جو لشکر دے بندیاں ہر ہِک آپݨے کیتے لُٹیا۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندیاں"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "لُٹیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپݨے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:59.606879120Z",
+  "model": "glm-5.3"
+}

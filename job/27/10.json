@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "بھلا اوہ شدّای وِچ مَسرت کرسی، ایلوہ کوں ہر ویلے پکاریسی؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "بھلا کیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "مَسرت کرسی"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکاریسی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:01.009305355Z",
+  "model": "glm-5.3"
+}

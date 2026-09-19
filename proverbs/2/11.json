@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "سمجھ تُہاکوں بچاوسی، تے تݙانہہ تُہاݙی نگہبانی کریسی۔",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "تݙانہہ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بچاوسی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "نگہبانی کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:58.121715059Z",
+  "model": "glm-5.3"
+}

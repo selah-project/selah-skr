@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "او پرایا جیہڑا تیݙے وِچ رہندے، تیݙے اُتے اُچا اُچا چڑھسی، تے تُوں لَہا لَہا لتھی ویندا۔",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "او پرایا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھسی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תרد",
+      "gloss": "لتھی ویندا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لَہا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لَہا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:07.252616224Z",
+  "model": "glm-5.3"
+}

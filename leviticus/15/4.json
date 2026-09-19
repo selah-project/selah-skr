@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "ہر بسترا جیندے اُتے وہاؤ والا سُتے او نجس تھیسی، تے ہر برتن جیندے اُتے او ٻہندا او نجس تھیسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "بسترا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "سُتے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "وہاؤ والا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس تھیسی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ٻہندا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:07.601248803Z",
+  "model": "glm-5.3"
+}

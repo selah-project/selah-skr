@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے فلسطی آ ڳئے، تے رفایم دے وادی وِچ کھنڈ پئے۔",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے فلسطی"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ ڳئے"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "کھنڈ پئے"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:19.159703256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاوان دے پُتر: اِلیشہ، تے ترشیشہ، کِتیم تے روادِیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "اِلیشہ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "تے ترشیشہ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کِتیم"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "تے روادِیم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:03.466966999Z",
+  "model": "glm-5.3"
+}

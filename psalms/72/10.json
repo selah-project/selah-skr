@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "ترشیش دے بادشاہ تے ٻیٹ نذرانہ ݙیسن، سبا تے سبا ⟨دے بادشاہ⟩ تحفہ پیش کریسن۔",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "دے بادشاہ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیش"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "تے ٻیٹ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذرانہ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ݙیسن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "دے بادشاہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "تے سبا"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پیش کریسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:05.756451840Z",
+  "model": "glm-5.3"
+}

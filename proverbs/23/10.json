@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "پُراݨی حد نہ ہٹا، تے یتیمیں دے کھیتاں وِچ نہ وڑ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پُراݨی"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "تے کھیتاں وِچ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیمیں دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "وڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:37.584696860Z",
+  "model": "glm-5.3"
+}

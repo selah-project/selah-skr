@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے زلزلے دے بعد بھا — بھا وِچ یاہوہ ⟨کائنی⟩؛ تے بھا دے بعد ہلکی چُپ دا آواز۔",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "تے بعد"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "زلزلے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تے بعد"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ہلکی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:17:25.334502985Z",
+  "model": "glm-5.3"
+}

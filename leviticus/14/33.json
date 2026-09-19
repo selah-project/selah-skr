@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ موشے تے اہرون نال ڳالھ کیتی، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:40.616149376Z",
+  "model": "glm-5.3"
+}

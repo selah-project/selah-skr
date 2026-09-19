@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے سدوم دے بادشاہ اَوراہام کوں آکھیا: “میکوں جاناں ݙے، تے مال تیݙا گھن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "تے مال"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:18.181970661Z",
+  "model": "glm-5.3"
+}

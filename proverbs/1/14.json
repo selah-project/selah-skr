@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "آپݨاں قرعہ اساݙے وِچ سٹ، ساݙے سبھ کیتے ہِک بٹوا ہوسی۔",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "آپݨاں قرعہ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "سٹ"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "اساݙے وِچ"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "بٹوا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "ساݙے سبھ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:50.454215407Z",
+  "model": "glm-5.3"
+}

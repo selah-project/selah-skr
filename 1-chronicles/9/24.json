@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "چار پاسے دروان مقرر ہَن — پوادھ، پچھم، اُبھے تے لمے۔",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "پاسے\/ہوائاں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروان"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچھم"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اُبھے"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "تے لمے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:42.881901871Z",
+  "model": "glm-5.3"
+}

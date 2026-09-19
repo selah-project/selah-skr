@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ موشے کوں آکھیا: “پرعوہ دا دل بھارا ہے — او قوم کوں ونڄݨ توں انکار کریندا ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھارا ہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار کریندا ہے"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ونڄݨ توں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:13.859017582Z",
+  "model": "glm-5.3"
+}

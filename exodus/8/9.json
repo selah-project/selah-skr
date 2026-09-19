@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاہوہ موشے دے آکھے موجب کیتا، تے ݙیڈاں گھراں توں، ویہڑیاں توں تے کھیتاں توں مر ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "آکھے موجب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "مر ڳیاں"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ݙیڈاں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "گھراں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "ویہڑیاں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "کھیتاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:48:25.624797690Z",
+  "model": "glm-5.3"
+}

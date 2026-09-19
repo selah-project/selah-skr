@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 5:5",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے بیت ایل کوں نہ ڳولو، تے گلگل وِچ نہ آؤ، تے بیر شبع دو نہ لنگھو، کیوں جو گلگل جلاوطن تھی ویسی، تے بیت ایل برائی بݨ ویسی۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "ڳولو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "تے گلگل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "تے بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "لنگھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گلگل"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "جلاوطن"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "تھی ویسی"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بݨ ویسی"
+    },
+    {
+      "surface": "לאון",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:55:04.384411156Z",
+  "model": "glm-5.3"
+}

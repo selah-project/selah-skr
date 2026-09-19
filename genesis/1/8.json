@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ایلوہیم کِھنڈیرے کوں اسماناں سݙیس؛ تے شام تھئی، تے سویر تھیا — ݙوجھا ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙیس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "کِھنڈیرے کوں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙوجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:13.505962558Z",
+  "model": "glm-5.3"
+}

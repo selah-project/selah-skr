@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 13:22",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اَبیّہ دیاں باقی ڳالھیں، اوندے راہ تے اوندے کم، نبی عِدّو دے مِدرش وِچ لکھے ہِن۔",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبیّہ"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "اوندے راہ"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "اوندے کم"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "لکھے ہِن"
+    },
+    {
+      "surface": "במדרש",
+      "gloss": "مِدرش وِچ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:47.034921089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 3:13",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوہ وی جو تیں نہ منگیا، میں تیکوں ݙتے: دھن وی، جلال وی — جو تیݙے وانگوں کوئی بندہ بادشاہاں وِچ نہ ہا، تیݙے سارے ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "منگیا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دھن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تیݙے وانگوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "بادشاہاں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تیݙے ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:04:43.332517585Z",
+  "model": "glm-5.3"
+}

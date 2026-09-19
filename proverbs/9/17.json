@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "چوری دا پاݨی مِٹھا ہے، تے لُکایا ہویا روٹی بھاوندی ہے۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "چوری دا"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "مِٹھا ہے"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "تے روٹی"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "لُکایا ہویا"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "بھاوندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:18.348140324Z",
+  "model": "glm-5.3"
+}

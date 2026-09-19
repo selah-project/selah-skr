@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے دان دے سرحد اُتے، پوادھی لَکھ توں پچھادھی لَکھ تئیں — اَشیر ⟨ہِک حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لَکھ توں"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "پوادھی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لَکھ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سَمَندر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشیر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:25.901790954Z",
+  "model": "glm-5.3"
+}

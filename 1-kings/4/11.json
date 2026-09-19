@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اَویناداو دا پُتر — ساری نَفَتِ دور اُوندی ہئی؛ طَفَت، شلومو دی دھی، اُوندی ذال ہئی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "اَویناداو دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نَفَت"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دور"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "طَفَت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو دی"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:54.902907726Z",
+  "model": "glm-5.3"
+}

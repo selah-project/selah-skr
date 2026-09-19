@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تُوں اپݨے ہِک دروازے وِچ، جیہڑا یاہوہ تیݙا ایلوہیم تیکوں ݙیندا ہے، ⟨את⟩ پیسح قربان نہ کر سڳسیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "سڳسیں"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "قربان کرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسح"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ہِک وِچ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "اپݨے دروازیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:47.415616952Z",
+  "model": "glm-5.3"
+}

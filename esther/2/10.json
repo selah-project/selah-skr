@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایستر ⟨את⟩ اپݨے قوم تے ⟨את⟩ اپݨی نسل نہ ݙسی، کیوں جو مردخائی اوں کوں حکم ݙتا ہا جو نہ ݙسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ݙسی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے قوم"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اپݨے قوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨی نسل"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "اپݨی نسل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخائی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتس"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ݙسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:16:51.295639697Z",
+  "model": "glm-5.3"
+}

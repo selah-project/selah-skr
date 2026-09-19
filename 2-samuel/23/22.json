@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ایہ کم بِنیاہو یِہویاداع دے پُتر کیتے، اتے اون٘دے ناں ترے سورمائیں وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یِہویاداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "اتے اون٘دے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "ترے وِچ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "سورمے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:26.601849249Z",
+  "model": "glm-5.3"
+}

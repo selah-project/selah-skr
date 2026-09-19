@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نتینیم: تصیخا دے پُتر، خسوفا دے پُتر، طبّاعوت دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "نتینیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "تصیخا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "خسوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "طبّاعوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:49.647289926Z",
+  "model": "glm-5.3"
+}

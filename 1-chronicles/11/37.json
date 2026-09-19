@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "حتصرو کرملی، نعرای پُتر ازبای۔",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حتصرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "کرملی"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نعرای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ازبای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:24.307661428Z",
+  "model": "glm-5.3"
+}

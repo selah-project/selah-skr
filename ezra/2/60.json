@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "دلایاہ دے پُتر، طوبیاہ دے پُتر، نِقوداہ دے پُتر — چھ سو باون۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دلایاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبیاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقوداہ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "باون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:44.324034113Z",
+  "model": "glm-5.3"
+}

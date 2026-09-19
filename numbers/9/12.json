@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "او ایندے توں کجھ صبح تئیں نہ رہیسن، تے ایندا کوئی ہݙی نہ ٹوٹرسن؛ پیسخ دی ساری رسم موجب او ⟨אתו⟩ اینکوں کرِن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "رہیسن"
+    },
+    {
+      "surface": "مמנו",
+      "gloss": "ایندے توں کجھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے … ہݙی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ٹوٹرسن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ایندا"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ساری … موجب"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "رسم"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسخ دی"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "او کرِن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اینکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:17.566644168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "زمین اُتے رینگݨ آلے کہیں جِندڑی دی شکل دی، تے پاݨیاں وِچ، زمین ہیٹھ، کہیں مچھی دی شکل دی —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رینگݨ آلا"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "مچھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨیاں وِچ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:01.853275519Z",
+  "model": "glm-5.3"
+}

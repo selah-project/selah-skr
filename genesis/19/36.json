@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے لُوٹ دیاں ݙوہیں دھیاں اپݨے پیو کنوں حاملہ تھی گیاں۔",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "حاملہ تھی گیاں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙوہیں"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوٹ"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "اپݨے پیو کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:50.448988473Z",
+  "model": "glm-5.3"
+}

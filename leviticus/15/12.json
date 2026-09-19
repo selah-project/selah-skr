@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے مٹی دا برتن جیڑھا وڳݨ آلا چھووے، اُوکوں تروڑیا ویسی؛ تے ہر لکڑی دا برتن پاݨی وِچ دھوتھا ویسی۔",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "تے برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوکوں"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "وڳݨ آلا"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "تروڑیا ویسی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑی دا"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "دھوتھا ویسی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:30.035396639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یاہوہ اسرائیل وِچ طاعون ݙتا، تے اسرائیل وِچوں ستر ہزار بندے ڈہ پئے۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیل وِچ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ڈہ پئے"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائیل وِچوں"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:38.773940647Z",
+  "model": "glm-5.3"
+}

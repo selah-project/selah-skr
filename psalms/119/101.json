@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ہر بری راہ توں میں آپݨے پیر روک گھدے، تاں جو تیݙا آکھیا رکھاں۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ہر … توں"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "روک گھدے میں"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "آپݨے پیر"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "رکھاں"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیݙا آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:48.162000805Z",
+  "model": "glm-5.3"
+}

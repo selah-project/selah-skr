@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "جیہڑا کَن رکھیے، بھلا او نہ سُݨسی؟ جیہڑا اکھ بݨائے، بھلا او نہ ݙیکھسی؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "جیہڑا رکھیے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کَن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "بھلا نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "بھلا نہ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ݙیکھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:22.350373883Z",
+  "model": "glm-5.3"
+}

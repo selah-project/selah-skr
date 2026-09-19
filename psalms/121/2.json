@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "میݙی مدد یاہوہ کنوں ⟨ہے⟩، اوں اسمان تے زمین بݨائے۔",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "میݙی مدد"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨاوݨ آلا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.574157309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "“ݙیکھ، میں یاہوہ ہاں، سارے بشر دا ایلوہیم — بھلا میݙے توں کوئی ڳالھ اوپری تھی سڳدی ہے؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر دا"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "میݙے توں"
+    },
+    {
+      "surface": "یפלא",
+      "gloss": "اوپری تھی سڳدی ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:14:17.234097434Z",
+  "model": "glm-5.3"
+}

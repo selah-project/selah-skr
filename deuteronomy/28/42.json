@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تیݙے سارے رُکھ تے تیݙی بھوئیں دا پھل ٹڈی مِل گھنسے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "تیݙے رُکھ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "تے پھل"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تیݙی بھوئیں دا"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "مِل گھنسے"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ٹڈی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:07.252459766Z",
+  "model": "glm-5.3"
+}

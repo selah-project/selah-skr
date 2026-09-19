@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "صلاح سُݨ تے تربیت قبول کر، تاں جو آپݨے آخری ݙینہاں وِچ سیاݨا تھیویں۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "تے قبول کر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "سیاݨا تھیویں"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "آپݨے آخری ݙینہاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:49.425431114Z",
+  "model": "glm-5.3"
+}

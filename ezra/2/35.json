@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "سنّاہ دے پُتر ترے ہزار چھ سو تے ترے ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سنّاہ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:09.141568114Z",
+  "model": "glm-5.3"
+}

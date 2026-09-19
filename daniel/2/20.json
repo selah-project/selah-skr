@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "دانی‌ایل جواب ݙتا تے آکھیا: “ایلوہ دا ناں ہمیشہ توں ہمیشہ تئیں مبارک ہووے، کیوں جو دانائی تے قوت اون٘دی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانی‌ایل"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایلوہ دا"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "تے قوت"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اون٘دی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:18:48.730308943Z",
+  "model": "glm-5.3"
+}

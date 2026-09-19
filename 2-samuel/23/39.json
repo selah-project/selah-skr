@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اوریا الحِتّی — سارے ترِیہہ ترے بندے ہن۔",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "الحِتّی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ترِیہہ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:07.265791119Z",
+  "model": "glm-5.3"
+}

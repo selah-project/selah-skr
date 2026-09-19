@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے بیت ہعارَوا، تے تصمَرایم، تے بیت ایل۔",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ہعارَوا"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "تے تصمَرایم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:00.259339635Z",
+  "model": "glm-5.3"
+}

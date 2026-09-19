@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اِسرائیل بھلے کوں چھوڑ ݙتا؛ دشمن اونکوں پیچھے ݙوں بھجسی۔",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "چھوڑ ݙتا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلے کوں"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "پیچھے ݙوں بھجسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:58.507363924Z",
+  "model": "glm-5.3"
+}

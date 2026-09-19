@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 98,
+  "translation": "دریا تالیاں وڄاون، پہاڑ کٹھے خوشی نال ڳاون۔",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "تالیاں وڄاون"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تالیاں"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "کٹھے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "خوشی نال ڳاون"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:11.776311684Z",
+  "model": "glm-5.3"
+}

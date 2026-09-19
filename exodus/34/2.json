@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے صبح واسطے تیار رہو، تے صبح دے سینای پہاڑ اُتے چڑھ، تے اُتھاں میݙے کیتے پہاڑ دے سر اُتے کھڑا تھی ونڄ۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے رہو"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صبح واسطے"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "تے چڑھ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "تے کھڑا تھی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:01.227589993Z",
+  "model": "glm-5.3"
+}

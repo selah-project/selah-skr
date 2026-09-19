@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے او دولت بری مصیبت وِچ مِٹ ویندی ہے، تے او پُتر ڄݨیندے تے اوندے ہتھ وِچ کجھ کائنی ہوندا۔",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "تے مِٹ ویندی ہے"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "او دولت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "مصیبت وِچ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "تے ڄݨیندے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوندے ہتھ وِچ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.095860933Z",
+  "model": "glm-5.3"
+}

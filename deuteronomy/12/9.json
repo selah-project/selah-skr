@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کیوں جو تُساں ہُݨ تئیں اوں سُکون تے اوں ورثے تئیں نہ پُڄے، جیندا یاہوہ تیݙا ایلوہیم تیکوں ݙیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "پُڄے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "اوں سُکون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے اوں"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ورثے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:29.249859397Z",
+  "model": "glm-5.3"
+}

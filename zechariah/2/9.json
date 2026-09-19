@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں، یاہوہ دا فرمان، اُوندے کیتے دوالے بھا دی دیوار بݨساں، تے جلال بݨ کے اُوندے وِچ ہوساں۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بݨساں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اُوندے کیتے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "تے جلال کیتے"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہوساں"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اُوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:19.933724147Z",
+  "model": "glm-5.3"
+}

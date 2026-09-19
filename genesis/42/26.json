@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے انہاں ⟨את⟩ آپݨاں اناج آپݨے خچھراں اُتے لݙیا، تے اُتھوں ٹُر پئے۔",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "تے لݙیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨاں اناج"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "آپݨاں اناج"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "آپݨے خچھراں"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے ٹُر پئے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:02.205111321Z",
+  "model": "glm-5.3"
+}

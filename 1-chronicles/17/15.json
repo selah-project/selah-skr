@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ایہیاں ساریاں ڳالھیں تے ایں سارے نظارے موجب ناتن داوِد کوں ایویں آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ساریاں موجب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہیاں"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "تے سارے موجب"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "نظارے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:29.800758926Z",
+  "model": "glm-5.3"
+}

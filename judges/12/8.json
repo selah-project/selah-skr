@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اوندے بعد ابصن بیت لحم دا، ⟨את⟩ اسرائیل دی منصفی کیتی۔",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "منصفی کیتی"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوندے بعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ابصن"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:28:38.711148161Z",
+  "model": "glm-5.3"
+}

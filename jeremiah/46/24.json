@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "شرمیل تھی ڳئی مِتصرایم ⟨دِی⟩ دھی، اُوں کوں اُبھے دے قوم دے ہتھ ݙے ݙتی ڳئی ہے۔",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "شرمیل تھی ڳئی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتی ڳئی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ ݙے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُبھے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:18:56.548431582Z",
+  "model": "glm-5.3"
+}

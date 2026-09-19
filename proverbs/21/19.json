@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "بنجر زمین وِچ ٻہوݨ چنڳاں ہے، جھیڑیاں تے غصے آلی ذال کنوں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳاں"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ٻہوݨ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بنجر"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ذال کنوں"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھیڑیاں آلی"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "تے غصے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:54.933760880Z",
+  "model": "glm-5.3"
+}

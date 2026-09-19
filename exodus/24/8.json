@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "موشے ⟨את⟩ رت گھن کے قوم اُتے چھِڑکیا، تے آکھیس: “ݙیکھو، ایہ او عہد دا رت ہے جیہڑا یاہوہ تُہاݙے نال انہاں سبھ ڳالھیں اُتے کیتا۔”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گھن کے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "چھِڑکیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تُہاݙے نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:03.154255040Z",
+  "model": "glm-5.3"
+}

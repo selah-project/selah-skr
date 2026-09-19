@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے رام دے پُتر ہَن — یِرَخمیل دا پہلوںڈا: معتص، تے یمین، تے عیقر۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوںڈا"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرَخمیل"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "معتص"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "تے یمین"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "تے عیقر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.725414100Z",
+  "model": "glm-5.3"
+}

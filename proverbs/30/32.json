@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "جے تُساں اُچے تھی تے بے عقل بݨئے ہو، یا مندے منصوبے سوچے ہن، تاں ہتھ اپݨے مُہنے رکھو۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "بے عقل تھیوݨ"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "اُچے تھیوݨ وِچ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "منصوبہ سوچݨ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "مُہنے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:36.471242636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "کوئی نہ تیݙے جیہا، اَے یاہوہ! تُوں وݙا ایں، تے تیݙا ناں بہادری وِچ وݙا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "کوئی نہ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تیݙے جیہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "تے وݙا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیݙا ناں"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "بہادری وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:01:53.006184131Z",
+  "model": "glm-5.3"
+}

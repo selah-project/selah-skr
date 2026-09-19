@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے موشے پرعوہ دے کولوں نکل ڳیا، تے یاہوہ کنوں منت کیت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکل ڳیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "پرعوہ",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "منت کیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:48:52.231161254Z",
+  "model": "glm-5.3"
+}

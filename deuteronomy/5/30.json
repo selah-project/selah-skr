@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ونڄ، اُنہاں کوں آکھ: تُساں آپݙیاں خیماں دو وَل ونڄو۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "وَل ونڄو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "تُہاݙیاں خیماں دو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:47.777133645Z",
+  "model": "glm-5.3"
+}

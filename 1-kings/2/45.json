@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے بادشاہ شلومو برکت آلا ہوسی، تے داوِد دا تخت یاہوہ دے اڳوں ہمیشہ تئیں پکا رہسی۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت آلا ہوسی"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:28.451705331Z",
+  "model": "glm-5.3"
+}

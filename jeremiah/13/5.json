@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے میں ڳیُم، تے اوہ پرات ⟨את⟩ وِچ لُکائُم، جیویں یاہوہ ⟨את⟩ میکوں حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "ڳیُم"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "لُکائُم"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "پرات وِچ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ میکوں",
+      "marks": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:42.252471949Z",
+  "model": "glm-5.3"
+}

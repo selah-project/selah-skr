@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "اوں موشے اپݨاں ٻانہاں بھیڄا، تے اہرون ⟨جیکوں اوں چُݨیا ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اوندا ٻانہاں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چُݨیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:45.792515512Z",
+  "model": "glm-5.3"
+}

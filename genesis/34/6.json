@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے خمور، شِکم دا پیو، یعقوو کول نکلیا اوندے ⟨את⟩ نال ڳالھ کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکلیا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالھ کرݨ کیتے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ نال",
+      "marks": "یعقوو نال ڳالھ کرݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:37.201901175Z",
+  "model": "glm-5.3"
+}

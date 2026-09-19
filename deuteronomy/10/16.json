@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے تُساں آپݨے دِلاں دی ⟨את⟩ چھلڑ ختن کرو، تے آپݨیاں گردناں ٻیا سخت نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "تے ختن کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چھلڑ"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "چھلڑ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "تُہاݙے دِلاں دی"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "تے تُہاݙیاں گردناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت کرو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:52.686840199Z",
+  "model": "glm-5.3"
+}

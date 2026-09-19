@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ہابل ہابلین، کوہیلت آکھیا؛ ہابل ہابلین، سارا کجھ ہابل ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ہابل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ہابلین"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوہیلت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہابل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ہابلین"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا کجھ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہابل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:20.320077754Z",
+  "model": "glm-5.3"
+}

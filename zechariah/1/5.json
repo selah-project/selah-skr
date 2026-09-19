@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تُساݙے پیو — کتھاں ہِن او؟ تے نبی — کیا ساری عمر جِیسن؟",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "تُساݙے پیو"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کتھاں"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہِن او"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ساری عمر"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جِیسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:57.693109266Z",
+  "model": "glm-5.3"
+}

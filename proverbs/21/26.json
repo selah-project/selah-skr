@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "سارا ݙینہہ تانگھیندے تانگھ، پر راستباز ݙیندے تے نہ روکیندا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "تانگھیندے"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "تانگھ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "تے راستباز"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیندے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "روکیندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:50.615005904Z",
+  "model": "glm-5.3"
+}

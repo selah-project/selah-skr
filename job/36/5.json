@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ہنڑ ݙیکھو، ایل زبردست ⟨ہے⟩ تے کہیں کوں نہ مٹیندا، طاقت تے دل دے وِچ زبردست ہے۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ہنڑ ݙیکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "مٹیندا"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:57.434035601Z",
+  "model": "glm-5.3"
+}

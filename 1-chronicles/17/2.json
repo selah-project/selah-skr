@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے ناتان داوِد کوں آکھیا: “جو کجھ تیݙے دل وِچ ہے، او کر، کیوں جو ایلوہیم تیݙے نال ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تیݙے دل وِچ ہے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:26.091609347Z",
+  "model": "glm-5.3"
+}

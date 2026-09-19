@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "تے او ہِک قوم توں ٻئی قوم تئیں، ہِک مملکت توں ٻئی قوم تئیں پھردے رہے۔",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "تے پھردے رہے"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ہِک قوم توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ہِک مملکت توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:46.261968048Z",
+  "model": "glm-5.3"
+}

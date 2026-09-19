@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ یِسّاکھار دے ٹبر ہن، انہاں دی ڳݨتی موجب: چار تے سَٹھ ہزار تے ترے سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاکھار"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "انہاں دی ڳݨتی موجب"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سَٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:45.377435449Z",
+  "model": "glm-5.3"
+}

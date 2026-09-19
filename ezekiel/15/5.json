@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 15:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "ݙیکھو، اوندے سارے ہووݨ وِچ او کہیں کم دا نہ بݨدا ہا؛ وت جݙاں بھاہ او کھا ڳئی تے او جل ڳیا، او وت کہیں کم دا بݨسی؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "اوندے سارے ہووݨ وِچ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بݨدا"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "کھا ڳئی اوندے"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "جل ڳیا"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "بݨسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وت"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "کم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:25.599029517Z",
+  "model": "glm-5.3"
+}

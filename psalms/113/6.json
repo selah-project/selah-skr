@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "جیہڑا ݙیکھݨ کیتے جھکدے — اسماناں وِچ تے زمین وِچ؟",
+  "tokens": [
+    {
+      "surface": "המשפיײי",
+      "gloss": "جھکدے"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ݙیکھݨ کیتے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "تے زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:41.641230870Z",
+  "model": "glm-5.3"
+}

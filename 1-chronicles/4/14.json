@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے مِعونوتای ⟨את⟩ عفراہ کوں ڄݨایا، تے شرایاہ ⟨את⟩ یوآو کوں ڄݨایا، گئے حَراشیم دا پیو، کیوں جو او دستکار ہن۔",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "تے مِعونوتای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عفراہ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "عفراہ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "تے شرایاہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "گئے"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "حَراشیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "دستکار"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:42.233684912Z",
+  "model": "glm-5.3"
+}

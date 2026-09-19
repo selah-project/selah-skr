@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اَڄ تئیں جو اوں زمین نہ بݨائی ہئی، نہ میدان، نہ دنیا دے مٹی دا مُنڈھ۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "اَڄ تئیں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائی ہئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "نہ میدان"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "دا مُنڈھ"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:20.611895239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اوں دے پیوواں دا قصور یاہوہ اڳوں یاد تھیندا رہے، تے اوں دی ماں دا پاپ نہ مٹے۔",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "یاد تھیوے"
+    },
+    {
+      "surface": "עון",
+      "gloss": "قصور"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اوں دے پیوواں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "تے پاپ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوں دی ماں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "مٹے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:15.733000579Z",
+  "model": "glm-5.3"
+}

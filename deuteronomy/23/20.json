@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تُوں آپݨے بھرا کوں سُود نہ ݙیسیں — سِکے دا سُود، کھاݨے دا سُود، ہر اوں شے دا سُود جو سُود تے ݙتی ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "سُود ݙیسیں"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "آپݨے بھرا کوں"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سِکے"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاݨے"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "سُود تے ݙتی ویندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:38.334822947Z",
+  "model": "glm-5.3"
+}

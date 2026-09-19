@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اَخیمَعض نفتالی وِچ؛ او وی شلومو دی دھی بشمت ⟨את⟩ ذالہ کیتے گھدس۔",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "اَخیمَعض"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "نفتالی وِچ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گھدس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بشمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذالہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:51.893856975Z",
+  "model": "glm-5.3"
+}

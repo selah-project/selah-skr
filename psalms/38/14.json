@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے میں ٻوڑے وانگوں نہ سُݨدا، تے گنگے وانگوں جیہڑا آپݨا مُنہ نہ کھولیندا۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ٻوڑے وانگوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "سُݨدا"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "تے گنگے وانگوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھولیندا"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "آپݨا مُنہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:20.422866919Z",
+  "model": "glm-5.3"
+}

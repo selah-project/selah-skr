@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ میکوں آکھیس، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:21.692423087Z",
+  "model": "glm-5.3"
+}

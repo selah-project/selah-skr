@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میݙے محبوب جواب ݙتا تے میکوں آکھیس: “اُٹھی، میݙی پیاری، میݙی سوہݨی، تے آپ نال ٹُر پیا۔”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میݙے محبوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میݙی پیاری"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "میݙی سوہݨی"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "تے ٹُر پیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:39.510236295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "پُتر میݙے، میݙیاں ڳالھیں دو سُݨ، میݙے آکھے دو تیݙا کن جھکا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر میݙے"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "میݙیاں ڳالھیں دو"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "میݙے آکھے دو"
+    },
+    {
+      "surface": "הט",
+      "gloss": "جھکا"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تیݙا کن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.457526963Z",
+  "model": "glm-5.3"
+}

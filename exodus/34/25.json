@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "خمیر نال میݙی قربانی دا خون ذبح نہ کرو، تے پیسخ دے تہوار دی قربانی صبح تئیں رات نہ ٹکسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ذبح کرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "میݙی قربانی دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات ٹکسی"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صبح تئیں"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تہوار دی"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسخ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:02:51.537116777Z",
+  "model": "glm-5.3"
+}

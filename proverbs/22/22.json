@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "غریب کوں نہ لُٹ، کیوں جو او غریب ہے، تے دروازے وِچ مظلوم کوں نہ کچلیں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "کچلیں"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مظلوم"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:22.467087073Z",
+  "model": "glm-5.3"
+}

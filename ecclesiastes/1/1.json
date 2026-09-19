@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کوہیلت دے لفظ — داوِد دا پُتر، بادشاہ یروشلایم وِچ۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوہیلت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:20.318244268Z",
+  "model": "glm-5.3"
+}

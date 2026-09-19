@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے پاݨی قربان گاہ دے دوالے وہݨ لڳا، تے اوں ⟨את⟩ ڳوڑھا وی پاݨی نال بھر ݙتا۔",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "وہݨ لڳا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳوڑھا"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ڳوڑھا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر ݙتا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:16:46.044821362Z",
+  "model": "glm-5.3"
+}

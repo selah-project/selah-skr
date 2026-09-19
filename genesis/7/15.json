@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے او نوح دو، جہاز وِچ آئے، ݙو ݙو، سارے اوں گوشت وِچوں جیندے وِچ زندہ ساہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "جہاز"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:30.539955308Z",
+  "model": "glm-5.3"
+}

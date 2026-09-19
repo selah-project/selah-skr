@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ہر رینھݨ آلی شے جیہڑی زمین اُتے رینھدی ہے، او گھناؤنی ہے، اوہ کھادی نہ ویسی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "رینھݨ آلی شے"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "رینھدی ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤنی شے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:52.037876802Z",
+  "model": "glm-5.3"
+}

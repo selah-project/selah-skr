@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اَبرام مال مویشی وِچ، چاندی وِچ تے سونے وِچ ٻہوں بھاری ⟨امیر⟩ ہا۔",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "تے اَبرام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "مال مویشی وِچ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "چاندی وِچ"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "تے سونے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:02.532320064Z",
+  "model": "glm-5.3"
+}

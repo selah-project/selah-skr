@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پنجویں ملکیاہ کوں، چھیویں میامین کوں۔",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ملکیاہ کوں"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجویں"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "میامین کوں"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:44.134576192Z",
+  "model": "glm-5.3"
+}

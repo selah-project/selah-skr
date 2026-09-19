@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوں آکھیا: “ایہ تیل دے ݙو پُتر ہن، جو ساری زمین دے آقا دے نال کھڑے ہن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "کھڑے ہوئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:56.639798258Z",
+  "model": "glm-5.3"
+}

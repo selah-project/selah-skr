@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "دروازہ آپݨیاں کُنڈیاں اُتے گھمدے، تے سُستا آپݨے پلنگ اُتے گھمدے۔",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "گھمدے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "آپݨیاں کُنڈیاں"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "تے سُستا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "آپݨے پلنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:37.443125230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "شلومو دے مَشَل — داوِد دا پُتر، اِسرایل دا بادشاہ —",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَشَل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو دے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرایل دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:45.887466367Z",
+  "model": "glm-5.3"
+}

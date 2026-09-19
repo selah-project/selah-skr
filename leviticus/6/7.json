@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اِیہ تورات ہے مَنحة دی: اہرون دے پُتر اِیہ ⟨אתה⟩ یاہوہ دے اڳوں، قربان گاہ دے اڳوں چڑھیندن۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "تے اِیہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "مَنحة"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "چڑھیندن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اِیہ (مَنحة)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…دے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:37.295009389Z",
+  "model": "glm-5.3"
+}

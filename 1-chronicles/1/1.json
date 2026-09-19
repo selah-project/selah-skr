@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "آدم، شیت، اینوش۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اینوش"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:06.326211326Z",
+  "model": "glm-5.3"
+}

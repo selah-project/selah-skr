@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ݙیکھ، ڳٹھا اوندی جان اوندے وِچ سِدھی کائنی؛ پر راستباز آپݨی امانت نال جیسی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "ڳٹھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سِدھی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوندی جان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "پر راستباز"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "آپݨی امانت نال"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:14.182252552Z",
+  "model": "glm-5.3"
+}

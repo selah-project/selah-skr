@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "عین، رمون، تے عتھر تے عسان — چار شہر تے انہاں دیاں وستیاں۔",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رمون"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "تے عتھر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "تے عسان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے انہاں دیاں وستیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:54.580180666Z",
+  "model": "glm-5.3"
+}

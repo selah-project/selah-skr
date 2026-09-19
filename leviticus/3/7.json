@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "جے او ہِک بھلیکا آپݨی قربانی دے طور اُتے پیش کرے، تاں اوکوں یاہوہ دے اڳوں پیش کریسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "بھلیکا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "پیش کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی قربانی"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "آپݨی قربانی"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "پیش کریسی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوکوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:40.831846069Z",
+  "model": "glm-5.3"
+}

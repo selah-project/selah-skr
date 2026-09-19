@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے اِلیپھز تیمانی جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیپھز"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "تیمانی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:13.347948170Z",
+  "model": "glm-5.3"
+}

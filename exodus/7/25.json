@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ دے ⟨את⟩ دریا کوں مارݨ توں بعد ست ݙینہہ پُر تھی ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "پُر تھی ڳئے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "مارݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دریا"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:26.371016452Z",
+  "model": "glm-5.3"
+}

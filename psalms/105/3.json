@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "اون٘دے پاک ناں نال فخر کرو، یاہوہ کوں ڳولݨ آلیں دا دل خوش تھیوے۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر کرو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اون٘دے پاک"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش تھیوے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ڳولݨ آلیں دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:45.126697463Z",
+  "model": "glm-5.3"
+}

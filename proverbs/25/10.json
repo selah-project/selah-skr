@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "نہ تھیوے جو سُݨݨ آلا تیکوں رسوا کرے، تے تیݙی بدنامی ولا نہ ہٹے۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نہ تھیوے جو"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "تیکوں رسوا کرے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨݨ آلا"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "تے تیݙی بدنامی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ولا ہٹے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.992894393Z",
+  "model": "glm-5.3"
+}

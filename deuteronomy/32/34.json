@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "بھلا ایہ میݙے کول سَٹیا ہویا کائنی، میݙے خزیانیں وِچ مہرا بند؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "بھلا ... کائنی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "سَٹیا ہویا"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مہرا بند"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "میݙے خزیانیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:39.302979702Z",
+  "model": "glm-5.3"
+}

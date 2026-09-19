@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 97,
+  "translation": "یاہوہ بادشاہ بݨ ڳیا؛ زمین خوش تھیوے، ٻہوں سارے جزیرے خوش تھیون۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ بݨ ڳیا"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "خوش تھیوے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش تھیون"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزیرے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:43.814140760Z",
+  "model": "glm-5.3"
+}

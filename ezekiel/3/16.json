@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ست ݙینہہ پُر تھیوݨ توں بعد یاہوہ دا ⟨את⟩ ⟨کلام⟩ میݙے کول آیا، آکھݨ لڳا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "پُر تھیوݨ توں بعد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام",
+      "marks": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:26:24.670217424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے زلپہ، لیاہ دی نوکرانی، یعقوو کوں ݙوجھا پُتر ڄمیس۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄمیس"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلپہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "نوکرانی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ دی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:55.926682250Z",
+  "model": "glm-5.3"
+}

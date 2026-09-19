@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 90,
+  "translation": "ساݙے ݙینہہ ٹھیک طرح ڳݨݨ سِکھا، تاں جو اساں سیاݨپ دا دِل گھن آؤں۔",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ڳݨݨ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ساݙے ݙینہہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ٹھیک طرح"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "سِکھا"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "تاں جو اساں … گھن آؤں"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:19.688624918Z",
+  "model": "glm-5.3"
+}

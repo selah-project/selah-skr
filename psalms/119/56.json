@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ایہ میݙے نصیب وِچ آیا، کیوں جو میں تیݙے احکام راکھے ہن۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "آیا ہا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تیݙے احکام"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "میں راکھے ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:22.056042227Z",
+  "model": "glm-5.3"
+}

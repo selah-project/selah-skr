@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "کم عقل ذال ہنگامہ کریندی ہے، او نادان ہے تے کجھ نہ ڄاݨدی۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "کم عقل"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "ہنگامہ کریندی ہے"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ڄاݨدی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:01.676674172Z",
+  "model": "glm-5.3"
+}

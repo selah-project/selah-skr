@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "میں توں دور نہ تھی، کیوں جو مصیبت نزدیک ہے، کیوں جو کوئی مددگار کائنی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور تھی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "مددگار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:45.908183735Z",
+  "model": "glm-5.3"
+}

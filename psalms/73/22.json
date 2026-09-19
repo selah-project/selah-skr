@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 73,
+  "translation": "تے میں بیوقوف ہم، کجھ نہ ڄاݨدا ہم؛ تیݙے نال مویشی بݨ کے ریہاں۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بیوقوف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "کجھ نہ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ڄاݨدا ہم"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بݨ کے ریہاں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:19.207151699Z",
+  "model": "glm-5.3"
+}

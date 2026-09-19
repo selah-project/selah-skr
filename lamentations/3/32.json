@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو اگر او غم ݙیندے، تاں اپݨے خیسِد دی کثرت موجب ترس کریسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "غم ݙیندے"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "تاں ترس کریسی"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "کثرت موجب"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اپݨے خیسِد دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:10.225366932Z",
+  "model": "glm-5.3"
+}

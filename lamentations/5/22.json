@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیوں جو تُساں ساکوں پُورا رَٹ ݙتے، تے اَساں اُتے ٻہوں غصے ہِیوے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מאס",
+      "gloss": "پُورا"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "رَٹ ݙتے"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "غصے ہِیوے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اَساں اُتے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:32.781370760Z",
+  "model": "glm-5.3"
+}

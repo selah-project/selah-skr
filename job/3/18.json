@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اِکٹھے قیدیاں سوکھی کریندن، او نہ سُݨدے نگراں آلے دا آواز۔",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "اِکٹھے"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "قیدیاں"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "سوکھی کریندن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨدے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "نگراں آلے دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:25.769015836Z",
+  "model": "glm-5.3"
+}

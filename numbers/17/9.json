@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے یاہوہ موشے نال ٻولیا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:55.138603135Z",
+  "model": "glm-5.3"
+}

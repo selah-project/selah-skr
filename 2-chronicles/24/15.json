@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یہوویاداع ٻڈھا تھیا، تے اُوندے ݙینہہ پُر تھئے، تے مر ڳیا — مرݨ ویلے ہِک سو ترے ݙہاں دا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "ٻڈھا تھیا"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہوویاداع"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "پُر تھیا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "عمر دا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ݙہاں"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "مرݨ ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:18.394951149Z",
+  "model": "glm-5.3"
+}

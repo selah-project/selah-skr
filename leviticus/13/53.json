@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جے کاہن ݙیکھے تے ݙیکھے جو نبيض کپڑے وچ پھیلیا کائنی، نہ تاݨے وچ، نہ بانے وچ، تے نہ کہیں چمڑے دے برتھے وچ۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھے جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلیا"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نبيض"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے وچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تاݨے وچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "بانے وچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتھے"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:53.983092349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "تئیں کݙاں، یاہوہ، کے بدکار — تئیں کݙاں کے بدکار خوشیاں منسن؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "خوشیاں منسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:57.717743105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یاہوہ ݙٹھا، تے منہ موڑ گھدس، اپݨیاں پُتراں تے اپݨیاں دھیاں دے غصے توں۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙٹھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "تے منہ موڑ گھدس"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "غصے توں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اپݨیاں پُتراں"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "تے اپݨیاں دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:28.261531504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او ایلِم توں ٹُرے، تے سُوف دے سمندر کنوں ٹکاݨے ۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ایلِم توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹکاݨے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:47.175966865Z",
+  "model": "glm-5.3"
+}

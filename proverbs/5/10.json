@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کہ نہ اوپرے تیݙی طاقت نال رجّ ونڄن، تے تیݙیاں محنتاں اوپرے دے گھر وِچ ہوون۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "رجّ ونڄن"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "تیݙی طاقت"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "تے تیݙیاں محنتاں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "اوپرے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:11.640750678Z",
+  "model": "glm-5.3"
+}

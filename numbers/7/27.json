@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک پہاڑا، وݙوہیں دا پُتر، ہِک دنبہ، ہِک رالہ، پہلے ورہے دا، سڑھاوݨ دی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "پہاڑا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "وݙوہیں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "رالہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڑھاوݨ دی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:40.213791303Z",
+  "model": "glm-5.3"
+}

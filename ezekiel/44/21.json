@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے کوئی کاہن شراب نہ پیسی، جݙاں او اندرلے چوک وِچ آون۔",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پیسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "آوݨ وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "اندرلا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:28.227167943Z",
+  "model": "glm-5.3"
+}

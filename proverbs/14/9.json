@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "اَویل گُناہ دا مذاق اُݙیندن، پر سِدھیاں وِچ رضا ہوندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "اَویل"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "مذاق اُݙیندن"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گُناہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "پر … وِچ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:59.868281848Z",
+  "model": "glm-5.3"
+}

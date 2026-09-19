@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "یاہوہ بادشاہی کریسی، ہمیشہ کیتے تے اَن مُک تئیں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "بادشاہی کریسی"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے اَن مُک تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:16.858553888Z",
+  "model": "glm-5.3"
+}

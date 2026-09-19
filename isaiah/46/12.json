@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "میݙی ڳالھ سݨو، ہٹھی دل والو، جیہڑے راستی توں ٻہوں دور ہیوے۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙی ڳالھ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ہٹھی والو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "دور ہیوے"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "راستی توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:49:27.783600844Z",
+  "model": "glm-5.3"
+}

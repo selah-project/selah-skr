@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے میں گھدے لوییاں کوں ⟨את⟩، بدلے وِچ ہر پہلوں ڄمئیے دے، بنیں یِسرایل دے۔",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "تے میں گھدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوییاں کوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوں ڄمئیے"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "پُتراں وِچ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:51.492846681Z",
+  "model": "glm-5.3"
+}

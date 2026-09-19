@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے بنی اسرائیل ٹُر پئے، تے او اُبوت وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُر پئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "اُبوت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:19.675153130Z",
+  "model": "glm-5.3"
+}

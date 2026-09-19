@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "راستی دیاں قربانیاں قربان کرو، تے یاہوہ اُتے بھروسہ رکھو۔",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "قربان کرو"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیاں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی دیاں"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "تے بھروسہ رکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:13.998884639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ موشے نال آکھیا، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:02.944113173Z",
+  "model": "glm-5.3"
+}

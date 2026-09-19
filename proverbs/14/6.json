@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "مذاقڑو حکمت ڳولیندے تے ⟨کائنی⟩ ملدی، پر سمجھدار کوں علم سوکھا ہے۔",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ڳولیندے"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاقڑو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے علم"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "سمجھدار کوں"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "سوکھا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:02.864849652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اَسا اپݨے پیواں نال سُتا، تے اُوندی بادشاہی دے چالھی تے ہِک سال وِچ مُکایا۔",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "سُتا"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اُوندے پیو"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مُکایا"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالھی"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "تے ہِک"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "اُوندی بادشاہی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:52.868996046Z",
+  "model": "glm-5.3"
+}

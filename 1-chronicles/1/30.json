@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "مِشماع تے دومہ، مسّا، خَداد تے تِیما۔",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "مِشماع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "تے دومہ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مسّا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "خَداد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "تے تِیما"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:33.014981548Z",
+  "model": "glm-5.3"
+}

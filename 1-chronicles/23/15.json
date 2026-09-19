@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "موشے دے پُتر گرشوم تے ایلیعزر ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گرشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "تے ایلیعزر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:05.406920460Z",
+  "model": "glm-5.3"
+}

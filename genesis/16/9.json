@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یاہوہ دا فرشتہ اوں کوں آکھیا: “وَلی وَنڄ اپݨی مالکن دو، تے اوندے ہتھاں تلے جُھک۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "وَلی وَنڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "اپݨی مالکن"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "تے جُھک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "اوندے ہتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:56.176119029Z",
+  "model": "glm-5.3"
+}

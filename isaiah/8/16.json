@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "گواہی کوں ٻدھو، تورات کوں میݙے شاگرداں وِچ مہر کرو۔",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ٻدھو"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مہر کرو"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "میݙے شاگرداں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:16.102631873Z",
+  "model": "glm-5.3"
+}

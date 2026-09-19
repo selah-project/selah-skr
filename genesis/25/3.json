@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یقشان ⟨את⟩ شباح تے ⟨את⟩ ددان ڄݙائے؛ تے ددان دے پُتر اشوریم تے لتوشیم تے لعمیم ہن۔",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "تے یقشان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄݙائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شباح"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شباح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ددان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "اشوریم"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "تے لتوشیم"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "تے لعمیم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:49.336387704Z",
+  "model": "glm-5.3"
+}

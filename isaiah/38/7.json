@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے ایہ تیݙے کیتے یاہوہ ⟨מאת توں⟩ دا نشانی ہے، جو یاہوہ ⟨את⟩ ایہ ڳالھ کریسی جیہڑی اوں آکھی ہے۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشانی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:45:01.352964812Z",
+  "model": "glm-5.3"
+}

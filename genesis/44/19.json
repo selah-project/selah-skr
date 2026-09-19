@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "میݙے سائیں ⟨את⟩ آپݨے غلامیں توں پچھیا، آکھݨ لڳا: “کیا تُہاݙے کول پیو ہے یا بھرا؟”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "میݙے سائیں"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پچھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے غلامیں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "آپݨے غلامیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    },
+    {
+      "surface": "היש",
+      "gloss": "کیا … ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کول"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:40.054823935Z",
+  "model": "glm-5.3"
+}

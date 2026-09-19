@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ گت تے ⟨את⟩ مارِیشاہ تے ⟨את⟩ زیف۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گت"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مارِیشاہ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مارِیشاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زیف"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:39.179460054Z",
+  "model": "glm-5.3"
+}

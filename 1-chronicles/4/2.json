@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے رِعایاہ، شوبال دا پُتر، ⟨את⟩ یاخت کوں ڄݨیا؛ تے یاخت ⟨את⟩ اَخُومائی تے ⟨את⟩ لَہد کوں ڄݨیا۔ ایہ تصرعاتی دے ٹبر ہن۔",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "تے رِعایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاخت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخت"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "تے یاخت"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَخُومائی"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "اَخُومائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لَہد"
+    },
+    {
+      "surface": "להד",
+      "gloss": "لَہد"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "تصرعاتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:55.264365920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے داوِد اوں ویلھے قلعے وِچ ہا، تے فلستیاں دی چوکی اوں ویلھے بیت-لخم وِچ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اوں ویلھے"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "قلعے وِچ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "تے چوکی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاں دی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اوں ویلھے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت وِچ"
+    },
+    {
+      "surface": "لחם",
+      "gloss": "لخم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:47.363715726Z",
+  "model": "glm-5.3"
+}

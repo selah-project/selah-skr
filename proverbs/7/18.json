@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "آؤ، صبح تئیں پیار وِچ رجّ کروں، محبتاں وِچ مزے کریندے رہوں۔",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "رجّ کروں"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "پیار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "مزے کریندے رہوں"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "محبتاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:33.414242594Z",
+  "model": "glm-5.3"
+}

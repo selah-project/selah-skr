@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "مادون دا بادشاہ ہِک؛ ختصور دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "مادون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ختصور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.397570653Z",
+  "model": "glm-5.3"
+}

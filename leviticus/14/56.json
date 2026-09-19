@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے سوج، پپڑی تے چٹے داغ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "تے سوج کیتے"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "تے پپڑی کیتے"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "تے چٹے داغ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.379688637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یونہ مچھی دے ڈھڈ توں آپݨے ایلوہیم یاہوہ دوں دعا کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "دعا کیتی"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "آپݨے ایلوہیم"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ڈھڈ توں"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "مچھی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:12.781705981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "حکمت تے تربیت ڄاݨݨ کیتے، سمجھ آلے لفظ سمجھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاݨݨ کیتے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "وמוסר",
+      "gloss": "تے تربیت"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "سمجھݨ کیتے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:45.887658586Z",
+  "model": "glm-5.3"
+}

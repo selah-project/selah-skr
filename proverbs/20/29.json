@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "جواناں دی شوکت اُنہاں دی طاقت ⟨ہے⟩، تے ٻُڈھیاں دا سوہݨپ پکا وال ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "شوکت"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "جواناں دی"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "اُنہاں دی طاقت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے سوہݨپ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ٻُڈھیاں دا"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "پکا وال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:30.807802790Z",
+  "model": "glm-5.3"
+}

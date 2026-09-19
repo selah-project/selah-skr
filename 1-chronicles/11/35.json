@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اِخیام شکار دا پُتر الحراری، اِلیفل اُور دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "اِخیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "الحراری"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "اِلیفل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُور"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:57.371159365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "جݙاں تُساں ٹُریں، تیݙا قدم تنگ نہ تھیسی، تے جے بھڄسیں، متھڑیسی نہ۔",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "جݙاں تُساں ٹُریں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "تنگ تھیسی"
+    },
+    {
+      "surface": "צעادך",
+      "gloss": "تیݙا قدم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "بھڄسیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "متھڑیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:10.034767964Z",
+  "model": "glm-5.3"
+}

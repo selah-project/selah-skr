@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ٻہوں مَکھی ـݨا چنگا کائنی، تے آپݨے جلال دی کھوج ⟨کرݨ⟩ جلال دے خلاف ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "کھاوݨ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "مَکھی"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "تے کھوج"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "آپݨے جلال دی"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.694647773Z",
+  "model": "glm-5.3"
+}

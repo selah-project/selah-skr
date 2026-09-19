@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے یاہوہ موشے نال آکھیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:04.596177216Z",
+  "model": "glm-5.3"
+}

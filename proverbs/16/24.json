@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "میٹھے بول شہد دے چھتے وانگوں ⟨ہن⟩ — جان کیتے میٹھے تے ہݙیاں کیتے شفا۔",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "چھتا"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شہد دے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "بول"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "میٹھے"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "میٹھا"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جان کیتے"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "تے شفا"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ہݙیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:10.007111145Z",
+  "model": "glm-5.3"
+}

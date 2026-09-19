@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "یاہوہ ادونای ساݙا، تیݙا ناں ساری زمین اُتے کتنا وݙا ہے!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ادونای ساݙا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کتنا"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیݙا ناں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:23.384719132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے مِتصرایم ⟨את⟩ لودییم تے ⟨את⟩ عنامیم تے ⟨את⟩ لہابیم تے ⟨את⟩ نفتوحیم کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "تے مِتصرایم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لودییم"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "لودییم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عنامیم"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "عنامیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لہابیم"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "لہابیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نفتوحیم"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "نفتوحیم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:21.526126856Z",
+  "model": "glm-5.3"
+}

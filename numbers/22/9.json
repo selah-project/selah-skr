@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے ایلوہیم بِلعام کول آیا تے آکھیس: “اوہ کیڑھے بندے ہِن اے جیہڑے تیݙے نال ہِن؟”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیڑھے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:49.207336594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "او میکوں سݙسی: ”توں میݙا پیو ایں، میݙا ایل تے میݙی نجات دی چٹان۔“",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "میکوں سݙسی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙا پیو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙا ایل"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "تے چٹان"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میݙی نجات"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:51.541928683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اوں اوندے کیتے پُتر ڄݨے: ⟨את⟩ یعوش، ⟨ואת⟩ شمریاہ، تے ⟨ואת⟩ زہام۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄݨے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "شمریاہ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شمریاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "زہام"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زہام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:28.820602932Z",
+  "model": "glm-5.3"
+}

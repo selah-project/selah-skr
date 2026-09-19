@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "اندھے قوم کوں، جیندیاں اکھیں ہِن، تے ٻوڑیاں کوں، جیہناں کن ہِن، ٻاہر کڈھ۔",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ٻاہر کڈھ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھی"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "تے اکھیں"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہِن"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "تے ٻوڑے"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "تے کن"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:47:39.576525547Z",
+  "model": "glm-5.3"
+}

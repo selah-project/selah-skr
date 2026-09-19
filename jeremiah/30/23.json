@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ݙیکھو، یاہوہ دی وھال نکلی ہے — غصہ نکلیا ہے، چھٹی چلدی وھال، بُرے لوکاں دے سر اُتے وڳڑسی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "وھال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکلیا ہے"
+    },
+    {
+      "surface": "סער",
+      "gloss": "وھال"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "چھٹی چلدی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُرے لوکاں دے"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "وڳڑسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:36.275441157Z",
+  "model": "glm-5.3"
+}

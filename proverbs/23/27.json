@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کیوں جو زناکار تریمت ہِک ڳوڑھا گڑھا ہے، تے اوپری تریمت ہِک تنگ کھوہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "گڑھا"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ڳوڑھا"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناکار تریمت"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "تے کھوہ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "اوپری تریمت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:29.109412380Z",
+  "model": "glm-5.3"
+}

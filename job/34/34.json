@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "دِلاں آلے بندے میݙے نال ⟨ایہ⟩ آکھسن، تے سیاݨا بندہ میݙی ڳالھ سُݨسی۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دِلاں آلے"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھسن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:30.097919187Z",
+  "model": "glm-5.3"
+}

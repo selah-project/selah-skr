@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سارے او جنہاں دے ناساں وِچ جیون-ساہ دی روح ہئی، سُکی بھوئیں اُتے سبھ وِچوں، مر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیون دی"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ناساں وِچ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "سُکی بھوئیں اُتے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:48.724235328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اِلعازر مر ڳیا، تے اوندے پُتر کائن ہن، صرف دھیاں ہن؛ قیش دے پُتر، اوندے بھرا، انہاں کوں پرنا گھدا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "انہاں کوں پرنا گھدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "اوندے بھرا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:15.862456459Z",
+  "model": "glm-5.3"
+}

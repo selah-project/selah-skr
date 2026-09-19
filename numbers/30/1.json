@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے موشے اِسرائیل دے پُتراں کوں آکھیا، سارے اوندے موجب جیندا یاہوہ ⟨את⟩ موشے کوں حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سارے اوندے موجب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:07.637992480Z",
+  "model": "glm-5.3"
+}

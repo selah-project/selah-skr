@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تِیراں تے کمان نال اُتھاں آندا ویسن، کیوں جو سارا مُلک شمِیر تے کَنڈیاں بݨ ویسے۔",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "تِیراں"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "تے کمان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آندا ویسن"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شمِیر"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "تے کَنڈیاں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بݨ ویسے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "مُلک"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:50.960818899Z",
+  "model": "glm-5.3"
+}

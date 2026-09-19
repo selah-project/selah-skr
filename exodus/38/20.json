@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے مسکن تے چھاونی دے دوالے دے سارے کِل تانباں دے ہن۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "کِل"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن دے"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "تے چھاونی دے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانباں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:34.854475858Z",
+  "model": "glm-5.3"
+}

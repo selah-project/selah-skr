@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "غت وِچ نہ ݙسو، رووݨ نہ رووو؛ بیت لِعفرا وِچ، دھوڑ وِچ ولو ونڄو۔",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "غت وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ݙسو"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "رووݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "رووو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "لِعفرا"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ولو ونڄو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:56:54.475500155Z",
+  "model": "glm-5.3"
+}

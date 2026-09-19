@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اُوندا بھرا آساف، جیہڑا اُوندی سڄّی پاسے کھڑا ہا — آساف، بَرخیاہو دا پُتر، شِمعا دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اُوندا بھرا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "کھڑا ہا"
+    },
+    {
+      "surface": "عל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "اُوندی سڄّی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بَرخیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:15.403666062Z",
+  "model": "glm-5.3"
+}

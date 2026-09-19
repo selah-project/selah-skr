@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے موشے سُݨ گھدا، تے او اوندیاں اکھیں وِچ چنگا لڳا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُݨ گھدا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "تے چنگا لڳا"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اوندیاں اکھیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:57.336842484Z",
+  "model": "glm-5.3"
+}

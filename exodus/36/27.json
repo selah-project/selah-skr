@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اتے مسکن دے پچھلے پاسے لئی، پچھم دوں، اوں چھ تختے بݨائے۔",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "اتے … پچھلے پاسے لئی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچھم دوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:03:44.278058383Z",
+  "model": "glm-5.3"
+}

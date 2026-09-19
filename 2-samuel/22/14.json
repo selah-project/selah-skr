@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "یاہوہ اسماناں توں گجریا، تے عِلیون ⟨علیٰ ترین⟩ آپݨاں آواز ݙتی۔",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گجریا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "تے عِلیون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "آپݨاں آواز"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:04.606283926Z",
+  "model": "glm-5.3"
+}

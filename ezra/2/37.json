@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اِمَّر دے پُتر، ہِک ہزار پنجاہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمَّر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:49.910094145Z",
+  "model": "glm-5.3"
+}

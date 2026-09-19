@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے میں ہِک کِرمی ہاں، بندہ نہ؛ بندیاں دی بے عزتی، قوم دا حقیر۔",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کِرمی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بے عزتی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں دی"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "حقیر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:16.617010456Z",
+  "model": "glm-5.3"
+}

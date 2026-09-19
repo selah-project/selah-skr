@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "جݙاں یِرمیاہو کھوہ دے گھر تے کوٹھڑیاں وِچ آ ڳیا، تے یِرمیاہو اُتھاں ٻہوں ݙینہہ ٻیٹھا رہیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "کھوہ دے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے وِچ"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "کوٹھڑیاں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے ٻیٹھا رہیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:28.123616439Z",
+  "model": "glm-5.3"
+}

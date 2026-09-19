@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "بہادر تے جنگ دا بندہ، قاضی تے نبی، موہتی تے بزرگ —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ دا"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضی"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "تے موہتی"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "تے بزرگ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:33:36.140086105Z",
+  "model": "glm-5.3"
+}

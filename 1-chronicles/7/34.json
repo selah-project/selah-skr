@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے شامِر دے پُتر اخی، روہگہ، یخُبہ تے آرام ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شامِر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "اَخی"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "تے روہگہ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "یخُبہ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "تے آرام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:39.967953098Z",
+  "model": "glm-5.3"
+}

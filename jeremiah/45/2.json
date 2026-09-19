@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "اینویں آکھیا یاہوہ، اِسرایل دا ایلوہیم، تیݙے اُتے، اے باروخ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اینویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرایل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "בرוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:20.662571429Z",
+  "model": "glm-5.3"
+}

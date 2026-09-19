@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یویداع ⟨את⟩ یونتن کوں ڄمایا، تے یونتن ⟨את⟩ یدوع کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "تے یویداع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یونتن کوں"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یونتن"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "تے یونتن"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یدوع کوں"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "یدوع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:25.675931594Z",
+  "model": "glm-5.3"
+}

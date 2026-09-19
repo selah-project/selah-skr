@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "جیڑھا گڑھا کھٹیندے، او اوندے وِچ ڈھہسی، تے جیڑھا پتھر لُڑھیندے، او اوندے اُتے وَلسی۔",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "کھٹیندے"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڑھا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھہسی"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "تے لُڑھیندے"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ولسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:35.322821647Z",
+  "model": "glm-5.3"
+}

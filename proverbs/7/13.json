@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے اوندا تکڑا پکڑ گھدس، تے اوکوں چُم گھدس؛ اپݨا مُہر سخت کر تے اوکوں آکھیُس:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "تکڑا پکڑ گھدس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "چُم گھدس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوکوں"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "سخت کر تے"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "اپݨا مُہر"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیُس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:50.330537134Z",
+  "model": "glm-5.3"
+}

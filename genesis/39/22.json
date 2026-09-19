@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے قیدخانے دے سردار یوسف دے ہتھ تے ⟨את⟩ سارے قیدی سونپے، جیڑھے قیدخانے وِچ ہن؛ تے جو کجھ اُتھاں کریندے ہن، اوہ آپ اوہ کریندا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "سونپے"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "قیدخانے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ تے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے قیدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "قیدخانے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سب کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کریندے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:10.313300164Z",
+  "model": "glm-5.3"
+}

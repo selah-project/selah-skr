@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں انہاں کوں دل دی اَندھیری ݙیسیں، تیݙی لعنت انہاں اُتے۔",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "توں ݙیسیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "اَندھیری ⟨دل دی⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨دل⟩"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "تیݙی لعنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:25.412111034Z",
+  "model": "glm-5.3"
+}

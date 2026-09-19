@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "بندے دا ساہ یاہوہ دا ٻلدا دیوا ہے، جیہڑا پیٹ دے سارے لُکے کمرے ڳولیندے۔",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ٻلدا دیوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ڳولیندے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "لُکے کمرے"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پیٹ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:25.803539423Z",
+  "model": "glm-5.3"
+}

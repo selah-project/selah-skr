@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "کیوں جو مادہ ہرݨ وی کھیت وِچ ٻچہ ڄݨ کے اوندے چھوڑ ݙتس، کیوں جو گھاہ کائنی ہا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "مادہ ہرݨ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ٻچہ ڄݨیس"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "تے چھوڑ ݙتس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گھاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:12.301889184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو ٻہوں سارے زخمی او ڈھایا، تے جو اوندے ماریے ہَن او سارے طاقتور ہَن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "او ڈھایا"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "تے طاقتور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "اوندے ماریے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:36.296256051Z",
+  "model": "glm-5.3"
+}

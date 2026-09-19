@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ہُݨ ونڄ، تے میں تیݙے منہ نال ہوساں تے تیکوں اوہ سکھیساں جو توں ٻولسیں۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہوساں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙے منہ"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "تے تیکوں سکھیساں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "توں ٻولسیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:46:00.993154409Z",
+  "model": "glm-5.3"
+}

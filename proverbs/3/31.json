@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "زبردست بندے توں حسد نہ کر، تے اُوندیاں رٰاہیاں وِچوں کہیں راہ دا چݨاں نہ کر۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد نہ کر"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بندے وِچ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "چݨاں نہ کر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں وِچوں"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اُوندیاں رٰاہیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.884399701Z",
+  "model": "glm-5.3"
+}

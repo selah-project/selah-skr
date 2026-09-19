@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "ٻاہروں تلوار بے-اولاد کریسی، تے کوٹھڑیاں وِچ ݙر؛ بھاویں نینگر، بھاویں کنواری، چھوہر ٻڈھڑے بندے نال۔",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہروں"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "بے-اولاد کریسی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "تے کوٹھڑیاں وِچ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھاویں"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "نینگر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھاویں"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "کنواری"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "چھوہر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ٻڈھڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:19.244024888Z",
+  "model": "glm-5.3"
+}

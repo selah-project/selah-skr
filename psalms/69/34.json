@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "کیوں جو یاہوہ غریباں دی سݨدا ہے، تے ⟨את⟩ اپݨے قیدیاں کوں حقیر نہ ڄاݨدا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سݨدا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دی"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "غریباں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے قیدیاں کوں"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "اپݨے قیدیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "حقیر ڄاݨدا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:01.143420460Z",
+  "model": "glm-5.3"
+}

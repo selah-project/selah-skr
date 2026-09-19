@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 18:32",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "کیوں جو مرݨ آلے دے مرݨ وِچ میں خوش کائنی — ادونای یاہوہ دا اِعلان — ول ولو تے جیوو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "במות",
+      "gloss": "مرݨ وِچ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرݨ آلے دا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اِعلان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "تے ول ولو"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "تے جیوو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:51.896145310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "او ڳالھ جیڑھی یشعیاہو، اَموتس دے پُتر، یہوداہ تے یروشلایم بارے ݙٹھی۔",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙٹھی"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اَموتس"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "تے یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:13:39.766340051Z",
+  "model": "glm-5.3"
+}

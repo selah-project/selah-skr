@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے موشے کُوڑی تھی زمین دو جُھکیا تے سجدہ کیتس۔",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "کُوڑی تھی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "جُھکیا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین دو"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "سجدہ کیتس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:02:33.061812575Z",
+  "model": "glm-5.3"
+}

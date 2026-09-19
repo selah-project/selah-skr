@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے لیاہ ولا حاملہ تھئی، تے یعقوو کیتے چھیواں پُتر ڄایس۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ تھئی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄایس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "چھیواں"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:20.481840153Z",
+  "model": "glm-5.3"
+}

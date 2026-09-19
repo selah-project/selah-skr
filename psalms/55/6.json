@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "ݙر تے کنبڑی میݙے وِچ آ ڳئی ہے، تے ہیبت میکوں ڈھک گھدے۔",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "تے کنبڑی"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آ ڳئی ہے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے وِچ"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ڈھک گھدے"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ہیبت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:03.787429153Z",
+  "model": "glm-5.3"
+}

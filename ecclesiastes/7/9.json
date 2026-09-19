@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اپݨی روح وِچ غصہ کھاوݨ کیتے جلدی نہ کر، کیوں جو غصہ مورکھاں دے سینے وِچ آرام کریندے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "اپݨی روح وِچ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "غصہ کھاوݨ کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "سینے وِچ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں دے"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.339799080Z",
+  "model": "glm-5.3"
+}

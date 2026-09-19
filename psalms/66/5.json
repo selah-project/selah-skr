@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "آؤ تے ݙیکھو ایلوہیم دے کماں کوں — او آدم دیاں اولاداں اُتے خوفناک کم کریندا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "وראו",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کماں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "خوفناک"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دیاں اولاداں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:30.505011144Z",
+  "model": "glm-5.3"
+}

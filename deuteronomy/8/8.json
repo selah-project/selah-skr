@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کݨک تے جوَ آلی بھومی، مُر، انجیر تے انار آلی؛ زیتون دے تیل تے ماکھی آلی بھومی،",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "بھومی"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "کݨک"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "تے جوَ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "تے مُر"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "تے انجیر"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "تے انار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بھومی"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دے تیل"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "تے ماکھی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:39.033371221Z",
+  "model": "glm-5.3"
+}

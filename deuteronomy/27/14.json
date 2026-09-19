@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے لاوی آکھسن تے سارے اِسرائیل دے جتیاں کوں اُچی آواز نال آکھسن۔",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "تے جواب ݙیسن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جتیاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل دے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רם",
+      "gloss": "اُچی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:08.124908174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اَلکانہ دے پُتر عمَسای تے اَخیموت ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانہ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عمَسای"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "تے اَخیموت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:56.033526459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے ساری سنگت آکھیا جو ایویں کیتا ونڄے، کیوں جو ایہ ڳالھ سارے لوکاں دیاں اکھیں وِچ سِدھی ⟨ہئی⟩۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "سنگت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:28.820442804Z",
+  "model": "glm-5.3"
+}

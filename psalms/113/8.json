@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "جو اونکوں سرداراں نال ٻلھاوے — اپݨی قوم دے سرداراں نال۔",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ٻلھاوݨ کیتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندی قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:41.641543297Z",
+  "model": "glm-5.3"
+}

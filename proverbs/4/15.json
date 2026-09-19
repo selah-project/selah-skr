@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اونکوں وٹا ݙے، اُوندے توں نہ لنگھ؛ اُوندے کنوں پرے ہٹ تے لنگھ ونڄ۔",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "اونکوں وٹا ݙے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "لنگھ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوندے توں"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "پرے ہٹ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "اُوندے کنوں"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "تے لنگھ ونڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:42.141968996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اوݙوں رات وِچ ایلوہیم دا ⟨کلام⟩ ناتان ⟨دے کول⟩ آیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوݙوں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:26.091749738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "اوں گھر دی کندھ ناپی، چھ ہتھ؛ تے کھنبے دی چوڑائی چار ہتھ — گھر دے دوالے ہر پاسے چوگرد۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "اوں ناپی"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "کھنبے دی"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ہر پاسے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوگرد"
+    }
+  ],
+  "timestamp": "2026-09-19T21:17:06.691525004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "حکیم سنسی تے ⟨ودھیک⟩ علم گھنسی، تے سلھڑ چالاکیاں حاصل کریسی۔",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "سنسی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ودھیک گھنسی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "سلھڑ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "چالاکیاں"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "حاصل کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:42.594261165Z",
+  "model": "glm-5.3"
+}

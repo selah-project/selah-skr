@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے میݙی جان ٻہوں گھبرا ڳئی ہے؛ پر تُساں، یاہوہ — کݙاں تئیں؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "تے میݙی جان"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "گھبرا ڳئی ہے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "پر تُساں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کݙاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:23.104922479Z",
+  "model": "glm-5.3"
+}

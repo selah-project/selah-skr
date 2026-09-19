@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "جے او جھیڑا کرݨ چاہے، تاں ⟨بندہ⟩ ہزار وچوں ہِک دا جواب نہ ݙے سڳدا۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "جھیڑا کرݨ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "جواب ݙے سڳدا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מני",
+      "gloss": "وچوں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:47.997321246Z",
+  "model": "glm-5.3"
+}

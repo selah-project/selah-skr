@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "ٻہوں سارے حاکم دا مُکھ ڳولیندے ہن، پر ہر بندے دا انصاف یاہوہ کنوں ہے۔",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ڳولیندے ہن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکم دا"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "تے یاہوہ کنوں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندے دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:01.764182694Z",
+  "model": "glm-5.3"
+}

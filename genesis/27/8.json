@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ہُݨ، میݙے پُتر، میݙی آواز سُݨ — اُوں ڳالھ دی، جیڑھی میں تیکوں ⟨את⟩ حکم ݙیندی ہاں۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "اُوں ڳالھ دی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم ݙیندی ہاں"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:31.145571621Z",
+  "model": "glm-5.3"
+}

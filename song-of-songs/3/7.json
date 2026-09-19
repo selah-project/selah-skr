@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ݙیکھو، اوندا پَلنگ — شلومو دا — سِٹھ کوں بہادر اُوندے دوالے ہن، یسرایل دے بہادراں وچوں۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "اوندا پَلنگ"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "شلومو دا"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سِٹھ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "بہادراں وچوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:22.537135457Z",
+  "model": "glm-5.3"
+}

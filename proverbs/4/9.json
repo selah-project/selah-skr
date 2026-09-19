@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "او تیݙے سر اُتے چن دی مالا پوسی، سوہݨپ دی تاج تیکوں بچا تے ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "پوسی"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "تیݙے سر اُتے"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "مالا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארت",
+      "gloss": "سوہݨپ دی"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "تیکوں بچا تے ݙیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:10.034145906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے کلام دا مُنڈھ سچ ہے، تے ہمیشہ سارے تیݙے راست فیصلے ہن۔",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیݙے کلام دا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "تے ہمیشہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیݙے راست"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:35.243902851Z",
+  "model": "glm-5.3"
+}

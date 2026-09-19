@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "جے یاہوہ میݙی مدد نہ ہوندی، تاں میݙی جان تقریباً چُپ وِچ رہندی۔",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "جے … نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تقریباً"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "رہندی"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:36.584624993Z",
+  "model": "glm-5.3"
+}

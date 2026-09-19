@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "یاہوہ میکوں اپݨیاںibratorیاں دا رستہ سکھا، تے میں اوندے انت تئیں ٹُر整改ساں۔",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "میکوں سکھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "اپݨیاں حکماں دا"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "تے میں ٹُریساں"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "انت تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:08.989013549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "نتینیم ⟨מندر دے خدمت گار⟩: تصیخا دے پُتر، خصفا دے پُتر، طبعوت دے پُتر،",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "نتینیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "تصیخا دے پُتر"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "تصیخا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "خصفا دے پُتر"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "خصفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "طبعوت دے پُتر"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "طبعوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:45.618446729Z",
+  "model": "glm-5.3"
+}

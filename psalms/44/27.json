@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "اُٹھ، اساݙی مدد کوں آ، تے تیݙے خیسِد کیتے اساکوں چھڑا گھن۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساݙی"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "تے چھڑا گھن"
+    },
+    {
+      "surface": "למען",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیݙا خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:35.852118301Z",
+  "model": "glm-5.3"
+}

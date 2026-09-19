@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "نرم جواب غصہ ہٹیندے، تے ݙکھ آلا لفظ اُکڑ چڑھیندے۔",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ہٹیندے"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے لفظ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ݙکھ آلا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھیندے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اُکڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:21.933770909Z",
+  "model": "glm-5.3"
+}

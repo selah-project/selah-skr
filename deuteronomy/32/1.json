@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "سنو اے اسماناں، میں ٻولساں، تے سنے زمین میݙے مُنہ دے الھیاں کوں۔",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اے اسماناں"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "میں ٻولساں"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "تے سنے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "الھیان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙے مُنہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:52.599978887Z",
+  "model": "glm-5.3"
+}

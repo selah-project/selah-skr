@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "کیوں جو ساری زمین دا بادشاہ ایلوہیم ہے — ڳاؤ، سمجھ نال۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:20.423750861Z",
+  "model": "glm-5.3"
+}

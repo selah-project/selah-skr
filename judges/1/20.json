@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ݙتونیں کلاب کوں ⟨את⟩ حبرون، جیویں موشے آکھیا ہا؛ تے اُتھوں کڈھیُس ⟨את⟩ ترے پُتر عنق دے۔",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ݙتونیں"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کلاب کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا ہا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "کڈھیُس"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ترے پُتر"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عنق"
+    }
+  ],
+  "timestamp": "2026-09-19T16:19:32.015286530Z",
+  "model": "glm-5.3"
+}

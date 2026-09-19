@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ دا کلام ݙوجھی واری حجّی دو آیا، مہینے دی چوویہویں کوں، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھی واری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حجّی"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:48.781944762Z",
+  "model": "glm-5.3"
+}

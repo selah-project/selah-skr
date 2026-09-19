@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او رِمّون پَرِتص توں روانہ تھئے، تے لِبنہ وِچ ٹھہرے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "رِمّون توں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِتص"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹھہرے"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "لِبنہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.392206118Z",
+  "model": "glm-5.3"
+}

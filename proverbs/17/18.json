@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "دل وِچ کمی آلا بندہ ہتھ مار تے اپݨے سنگتی دے اڳوں ضامن بݨ ویندے۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمی آلا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "مار تے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضامن بݨ ویندے"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ضامنی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپݨے سنگتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:45.738573032Z",
+  "model": "glm-5.3"
+}

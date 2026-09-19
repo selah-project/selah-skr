@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "جݙاں شریر آندا ہے، تݙاں بے ادبی وی آن ویندی ہے، تے نال نال شرمندگی تے بُرائی۔",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جݙاں … آندا ہے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آن ویندی ہے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بے ادبی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "نال نال"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "شرمندگی"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "بُرائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.281491533Z",
+  "model": "glm-5.3"
+}

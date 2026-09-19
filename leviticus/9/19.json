@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ڳئیں توں تے دنبے توں چربی ⟨את⟩: موٹی پُچھ، اندرونی عضواں دا ڈھکݨ، گردے تے جگر دی لُو۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ڳئیں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "دنبے"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "موٹی پُچھ"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ڈھکݨ"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "گردے"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "لُو"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:04.978617495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 63,
+  "translation": "کیوں جو بدلے دا ݙینہہ میݙے دل وِچ ہا، تے میݙے فدیے دا سال آ ڳیا ہا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلے دا"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "میݙے دل وِچ"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "تے … دا سال"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "میݙے فدیے دا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ ڳیا ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:55:04.538054873Z",
+  "model": "glm-5.3"
+}

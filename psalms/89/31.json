@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "جے اوندے پُتر میݙی تورات چھوڑ ݙیسن، تے میݙے حکماں وِچ نہ ٹُرسن،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "چھوڑ ݙیسن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "میݙی تورات"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "تے میݙے حکماں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ٹُرسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:29.611944650Z",
+  "model": "glm-5.3"
+}

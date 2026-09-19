@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے خَفرایم، شیعون تے اَنحَرت،",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "تے خَفرایم"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "تے شیعون"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "تے اَنحَرت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:09.420855166Z",
+  "model": "glm-5.3"
+}

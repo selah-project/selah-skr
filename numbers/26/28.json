@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یوسِف دے پُتر اپݨیاں ٹبراں موجب: مَنشّہ تے اِفرایِم۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسِف"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اپݨیاں ٹبراں موجب"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنشّہ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "تے اِفرایِم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:45.377902658Z",
+  "model": "glm-5.3"
+}

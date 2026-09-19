@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تھڑکے ہوئے نفس اُتے ٹھنڈا پاݨی ⟨ہے⟩، تے دور دی زمین توں چنگی خبر ⟨وی ایہو⟩۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ٹھنڈا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "تھڑکے ہوئے"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "تے چنگی خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.694214023Z",
+  "model": "glm-5.3"
+}

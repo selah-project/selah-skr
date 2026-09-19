@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تصوپخ دے پُتر سوخ، خِرنِپھِر، شوعال، بیری تے یِمرہ ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "تصوپخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سوخ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "تے خِرنِپھِر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "تے شوعال"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "تے بیری"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "تے یِمرہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:39.968248338Z",
+  "model": "glm-5.3"
+}

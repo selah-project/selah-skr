@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "کݙاں تئیں، یاہوہ، توں ہمیشاں کیتے لُکیا رہسیں؟ تیݙا غصہ بھاہ وانگوں بھڑکیسی؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "لُکیا رہسیں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشاں کیتے"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بھڑکیسی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "تیݙا غصہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:20.369199548Z",
+  "model": "glm-5.3"
+}

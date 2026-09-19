@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کلہیا ݙیکھو، ایہ میں ڳولیم: جو ایلوہیم ⟨את⟩ بندے کوں سِدھا بݨایا، تے او ٻہوں حیلے ڳولے۔",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "کلہیا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں ڳولیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳولے"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "حیلے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:11.030560127Z",
+  "model": "glm-5.3"
+}

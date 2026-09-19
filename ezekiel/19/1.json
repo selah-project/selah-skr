@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "اتے تُوں اِسرائیل دے سرداراں اُتے ہِک مرثیہ چا گھن۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اتے تُوں"
+    },
+    {
+      "surface": "שא",
+      "gloss": "چا گھن"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "مرثیہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:15.106470683Z",
+  "model": "glm-5.3"
+}

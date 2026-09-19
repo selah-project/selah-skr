@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "قہیلت چس آلیاں ڳالھیں لَبھݨ چاہیاں، تے جو لکھیا ڳیا او سِدھا — سچیاں ڳالھیں۔",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "چاہیُس"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قہیلت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "لَبھݨ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چس آلیاں"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "تے جو لکھیا ڳیا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:31.659023222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اِلیَخبّا شَعلبونی؛ یاشِن دے پُتر، یِہوناتان۔",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "اِلیَخبّا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "شَعلبونی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "یاشِن"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:19.860360165Z",
+  "model": "glm-5.3"
+}

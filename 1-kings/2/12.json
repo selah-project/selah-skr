@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شلومو اپݨے پیو داوِد دے تخت اُتے ٻیٹھا، تے اوندا راج ٻہوں پکا تھیا۔",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "تے شلومو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ٻیٹھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "اپݨے پیو"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "تے پکا تھیا"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "اوندا راج"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:55.600401550Z",
+  "model": "glm-5.3"
+}

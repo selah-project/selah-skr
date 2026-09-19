@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے بھیڑاں وِچوں یاہوہ دا محصول چھ سَو پنج تے ستر بݨیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بݨیا"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "محصول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڑاں وِچوں"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:09.952062554Z",
+  "model": "glm-5.3"
+}

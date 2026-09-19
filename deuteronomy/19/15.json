@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "ہِک گواہ کہیں بندے دے خلاف کہیں گناہ یا کہیں خطا کیتے، کہیں اوہ گناہ جیڑھا اوہ کرے، نہ کھڑسی؛ ݙو گواہاں دی زبان اُتے یا ترے گواہاں دی زبان اُتے ڳالھ قائم تھیسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "کہیں بندے دے خلاف"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے کہیں"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "اوہ کرے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہاں دی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہاں دی"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم تھیسی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:36.032844667Z",
+  "model": "glm-5.3"
+}

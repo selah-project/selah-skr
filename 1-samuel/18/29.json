@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے شاؤل داوِد دے اَڳوں توں ہور ݙرݨ لڳا، تے شاؤل سارے ݙینہہ ⟨את⟩ داوِد دا ویری ریہا۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ہور ݙرݨ لڳا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "ݙرݨ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "اَڳوں توں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "איב",
+      "gloss": "ویری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:42:41.595496366Z",
+  "model": "glm-5.3"
+}

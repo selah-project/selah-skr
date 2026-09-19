@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "⟨את⟩ برکت ⟨او⟩، جݙاں تُساں یاہوہ تُہاݙے ایلوہیم دیاں حکماں دی طرف جھکو، جہڑیاں میں تُہاکوں ⟨את⟩ اَڄ حکم ݙینداں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "جھکو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دی طرف"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙے ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑیاں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم ݙیندا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاکوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:17.220726995Z",
+  "model": "glm-5.3"
+}

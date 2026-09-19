@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "غریب تاں اپݨے یار توں وی سٹیا ویندے، پر امیر دے یار ٻہوں ہوندن۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تاں وی"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "اپݨے یار توں"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "سٹیا ویندے"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "تے یار"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:13.139612500Z",
+  "model": "glm-5.3"
+}

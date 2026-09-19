@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "قوماں دے سبھ بادشاہ — سبھے عزت نال سُتے ہن، ہر ہِک اپݨے گھر وِچ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "سُتے ہن"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "عزت نال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اپݨے گھر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:46.950437782Z",
+  "model": "glm-5.3"
+}

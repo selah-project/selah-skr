@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو او نہ سُتے جے او برائی نہ کرن، تے اُنہاں دی نندر کھسی ویندی جے او کہیں کوں نہ تُرٹوا کرن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "سُتے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "برائی کرن"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "تے کھسی ویندی"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "اُنہاں دی نندر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "تُرٹوا کرن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:42.142151367Z",
+  "model": "glm-5.3"
+}

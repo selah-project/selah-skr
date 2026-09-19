@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "چنڳا ہے یاہوہ دا شکر کرݨ، تے تیݙے ناں عِلیون ⟨سَبھ توں اُچے⟩ دا ڳاوݨ۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا ہے"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "شکر کرݨ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "تے ڳاوݨ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تیݙے ناں"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:47.770630127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے داوِد دا ناں ساریاں سرemptیاں وِچ نِکلیا، تے یاہوہ ⟨את⟩ اوندا ݙر ساریاں قوماں اُتے رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "سرemptیاں وِچ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا ݙر"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "اوندا ݙر"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:40.450289800Z",
+  "model": "glm-5.3"
+}

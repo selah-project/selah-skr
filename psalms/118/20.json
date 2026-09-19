@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "ایہ یاہوہ دا دروازہ ہے، راست لوک ایندے وِچ داخل تھیسن۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راست لوک"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "داخل تھیسن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ایندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:54.252903748Z",
+  "model": "glm-5.3"
+}

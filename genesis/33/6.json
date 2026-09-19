@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے کنیزاں، او تے انہاں دے ٻال، نیڑے آئیاں تے سِر جھکایونی۔",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "نیڑے آئیاں"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "کنیزاں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "انہاں دے ٻال"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "سِر جھکایونی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:14.252580975Z",
+  "model": "glm-5.3"
+}

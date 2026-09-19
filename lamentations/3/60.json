@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں ݙٹھا سبھ انہاں دا بدلہ، سبھ انہاں دے میݙے اُتے مکر۔",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "توں ݙٹھا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "انہاں دا بدلہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "انہاں دے مکر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:57.455439349Z",
+  "model": "glm-5.3"
+}

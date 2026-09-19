@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 145,
+  "translation": "یاہوہ سبھ کیتے چنڳا ہے، تے اوندے رحم سبھ اوندے کماں اُتے ہن۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سبھ کیتے"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "تے اوندے رحم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "اوندے کماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:58.139820462Z",
+  "model": "glm-5.3"
+}

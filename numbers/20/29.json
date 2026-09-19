@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے ساری عیدت ݙٹھا جو اہرون دا ساہ نِکل ڳیا، تے سارے بنی اسرائیل اہرون کیتے تریہہ ݙینہہ روئے۔",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "عیدت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "ساہ نِکل ڳیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "روئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:04.913826214Z",
+  "model": "glm-5.3"
+}

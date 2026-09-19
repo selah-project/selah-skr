@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے مُوآب ہِک قوم ہووݨ توں مٹ ویسی، کیوں جو اُوں یاہوہ دے خلاف وݙائی کیتی۔",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "مٹ ویسی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "قوم ہووݨ توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وݙائی کیتی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:29.440328686Z",
+  "model": "glm-5.3"
+}

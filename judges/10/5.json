@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "یعیر مر ڳیا تے قامون وِچ دفن تھیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یعیر"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دفن تھیا"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "قامون وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:26:58.545643611Z",
+  "model": "glm-5.3"
+}

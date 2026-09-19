@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے موشے آپݨے سُترے دے آواز کوں سُنیا، تے جو کجھ اوں آکھیا، سارا کیتُس۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُنیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "لקול",
+      "gloss": "آواز کوں"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "آپݨے سُترے دے"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتُس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اوں آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:34.896373376Z",
+  "model": "glm-5.3"
+}

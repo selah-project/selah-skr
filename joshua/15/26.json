@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "امام، تے شمع، تے مولادہ،",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "امام"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے شمع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "تے مولادہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:38.754622614Z",
+  "model": "glm-5.3"
+}

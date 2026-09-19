@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاہوہ کیتے ہے ⟨خلاصی⟩؛ تیݙے لوکاں اُتے تیݙی برکت ہے۔ سیلاح۔",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "خلاصی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے لوکاں"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تیݙی برکت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلاح"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:47.427211088Z",
+  "model": "glm-5.3"
+}

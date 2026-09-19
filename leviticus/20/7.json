@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے تُساں آپݨا آپ پاک بݨاؤ، تے پاک رہو، کیوں جو میں یاہوہ تُہاݙا ایلوہیم ہاں۔",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "پاک بݨاؤ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "رہو"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:03.087374487Z",
+  "model": "glm-5.3"
+}

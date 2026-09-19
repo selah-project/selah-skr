@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کیوں جو نیڑے اے ݙین٘ہ، تے نیڑے اے یاہوہ دا ݙین٘ہ — بدلاں دا ݙین٘ہ، قوماں دا ویلہا ہوسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙین٘ہ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "تے نیڑے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙین٘ہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙین٘ہ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدلاں دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں دا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:24.972370964Z",
+  "model": "glm-5.3"
+}

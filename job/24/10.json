@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ننگے اوہ بغیر کپڑے دے ٹُردن، تے بُکھے گھاہ دا گڈھا چیندن۔",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ننگے"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ٹُردن"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "کپڑے دے"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "تے بُکھے"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "چیندن"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "گھاہ دا گڈھا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:01.009406983Z",
+  "model": "glm-5.3"
+}

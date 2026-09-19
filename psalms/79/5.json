@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 79,
+  "translation": "کݙ تئیں یاہوہ؟ کیا توں ہمیشہ کیتے غصہ تھیسیں؟ کیا تیݙی چاہ بھاہ وانگوں بھڑسی؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کݙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "غصہ تھیسیں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بھڑسی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "تیݙی چاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:22.587828397Z",
+  "model": "glm-5.3"
+}

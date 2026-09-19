@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "چھی ݙینہہ تُساں کم کرو، تے آپݨی ساری خدمت ⟨is⟩ کر گھنو،",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تُساں کم کرو"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "تے کر گھنو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "آپݨی خدمت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:39.405270032Z",
+  "model": "glm-5.3"
+}

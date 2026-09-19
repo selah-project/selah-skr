@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے میں آپ زمین ⟨את⟩ ویران کریساں، تے اُتھاں وسݨ آلے تُہاݙے دشمن اُتے حیران تھیسن۔",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ویران کریساں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "حیران تھیسن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "تُہاݙے دشمن"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وسݨ آلے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:14.025291988Z",
+  "model": "glm-5.3"
+}

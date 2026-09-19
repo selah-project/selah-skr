@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، ⟨آکھیا⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:22.290003606Z",
+  "model": "glm-5.3"
+}

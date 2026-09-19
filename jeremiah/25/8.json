@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایں کیتے یاہوہ تصواوت ایویں آکھیا: “کیوں جو تُساں میݙے ⟨את⟩ ڳالھیں نہ سُنیاں،”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "سُنیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙے ڳالھیں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میݙے ڳالھیں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:09:54.613164531Z",
+  "model": "glm-5.3"
+}

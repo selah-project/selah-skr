@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ایہ او تورات ہے جیڑھی موشے اسرائیل دے پُتراں دے اڳوں رکھی۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:52.877847449Z",
+  "model": "glm-5.3"
+}

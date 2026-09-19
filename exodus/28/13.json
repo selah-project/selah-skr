@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے تُساں سونے دے جڑاؤ بݨیسو۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُساں بݨیسو"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "جڑاؤ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:07.417807974Z",
+  "model": "glm-5.3"
+}

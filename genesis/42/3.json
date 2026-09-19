@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے یوسف دے بھرا، ݙاہ جݨے، مِتصرایم توں اناج مِٹھݨ لہہ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "تے لہہ ڳئے"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ جݨے"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "مِٹھݨ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:09.482209823Z",
+  "model": "glm-5.3"
+}

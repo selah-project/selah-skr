@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "کیوں جو بادشاہی یاہوہ دی ہے، تے اوہ قوماں وِچ راج کریندا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے راج کریندا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:13.613439154Z",
+  "model": "glm-5.3"
+}

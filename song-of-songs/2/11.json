@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو ݙیکھو، سردی لنگھ ڳئی، مینہہ گزر ڳیا، آپ ونڄ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "سردی"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھ ڳئی"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "گزر ڳیا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ونڄ ڳیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:39.512253969Z",
+  "model": "glm-5.3"
+}

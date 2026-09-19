@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جݙاں اُوندے وِچ جِیندا گوشت ݙکھیسی، او نجس تھی ویسی۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے جݙاں"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ݙکھیسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس تھی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:58.607041723Z",
+  "model": "glm-5.3"
+}

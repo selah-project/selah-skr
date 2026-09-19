@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ڳاواں چھی تے تریہہ ہزار ہن، تے انہاں دا محصول یاہوہ کیتے ݙو تے ستر۔",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "تے ڳاواں"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تریہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "تے انہاں دا محصول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:09.952270698Z",
+  "model": "glm-5.3"
+}

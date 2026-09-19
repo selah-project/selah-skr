@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "چُدھار اٹھاراں ہزار ⟨ناپ⟩؛ تے اُوں ݙینہہ توں شہر دا ناں ہوسی: “یاہوہ اُتھے۔”",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "چُدھار"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٹھاراں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "اٹھاراں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دا"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "اُوں ݙینہہ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:22.219695389Z",
+  "model": "glm-5.3"
+}

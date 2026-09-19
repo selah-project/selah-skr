@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "مُر دی ہِک گٹھڑ میݙا محبوب میݙے کیتے ⟨ہے⟩، اوہ میݙے سینے دے وِچالے رات لیسی۔",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "گٹھڑ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "مُر"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میݙا محبوب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچالے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "سینے دے"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات لیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:53.433696167Z",
+  "model": "glm-5.3"
+}

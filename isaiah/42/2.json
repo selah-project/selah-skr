@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "او چیخسی نہ، تے آواز اُچی نہ کریسی، تے گلی وِچ اوندی آواز سُݨائی نہ ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "چیخسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "اُچی کریسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "سُݨائی ݙیسی"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "گلی وِچ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "اوندی آواز"
+    }
+  ],
+  "timestamp": "2026-09-19T21:14:03.614987744Z",
+  "model": "glm-5.3"
+}

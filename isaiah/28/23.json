@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "کن لاؤ تے میݙی آواز سُݨو؛ دھیان ݙیوو تے میݙی ڳالھ سُݨو۔",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "کن لاؤ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "تے سُݨو"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "دھیان ݙیوو"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "تے سُݨو"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میݙی ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:42:56.448222026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 24:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یعقوو کنوں ⟨ہِک⟩ اُتریسی تے شہر دا بچیا کھٹیا مکا ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "تے اُتریسی"
+    },
+    {
+      "surface": "מיעקב",
+      "gloss": "یعقوو کنوں"
+    },
+    {
+      "surface": "והאביד",
+      "gloss": "تے مکا ݙیسی"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "بچیا کھٹیا"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "شہر دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:42:07.772774075Z",
+  "model": "glm-5.3"
+}

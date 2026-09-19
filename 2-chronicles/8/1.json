@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں ویہہ سال دے مُکݨ تے تھیا، جنہاں وِچ شلومو یاہوہ دا گھر ⟨את⟩ تے آپݨا گھر ⟨את⟩ بݨایا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مُکݨ تے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں وِچ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایا ہا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨا گھر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "آپݨا گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:24.532183867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یِوخار، تے اِلِیشامع، تے اِلِیفَلَت۔",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "تے اِلِیشامع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "تے اِلِیفَلَت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:55.982635650Z",
+  "model": "glm-5.3"
+}

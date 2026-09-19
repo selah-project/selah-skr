@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "اِیویں یاہوہ آکھیا: “ایہ شہر یقیناً بابل دے بادشاہ دی فوج دے ہتھ ݙتا ویسی، تے اوہ اونکوں فتح کریسی۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "یقیناً ݙتا"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ویسی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "تے فتح کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:39.679530887Z",
+  "model": "glm-5.3"
+}

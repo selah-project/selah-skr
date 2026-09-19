@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے اپݨے گِلے وِچ چُری رکھو، جے تُساں جان دا مالک ہیووے۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "چُری"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "گِلے وِچ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں ہیووے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:05.201134556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 102,
+  "translation": "اُوں راہے وِچ میݙا کچ ڈھا ڈتس، میݙے ݙینہہ چھوٹے کیتُس۔",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ڈھا ڈتس"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہے وِچ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "میݙا کچ"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "چھوٹے کیتُس"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "میݙے ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:39.129361193Z",
+  "model": "glm-5.3"
+}

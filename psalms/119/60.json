@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میں جلدی کیتی تے دیر نہ لائی تیݙے حکماں کوں منݨ وِچ۔",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "میں جلدی کیتی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "دیر لائی"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "منݨ وِچ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیݙے حکماں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:20.715532237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے ستویں ݙینہہ تے تُہاݙے کیتے پاک سݙ ہوسی؛ کوئی خدمت آلا کم نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے… ݙینہہ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "سݙ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی… وی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت آلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:41.262782165Z",
+  "model": "glm-5.3"
+}

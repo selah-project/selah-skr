@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "جو آپݨے نوکر کوں نِکے لا توں پالیندے، اُوندا آخر ⟨پُتر بݨ ویندے⟩۔",
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "پالیندے"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "نِکے لا توں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "آپݨے نوکر کوں"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "اُوندا آخر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بݨ ویندے"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "⟨پُتر⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:21.159402078Z",
+  "model": "glm-5.3"
+}

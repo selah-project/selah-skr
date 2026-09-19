@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے غریب کوں اوندے مقدمے وِچ وڈاری نہ ݙکھاویں۔",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "تے غریب کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "وڈاری ݙکھاویں"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "اوندے مقدمے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:49.845878671Z",
+  "model": "glm-5.3"
+}

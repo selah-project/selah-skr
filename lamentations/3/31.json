@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو ادونای ہمیشہ کیتے ⟨کہیں کوں⟩ رد نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "رد کریسی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:10.223399200Z",
+  "model": "glm-5.3"
+}

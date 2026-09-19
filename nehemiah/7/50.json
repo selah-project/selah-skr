@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "رِعایاہ دے پُتر، رِتصین دے پُتر، نِقودا دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعایاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رِتصین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:27.361656093Z",
+  "model": "glm-5.3"
+}

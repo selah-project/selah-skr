@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے مَنوح اپݨی ذال کوں آکھیا: “اساں مر ویسوں، کیوں جو اساں ایلوہیم کوں ݙٹھا ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اپݨی ذال"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مر"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "مر ویسوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ݙٹھا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:11.484587326Z",
+  "model": "glm-5.3"
+}

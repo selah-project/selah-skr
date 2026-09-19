@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "نفتالی دے پُتر — یحتصیایل، تے گونی، تے ییصر، تے شالوم — بِلہا دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "یحتصیایل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "تے گونی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "تے ییصر"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "تے شالوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:14.530516939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے نَحشون ⟨את⟩ سَلمعا کوں ڄمایا، تے سَلمعا ⟨את⟩ بوَز کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "تے نَحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَلمعا"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سَلمعا"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "تے سَلمعا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوَز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:33.226271967Z",
+  "model": "glm-5.3"
+}

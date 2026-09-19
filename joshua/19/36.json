@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اداماہ، تے راماہ، تے حَصور۔",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "تے اداماہ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "تے راماہ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "تے حَصور"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:35.978360314Z",
+  "model": "glm-5.3"
+}

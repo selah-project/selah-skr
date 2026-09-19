@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "میں ⟨את⟩ نبیاں کوں نہ بھیڄیا، پر او بِھڄ پئے؛ میں اُنہاں نال نہ ٻولیا، پر او نبوّت کر پئے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں بھیڄیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبیاں"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبیاں"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "بِھڄ پئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں ٻولیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُنہاں نال"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبوّت کر پئے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:08:43.759826018Z",
+  "model": "glm-5.3"
+}

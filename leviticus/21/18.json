@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "کیوں جو جیہڑے بندے وِچ خرابی ہووے، او نڑِیکھے نہ — انھّا بندہ، یا لنگڑا، یا کھڑا نک والا، یا وادھو انگ آلا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "خرابی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نڑِیکھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "انھّا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "لنگڑا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "کھڑا نک والا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "وادھو انگ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:37.523905876Z",
+  "model": "glm-5.3"
+}

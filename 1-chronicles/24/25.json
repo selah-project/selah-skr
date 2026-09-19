@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "میکاہ دا بھرا ⟨ہا⟩ یِشییاہ؛ یِشییاہ دے پُتراں وِچوں زِخریاہو۔",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "دا بھرا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکاہ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "یِشییاہ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں وِچوں"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "یِشییاہ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زِخریاہو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:51.060472100Z",
+  "model": "glm-5.3"
+}

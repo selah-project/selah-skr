@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "راستی بے داغ دی راہ دی راکھی کریندی ہے، پر بدی گناہگار کوں ڈھاہ ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "دی راکھی کریندی ہے"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بے داغ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "دی راہ"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "پر بدی"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "کوں ڈھاہ ݙیندی ہے"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہگار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:04.527257014Z",
+  "model": "glm-5.3"
+}

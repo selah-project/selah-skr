@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے میں مِتصرایم وِچ فیصلے کریساں، تے او ڄاݨسن جو میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "تے میں … کریساں"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "تے او ڄاݨسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:01.911459018Z",
+  "model": "glm-5.3"
+}

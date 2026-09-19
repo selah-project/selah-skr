@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اوندے پچھوں اِلعازار پُتر دودوہ اَخوخی — او ترائے بہادراں وچوں ہا۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "اوندے پچھوں"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودوہ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "اَخوخی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ترائے وچوں"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "بہادراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:56.531947755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او ہار شاپھر توں ٹُرے، تے خَرادہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ہار توں"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شاپھر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "خَرادہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:52.535569995Z",
+  "model": "glm-5.3"
+}

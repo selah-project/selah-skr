@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے دِلعان، تے ہامِتصپہ، تے یُقطییل،",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "تے دِلعان"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "تے ہامِتصپہ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "تے یُقطییل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:32.896734163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تیل تے خوشبو دل کوں خوش کریندے ہن، تے یار دی مٹھاس جان دی صلاح توں ⟨ہوندی ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "تے خوشبو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کریندے ہن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کوں"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "تے مٹھاس"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "یار دی"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "صلاح توں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:40.570108603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "او کوݨ ہے، ایہ جلال دا بادشاہ؟ یاہوہ تصواوت — او خود جلال دا بادشاہ ہے۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او خود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:30.996125319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میں تیݙی ڳالھ دل وِچ لُکائی ہے، تاں جو تیݙے خلاف گناہ نہ کرماں۔",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "لُکائی ہے"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیݙی ڳالھ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "گناہ کریاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے خلاف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:32.322256132Z",
+  "model": "glm-5.3"
+}

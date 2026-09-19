@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 116,
+  "translation": "یقین کیتُم، کیوں جو ٻولداں؛ ٻہوں تنگ تھیُم۔",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "یقین کیتُم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ٻولداں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "تنگ تھیُم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:39.952788093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے حُشائی اَبشالوم کوں آکھیا: “اِیں واری اخیٹوفل جیہڑی صلاح ݙتی او چنگی کائنی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حُشائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اخیٹوفل"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "واری"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:09:55.195727596Z",
+  "model": "glm-5.3"
+}

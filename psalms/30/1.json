@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "مزمور، ہِک ڳاوݨ — گھر دی وِچھاوݨ دا — داوِد کیتے۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "وِچھاوݨ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:29.632490965Z",
+  "model": "glm-5.3"
+}

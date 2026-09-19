@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "مینھے تیݙے پہنݨ کیتے ہوسن، تے کھیت دی قیمت ٹٻرے بکرے ہوسن۔",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "مینھے"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "تیݙے پہنݨ کیتے"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "تے قیمت"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت دی"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ٹٻرے بکرے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:59.301541294Z",
+  "model": "glm-5.3"
+}

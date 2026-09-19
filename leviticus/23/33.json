@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یاہوہ موشے نال آکھیا: “آکھ،”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:20.413269793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "کیوں جو برائی دا کوئی اَڳلا کائنی؛ شریراں دا دیوا ٻُجھ ویندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ہوسی⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "اَڳلا"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "برائی دا"
+    },
+    {
+      "surface": "נר",
+      "gloss": "دیوا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریراں دا"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ٻُجھ ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:51.841120845Z",
+  "model": "glm-5.3"
+}

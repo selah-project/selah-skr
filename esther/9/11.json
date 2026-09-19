@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "اُوں ݙینہہ شوشن قلعے وِچ مارے ڳئے لوکاں دی ڳݨتری بادشاہ دے اڳوں آئی۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتری"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "مارے ڳئے"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن وِچ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:37.214322443Z",
+  "model": "glm-5.3"
+}

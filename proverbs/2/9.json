@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تݙاں تُساں راستی تے انصاف سمجھ گھنسو، تے سِدھے رستیاں وِچوں ہر چنگے رستے کوں۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجھ گھنسو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "تے سِدھے رستیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:58.121302193Z",
+  "model": "glm-5.3"
+}

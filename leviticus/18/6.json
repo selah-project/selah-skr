@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "ہر ہِک بندہ اپݨے جسم دے سارے رشتےداراں دے نال ننگ کھولݨ کیتے نہ ونجے — میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "رشتہ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اُوندے جسم دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "ونجو"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "کھولݨ کیتے"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:35.950759252Z",
+  "model": "glm-5.3"
+}

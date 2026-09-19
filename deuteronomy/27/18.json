@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ملعون او جیڑھا اندھے کوں رستے وِچ بھُلیندے، تے سارے لوک آکھسن: “آمین۔”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "بھُلیندے"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھے کوں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:38.031607428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 102,
+  "translation": "یاہوہ، میݙی دُعا سُݨ، تے میݙی چیخ تیکوں آوے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دُعا"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "تے میݙی چیخ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:06.553203498Z",
+  "model": "glm-5.3"
+}

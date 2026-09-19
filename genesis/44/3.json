@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "صبحMethodernes روشن تھئی، تے او بندیاں کوں، او تے انہاں دے ݙاند، روانہ کیتا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشن تھئی"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "تے او بندیاں کوں"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "روانہ کیتا ڳیا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "تے انہاں دے ݙاند"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:11.457601433Z",
+  "model": "glm-5.3"
+}

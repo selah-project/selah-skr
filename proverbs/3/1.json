@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "پُتر میݙا، میݙی تورات کوں نہ بھُل، تے میݙے حکماں کوں تیݙا دِل سانبھی رکھے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر میݙا"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "میݙی تورات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھُل"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "تے میݙے حکماں کوں"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "سانبھی رکھے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دِل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.846143965Z",
+  "model": "glm-5.3"
+}

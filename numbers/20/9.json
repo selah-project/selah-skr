@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے موشے چا گھدا ⟨את⟩ لاٹھی یاہوہ دے اڳوں توں، جیویں اوں کوں حکم ݙتا ہس۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چا گھدا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاٹھی"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "لاٹھی"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے اڳوں توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "حکم ݙتا ہس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:37.827154206Z",
+  "model": "glm-5.3"
+}

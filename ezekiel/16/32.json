@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "او زنانی، زناکار، جیہڑی اپݨے بندے دی جاہ ⟨את⟩ اوپریاں کوں گھندی ہے!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "او زنانی"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دی جاہ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "اپݨے بندے"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گھندی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوپریاں کوں"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپرے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:31.961464538Z",
+  "model": "glm-5.3"
+}

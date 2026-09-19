@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "کیوں جو ݙیکھ، میں تیکوں قوماں وِچ نِکا بݨائے، بندیاں وِچ بےقدر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "تیکوں بݨائے"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "بےقدر"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:50.588490703Z",
+  "model": "glm-5.3"
+}

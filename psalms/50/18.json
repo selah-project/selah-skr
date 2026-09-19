@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "جݙاں تُساں چور کوں ݙٹھا، تاں اوں نال رَل ڳیو، تے زناکاراں نال تیݙا حصہ ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "رَل ڳیو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوں نال"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے … نال"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "زناکاراں"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "تیݙا حصہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:06.537818552Z",
+  "model": "glm-5.3"
+}

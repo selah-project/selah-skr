@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اوں برائی کیتی، کیوں جو اوں ⟨את⟩ یاہوہ کوں ڳولݨ کیتے اپݨا دل تیار نہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتیس"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اپݨا دل"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ڳولݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:57.471335559Z",
+  "model": "glm-5.3"
+}

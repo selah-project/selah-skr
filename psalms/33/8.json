@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "ساری زمین یاہوہ توں ݙرے؛ دنیا دے سارے وسنیک اُوندے توں ݙردے رہن۔",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ݙرے"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُوندے توں"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ݙردے رہن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:39.495729920Z",
+  "model": "glm-5.3"
+}

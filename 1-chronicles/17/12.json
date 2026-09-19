@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "او میݙے کیتے گھر بݨیسی، تے میں ⟨את⟩ اوندا تخت ہمیشہ تئیں پکا کریساں۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بݨیسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "پکا کریساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا تخت"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اوندا تخت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:44.813411514Z",
+  "model": "glm-5.3"
+}

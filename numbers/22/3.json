@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے مُوآب او قوم توں ٻہوں ݙریا، کیوں جو او ڈھیر ہن؛ تے مُوآب یِسرایل دیاں اَولاداں توں کُوک بھریا۔",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "ݙریا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "او قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہن"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "کُوک بھریا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اَولاداں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:57.775454889Z",
+  "model": "glm-5.3"
+}

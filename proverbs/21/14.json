@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "لُک تھیا تحفہ غصہ لہا ݙیندے، تے گود وِچ دھرا رشوت سخت کاوڑ کوں ٹھاریسی۔",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لُک تھیا"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "لہا ݙیندے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "تے رشوت"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "گود وِچ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "کاوڑ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:15.864489435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "مُوآب تِرٹ ڳیا؛ اُوندے نِکے ٻالیں چیک چا مچائی ہے۔",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "تِرٹ ڳیا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "چا مچائی ہے"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "چیک"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "نِکے ٻالیں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:20:31.505687413Z",
+  "model": "glm-5.3"
+}

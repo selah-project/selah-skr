@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "یاہوہ دے ݙر وِچ پکا سہارا ⟨ہے⟩، تے اوندے پُتراں کیتے پناہ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "دے ݙر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "پکا سہارا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "تے اوندے پُتراں کیتے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:54.763172792Z",
+  "model": "glm-5.3"
+}

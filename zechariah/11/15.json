@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یاہوہ میکوں آکھیا: “ولا چا گھن تے آپݨے کیتے ہِک کم آلا، اَݨ سُن٘ڄاݨ چرواہے دا اوزار۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "קח",
+      "gloss": "چا گھن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چرواہے"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "اَݨ سُن٘ڄاݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:31.271638177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "شِفتیاہ دے پُتر — ترے سو بہتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتیاہ دے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:46.942670102Z",
+  "model": "glm-5.3"
+}

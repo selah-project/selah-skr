@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "مڈھائی کیتے جلدی کر، ادونای، میݙی نجات۔",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "مڈھائی کیتے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "میݙی نجات"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:11.798806654Z",
+  "model": "glm-5.3"
+}

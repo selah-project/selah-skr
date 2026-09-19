@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "اوں ⟨את⟩ بیرے شیٹیم دی لکڑی دے بݨائے، تے ⟨אתם⟩ اُنہاں اُتے سونا چڑھایا، میز ⟨את⟩ چاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیرے"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "بیرے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیٹیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "سونا چڑھایا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "بیرے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چاوݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:08.360814892Z",
+  "model": "glm-5.3"
+}

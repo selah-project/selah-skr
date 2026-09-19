@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "گھوڑا جنگ دے ݙینہہ کیتے تیار کیتا ویندے، پر نجات یاہوہ کیتے ہے۔",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "گھوڑا"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "تیار کیتا ویندے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دے ݙینہہ کیتے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "پر یاہوہ کیتے"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "نجات"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:55.506456231Z",
+  "model": "glm-5.3"
+}

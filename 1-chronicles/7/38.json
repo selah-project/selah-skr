@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یِتِر دے پُتر: یِفُنّے تے پِسپا تے اَرا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفُنّے"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "تے پِسپا"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "تے اَرا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:00.358673385Z",
+  "model": "glm-5.3"
+}

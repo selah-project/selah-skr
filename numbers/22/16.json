@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "او بِلعام کول ڳئے تے اوں کوں آکھیا: “صِپور دا پُتر بالاق ایویں آکھیا: ‘منع نہ تھی، میݙے کولوں آوݨ توں، اَٹے!’”",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ڳئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِپور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "منع"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَٹے"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "نہ تھی"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "آوݨ توں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:03.050407727Z",
+  "model": "glm-5.3"
+}

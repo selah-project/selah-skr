@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یاہوہ اِسرائیل وِچ وبا بھیڄی، صبح کنوں مقرر وقت تئیں؛ تے قوم وِچوں داں توں بیر شبع تئیں ستر ہزار بندے مر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "بھیڄی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیل وِچ"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "صبح کنوں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "داں توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:20.047005441Z",
+  "model": "glm-5.3"
+}

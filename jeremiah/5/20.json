@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ایہ ڳالھ یعقوو دے گھر وِچ ݙسو، تے ایہہ یہوداہ وِچ سُݨاؤ، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ݙسو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ ڳالھ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دے"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "تے ایہہ سُݨاؤ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:51.918962433Z",
+  "model": "glm-5.3"
+}

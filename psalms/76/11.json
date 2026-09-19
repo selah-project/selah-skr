@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "کیوں جو بندے دا غصہ تیݙی تعریف کریسی، غصے دا بچایا ہویا تُوں ٻدھسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "تیݙی تعریف کریسی"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بچایا ہویا"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصے دا"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ٻدھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:28.337322981Z",
+  "model": "glm-5.3"
+}

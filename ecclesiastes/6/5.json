@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "سِجھ کوں وی نہ ݙٹھا تے نہ ڄاݨیا — ایں کوں اُوں توں ودھ آرام ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨیا"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ایں کوں"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "اُوں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:26.786199251Z",
+  "model": "glm-5.3"
+}

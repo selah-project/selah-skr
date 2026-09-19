@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 65,
+  "translation": "جو دعا سُݨدا ہیں، تیݙے کول ہر جِسم آسی۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨدا ہیں"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "تیݙے کول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جِسم"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:34.899350466Z",
+  "model": "glm-5.3"
+}

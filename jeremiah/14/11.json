@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ میکوں آکھیس: “ایں قوم دی خاطر بھلائی کیتے دعا نہ کر۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا کر"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "خاطر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بھلائی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:05.101433208Z",
+  "model": "glm-5.3"
+}

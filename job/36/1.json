@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اِلیہوٗ وَدھ آکھیا تے آکھیس:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وَدھ"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "اِلیہوٗ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:55.857763913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "حکمت کوں آکھ: 'توں میݙی بھیݨ ایں'، تے سمجھ کوں سَکّی سُنجاݨ۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت کوں"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "میݙی بھیݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "تے سَکّی کوں"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "سُنجاݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:18.047246967Z",
+  "model": "glm-5.3"
+}

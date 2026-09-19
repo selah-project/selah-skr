@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے کاہن دیودار دی لکڑی گھنسی، تے اذخر تے سرخ اُنّ، تے گاں دی ساڑ دے وِچ سٹ ݙینسی۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "تے گھنسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دیودار"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "تے اذخر"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے سرخ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "اُنّ"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "تے سٹ ݙینسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وِچلے"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "ساڑ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "گاں دِی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:20.270789318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "حکمت آپݨا گھر اُساریا، آپݨے کھمبیاں تراشیندی — ست۔",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "اُساریا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آپݨا گھر"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "تراشیندی"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "آپݨے کھمبیاں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.299380854Z",
+  "model": "glm-5.3"
+}

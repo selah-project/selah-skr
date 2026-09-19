@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے ریمِتھ، تے عین گنیم، تے عین حدّہ، تے بیت پتصیص۔",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "تے ریمِتھ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے عین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنیم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے عین"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حدّہ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "پتصیص"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:22.574338396Z",
+  "model": "glm-5.3"
+}

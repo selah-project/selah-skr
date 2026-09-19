@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "زور تے شوکت اوندا لِباس ہِن، تے او آخرلے ݙینہہ اُتے کِھلسِی۔",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شوکت"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اوندا لِباس"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "تے او کِھلسِی"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ݙینہہ اُتے"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخرلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:03.945812138Z",
+  "model": "glm-5.3"
+}

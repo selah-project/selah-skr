@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "خَگاب دے پُتر، شَملای دے پُتر، خَنان دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "خَگاب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "شَملای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خَنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:23.140323366Z",
+  "model": "glm-5.3"
+}

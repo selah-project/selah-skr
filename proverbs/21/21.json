@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "جیہڑا راستی تے خیسِد دا پِچھا کریندے، او حیاتی، راستی تے جلال پیندے۔",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "پِچھا کریندے"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "تے خیسِد"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پیندے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:33.187694684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے بقبقّر، خیرِش تے گلال، تے متنیاہ میکا دا پُتر، زِکری دا پُتر، آساف دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "تے بقبقّر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خیرِش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "تے گلال"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "تے متنیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زِکری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:07.904070890Z",
+  "model": "glm-5.3"
+}

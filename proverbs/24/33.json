@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تھوڑی نیندر، تھوڑی اُداسی، تھوڑا ہتھاں دا آپس وِچ جوڑݨ، لتھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑی"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "نیندر"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑی"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "اُداسی"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "جوڑݨ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھاں"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "لتھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:11.977606346Z",
+  "model": "glm-5.3"
+}

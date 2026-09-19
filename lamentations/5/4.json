@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙا پاݨی پیسے نال پیتے، ساݙا سوُرا وکری وچ آندا ہے۔",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ساݙا پاݨی"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "پیسے نال"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "پیتے"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ساݙا سوُرا"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "وکری وچ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:57.177291707Z",
+  "model": "glm-5.3"
+}

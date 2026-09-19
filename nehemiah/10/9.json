@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مَعَزیہ، بِلگَی، شِمَعیہ — ایہے کاہن ہَن۔",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "مَعَزیہ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "بِلگَی"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمَعیہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:56.126440413Z",
+  "model": "glm-5.3"
+}

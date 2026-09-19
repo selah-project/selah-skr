@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "بھیڄیندی آپݨیاں نوکراݨیاں، او پکارے، شہر دیاں اُچیاں جاہیں توں،",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "بھیڄیندی"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "آپݨیاں نوکراݨیاں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "او پکارے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "کنڈیاں"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "اُچیاں جاہیں"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.299860285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "زمین وِچ حیران کن تے ݙراؤنی شے تھی ڳئی ہے۔",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "حیران کن"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "تے ݙراؤنی"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "تھی ڳئی ہے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:39.228764652Z",
+  "model": "glm-5.3"
+}

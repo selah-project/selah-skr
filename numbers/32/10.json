@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے اوں ݙینہہ یاہوہ دا غصہ بھڑک ڳیا، تے اوں قسم چاتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "بھڑک ڳیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم چاتی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:52.740465310Z",
+  "model": "glm-5.3"
+}

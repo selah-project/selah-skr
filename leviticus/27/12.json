@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے کاہن اوندا مل لہسی ⟨אתה⟩ چنڳے تے ماڑے دے وچالے؛ جیویں تیݙا مل ہے، اَے کاہن، اویں تھیسی۔",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "تے مل لہسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا مل"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچالے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ماڑے"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "جیویں تیݙا مل"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "اَے کاہن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:54.807060500Z",
+  "model": "glm-5.3"
+}

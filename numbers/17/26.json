@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے موشے ایویں کیتا، جیویں یاہوہ اوں کوں حکم ݙتا ⟨אתו⟩، ایویں اوں کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:39.232962547Z",
+  "model": "glm-5.3"
+}

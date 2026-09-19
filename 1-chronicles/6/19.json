@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایلقنہ دا پُتر، یروخام دا پُتر، الیایل دا پُتر، توح دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلقنہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروخام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "الیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "توح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:29.853331805Z",
+  "model": "glm-5.3"
+}

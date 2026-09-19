@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں سارون دا پھُل ⟨ہاں⟩، وادیاں دی کنول۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "سارون"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "کنول"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "وادیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:20.347826444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یوسف دے ٹبر وِچوں — منشہ دے ٹبر وِچوں — گدی، سودی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "دے ٹبر وِچوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "دے ٹبر وِچوں"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:08.244077527Z",
+  "model": "glm-5.3"
+}

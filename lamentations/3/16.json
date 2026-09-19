@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوں کنکراں نال میݙے ݙند کُٹ ݙتے، اوں میکوں سواہ وِچ لتاڑے۔",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "کُٹ ݙتس"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "کنکراں نال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "میݙے ݙند"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "میکوں لتاڑیس"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "سواہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.015108594Z",
+  "model": "glm-5.3"
+}

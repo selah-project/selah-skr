@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "چنڳا ہے یاہوہ اوں کیتے جیہڑا اوندا اِنتظار کرے، اوں جان کیتے جیہڑی اوندو ڳولٖے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "اوں کیتے جیہڑا اِنتظار کرے"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "اوں جان کیتے"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "اوندو ڳولٖے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:55.297874126Z",
+  "model": "glm-5.3"
+}

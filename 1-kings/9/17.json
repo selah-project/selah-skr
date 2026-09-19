@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شلومو ⟨את⟩ غزر تے ⟨את⟩ بیت خورون تلویں کوں اُساریا۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "اُساریا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غزر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "غزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بیت خورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "خورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "تلویں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:55.840904120Z",
+  "model": "glm-5.3"
+}

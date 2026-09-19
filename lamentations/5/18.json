@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ہر صیون دی ویرانی اُتے — لومڑیاں اُوں وِچ ٹُریندیاں پئیاں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "لومڑیاں"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ٹُریندیاں پئیاں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:44.354260747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ذال نال زنا کرݨ آلا دل دی کنوں ہے؛ جو ایہ کم کریندے، اوہ آپ اپݨی جان برباد کریندے۔",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "زنا کریندے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال نال"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "برباد کریندے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ آپ"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "ایہ کم کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:08.458611323Z",
+  "model": "glm-5.3"
+}

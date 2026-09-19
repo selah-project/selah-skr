@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ آشر دے پُتراں دے خاندان ہن، انہاں دی ڳݨتی موجب: ترے تے پنجاہ ہزار، تے چار سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "انہاں دی ڳݨتی موجب"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "وחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:07.366871081Z",
+  "model": "glm-5.3"
+}

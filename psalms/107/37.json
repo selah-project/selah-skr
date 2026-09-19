@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "تے اوہ کھیت وہاجے، انگوراں دے باغ لائے، تے فصل دا پھُل بݨایا۔",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "وہاجے"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "لائے"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "انگوراں دے باغ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "فصل دی پیداوار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:23.201531132Z",
+  "model": "glm-5.3"
+}

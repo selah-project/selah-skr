@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ہُݨ تیکوں مِتصرایم ⟨مصر⟩ دے رستے کیا، شِخور دا پاݨی پیوݨ؟ تے تیکوں اَشّور ⟨آشور⟩ دے رستے کیا، دریا دا پاݨی پیوݨ؟",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "دے رستے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پیوݨ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "شِخور"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "دے رستے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پیوݨ"
+    },
+    {
+      "surface": "مי",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:58:16.103077614Z",
+  "model": "glm-5.3"
+}

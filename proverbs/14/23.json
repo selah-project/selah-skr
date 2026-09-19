@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہر محنت وِچ فائدہ ہوندے، پر ہونٹھاں دی ڳالھ صرف کمی ای گھن آندی ہے۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوندے"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "پر ڳالھ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹھاں دی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "کمی گھن آندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:50.698386527Z",
+  "model": "glm-5.3"
+}

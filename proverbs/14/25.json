@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "سچا گواہ جاناں چھُڑویندے، پر جیہڑا کُوڑ پھوکیندے او مکر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "چھُڑویندے"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "پر پھوکیندے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مکر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:54.762722767Z",
+  "model": "glm-5.3"
+}

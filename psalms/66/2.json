@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "اوندے ناں دے جلال دا ڳاؤ، اوندی تعریف کوں جلال والی بݨاؤ۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندے ناں دا"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بݨاؤ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال والی"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "اوندی تعریف کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:59.536748176Z",
+  "model": "glm-5.3"
+}

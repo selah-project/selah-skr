@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "ایں کیتے میں ⟨آپ کوں⟩ رد کیتے، تے پچھتایُم، دھوڑ تے سواہ اُتے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "رد کیتے"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "تے پچھتایُم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "تے سواہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:46.741586442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "پتھراں کوں سٹݨ دا ویلہا، تے پتھراں کوں کٹھا کرݨ دا ویلہا؛ بھاکل پاوݨ دا ویلہا، تے بھاکل توں پرے رہݨ دا ویلہا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "سٹݨ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "کٹھا کرݨ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "بھاکل پاوݨ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "پرے رہݨ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "بھاکل توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:01.743465526Z",
+  "model": "glm-5.3"
+}

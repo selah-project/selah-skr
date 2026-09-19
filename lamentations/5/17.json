@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ایں ڳالھ توں ساݙا دل بیمار تھی ڳیا، اِنہاں ڳالھیں توں ساݙیاں اکھیں اندھاریاں تھی ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایں ڳالھ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی ڳیا"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ساݙا دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِنہاں ڳالھیں"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "اندھاریاں تھی ڳیاں"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ساݙیاں اکھیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:44.351707487Z",
+  "model": "glm-5.3"
+}

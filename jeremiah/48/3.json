@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "حورونایم توں ہِک چیک دا آواز: “تباہی تے وݙا تِرٹکار!”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چیک دا"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "حورونایم توں"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "تے تِرٹکار"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:20:31.505582433Z",
+  "model": "glm-5.3"
+}

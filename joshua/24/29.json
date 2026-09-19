@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے ایہناں ڳالھیں توں بعد یہوشوع، پُتر نون، یاہوہ دا ٻانہاں، مر ڳیا — سو سال تے ݙاہ سالاں دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانہاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے ݙاہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:20:43.724123398Z",
+  "model": "glm-5.3"
+}

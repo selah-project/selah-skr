@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں آپݨا بادشاہ صیون اُتے، آپݨے پاک پہاڑ اُتے، مقرر کیتے۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "مقرر کیتے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "آپݨا بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "آپݨے پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:23.675000514Z",
+  "model": "glm-5.3"
+}

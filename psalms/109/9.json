@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اوندے پُتر یتیم تھیون، تے اوندی ذال رنڈی ۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "تھیون"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "تے اوندی ذال"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "رنڈی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:46.091398379Z",
+  "model": "glm-5.3"
+}

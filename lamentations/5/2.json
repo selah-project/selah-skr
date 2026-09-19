@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙی وراثت اوپریاں کوں مل ڳئی، ساݙے گھر ٻٹیچیاں کوں۔",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ساݙی وراثت"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "مل ڳئی"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اوپریاں کوں"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ساݙے گھر"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ٻٹیچیاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:57.174442156Z",
+  "model": "glm-5.3"
+}

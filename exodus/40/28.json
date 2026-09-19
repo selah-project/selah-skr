@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اوں مسکن دے دروازے کیتے ⟨את⟩ پردہ لایا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دروازے دا"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:01.317667332Z",
+  "model": "glm-5.3"
+}

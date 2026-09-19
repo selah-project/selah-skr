@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے جے تیکوں لہوݨ دا ݙر لڳدا ہووے، تاں تُوں تے پُراہ تیݙا نوجوان لشکر دوالے لہہ ونڄو۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ݙر لڳدا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "لہوݨ دا"
+    },
+    {
+      "surface": "רד",
+      "gloss": "لہہ ونڄو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "تے پُراہ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "تیݙا نوجوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:24:11.047079095Z",
+  "model": "glm-5.3"
+}

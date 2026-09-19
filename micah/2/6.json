@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نہ ڈھاؤ — او ڈھاندے ہن؛ او انہاں اُتے نہ ڈھاسِن؛ بے عزتی پچھوں نہ ہٹسی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "تُساں ڈھاؤ"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "او ڈھاندے ہن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "او ڈھاسِن"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "انہاں اُتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "پچھوں ہٹسی"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "بے عزتی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:17.832561287Z",
+  "model": "glm-5.3"
+}

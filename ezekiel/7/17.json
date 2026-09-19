@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سارے ہتھ ڈھِل ویسن، تے ساریاں گھٹناں پاݨی بݨ کے وہسن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ڈھِل ویسن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساریاں"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "گھٹناں"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "وہسن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:26:40.927926753Z",
+  "model": "glm-5.3"
+}

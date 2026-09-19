@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یِرَخمیل دے پُتر ہَن — خِتصرون دا پہلوںڈا رام، تے بونہ، تے اُورن، تے اُوتسم، تے اخیّہ۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرَخمیل"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوںڈا"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خِتصرون"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلوںڈا"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "تے بونہ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "تے اُورن"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "تے اُوتسم"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اخیّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.725012135Z",
+  "model": "glm-5.3"
+}

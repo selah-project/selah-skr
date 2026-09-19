@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے یِتصخاق دے ݙینہہ سَو سال تے اَسّی سال تھئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے … تھئے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اَسّی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:01.810700501Z",
+  "model": "glm-5.3"
+}

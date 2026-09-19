@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:09.636695866Z",
+  "model": "glm-5.3"
+}

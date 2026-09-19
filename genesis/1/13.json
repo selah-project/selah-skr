@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے شام تھئی، تے سویر تھیا — تریمھا ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "تریمھا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:56.945920456Z",
+  "model": "glm-5.3"
+}

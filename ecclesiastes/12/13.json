@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ڳالھ دا انت: سَب کجھ سُݨیا ڳیا — ⟨את⟩ ایلوہیم توں ڈر تے ⟨את⟩ اوندے حکم رکھ، کیوں جو ایہو بندے دا سارا ⟨کم⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "انت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سَب کجھ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سُݨیا ڳیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے حکم"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "اوندے حکم"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:21.425209258Z",
+  "model": "glm-5.3"
+}

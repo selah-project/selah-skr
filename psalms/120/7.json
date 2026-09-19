@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 120,
+  "translation": "میں ⟨ہاں⟩ سلامتی دا، پر جݙاں میں ڳالھ کریندا ہاں، او جنگ کیتے ہن۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "پر جݙاں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالھ کریندا ہاں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:34.430730022Z",
+  "model": "glm-5.3"
+}

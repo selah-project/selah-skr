@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے ⟨את⟩ زِمرِی دے سارے بادشاہ، تے ⟨את⟩ عِیلام دے سارے بادشاہ، تے ⟨את⟩ مادای دے سارے بادشاہ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمرِی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    }
+  ],
+  "timestamp": "2026-09-19T18:10:01.459644764Z",
+  "model": "glm-5.3"
+}

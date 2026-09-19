@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "میݙا ڈھال ایلوہیم اُتے ہے، جیہڑا سِدھے دِل والیاں کوں نجات ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "میݙا ڈھال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "نجات ݙیندے"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سِدھے دِل والیاں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:11.134362813Z",
+  "model": "glm-5.3"
+}

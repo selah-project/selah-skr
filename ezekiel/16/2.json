@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بندے دا پُتر، ⟨את⟩ یروشلایم کوں ⟨את⟩ اوندیاں گھناؤݨیاں ڄݨا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ڄݨا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم کوں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندیاں گھناؤݨیاں"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "اوندیاں گھناؤݨیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:30.059643980Z",
+  "model": "glm-5.3"
+}

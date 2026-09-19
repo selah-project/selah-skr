@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے یہوشوع نال یِسرایل دے بادشاہ دے صلح کر گھدی۔",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "صلح کر گھدی"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:11:04.251068632Z",
+  "model": "glm-5.3"
+}

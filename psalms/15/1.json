@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "مزمور، داود دا۔ یاہوہ، کوݨ تیݙے خیمے وِچ ٹِکسی؟ کوݨ تیݙے پاکے پہاڑ اُتے رہسی؟",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داود دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ٹِکسی"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "تیݙے خیمے وِچ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیݙے پاکے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:40.012163738Z",
+  "model": "glm-5.3"
+}

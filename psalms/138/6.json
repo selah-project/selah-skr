@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 138,
+  "translation": "کیوں جو یاہوہ اُچا ہے، پر جِھکݨ آلے کوں ݙیکھس، تے اُچے کوں پرے توں ڄاݨسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רם",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "جِھکݨ آلے کوں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھس"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "اُچے کوں"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "پرے توں"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ڄاݨسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:00.765731035Z",
+  "model": "glm-5.3"
+}

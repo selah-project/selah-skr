@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ایہ رِعوایل دے پُتر ہن: ناخات تے زراخ، شمّاہ تے مِزّاہ؛ ایہ عیسو دی ذال بَسمت دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رِعوایل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناخات"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "تے زراخ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّاہ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "تے مِزّاہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمت"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:12.386042797Z",
+  "model": "glm-5.3"
+}

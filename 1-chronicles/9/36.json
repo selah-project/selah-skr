@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اوندا پُتر، پہلوں ڄایا، عبیدون، تے تصور، تے قیش، تے بعال، تے نیر، تے نداب۔",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "تے اوندا پُتر"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلوں ڄایا"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبیدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "تے تصور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "تے قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "تے بعال"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "تے نیر"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "تے نداب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:11.613336165Z",
+  "model": "glm-5.3"
+}

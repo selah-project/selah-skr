@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ڳلی دا پُتر، ہِک دنبہ، ہِک بھولݨاں، ہِک ورھے دا پُتر، سوختنی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳلی"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھولݨاں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوختنی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:22.239670770Z",
+  "model": "glm-5.3"
+}

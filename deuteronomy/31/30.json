@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے یسرائیل دے سارے جمعیت دے کناں وِچ ⟨את⟩ ایں ڳاوݨ دے لفظ ٻولیے، اِنھاں دے مکمل تھیوݨ تئیں۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ٻولیے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کناں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمعیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳاوݨ دے لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "مکمل تھیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:04:59.106702319Z",
+  "model": "glm-5.3"
+}

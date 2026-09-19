@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے موشے آکھیا: “ایہ کیوں جو تُساں یاہوہ دے ⟨את⟩ مُکھ توں اڳوں لنگھدو، تے اوہ کامیاب نہ تھیسی؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "اڳوں لنگھدو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُکھ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "کامیاب تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:54.452372994Z",
+  "model": "glm-5.3"
+}

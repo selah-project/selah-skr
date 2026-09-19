@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "رتی جان شہت کوں روڑیدی ہے، تے بُکھی جان کوں ہر کوڑی شے مِٹھی لڳدی ہے۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "رتی"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "روڑیدی ہے"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "شہت کوں"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بُکھی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מר",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "مِٹھی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:21.001201098Z",
+  "model": "glm-5.3"
+}

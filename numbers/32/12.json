@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 32:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "سِواے کالب، پُتر یِپُنّہ قنیزی دے، تے یہوشوع پُتر نون دے، کیوں جو او یاہوہ دے پچھوں پورے تھئے۔",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِپُنّہ"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "قنیزی"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "تے یہوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پورے تھئے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:14.128239909Z",
+  "model": "glm-5.3"
+}

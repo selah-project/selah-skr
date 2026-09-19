@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہُݨ میݙیاں اکھیں کھلیاں رہسن تے میݙے کن گہاگے ہوسن ایں جاہ دی دعا دو۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میݙیاں اکھیں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رہسن"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "کھلیاں"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "تے میݙے کن"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "گہاگے"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "دعا دو"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ایں جاہ دی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:31.552389703Z",
+  "model": "glm-5.3"
+}

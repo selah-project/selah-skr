@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "جیویں پاڳل بھڑکدے انگارے، تیر تے موت اُڈیندے،",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "جیویں پاڳل"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "اُڈیندے"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "بھڑکدے انگارے"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "تے موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:37.244027101Z",
+  "model": "glm-5.3"
+}

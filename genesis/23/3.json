@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے اَوراہام اپݨے مُردے دے سامݨے توں اُٹھیا، تے حِتّ دے پُتراں نال ڳالھ کیتی، جو:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "اپݨے مُردے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:38.692297262Z",
+  "model": "glm-5.3"
+}

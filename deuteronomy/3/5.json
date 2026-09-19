@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایہ سارے شہر مضبوط بݨائے ہوئے ہن — اُچی وار، دروازیاں تے باراں نال — کھلے پنڈاں دے شہراں توں وکھ، جیہڑے ٻہوں ودھ ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "وار"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "اُچی"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "تے باراں"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وکھ"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "شہراں توں"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "کھلے پنڈاں دے"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ودھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:07.522862565Z",
+  "model": "glm-5.3"
+}

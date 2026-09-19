@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اساں یتیم تھی ڳئے ہیں، پیو کائنی؛ ساݙیاں ماءُواں رنڈیاں وانگوں ہن۔",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "تھی ڳئے ہیں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ساݙیاں ماءُواں"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "رنڈیاں وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:57.175690533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "اوہ رات کوں ݙینہہ بݨیندن؛ اُجالا اندھارے کنوں نیڑے ہے۔",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ݙینہہ کوں"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "بݨیندن"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُجالا"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھارا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:18.210195743Z",
+  "model": "glm-5.3"
+}

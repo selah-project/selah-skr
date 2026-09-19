@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ہاشیم الگیزونی دے پُتر، یوناتن شاگہ دا پُتر الحراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ہاشیم"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "الگیزونی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "شاگہ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "الحراری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:57.371002Z",
+  "model": "glm-5.3"
+}

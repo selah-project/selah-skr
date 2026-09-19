@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ڳئوں دی ونڈ دا، ہِک دنبہ، ہِک بھول، ورھے دا پُتر، سڑݨ دی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئوں دی ونڈ دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھول"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڑݨ دی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:28.546332895Z",
+  "model": "glm-5.3"
+}

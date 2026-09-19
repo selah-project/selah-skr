@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "پُتر جیہڑے اُنہاں توں ڄمِن، اُنہاں دی تریجھی نسل، او یاہوہ دی جماعت وِچ وڑ سڳدن۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ڄمِن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں توں"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "تریجھی"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "وڑ سڳدن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.197890474Z",
+  "model": "glm-5.3"
+}

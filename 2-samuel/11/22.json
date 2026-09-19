@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے قاصد ٹُر ڳیا، آ ڳیا، تے داوِد کوں ⟨את⟩ سبھ اوہ کجھ ݙسی جو یُوآو اوندے نال گھلیا ہا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُر ڳیا"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "گھلیا ہا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:54:33.520642241Z",
+  "model": "glm-5.3"
+}

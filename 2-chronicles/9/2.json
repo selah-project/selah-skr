@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شلومو ⟨את⟩ اوندے سارے سوال ݙسے، تے شلومو توں کوئی ڳالھ لُکی ہوئی نہ ہئی جیہڑی اوں اوندے نہ ݙسی ہووے۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "تے ݙسے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے کوں"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے سوال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "اوندے سوال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "لُکیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "شلومو توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ݙسیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:22.480025546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے یعقوو بیر-شبع ⟨بیروں ست دا کھوہ⟩ توں نکلیا، تے حاران دوں ٹُریا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکلیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "کھوہ بیروں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حاران دوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:41.239312945Z",
+  "model": "glm-5.3"
+}

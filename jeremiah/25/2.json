@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "جیہڑی یِرمیaہو نبی سارے یہوداہ دے قوم کوں تے یروشلایم دے سارے واسیاں کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "واسیاں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا:"
+    }
+  ],
+  "timestamp": "2026-09-19T18:10:47.964821362Z",
+  "model": "glm-5.3"
+}

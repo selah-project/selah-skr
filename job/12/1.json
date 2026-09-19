@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اییُّب جواب ݙتس تے آکھیس:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتس"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اییُّب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:17.233653419Z",
+  "model": "glm-5.3"
+}

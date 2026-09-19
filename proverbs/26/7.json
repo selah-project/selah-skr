@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "لنگڑے دیاں لتاں ڈھلیاں رہندیاں ہن، تے مورکھاں دے مُنہ وِچ اُکھان۔",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ڈھلیاں رہندیاں ہن"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "لتاں"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "لنگڑے دیاں"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے اُکھان"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "مُنہ وِچ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:31.120439544Z",
+  "model": "glm-5.3"
+}

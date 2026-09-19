@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے یوسف ⟨את⟩ آپݨے بھراں کوں سُن٘ڄاتس، پر اُنہاں اوں کوں نہ سُن٘ڄاتا۔",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "سُن٘ڄاتس"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے بھراں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آپݨے بھراں کوں"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر اُنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "سُن٘ڄاتا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:48.917511487Z",
+  "model": "glm-5.3"
+}

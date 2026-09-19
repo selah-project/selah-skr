@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ میکوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:50.178781529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے زاباد اِفلال کوں ڄمایا، تے اِفلال عُوِبید کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "تے زاباد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِفلال"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "اِفلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "تے اِفلال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُوِبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عُوِبید"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:20.022191927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے میں ⟨את⟩ خرید دی کتاب گھدی — ⟨את⟩ مہر آلی، حکم تے دفعات آلی، تے ⟨את⟩ کھلی ہوئی۔",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "گھدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کتاب"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "خرید دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مہر آلی"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "مہر آلی"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم آلی"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "تے دفعات آلی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کھلی ہوئی"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "کھلی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:14:11.095967201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے مہلالایل پنج سال تے سَٹھ سال جِیا، تے یِرد ⟨את⟩ کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "سَٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِرد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یِرد"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:32.758829337Z",
+  "model": "glm-5.3"
+}

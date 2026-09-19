@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اِیہ ایتسر دے پُتر ہَن: بِلہان تے زَعوان تے عکان۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ایتسر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بِلہان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "تے زَعوان"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "تے عکان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:11.388530584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ دی ڳالھ میݙے کول آئی، آکھݨ لئی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھی ڳئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:06.801349125Z",
+  "model": "glm-5.3"
+}

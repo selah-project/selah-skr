@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "یاہوہ، زمین تیݙے خیسِد توں بھری ہے؛ میکوں تیݙے حکم سکھا۔",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "تیݙے خیسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙے حکم"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "میکوں سکھا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:39.977966444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے جیہڑا گھر وِچ وڑسی، اُنھاں ساریاں ݙینہاں وِچ جِتھاں ⟨אתו⟩ بند رکھیا ڳیا، او شام تئیں نجس تھیسی۔",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "تے وڑݨ آلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہ"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "بند رکھݨ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "او"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس تھیسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:22.442258352Z",
+  "model": "glm-5.3"
+}

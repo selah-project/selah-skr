@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے تُساں ⟨את⟩ ایہ زمین آپݨے کیتے ونڈو، یِسرایل دے قبیلےآں موجب۔",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "تے تُساں ونڈو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "قبیلےآں موجب"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:06.487406131Z",
+  "model": "glm-5.3"
+}

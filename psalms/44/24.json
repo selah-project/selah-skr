@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "جاڳ پُڑ، کیوں سُمدا پئیں، اے ادونای؟ اُٹھ، ساکوں ہمیشاں کیتے نہ رٹ۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاڳ پُڑ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "سُمدا پئیں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "رٹ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:33.589142440Z",
+  "model": "glm-5.3"
+}

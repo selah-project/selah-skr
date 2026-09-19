@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "او شہر دی ہلڑ اُتے کِھلدے، مہاݨے دا ہکلݨ او نہ سُݨدا۔",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "کِھلدے"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "دی ہلڑ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "ہکلݨ"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "مہاݨے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨدا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:59.510729360Z",
+  "model": "glm-5.3"
+}

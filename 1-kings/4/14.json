@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اَخینادَو، عِدّو دا پُتر، مَحنایم وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "اَخینادَو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مَحنایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:51.893706245Z",
+  "model": "glm-5.3"
+}

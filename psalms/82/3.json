@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 82,
+  "translation": "کمزور تے یتیم دا فیصلہ کرو، مظلوم تے غریب کوں انصاف ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "فیصلہ کرو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "تے یتیم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مظلوم"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "انصاف ݙیوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:34.680411185Z",
+  "model": "glm-5.3"
+}

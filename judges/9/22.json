@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اَبیمیلخ یِسرائل اُتے ترے سال حکمران رہیا۔",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "حکمران رہیا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبیمیلخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:26:26.833553272Z",
+  "model": "glm-5.3"
+}

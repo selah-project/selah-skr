@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ اوں کوں آکھیا: “تیکوں سلامتی ہووے؛ ݙر نہ، تئیں نہ مرسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:24:10.683301634Z",
+  "model": "glm-5.3"
+}

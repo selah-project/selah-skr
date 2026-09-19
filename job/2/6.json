@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ شطان کوں آکھیا: “ݙیکھ، او تیݙے ہتھ وِچ ہے، پر صرف ⟨את⟩ اوندی جان بچا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "شطان"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تیݙے ہتھ وِچ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر صرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندی جان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوندی جان"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "بچا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:11.479639787Z",
+  "model": "glm-5.3"
+}

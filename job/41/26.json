@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "او ⟨את⟩ سبھ اُچیاں شئیں کوں ݙیکھدے؛ او ہر اکڑ دے پُتراں اُتے بادشاہ ہے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ اُچیاں شئیں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچیاں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھدے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "اکڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:15.026843541Z",
+  "model": "glm-5.3"
+}

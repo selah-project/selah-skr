@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "فصل لنگھ ڳیا، گرمی مُک ڳئی، تے اساں بچے نہ۔",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "لنگھ ڳیا"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "مُک ڳئی"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "تے اساں"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "بچے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:03:24.693783435Z",
+  "model": "glm-5.3"
+}

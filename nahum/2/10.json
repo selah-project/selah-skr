@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 2:10",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "چاندی لُٹو، سونا لُٹو؛ تے تیار شیاں دا کوئی انت کائنی — ہر من بھاوݨے برتن دے جلال توں۔",
+  "tokens": [
+    {
+      "surface": "בזו",
+      "gloss": "لُٹو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "לُٹو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی کائنی"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "انت"
+    },
+    {
+      "surface": "לתכונה",
+      "gloss": "تیار شیاں دا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہر برتن"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "من بھاوݨے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:06.950842994Z",
+  "model": "glm-5.3"
+}

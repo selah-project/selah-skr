@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے ایہ وی ہِک بری بیماری ہے: جیویں آیا، تیویں سارے ٻدھے ونڄے، تے اوندا کیا فائدہ جو ہوا کیتے محنت کرے؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بری"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "ٻدھے"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "جیویں آیا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تیویں"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ونڄے"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "جو محنت کرے"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ہوا کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.098464483Z",
+  "model": "glm-5.3"
+}

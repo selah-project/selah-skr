@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "سُݨو ⟨את⟩ اوہ ڳالھ جیڑھی یاہوہ تُہاݙے اُتے آکھی ہے، یِسرایل دے گھر والو۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاݙے اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:03:00.063415085Z",
+  "model": "glm-5.3"
+}

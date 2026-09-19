@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 13:31",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "پر او بندے جیہڑے اوندے نال چڑھے ہن، آکھیا: “اساں او بھیڑ دے خلاف نہ چڑھ سڳدے، کیوں جو او اساں کنوں تکڑا ہے۔”",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "پر او بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چڑھے ہن"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "سڳدے"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "چڑھݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "העם",
+      "gloss": "بھیڑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تکڑا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اساں کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:51.264796831Z",
+  "model": "glm-5.3"
+}

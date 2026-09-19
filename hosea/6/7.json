@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "پر او اَدم وانگوں عہد ٹر ڳئے، اُتھائیں اُنہاں میݙے نال خیانت کیتی۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "اَدم وانگوں"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ٹر ڳئے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھائیں"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خیانت کیتی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:20.685313826Z",
+  "model": "glm-5.3"
+}

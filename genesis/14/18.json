@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے مَلکی صِدق، شالیم دا بادشاہ، روٹی تے شراب کڈھ آیا، تے اوہ ایل عِلیون ⟨سبھ توں اُچے⟩ دا کاہن ہا۔",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "مَلکی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالیم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "کڈھ آیا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل دا"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:21.115674666Z",
+  "model": "glm-5.3"
+}

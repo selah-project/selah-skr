@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اَرفکشَد ⟨את⟩ شَلح کوں ڄݨݨ دے بعد ترے سو ترے سال جِیا، تے اونہہ پُتراں تے دھیاں کوں ڄݨیا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفکشَد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلح کوں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلح"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:09.465274434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے جے میں اپݨی پُراٹی کلہی کھادی، تے یتیم اوندے توں نہ کھادی،",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "تے کھادی"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "میݙی پُراٹی"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "کلہی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادی"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اوندے توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:00.605772702Z",
+  "model": "glm-5.3"
+}

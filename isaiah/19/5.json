@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے سمندر توں پاݨی گھٹ ویسی، تے نہر ویران تھی کے سُک ویسی۔",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "گھٹ ویسی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "تے نہر"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ویران تھیسی"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "سُک ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:38:43.509466419Z",
+  "model": "glm-5.3"
+}

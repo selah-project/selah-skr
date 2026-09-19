@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "ویہڑے دے سبھے پردے، چوݙھاں پاسے، اُتوں کُتی ہوئی سنّی دے ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ویہڑے دے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوݙھاں پاسے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سنّی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "کُتی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:42.109378068Z",
+  "model": "glm-5.3"
+}

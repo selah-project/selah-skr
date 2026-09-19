@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اوں کول آوݨ آلے وَل کائنی آندے، تے نہ حیاتی دے رستیاں تک پُجدے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سَب"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "اوں کول آوݨ آلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "وَل کائنی آندے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "پُجدے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:40.042685792Z",
+  "model": "glm-5.3"
+}

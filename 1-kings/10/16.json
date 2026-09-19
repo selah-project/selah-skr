@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے بادشاہ شلومو ݙو سو ڈھال بݨوائیاں کوٹئے سونے دیاں — ہِک ڈھال اُتے چھ سو سونا چڑھدا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨوائیاں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "کوٹئے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدا ہا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:29.196392880Z",
+  "model": "glm-5.3"
+}

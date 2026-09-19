@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے پیلگ رِعو ⟨את⟩ کوں ڄݨاوݨ دے بعد نوں سال تے ݙو سو سال جِیا، تے پُتر تے دھیاں ڄݨایُس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پیلگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨاوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِعو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعو"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے ݙو سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایُس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:41.613071932Z",
+  "model": "glm-5.3"
+}

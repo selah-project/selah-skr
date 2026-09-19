@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "اوں اونکوں بھلائی ݙتی ہے تے برائی کائنی، ساریاں اوندے جیوݨ دے ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "اوں اونکوں ݙتی ہے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "اوندے جیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:16.387061193Z",
+  "model": "glm-5.3"
+}

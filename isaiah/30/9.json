@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کیوں جو ایہ سرکش لوک ⟨ہے⟩، جُٹھے پُتر، ایہو جے پُتر جیہڑے یاہوہ دی تورات سُنݨ نہ چاہندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "جُٹھے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "چاہندے"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سُنݨ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:12:51.294613158Z",
+  "model": "glm-5.3"
+}

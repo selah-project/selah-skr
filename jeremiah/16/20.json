@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بندہ آپ کیتے ایلوہیم بݨویسی، تے اوہ ایلوہیم کائنی؟",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "بݨویسی ⟨؟⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:44.757504885Z",
+  "model": "glm-5.3"
+}

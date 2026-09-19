@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے پہلے مہینے وِچ، چوݙھویں ݙینہہ مہینے دا، پسح یاہوہ دا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "تے مہینے وِچ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوݙھویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "چوݙھویں ݙینہہ دا حصہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:04.900895628Z",
+  "model": "glm-5.3"
+}

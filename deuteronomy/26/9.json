@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اوں ساکوں ایں جاہ تے گِھن آیا، تے ساکوں ایہ زمین ݙتی، ہِک ایجھی زمین جیڑھی کھیر تے ماکھی نال وہندی ہے۔",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "گِھن آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "وہندی ہے"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "کھیر"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "تے ماکھی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:27.618785586Z",
+  "model": "glm-5.3"
+}

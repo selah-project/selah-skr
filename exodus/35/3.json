@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تُساں شبّات دے ݙینہہ آپݨیاں ساریاں رہائشاں وِچ بھا نہ ٻلائو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ٻلائو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "تُہاݙیاں رہائشاں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:41.578086671Z",
+  "model": "glm-5.3"
+}

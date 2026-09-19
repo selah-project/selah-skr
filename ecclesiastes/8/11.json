@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیوں جو بدی دے کم اُتے فیصلہ تکھائی نال نہ تھیندا، ایں کیتے انسانیں دے دل اِنہاں وِچ برائی کرݨ کیتے بھرے ہوئے ہن۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "تھیندا"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بدی دے"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "تکھائی نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھریا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان دے"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اِنہاں وِچ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.250350816Z",
+  "model": "glm-5.3"
+}

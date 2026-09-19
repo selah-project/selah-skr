@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ہائِ خوناں دا شہر! او ساری کُوڑ تے لُٹ مار نال بھری ہوئی، شکار نہ ہٹسی۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائِ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوناں"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "لُٹ مار"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ہٹسی"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    }
+  ],
+  "timestamp": "2026-09-19T21:18:57.497617119Z",
+  "model": "glm-5.3"
+}

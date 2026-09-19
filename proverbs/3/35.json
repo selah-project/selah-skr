@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "حکمت والے عزت ورت گھنسن، تے بھولیاں دے اُچرݨ دی جاہ بے عزتی ہے۔",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکمت والے"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ورت گھنسن"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "تے بھولیاں دے"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "اُچرݨ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "بے عزتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:17.492886485Z",
+  "model": "glm-5.3"
+}

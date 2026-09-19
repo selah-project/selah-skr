@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے عزریاہ، خِلقیاہ دا پُتر، مِشُلّام دا، تصدوک دا، مِرایوت دا، اَخِیتوو دا — ایلوہیم دے گھر دا سردار۔",
+  "tokens": [
+    {
+      "surface": "وעזריה",
+      "gloss": "تے عزریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "خِلقیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَخِیتوو"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:25.319311015Z",
+  "model": "glm-5.3"
+}

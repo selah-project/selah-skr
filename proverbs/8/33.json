@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "مُسل سݨو تے سیاݨے تھیوو، تے اوکوں رد نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "مُسل"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "تے سیاݨے تھیوو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "رد کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:45.718852415Z",
+  "model": "glm-5.3"
+}

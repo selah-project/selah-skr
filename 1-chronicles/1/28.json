@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اَوراہام دے پُتر: یِتصخاق تے یِشماعیل۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "تے یِشماعیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:12.398963930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوں آکھیا: “چلو ٹروں تے ونڄوں، تے میں تیݙے اڳوں ٹُرساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "چلو ٹروں"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "تے ونڄوں"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "تے میں ٹُرساں"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "تیݙے اڳوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:06.766825859Z",
+  "model": "glm-5.3"
+}

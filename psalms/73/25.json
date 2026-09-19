@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 73,
+  "translation": "اسماناں وِچ میݙا کون ⟨ہے⟩؟ تے تیݙے نال — زمین اُتے میں کہیں کوں نہ چاہیا۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "میں چاہیا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:26:42.391706273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "کیوں جو میں غریب تے محتاج ہاں، تے میݙا دل میݙے اندر زخمی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "تے میݙا دل"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میݙے اندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:39.690556494Z",
+  "model": "glm-5.3"
+}

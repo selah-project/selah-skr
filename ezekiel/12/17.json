@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ دا کلام میکوں تھیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:44.527247230Z",
+  "model": "glm-5.3"
+}

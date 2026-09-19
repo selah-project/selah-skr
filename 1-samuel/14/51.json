@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے قیش شاؤل دا پیو ہا، تے نیر — ابینیر دا پیو — ابیایل دا پُتر ہا۔",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "تے قیش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "تے نیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابینیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ابیایل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:41:13.701569567Z",
+  "model": "glm-5.3"
+}

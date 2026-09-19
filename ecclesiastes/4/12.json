@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے جے کوئی کلھے تے غالب آوے، ݙو اوندے اڳوں کھڑسن؛ تے ترہاں تِڑھی دھاڳا جلدی نہ ترٹدا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "غالب آوے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "کلھے تے"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "کھڑسن"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "تے دھاڳا"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ترہاں تِڑھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "جلدی"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ترٹدا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:08.611672105Z",
+  "model": "glm-5.3"
+}

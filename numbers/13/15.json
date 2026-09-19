@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "گاد قبیلے دے، گِعیوایل ماکی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے دے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "گِعیوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "دا پُتر"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ماکی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:49.024491Z",
+  "model": "glm-5.3"
+}

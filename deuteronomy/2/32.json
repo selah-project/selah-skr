@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے سیخون ساݙے اَڳوں نکھتا، او آپ تے اُوندا سارا لوک، جنگ کیتے، یہتصہ دو۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکھتا"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیخون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ساݙے اَڳوں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُوندا لوک"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کیتے"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یہتصہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:43.917612790Z",
+  "model": "glm-5.3"
+}

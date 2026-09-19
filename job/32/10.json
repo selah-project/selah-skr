@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "ایں کیتے میں آکھیا: “میکوں سݨو، میں وی اپݨی ڄاݨ ݙسینداں۔”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ݙسینداں"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:01:08.431652161Z",
+  "model": "glm-5.3"
+}

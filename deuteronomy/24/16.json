@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پیو پُتراں کیتے نہ مارے ویسن، تے پُتر پیواں کیتے نہ مارے ویسن؛ ہر بندہ آپݨے ڳنہہ وِچ ماریا ویسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مارے ویسن"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مارے ویسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "آپݨے ڳنہہ وِچ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ماریا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:33.977350426Z",
+  "model": "glm-5.3"
+}

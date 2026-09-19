@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو زمین یاہوہ دے جلال دی ڄاݨݨ ⟨את⟩ نال بھر ویسی، جیویں پاݨی سمندر اُتے ڈھک گھندن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "بھر ویسی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاݨݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "جیویں پاݨی"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ڈھک گھندن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:16.204126828Z",
+  "model": "glm-5.3"
+}

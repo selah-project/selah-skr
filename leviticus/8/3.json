@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ⟨את⟩ ساری سنگت کوں مِلݨ دے خیمے دے منہ اُتے کٹھا کر۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ساری سنگت کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "سنگت"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کٹھا کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:23.476961748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے عزریہ ⟨את⟩ امریہ کوں پیدا کیتا، تے امریہ ⟨את⟩ اخیطوب کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امریہ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امریہ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "تے امریہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیطوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیطوب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:59.814942388Z",
+  "model": "glm-5.3"
+}

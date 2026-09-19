@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے تُساں میز اُتے حاضری دا روٹی میݙے اَمݨے ہمیشہ رکھسیں۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "تُساں رکھسیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "حاضری دا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَمݨے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:55.490102835Z",
+  "model": "glm-5.3"
+}

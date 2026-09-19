@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 139,
+  "translation": "میں کتھ ونڄاں تیݙے روح توں؟ تے تیݙے مُکھ توں کتھ بھجاں؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کتھ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "میں ونڄاں"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "تیݙے روح توں"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "تے کتھ"
+    },
+    {
+      "surface": "مפניך",
+      "gloss": "تیݙے مُکھ توں"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "بھجاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:26.927215481Z",
+  "model": "glm-5.3"
+}

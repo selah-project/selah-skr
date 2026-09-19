@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "چھلے اُوندا ماݙ ہِن — ڈھالاں دے نالے وانگوں، ہِک سخت مُہر نال بند۔",
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "ماݙ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "نالے"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ڈھالاں"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "مُہر"
+    },
+    {
+      "surface": "צר",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:09.021306768Z",
+  "model": "glm-5.3"
+}

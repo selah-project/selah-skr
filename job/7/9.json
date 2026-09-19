@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "مُک ڳیا بادل تے ٹُر ڳیا، ایویں او جیہڑا شیول دوں لہندا ولا نہ چڑھسی۔",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "مُک ڳیا"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُر ڳیا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "لہندا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:50.368363819Z",
+  "model": "glm-5.3"
+}

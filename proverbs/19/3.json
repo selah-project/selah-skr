@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "بندے دی نادانی اوندا راہ وٹا ݙیندی ہے، تے اوندا دل یاہوہ اُتے غصہ کریندے۔",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "نادانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "وٹا ݙیندی ہے"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوندا راہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "غصہ کریندے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندا دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:45.627552471Z",
+  "model": "glm-5.3"
+}

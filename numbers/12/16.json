@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اوندے بعد قوم حضیروت توں کوچ کیتا تے پاران دے بیابان وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "تے اوندے بعد"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "کوچ کیتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "حضیروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:52.436836822Z",
+  "model": "glm-5.3"
+}

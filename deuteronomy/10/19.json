@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے تُساں پرائے نال پیار کرو، کیوں جو تُساں مِتصرایم دی زمین وِچ پرائے ہاوے۔",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "پیار کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرائے"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ہاوے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:48.154817278Z",
+  "model": "glm-5.3"
+}

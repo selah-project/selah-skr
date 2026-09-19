@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کجھ اہہ جِہڑے آہدن: “ساݙے کھیتاں تے ساݙیاں وَ upgrades اُتے بادشاہ دا میل چُکاوݨ کِیتے اساں رُپے مُڈھویں گھِدن۔”",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "تے کجھ اہہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آہدن"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "مُڈھویں گھِدن"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "رُپے"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "میل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "ساݙے کھیتاں"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "تے ساݙیاں وَ upgrades"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:03.007308166Z",
+  "model": "glm-5.3"
+}

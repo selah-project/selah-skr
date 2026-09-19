@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ ایلوہیم او ⟨את⟩ پھلی توں جو اوں بندے توں گھدی ہئی، ذال بݨائی، تے اونکوں بندے کول گھن آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "بݨائی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پھلی"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "پھلی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گھدی ہئی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "گھن آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:10.517872105Z",
+  "model": "glm-5.3"
+}

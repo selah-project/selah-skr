@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سِنَاہ دے پُتر، ترے ہزار نَو سو تریہہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سِنَاہ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تریہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:43.719661302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ساری جماعت ⟨את⟩ آپݨی آواز کڈھی، تے روئی؛ تے لوک اُوں رات وِچ روئے۔",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "چُکی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "کڈھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی آواز"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "آپݨی آواز"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "روئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:59.288692340Z",
+  "model": "glm-5.3"
+}

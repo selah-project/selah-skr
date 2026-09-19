@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یاہوہ موشے نال ٻولیا، جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:44.013625449Z",
+  "model": "glm-5.3"
+}

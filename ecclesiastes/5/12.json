@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "سجھ ہیٹھ ہِک ݙکھال روڳ میں ݙٹھا: دولت اوندے مالک کیتے اوندی برائی کیتے رکھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہِک … ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ݙکھال"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "روڳ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سجھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکھی ڳئی"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "اوندے مالک کیتے"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "اوندی برائی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:24.370764619Z",
+  "model": "glm-5.3"
+}

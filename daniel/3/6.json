@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے جیڑھا کوئی ڈھے نہ تے سجدہ نہ کرے، اوہ اوہے ویلے بھڑدی ہوئی بھاہ دے تنور وِچ سٹیا ویسی۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے جیڑھا کوئی"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھے"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "تے سجدہ کرے"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "سٹیا ویسی"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "تنور"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "بھڑدی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:58.450705448Z",
+  "model": "glm-5.3"
+}

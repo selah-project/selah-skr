@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے یعقوو اپݨی ماں رِبقہ کوں آکھیا: “ݙیکھ، عیسو میݙا بھرا والاں والا بندہ ہے، تے میں ملائم بندہ ہاں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رِبقہ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپݨی ماں"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میݙا بھرا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "والیاں والا"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ملائم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:16.585883633Z",
+  "model": "glm-5.3"
+}

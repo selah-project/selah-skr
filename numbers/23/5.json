@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یاہوہ ہِک ڳالھ بِلام دے مُنہہ وِچ رکھی، تے آکھیس: “واپس بالاک کول ونڄ، تے ایویں آکھیں۔”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ہِک ڳالھ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "دے مُنہہ وِچ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "واپس ونڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاک"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "آکھیں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:24.667999222Z",
+  "model": "glm-5.3"
+}

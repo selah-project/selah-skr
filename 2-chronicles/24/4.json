@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے ایندے بعد ایویں تھیا جو یوآش دے دل نال ہئی جو اوہ یاہوہ دے گھر ⟨את⟩ نویں سرے کرے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا\/ہئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "نویں سرے کرݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:37.759762677Z",
+  "model": "glm-5.3"
+}

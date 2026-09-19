@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے جݙاں بَعشا سُݨیا تاں اوں ⟨את⟩ رامہ دی اُساری توں رُک گیا، تے ⟨את⟩ اپݨا کم بند کر ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جݙاں سُݨیا"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "رُک ڳیا"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "اُساری توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رامہ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامہ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "بند کر ݙتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا کم"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "اپݨا کم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:53:20.175304948Z",
+  "model": "glm-5.3"
+}

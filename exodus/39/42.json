@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "جیویں یاہوہ ⟨את⟩ موشے کوں حکم ݙتا ہا، ایویں ای یِسرایل دے پُتریں ⟨את⟩ سارا کم کیتونے۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "سب موجب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں ای"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتونے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "کم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:11.822960305Z",
+  "model": "glm-5.3"
+}

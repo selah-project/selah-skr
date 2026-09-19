@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "اَپھریم دے پُتر، کمان چلاوݨ آلے تیر انداز، لڑائی دے ݙینہہ پچھے ہٹ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَپھریم"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "چلاوݨ آلے"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "تیر انداز"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "پچھے ہٹ ڳئے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "لڑائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:23.155064595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے جماعت دا اَدھا حصہ، ڈھور توں — ترے لکھ تے تِریہہ ہزار، ست ہزار تے پنج سو —",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "اَدھا حصہ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت دا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ڈھور"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِریہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:04.186816554Z",
+  "model": "glm-5.3"
+}

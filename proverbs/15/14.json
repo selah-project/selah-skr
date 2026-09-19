@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "سمجھدار دل علم ڳولیندے، تے مورکھاں دا منہ بےعقلی چریندے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولیندے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "تے … دا منہ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "چریندے"
+    },
+    {
+      "surface": "آולת",
+      "gloss": "بےعقلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:01.856801440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے قوم اوں مار ہٹݨ والے ول نہ وَلی، تے ⟨את⟩ یاہوہ تصواوت کوں نہ ڳولیا۔",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "وَلی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "اوں مار ہٹݨ والے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ تصواوت کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ڳولیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:12.396350009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "⟨את⟩ غریباں نال جھکی روح رکھݨ چنڳا ہے، ⟨את⟩ گھمنڈیاں نال لُٹ ونڈݨ توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا ہے"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "جھکی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غریباں"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "غریباں"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ونڈݨ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھمنڈیاں"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "گھمنڈیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:22.416728870Z",
+  "model": "glm-5.3"
+}

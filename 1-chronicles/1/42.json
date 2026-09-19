@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایتصر دے پُتر بِلہان، زعوان تے یعقان ہن؛ دیشون دے پُتر عُتص تے اران ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ایتصر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بِلہان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "زعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُتص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "اران"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:08.523509456Z",
+  "model": "glm-5.3"
+}

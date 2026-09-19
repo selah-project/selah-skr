@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "ہِک ڳاؤݨ، ہِک مزمور ⟨سازاں نال ڳائی ڄاݨ والی تعریف⟩، قورح دے پُتراں کیتے۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ڳاؤݨ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں کیتے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:33.832889274Z",
+  "model": "glm-5.3"
+}

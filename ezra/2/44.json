@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "قیروس دے پُتر، سیعا دے پُتر، پدون دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "قیروس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "سیعا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "پدون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:49.648184387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "موہرے والے کیتے، قورح دے پُتراں دا، ہِک زبور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موہرے والے کیتے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:36.217392310Z",
+  "model": "glm-5.3"
+}

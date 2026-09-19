@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "او ولا بان٘جھ تھی تے ہِک پُتر ڄایا، تے اوں ⟨את⟩ اوندا ناں اونن رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "بان٘جھ تھی تے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اون٘دا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اون٘دا ناں"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "اونن"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:40.235713355Z",
+  "model": "glm-5.3"
+}

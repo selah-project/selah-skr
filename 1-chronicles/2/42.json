@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے کالب دے پُتر — یرحم ایل دا بھرا — مِیشع اوندا پہلوٹھا، او زیف دا پیو ہا؛ تے مریشا دے پُتر خِبرُون دے پیو ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یرحم ایل"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "مِیشع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "پہلوٹھا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مریشا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خِبرُون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:01.584421385Z",
+  "model": "glm-5.3"
+}

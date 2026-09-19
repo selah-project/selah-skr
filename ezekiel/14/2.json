@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ دا کلام میݙے اُتے آیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:36.540456959Z",
+  "model": "glm-5.3"
+}

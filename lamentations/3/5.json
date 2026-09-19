@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں میݙے اُتے چا بݨایا تے میکوں زہر تے تکلیف نال گھیر گھدا۔",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "چا بݨایا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "تے گھیر گھدا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "تے تکلیف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:49.317287339Z",
+  "model": "glm-5.3"
+}

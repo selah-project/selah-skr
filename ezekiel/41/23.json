@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے ہیکل کیتے ݙو دروازے ہن، تے پاک جاہ کیتے ⟨وی⟩۔",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "لהיכל",
+      "gloss": "ہیکل کیتے"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "تے پاک جاہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:00.612897474Z",
+  "model": "glm-5.3"
+}

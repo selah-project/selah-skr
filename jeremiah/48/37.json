@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "کیوں جو ہر سر ننگا ہوسی، تے ہر ݙاڑھی مُنی ہوئی؛ ہر ہتھاں اُتے زخم ہوسن، تے کمراں اُتے کمبل۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ننگا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ݙاڑھی"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "مُنی ہوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھاں"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "کمراں"
+    },
+    {
+      "surface": "שק",
+      "gloss": "کمبل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:16.832748607Z",
+  "model": "glm-5.3"
+}

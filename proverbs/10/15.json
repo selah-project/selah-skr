@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "امیر دا مال اُوندی مضبوط شہر ہے، تے غریباں دی بربادی اُنہاں دی غریبی ہے۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "مضبوطی"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "غریبی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:54.812545917Z",
+  "model": "glm-5.3"
+}

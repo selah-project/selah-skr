@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اِلیاہو آخآب کنے ظاہر تھیوݨ ڳیا، تے شومرون وِچ قحط سخت ہا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ظاہر تھیوݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کنے"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "آخآب"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "تے قحط"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "شومرون وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:15:37.182982741Z",
+  "model": "glm-5.3"
+}

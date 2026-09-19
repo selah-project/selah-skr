@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوں شِطیم لکڑی دے چھٻے بݨائے، تے ⟨אתם⟩ اُنہاں کوں سونا چڑھایا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "چھٻے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِطیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "چڑھایا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "چھٻے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:23.282425690Z",
+  "model": "glm-5.3"
+}

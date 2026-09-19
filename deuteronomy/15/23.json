@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "رَڳا ⟨את⟩ اوندا لہو نہ کھاویں؛ اوندے کوں زمین اُتے پاݨی وانگوں ڈھا ویسیں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رَڳا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا لہو"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوندا لہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاویں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ڈھا ویسیں"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاݨی وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:03.022802398Z",
+  "model": "glm-5.3"
+}

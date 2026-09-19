@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بِنیامِین دے پُتر: بیلع، تے بیکر، تے یِدِیاعیل — ترے۔",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامِین"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بیلع"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "تے بیکر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "تے یِدِیاعیل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:24.760945962Z",
+  "model": "glm-5.3"
+}

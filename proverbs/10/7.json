@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راست باز دی یاد برکت کیتے ہے، تے شریراں دا ناں کِھر ویندا ہے۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "برکت کیتے"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریراں دا"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "کِھر ویندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.416939697Z",
+  "model": "glm-5.3"
+}

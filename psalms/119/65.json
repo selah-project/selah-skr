@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "چنڳا کیتوسی اپݨے خادم نال، یاہوہ، اپݨے لوظ موجب۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتوسی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپݨے خادم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "اپݨے لوظ موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:47.093508372Z",
+  "model": "glm-5.3"
+}

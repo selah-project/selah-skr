@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاہوہ دا جلال گھر دے دہلیز توں ٻاہر نکلیا، تے اوہ کروباں اُتے کھڑا تھیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکلیا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں اُتے توں"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "دہلیز"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھڑا تھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:08.246383598Z",
+  "model": "glm-5.3"
+}

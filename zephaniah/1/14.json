@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "نیڑے ہے یاہوہ دا وݙا ݙینہہ، نیڑے ہے تے ٻہوں تِکھا؛ یاہوہ دے ݙینہہ دی آواز کڑوی ہے — اُتھاں بہادر پِٹدا ہے۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے ہے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے ہے"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "تے تِکھا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "کڑوی"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "پِٹدا ہے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:43.677679523Z",
+  "model": "glm-5.3"
+}

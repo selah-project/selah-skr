@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے راخل مر ڳئی، تے اوں کوں دفن کیتا ڳیا ایفراتہ — او ہے بیت لحم — دے رستے وِچ۔",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "مر ڳئی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخل"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "دفن تھئی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ایفراتہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:33.424409729Z",
+  "model": "glm-5.3"
+}

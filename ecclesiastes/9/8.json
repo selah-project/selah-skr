@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ہر ویلھے تیݙے کپڑے چٹے رہن، تے تیݙے سر اُتے توں تیل کݙاہیں نہ کھٹے۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رہن"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "تیݙے کپڑے"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "چٹے"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "تے تیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تیݙے سر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کھٹے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:39.413261260Z",
+  "model": "glm-5.3"
+}

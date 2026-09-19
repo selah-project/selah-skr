@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایلام دے پُتراں دی ڳݨتری ہِک ہزار ݙو سو پنجاہ تے چار ہئی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ایلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:07.799986577Z",
+  "model": "glm-5.3"
+}

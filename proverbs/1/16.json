@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیوں جو اُنہاں دے پیر برائی دوڑدے ہن تے او خون وہاوݨ کیتے جلدی کریندن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "اُنہاں دے پیر"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "برائی دو"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "دوڑدے ہن"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "تے جلدی کریندن"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "وہاوݨ کیتے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:50.454543130Z",
+  "model": "glm-5.3"
+}

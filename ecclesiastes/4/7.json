@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے میں وَل آیم، میں آپ، تے ݙٹھا بے کاری کوں سِجھ تلے۔",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "تے میں وَل آیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "تے ݙٹھا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بے کاری"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:59.377780295Z",
+  "model": "glm-5.3"
+}

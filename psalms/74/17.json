@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 74,
+  "translation": "توں زمین دیاں ساریاں سرحداں قائم کیتیاں؛ گرمیاں تے سردیاں توں بݨایاں۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "قائم کیتیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "سرحداں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دیاں"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمیاں"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "تے سردیاں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "بݨایاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:11.744557700Z",
+  "model": "glm-5.3"
+}

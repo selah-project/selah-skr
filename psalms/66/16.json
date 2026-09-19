@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "آؤ، سݨو، اَے ایلوہیم توں ݙرݨ آلے سارے، تے میں ݙسینداں جو اوں میݙی جان کیتے کیتا۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "تے میں ݙسینداں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ݙرݨ آلے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "میݙی جان کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:04.938060198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے شلومو خَماط تصوبہ ڳیا، تے اوندے اُتے غالب تھیا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے ڳیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خَماط"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "تصوبہ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "تے غالب تھیا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:24.532692073Z",
+  "model": "glm-5.3"
+}

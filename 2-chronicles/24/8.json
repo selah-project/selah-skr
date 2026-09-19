@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "بادشاہ آکھیا، تے اوںناں ہِک سندوق بݨایا تے اوں کوں یاہوہ دے گھر دے ٻاہروں دروازے اُتے رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המلך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے بݨایا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "تے رکھیا"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ٻاہروں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:55:05.460225825Z",
+  "model": "glm-5.3"
+}

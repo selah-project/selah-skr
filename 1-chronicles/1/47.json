@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ہدّاد مر ڳیا، تے اُوندی جاہ تے سملہ، مشرقہ توں، بادشاہ تھیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدّاد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ تھیا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اُوندی جاہ تے"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سملہ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "مشرقہ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:29.005508023Z",
+  "model": "glm-5.3"
+}

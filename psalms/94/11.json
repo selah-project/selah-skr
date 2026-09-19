@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "یاہوہ بندے دے خیالاں کوں ڄاݨدا ہے، کیوں جو او ہوا ہن۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "خیالاں کوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:22.350723609Z",
+  "model": "glm-5.3"
+}

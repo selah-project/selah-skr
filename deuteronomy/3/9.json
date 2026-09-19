@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "صیدونی حرمون کوں شیریون سݙیندن، تے اِیموری اوں کوں سِنیر سݙیندن۔",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صیدونی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سݙیندن"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "حرمون کوں"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "شیریون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "تے اِیموری"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سݙیندن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "سِنیر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:56.709899067Z",
+  "model": "glm-5.3"
+}

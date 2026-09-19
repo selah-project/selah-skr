@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جادوگرنی کوں تُساں جیوݨ نہ ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جادوگرنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "جیوݨ ݙیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:57.361762631Z",
+  "model": "glm-5.3"
+}

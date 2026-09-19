@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ موشے نال ٻولیا، آکھݨ کیتے جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:30.843992706Z",
+  "model": "glm-5.3"
+}

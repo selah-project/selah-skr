@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 98,
+  "translation": "یاہوہ کیتے کنّور نال زمرُو — کنّور نال تے ڳاوݨ دی آواز نال۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "زمرُو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کنّور نال"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کنّور نال"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے … دی آواز"
+    },
+    {
+      "surface": "זמרه",
+      "gloss": "ڳاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:11.775831135Z",
+  "model": "glm-5.3"
+}

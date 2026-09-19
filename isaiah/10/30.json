@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "چلاوݨ آلی آواز نال، دھی گَلّیم دی! کَن ݙے لَایش! ہے غریب عَناتوت!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "چلاوݨ آلی آواز نال"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "تِیݙی آواز"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "گَلّیم"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "کَن ݙے"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "لَایش"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عَناتوت"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:36.811873788Z",
+  "model": "glm-5.3"
+}

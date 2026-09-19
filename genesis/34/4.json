@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے شکیم آپݨے پیو خمور کوں آکھیا: “میݙے کیتے ایہ نِینگر ⟨את⟩ گھن، ذال بݨا کے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خمور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آپݨے پیو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ نِینگر"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "نِینگر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال بݨا کے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:11.502755532Z",
+  "model": "glm-5.3"
+}

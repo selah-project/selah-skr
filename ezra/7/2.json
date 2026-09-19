@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شلوم دا پُتر، تصدوق دا پُتر، اخیطوو دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیطوو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:27:31.658722644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "حَلحُول، بَیت صُور تے گَدور۔",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "حَلحُول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "تے گَدور"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.734839305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 57,
+  "translation": "بدکاراں کیتے سلامتی کائنی، میݙے ایلوہیم آکھیا۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میݙے ایلوہیم"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "بدکاراں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:13:53.589085989Z",
+  "model": "glm-5.3"
+}

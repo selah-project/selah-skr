@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "پر جے اے ڳالھ سچ تھئی ہووے — چھوہِڑ کیتے کنواری پَن دے ثبوت نہ ملئے —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "پر جے"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی ہووے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ملئے"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "کنواری پَن دے ثبوت"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "چھوہِڑ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:31.386413908Z",
+  "model": "glm-5.3"
+}

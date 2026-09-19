@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایلوہیم دا جلال ⟨ہے⟩ ڳالھ لُکاوݨ، تے بادشاہواں دا جلال ڳالھ دی کݨݨ۔",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "لُکاوݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہواں"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "کݨݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:27.677400400Z",
+  "model": "glm-5.3"
+}

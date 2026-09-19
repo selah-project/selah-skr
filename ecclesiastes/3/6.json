@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ولیݨ دا ویلہا، تے ونجاؤݨ دا ویلہا؛ سانبھݨ دا ویلہا، تے سٹݨ دا ویلہا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ولیݨ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ونجاؤݨ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "سانبھݨ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "سٹݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:01.746065234Z",
+  "model": "glm-5.3"
+}

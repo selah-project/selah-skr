@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اُنہاں دی سرحد خِلقات، تے خَلی، تے بِتن، تے اَکشپ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "اُنہاں دی سرحد"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "خِلقات"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "تے خَلی"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "تے بِتن"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "تے اَکشپ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:52.169689639Z",
+  "model": "glm-5.3"
+}

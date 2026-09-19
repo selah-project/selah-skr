@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "داوِد اسرائیل دے سارے سرداراں کوں حکم ݙتا جو اوندے پُتر شلومو دی مدد کرن،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد کرݨ کیتے"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:16.776907256Z",
+  "model": "glm-5.3"
+}

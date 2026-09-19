@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "“آؤ، میݙی روٹی کھاؤ، تے اوں شراب وِچوں پیوو جیہڑی میں رَلا چھوڑی ہے۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "میݙی روٹی"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "تے پیوو"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شراب وِچوں"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "میں رَلا چھوڑی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:12.560398657Z",
+  "model": "glm-5.3"
+}

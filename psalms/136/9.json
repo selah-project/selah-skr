@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 136,
+  "translation": "⟨את⟩ چن تے تارے رات وِچ حکومت کرݨ کیتے، کیوں جو اوندا خیسِد ہمیش ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چن"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "چن"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "تے تارے"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "حکومت کرݨ کیتے"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوندا خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:32.990187939Z",
+  "model": "glm-5.3"
+}

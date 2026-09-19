@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تورات تے گواہی دو! جے او ایں ڳالھ موجب نہ آکھسن، جیندے کیتے کوئی سِویاں کائنی۔",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "تورات دو"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "تے گواہی دو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "او آکھسن"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ڳالھ موجب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سِویاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:52.626391261Z",
+  "model": "glm-5.3"
+}

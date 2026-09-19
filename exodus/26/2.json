@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "لمبائی ہِک پردے دی اٹھاں تے ویہہ ہتھ ہوسی، تے چوڑائی چار ہتھ ہِک پردے دی — ہِک ناپ سارے پردیاں کیتے۔",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٹھاں"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے کیتے"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:48.262936909Z",
+  "model": "glm-5.3"
+}

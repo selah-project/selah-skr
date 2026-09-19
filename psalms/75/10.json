@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "تے میں ہمیش کیتے ݙسیندا، میں یعقوو دے ایلوہیم دی تعریف ڳان٘داں۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ݙسیندا"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیش کیتے"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ڳان٘داں"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:22.435831913Z",
+  "model": "glm-5.3"
+}

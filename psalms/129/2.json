@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 129,
+  "translation": "ٻہوں واری میکوں میݙے ننڈھپ توں ستایا، پر او میݙے اُتے ہَر نہ سڳے۔",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ٻہوں واری"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "میکوں ستایا"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ننڈھپ توں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ہَر نہ سڳے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:05.011898590Z",
+  "model": "glm-5.3"
+}

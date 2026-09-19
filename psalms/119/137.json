@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "راست باز ہِیں تُوں یاہوہ، تے تیݙے فیصلے سِدھے ہِن۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "تے سِدھے"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیݙے فیصلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:11.889796907Z",
+  "model": "glm-5.3"
+}

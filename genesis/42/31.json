@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے اَساں اونکوں آکھیا: اَساں سچے ہیسے، اَساں جاسوس کائنی؛",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "تے اَساں آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "سچے"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اَساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ہیسے"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:47.677693430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "ایہ ڳالھ یاد رکھو تے پکے تھیوو، اے سرکشو، اِیکوں دل اُتے ولا گھن آؤ۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ ڳالھ"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "تے پکے تھیوو"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ولا گھن آؤ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "اے سرکشو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:50:39.013214859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے شلومو ⟨את⟩ اپݨا گھر تیرھاں سالاں وِچ بݨایا، تے اپݨے سارے گھر کوں مکمل کیتس۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا گھر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپݨا گھر"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "تے مکمل کیتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا گھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:16.156339510Z",
+  "model": "glm-5.3"
+}

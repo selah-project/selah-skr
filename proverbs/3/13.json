@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "خوشحال اوہ بندہ ہے جیڑھا دانائی کوں لبھ گھندے، تے اوہ بندہ جیڑھا سمجھ کوں کڈھ گھندے۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوشحال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لبھ گھندے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے اوہ بندہ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "کڈھ گھندے"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:27.086628847Z",
+  "model": "glm-5.3"
+}

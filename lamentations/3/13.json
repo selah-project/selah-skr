@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں آپݨے ترکش دے پُتر میݙیاں گردیاں وِچ وڑائے۔",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "وڑائے"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "میݙیاں گردیاں وِچ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "آپݨے ترکش دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.008779608Z",
+  "model": "glm-5.3"
+}

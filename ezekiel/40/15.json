@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے دروازے دے مونہہ کنوں اندرونی دروازے دے اُلانہے دے اڳوں تئیں — پنجاہ موٹھے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "داخلہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "اُلانہے"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "اندرونی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "موٹھے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:40.036882067Z",
+  "model": "glm-5.3"
+}

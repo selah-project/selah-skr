@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیوں جو مٹی توں مصیبت نہ نکلدی، تے زمین توں ݙکھ نہ اُگدا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلدی"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "مٹی توں"
+    },
+    {
+      "surface": "און",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "تے زمین توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "نہ اُگدا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ݙکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:36.962827708Z",
+  "model": "glm-5.3"
+}

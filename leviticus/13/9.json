@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "جݙاں کہیں بندے وِچ چھٹے آلا نَگع ہووے، تاں اوں کوں کاہن کول گھنایا ویسی۔",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "نَگع"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "چھٹے آلا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے وِچ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "گھنایا ویسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:41.719979853Z",
+  "model": "glm-5.3"
+}

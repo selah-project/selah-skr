@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے حور ⟨את⟩ اوری کوں جنم ݙتا، تے اوری ⟨את⟩ بِتصالایل کوں جنم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "تے حور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوری"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوری"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "تے اوری"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِتصالایل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتصالایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:53.571058255Z",
+  "model": "glm-5.3"
+}

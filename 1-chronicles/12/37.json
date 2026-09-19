@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اَشیر توں جنگ لڑݨ کیتے صف بَدھݨ آلے جنگی لشکر کوں نکلݨ آلے چالی ہزار ہن۔",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "تے اَشیر توں"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "نکلݨ آلے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جنگی لشکر"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "صف بَدھݨ کیتے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:28.290737334Z",
+  "model": "glm-5.3"
+}

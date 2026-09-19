@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے ٻانہے کیتے بھلائی دا ضمانت بݨ، نہ جو مغرور میکوں ستاون۔",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ضمانت بݨ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙے ٻانہے"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "بھلائی کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "میکوں ستاون"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "مغرور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:30.818893942Z",
+  "model": "glm-5.3"
+}

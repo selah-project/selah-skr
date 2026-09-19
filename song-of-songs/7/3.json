@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تیݙی کمر گول پیالہ ہے، جیندے وِچ رلت دی کمی نہ ہووے؛ تیݙا پیٹ کنڈیاں دا ڈھیر ہے، کملیاں نال گھریا ہویا۔",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "تیݙی کمر"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "پیالہ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "گول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کمی ہووے"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "رلت"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "تیݙا پیٹ"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "کنڈیاں دی"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "گھریا ہویا"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "کملیاں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:38.090249800Z",
+  "model": "glm-5.3"
+}

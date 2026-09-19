@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "اسمان اُچائی کیتے تے زمین ڳہرائی کیتے، تے بادشاہواں دے دِل دی پَرکھ کائنی۔",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "اُچائی کیتے"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ڳہرائی کیتے"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "تے دِل"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہواں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پَرکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:27.677561537Z",
+  "model": "glm-5.3"
+}

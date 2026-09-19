@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 91,
+  "translation": "نہ اندھاری وِچ ٹُرݨ آلی وبا توں، نہ دوپہر وِچ لُٹݨ آلی تباہی توں۔",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "وبا توں"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "اندھاری وِچ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹُرݨ آلی"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "تباہی توں"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "لُٹݨ آلی"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "دوپהر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:56.564754592Z",
+  "model": "glm-5.3"
+}

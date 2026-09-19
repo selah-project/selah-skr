@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے اوں ⟨את⟩ کاہناں تے ⟨את⟩ لویاں کوں گھن آیا، تے انہاں کوں پوادھ آلے چوک وِچ کٹھا کیتس۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے گھن آیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "لوی"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "تے کٹھا کیتس"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "چوک وِچ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "پوادھ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:57:47.441961616Z",
+  "model": "glm-5.3"
+}

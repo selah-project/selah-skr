@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "امیر کولھ ٻکریاں تے ڈنگر ٻہوں سارے ہن۔",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر کولھ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻکریاں"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "تے ڈنگر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:55:53.701170198Z",
+  "model": "glm-5.3"
+}

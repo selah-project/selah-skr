@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یاہوہ موشے تے اہرون نال الایا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:44.909037290Z",
+  "model": "glm-5.3"
+}

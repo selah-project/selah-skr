@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ڏہویں شِمعی، اوندے پُتر تے اوندے بھرا، باراں ہن۔",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "ڏہویں"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں ⟨ݙو⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨十⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:50.494069282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ساری جماعت ہِک سنگت وانگوں: چار رِبوا، ترے ہزار، ترے سَو سِٹھ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ہِک سنگت وانگوں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "رِبوا"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ترے ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سِٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:27:02.638200134Z",
+  "model": "glm-5.3"
+}

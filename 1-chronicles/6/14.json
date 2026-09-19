@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "مِراری دے پُتر: مَحلی، لِبنی اوندا پُتر، شِمعی اوندا پُتر، عُزہ اوندا پُتر،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "לבנی",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عُزہ"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:24.815740584Z",
+  "model": "glm-5.3"
+}

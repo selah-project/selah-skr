@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "مِٹا مِٹیساں سبھ کجھ زمین دے مُکھ توں، یاہوہ دا اِعلان۔",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "مِٹا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "مِٹیساں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا اِعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:34.773377953Z",
+  "model": "glm-5.3"
+}

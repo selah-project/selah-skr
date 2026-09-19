@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اِی بندے دا پُتر، آپݨا منہک جنوب آلے پاسے کر، تے لمے دو ٹپکا، تے کھیت دے جنگل دو، نگیب دو، نبی کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "آپݨا منہک"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "جنوب آلے پاسے"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "تے ٹپکا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "تے نبی کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت دے"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نگیب"
+    }
+  ],
+  "timestamp": "2026-09-19T18:34:12.153660353Z",
+  "model": "glm-5.3"
+}

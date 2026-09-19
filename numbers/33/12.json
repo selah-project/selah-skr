@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او سِن دی بیابان توں ٹُرے، تے دُفقاہ وِچ ٹکاݨے ۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "بیابان توں"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سِن دی"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹکاݨے"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "دُفقاہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:47.176216011Z",
+  "model": "glm-5.3"
+}

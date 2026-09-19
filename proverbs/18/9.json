@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "جیہڑا اپݨے کم وِچ سُست ہے، او مِٹاوݨ آلے دا بھرا ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "اپݨے کم وِچ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "مالک دا"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "مِٹاوݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:46.592355072Z",
+  "model": "glm-5.3"
+}

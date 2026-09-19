@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے جݙاں تُساں اوکوں اپݨی کنوں آزاد کر تے روانہ کرو، تاں اوکوں خالی نہ بھیڄو۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جݙاں"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تُساں اوکوں روانہ کرو"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "اپݨی کنوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تُساں اوکوں بھیڄو"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:02.741049340Z",
+  "model": "glm-5.3"
+}

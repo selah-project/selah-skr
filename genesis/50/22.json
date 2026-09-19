@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "تے یوسف مِتصرایم وِچ وس ڳیا، او تے اوندے پیو دا گھر ٹبر؛ تے یوسف سو تے ݙاہ سال جییا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وس ڳیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر ٹبر"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوندے پیو دا"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے ݙاہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:26.780905867Z",
+  "model": "glm-5.3"
+}

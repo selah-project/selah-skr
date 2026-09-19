@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "آکھ: زرُبّابِل کوں، یہوداہ دے پَچا کوں، ایہ جو: میں ⟨את⟩ اسماناں تے ⟨את⟩ زمین کوں ہلا ݙینداں۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زرُبّابِل"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہ جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ہلا ݙینداں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسماناں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:08.158841727Z",
+  "model": "glm-5.3"
+}

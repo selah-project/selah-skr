@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "میݙے محبوب سوراخ توں اپݨا ہتھ سٹیا، تے میݙے اندر اوندے کیتے ہل ڳیا۔",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میݙے محبوب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "سٹیا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החר",
+      "gloss": "سوراخ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "تے میݙے اندر"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ہل ڳیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:56.643550129Z",
+  "model": "glm-5.3"
+}

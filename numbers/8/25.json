@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے پنجاہ سال دی عمر توں اوہ خدمت دے لشکر توں وَلسی، تے ولا خدمت نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "توں عمر"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "وَلسی"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "لشکر توں"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خدمت کریسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:02.588946847Z",
+  "model": "glm-5.3"
+}

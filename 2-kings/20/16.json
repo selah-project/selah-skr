@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یِشعایاہو خِزقیاہو کوں آکھیا: “یاہوہ دا ڳالھ سُݨ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشعایاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:30:42.695099037Z",
+  "model": "glm-5.3"
+}

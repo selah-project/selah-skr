@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے سبھ چاندی تے سونا، تے تانبے تے لوہے دے برتن پاک او ہن یاہوہ دے؛ یاہوہ دے خزانے وِچ آسن۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "تے برتن"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "تے لوہے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:09:38.371603227Z",
+  "model": "glm-5.3"
+}

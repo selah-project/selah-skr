@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اپݨی روٹی پاݨی اُتے سٹ، کیوں جو ٻہوں ݙینہاں پچھوں تیکوں اوہ ول ملسی۔",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "سٹ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "اپݨی روٹی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطح"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہاں وِچ"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "تیکوں اوہ ملسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:36.293967084Z",
+  "model": "glm-5.3"
+}

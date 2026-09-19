@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے جماعت دے بزرگ یاہوہ دے اڳوں ⟨את⟩ اپݨے ہتھ وچھے دے سر اُتے رکھن، تے ⟨את⟩ وچھے کوں یاہوہ دے اڳوں ذبح کرے۔",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "تے رکھن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے ہتھ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "اپݨے ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "وچھے دے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "تے ذبح کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وچھے کوں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "وچھے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:22.424496140Z",
+  "model": "glm-5.3"
+}

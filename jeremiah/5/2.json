@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے جے او آکھن “یاہوہ زندہ ہے”، تاں یقیناً او جھوٹ تے قسم چیندن۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "او آکھن"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "جھوٹ تے"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قسم چیندن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:01:01.943289741Z",
+  "model": "glm-5.3"
+}

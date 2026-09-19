@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "مہنت کرݨ آلے دا ہتھ راج کرسی، تے سُستی جزیہ ݙیوݨ آلی بݨسی۔",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "مہنت کرݨ آلے دا"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "راج کرسی"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "تے سُستی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بݨسی"
+    },
+    {
+      "surface": "למס",
+      "gloss": "جزیہ ݙیوݨ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:51.750766637Z",
+  "model": "glm-5.3"
+}

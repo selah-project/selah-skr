@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے عبید مِلک بادشاہ دے گھر توں ٻاہر نکھتھا تے بادشاہ نال ڳالھ کیتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکھتھا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبید"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مِلک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:50.090979822Z",
+  "model": "glm-5.3"
+}

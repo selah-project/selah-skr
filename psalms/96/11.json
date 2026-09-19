@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "اسمان خوش تھیون، زمین ہنسے؛ سمندر گاجے تے اوندا سارا بھرٖیا۔",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش تھیون"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "تے ہنسے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "گاجے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "تے اوندا سارا بھرٖیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:24.573107931Z",
+  "model": "glm-5.3"
+}

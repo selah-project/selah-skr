@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 124,
+  "translation": "جے یاہوہ ساݙے کیتے نہ ہوندا، ڄݙاں اِنسان اساݙے اُتے چڑھ آندا،",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "جے … نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہوندا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "چڑھݨ ویلے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اساݙے اُتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:25.254244529Z",
+  "model": "glm-5.3"
+}

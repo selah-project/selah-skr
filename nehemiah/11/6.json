@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "پَریص دے سارے پُتر جیہڑے یروشلایم وِچ رہندے ہن، چار سو اَسّی تے اَٹھ بہادر جوان ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَریص"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "رہندے ہن"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "اَسّی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:14.593447064Z",
+  "model": "glm-5.3"
+}

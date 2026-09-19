@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "جیہڑا ساݙی جان کوں زندگی وِچ رکھیندے، تے نہ ݙیندا جو ساݙے پیر کلھکِن۔",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "رکھیندے"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساݙی جان"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "زندگی وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "کلھکݨ"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ساݙے پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:34.220159575Z",
+  "model": "glm-5.3"
+}

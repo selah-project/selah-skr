@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 137,
+  "translation": "اُس دی وِچ بید دے رُکھاں اُتے اساں ساݙیاں بیناں ٹنگیاں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "بید دے رُکھ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اُس دی وِچ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ٹنگیا"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ساݙیاں بیناں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:11.487132920Z",
+  "model": "glm-5.3"
+}

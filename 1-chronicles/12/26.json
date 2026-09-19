@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "شِمعون دے پُتراں وِچوں جنگ دے بہادر، لشکر کیتے ست ہزار ہِک سو۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون دے"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگ دے"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "لشکر کیتے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "تے ہِک سو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:05.856069054Z",
+  "model": "glm-5.3"
+}

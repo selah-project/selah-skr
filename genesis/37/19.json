@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوہ ہِک بندے اپݨے بھرا کوں آکھیا: “ݙیکھو، خواباں دا ایہ مالک آندا پئے۔”",
+  "tokens": [
+    {
+      "surface": "ויואמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… کوں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپݨے بھرا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "خواباں دا"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا پئے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:35:02.037223333Z",
+  "model": "glm-5.3"
+}

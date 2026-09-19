@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "آدم دا پُتر، کیا یِسرایل دا گھر — باغی گھر — تیکوں نہ آکھیا: “تُوں کیا کریندا ایں؟”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:11.835093623Z",
+  "model": "glm-5.3"
+}

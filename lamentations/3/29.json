@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "او ݙیوے اپݨا منہ مِٹی وِچ — شاید جو اُمید ہووے۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ݙیوے"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "مِٹی وِچ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اپݨا منہ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہووے ⟨ہے⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:10.220269491Z",
+  "model": "glm-5.3"
+}

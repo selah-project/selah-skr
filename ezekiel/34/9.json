@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "ایں کیتے اے چرواہے، یاہوہ دی ڳالھ سُݨو۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "اے چرواہے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:39:47.056101661Z",
+  "model": "glm-5.3"
+}

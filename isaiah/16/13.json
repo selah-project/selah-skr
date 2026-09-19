@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ایہا او ڳالھ ہے جو یاہوہ موآب بارے اُوں ویلے توں آکھی۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ایہا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اُوں ویلے توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:38:13.750242744Z",
+  "model": "glm-5.3"
+}

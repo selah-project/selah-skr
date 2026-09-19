@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو یاہوہ تیݙا ایلوہیم کھا ویندی بھا ہے، او غیور ایل ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کھا ویندی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غیور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:27.461044091Z",
+  "model": "glm-5.3"
+}

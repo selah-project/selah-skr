@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ہُݨ میکوں حکمت تے ڄاݨ ݙے، تاں جو میں ایں قوم دے اڳوں نِکل پوواں تے وڑ پوواں، کیوں جو کون ⟨את⟩ تیݙی ایں وݙی قوم دا انصاف کریسی؟",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "نِکل پوواں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "وڑ پوواں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "انصاف کریسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙی ایں وݙی قوم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙی قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:50.443794Z",
+  "model": "glm-5.3"
+}

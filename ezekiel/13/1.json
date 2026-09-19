@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ دا ⟨ٻول⟩ میݙے کول آیا، جو آکھے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دا ⟨ٻول⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:11.100172350Z",
+  "model": "glm-5.3"
+}

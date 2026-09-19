@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یاہوہ موشے نال ڳالھ ٻولی، آکھݨ جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ ٻولی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:25.664645354Z",
+  "model": "glm-5.3"
+}

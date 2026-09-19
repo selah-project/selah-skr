@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یریخو دا بادشاہ ہِک؛ عای دا بادشاہ، جیہڑا بیت ایل دے پاسے ہے، ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریخو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "دے پاسے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:28.402381988Z",
+  "model": "glm-5.3"
+}

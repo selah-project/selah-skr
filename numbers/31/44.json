@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ڳاں ڳئی — چھتری ہزار،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "تے ڳاں ڳئی"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِریہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:04.186956738Z",
+  "model": "glm-5.3"
+}

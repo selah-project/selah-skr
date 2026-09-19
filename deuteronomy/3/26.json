@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یاہوہ میݙے اُتے تُہاݙے کیتے غصہ تھیا، تے میݙی نہ سُݨی۔ تے یاہوہ میکوں آکھیا: “تیکوں بس ہے، اِیں ڳالھ دا بارے میکوں ولا کجھ نہ آکھ۔”",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "تے غصہ تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ودیک"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ڳالھ وچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:29.331290333Z",
+  "model": "glm-5.3"
+}

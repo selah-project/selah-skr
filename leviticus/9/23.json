@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے موشے تے اہرون مِلاݨے دے خیمے دوں ڳئے، ول ٻاہر نکھتے تے قوم کوں برکت ݙتی، تے یاہوہ دا جلال ساری قوم کوں ݙکھائی ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ڳئے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلاݨے دے"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ٻاہر نکھتے"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "برکت ݙتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ݙکھائی ݙتا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:08.872968867Z",
+  "model": "glm-5.3"
+}

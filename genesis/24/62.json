@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یِتصخاق بِئر لَخئی روئی توں آوݨ وِچ ہا، تے اوہ ملکِ نڳب وِچ رہندا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "تے یِتصخاق"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "آوݨ وِچ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بِئر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لَخئی"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "روئی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رہندا ہا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک وِچ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نڳب"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:38.222595630Z",
+  "model": "glm-5.3"
+}

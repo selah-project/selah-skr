@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اَخآب دی موت دے بعد موآب اِسرائیل دے خلاف بغاوت کر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "بغاوت کر ڳیا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیل دے خلاف"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    }
+  ],
+  "timestamp": "2026-09-19T17:20:05.194681766Z",
+  "model": "glm-5.3"
+}

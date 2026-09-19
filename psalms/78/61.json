@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "تے اوندے زور کوں قیدی بݨا ݙتس، تے اوندی شان دشمن دے ہتھ وِچ۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "قیدی بݨا"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "اوندے زور کوں"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "تے اوندی شان"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ وِچ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:24.867979125Z",
+  "model": "glm-5.3"
+}

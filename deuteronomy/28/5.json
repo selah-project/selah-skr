@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "مُبارک ہوسی تیݙا ٹوکرا تے مُبارک ہوسی تیݙی آٹا گُندھݨ آلی ترائی۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مُبارک"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "تیݙا ٹوکرا"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "تیݙی آٹا گُندھݨ آلی ترائی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:11.628125648Z",
+  "model": "glm-5.3"
+}

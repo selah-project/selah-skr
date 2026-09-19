@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایں ڄڳ جو اُنہاں ڄاݨ-سُنڄاݨ توں نفرت کیتی، تے یاہوہ دا ݙر اُنہاں نہ چُݨیا۔",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ایں ڄڳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "نفرت کیتی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨ-سُنڄاݨ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "دا ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "چُݨیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:05.771885280Z",
+  "model": "glm-5.3"
+}

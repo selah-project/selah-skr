@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیا اِسرائیل ہِک غلام ہے؟ کیا اوہ گھر وِچ ڄایا ہویا ہے؟ ٻس اوہ لُٹ دا مارا کیوں بݨیا؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "کیا … غلام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "ڄایا ہویا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بݨیا"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "لُٹ دا مارا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:56:49.776777591Z",
+  "model": "glm-5.3"
+}

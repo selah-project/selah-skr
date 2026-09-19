@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ڳالھ کوں بے ادب کرݨ آلا آپ کیتے پھند وچ پوسی، تے حکم توں ݙرݨ آلا ⟨او⟩ بدلہ پاوسی۔",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "بے ادب کرݨ آلا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالھ کوں"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "پھند وچ پوسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙرݨ آلا"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ پاوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:55.089255149Z",
+  "model": "glm-5.3"
+}

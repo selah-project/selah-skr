@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "کیوں جو یاہوہ دا ڳالھ سِدھی ہے، تے اوندے سارے کم ایمانداری نال ہن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "کم"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ایمانداری نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:10.724679158Z",
+  "model": "glm-5.3"
+}

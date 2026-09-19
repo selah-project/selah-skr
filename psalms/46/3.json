@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "ایں کیتے اساں نہ ڈرسوں، جے زمین بدل ونڄے، تے پہاڑ سمندراں دے دل وِچ ڈل ونڄن۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ڈرسوں"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "بدل ونڄے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "تے ڈل ونڄن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:14.091432171Z",
+  "model": "glm-5.3"
+}

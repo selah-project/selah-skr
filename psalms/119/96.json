@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ہر کمال دا میکوں انت ݙٹھے، پر تیݙا حکم ٻہوں کھلا ہے۔",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "کمال دا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میکوں ݙٹھے"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انت"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "کھلا ہے"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "تیݙا حکم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:35.470845873Z",
+  "model": "glm-5.3"
+}

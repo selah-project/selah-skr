@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بِبای ⟨دے⟩ پُتراں دی ڳݨتری چھ سو اَٹھویہہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بِبای"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:24.073291Z",
+  "model": "glm-5.3"
+}

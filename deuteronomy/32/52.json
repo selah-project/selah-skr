@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو تُساں زمین کوں پرے کنوں ݙیکھسو، پر اُتھاں نہ ونجسو، اُوں زمین وِچ جیڑھی میں یِسرائیل دے پُتراں کوں ݙیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "پرے کنوں"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ݙیکھسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین کوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اُتھاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ونجسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا ہاں"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:16.941898157Z",
+  "model": "glm-5.3"
+}

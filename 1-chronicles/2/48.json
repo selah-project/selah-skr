@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کالِب دی پیلگش ماخاہ شابر کوں ڄائی تے ⟨את⟩ تِرحناہ کوں۔",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "پیلگش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماخاہ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄائی"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شابر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تِرحناہ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تِرحناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:43.624747296Z",
+  "model": "glm-5.3"
+}

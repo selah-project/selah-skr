@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "ظلماں دے گواہ اُٹھسن؛ جو میں نہ ڄاتا، او میں کنوں پُچھسن۔",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "اُٹھسن"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلماں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاتا"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "میکوں پُچھسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:36.046331106Z",
+  "model": "glm-5.3"
+}

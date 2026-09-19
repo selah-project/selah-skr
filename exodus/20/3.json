@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "میݙے سامݨے تیݙے کیتے ٻئے ایلوہیم ⟨نہ⟩ ہوسن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میݙے سامݨے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:11.753144426Z",
+  "model": "glm-5.3"
+}

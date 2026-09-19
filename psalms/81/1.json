@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 81,
+  "translation": "مقابلے والے کیتے، گِتّیت اُتے، آساف کیتے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقابلے والے کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گِتّیت"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:58.346286241Z",
+  "model": "glm-5.3"
+}

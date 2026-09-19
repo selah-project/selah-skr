@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 132,
+  "translation": "جیڑھا یاہوہ کوں قسم چاتِس، یعقوو دے زور والے کوں نذر ݙتِس۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم چاتِس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر ݙتِس"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "زور والے کوں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:14.925846187Z",
+  "model": "glm-5.3"
+}

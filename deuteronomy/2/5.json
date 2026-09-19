@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "انہاں نال نہ لڑو، کیوں جو میں تُساں کوں انہاں دی زمین توں پیر دے تل جتنی وی نہ ݙیساں، کیوں جو میں عیسو کوں وراثت طور ⟨את⟩ پہاڑ سعیر ݙتے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "لڑو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں ݙیساں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کوں"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "انہاں دی زمین توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "پیر دا قدم"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تل"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "وراثت طور"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عیسو کوں"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہاڑ سعیر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:40.595137887Z",
+  "model": "glm-5.3"
+}

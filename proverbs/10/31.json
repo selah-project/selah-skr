@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راست والے دا مُونہہ دانائی ٻُوڑدا ⟨ہے⟩، تے تُڑمبی زبان کٹی ویسی۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دا مُونہہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست والے"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ٻُوڑدا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "تے زبان"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "تُڑمبی"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "کٹی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:44.948034595Z",
+  "model": "glm-5.3"
+}

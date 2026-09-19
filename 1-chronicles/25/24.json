@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ستارہویں یوشبقاشاہ کوں، اوندے پُتراں تے اوندے بھرانواں — ہن باراں۔",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "ستارہویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ستارہاں"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "یوشبقاشاہ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "باراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:43.690598206Z",
+  "model": "glm-5.3"
+}

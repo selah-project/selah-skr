@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ایویں تُساں یاہوہ تُہاݙے ایلوہیم کیتے نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:35.062319263Z",
+  "model": "glm-5.3"
+}

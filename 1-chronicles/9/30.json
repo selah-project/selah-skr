@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے کاہناں دے پُتراں وِچوں کجھ خُشبودار مِسل رلاؤݨ آلے ہَن۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں دے"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "رلاؤݨ آلے"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "مِسل دی رلائی"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "خُشبودار مِسلاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:23.578182109Z",
+  "model": "glm-5.3"
+}

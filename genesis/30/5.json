@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے بِلہاہ حاملہ تھی ڳئی، تے یعقوو کوں ہِک پُتر ڄنّیا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ تھی ڳئی"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہاہ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄنّیا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ہِک پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:16.238204828Z",
+  "model": "glm-5.3"
+}

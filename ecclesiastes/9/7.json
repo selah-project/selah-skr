@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ونڄ، خوشی نال تیݙی روٹی کھا، تے چنڳے دل نال تیݙی شراب پِی، کیوں جو ایلوہیم پہلے ای ⟨את⟩ تیݙے کماں توں راضی ہے۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خوشی نال"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "تیݙی روٹی"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "تے پِی"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل نال"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳے"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "تیݙی شراب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے ای"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "راضی ہے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے کم"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "تیݙے کماں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:39.411001916Z",
+  "model": "glm-5.3"
+}

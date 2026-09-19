@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یوسف مَریا، تے اوندے سارے بِھرا، تے او سارا ڳلیوہ۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مَریا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندے بِھرا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "او ڳلیوہ ⟨او⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:03.702698117Z",
+  "model": "glm-5.3"
+}

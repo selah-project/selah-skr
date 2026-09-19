@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 120,
+  "translation": "ٻہوں ودھ میݙی جان اوں دے نال رہ ڳئی، جیہڑا سلامتی کنوں نفرت کریندا ہے۔",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ٻہوں ودھ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "رہ ڳئی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوں دے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "نفرت کریندا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:34.430543041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "کیا ایلوہیم ایہ نہ چھانسی؟ کیوں جو اوہ دِل دے لُکے راز ڄاݨدا ہے۔",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا…نہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "چھانسی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "لُکے راز"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:33.588888965Z",
+  "model": "glm-5.3"
+}

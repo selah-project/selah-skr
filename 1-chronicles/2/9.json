@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے حِتصرون دے پُتر جیہڑے اُوکوں ڄمے: یِرحمایل ⟨את⟩، تے رام ⟨ואת⟩، تے کِلوبائی ⟨ואת⟩۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حِتصرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ڄمے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِرحمایل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرحمایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "کِلوبائی"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "کِلوبائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:33.225894309Z",
+  "model": "glm-5.3"
+}

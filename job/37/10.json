@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "ایل دی ساہ توں برف ݙتی ویندی ہے، تے چوڑے پاݨی سخت تھی ویندن۔",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ساہ توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙتی ویندی ہے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "برف"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "سخت تھی ویندن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:19.211818446Z",
+  "model": "glm-5.3"
+}

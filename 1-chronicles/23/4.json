@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "انہاں وِچوں یاہوہ دے گھر دی خدمت اُتے_prefix کرݨ آلے چوویہہ ہزار ہن، تے افسر تے عدالت کرݨ آلے چھ ہزار ہن۔",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "انہاں وِچوں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "اڳوں کرݨ آلے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "تے افسر"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "تے عدالت کرݨ آلے"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:24.405840884Z",
+  "model": "glm-5.3"
+}

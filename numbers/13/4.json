@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے ایہ ہن اُنہاں دے ناں: رئوبن دے قبیلے کیتے شمّوع، زکّور دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "اُنہاں دے ناں"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کیتے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شمّوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زکّور"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:24.544988060Z",
+  "model": "glm-5.3"
+}

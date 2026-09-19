@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ہِک راہ ہے جو بندے دے اڳوں سِدھی ݙسدی ہے، پر ایندا اخیر موت دے راہ ہن۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "پر ایندا اخیر"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:18.436512647Z",
+  "model": "glm-5.3"
+}

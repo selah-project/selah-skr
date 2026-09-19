@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے بادل ⟨את⟩ ملاقات دے خیمے کوں ڈھک گھدا، تے یاہوہ دا جلال ⟨את⟩ مسکن کوں بھر ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "ڈھک گھدا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملاقات دا خیمہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:14.279929045Z",
+  "model": "glm-5.3"
+}

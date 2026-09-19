@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "راستی نال تھوڑا چنڳاں ہے، بغیر انصاف دے وݙی آمدنی توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳاں"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "راستی نال"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ٻہوں توں"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "آمدنی"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:24.453502412Z",
+  "model": "glm-5.3"
+}

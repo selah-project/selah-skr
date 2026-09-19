@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "دانا دے مُنہ دے لفظ مِٹھے ہوندن، پر بھولے دیاں ہوٹھ اونکوں نگھ ویندیاں ہن۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دے مُنہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مِٹھے ⟨چن⟩"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "پر ہوٹھ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بھولے"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "اونکوں نگھ ویندیاں ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:37.343378387Z",
+  "model": "glm-5.3"
+}

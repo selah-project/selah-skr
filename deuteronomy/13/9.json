@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تُوں اوندے نال منس نہ تھیویں، نہ اوں دو کوں سُݨیں، تے نہ تیݙی اکھ اوں اُتے ترس کھاوے، نہ اوں کوں بخشیں، تے نہ اوں کوں لُکاویں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "منس تھیویں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سُݨیں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں دو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ترس کھاوے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیݙی اکھ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں اُتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "بخشیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "لُکاویں"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.665412003Z",
+  "model": "glm-5.3"
+}

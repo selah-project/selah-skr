@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 103,
+  "translation": "برکت ݙے، میݙی جان، یاہوہ ⟨את⟩ کوں، تے اُوندیاں ساریاں نیکیاں نہ بھُل۔",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "برکت ݙے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "بھُل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "اُوندیاں نیکیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:09.920536945Z",
+  "model": "glm-5.3"
+}

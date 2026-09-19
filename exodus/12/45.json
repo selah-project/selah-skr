@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "پردیسی تے کرائے دا مزدور اِیندے وِچوں نہ کھاسی۔",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "تے کرائے دا مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اِیندے وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:52.102977399Z",
+  "model": "glm-5.3"
+}

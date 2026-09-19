@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں دی ڳݨتری قبیلہ مَنَشّے وِچ ترِیہہ ہزار ݙو سَو ہئی۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اُنہاں دی ڳݨتری"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ وِچ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ترِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ݙو سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:53.804212108Z",
+  "model": "glm-5.3"
+}

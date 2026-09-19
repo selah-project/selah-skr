@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "jeremiah 51:63",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "تے تھیسی، جݙاں تُساں ایہ ⟨את⟩ کتاب پڑھ مکاؤ، تاں ہِک پتھر اوندے نال ٻدھو تے اونکوں پرات ⟨دریا⟩ دے وچ سٹو۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "ככלתך",
+      "gloss": "مکاؤ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "پڑھݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ کتاب"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תקשר",
+      "gloss": "ٻدھو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "והשלכתו",
+      "gloss": "سٹو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پرات"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:18.516540616Z",
+  "model": "glm-5.3"
+}

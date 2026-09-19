@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے قِینہ، تے دِیمونہ، تے عدعدہ۔",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "تے قِینہ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "تے دِیمونہ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "تے عدعدہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:24.112866284Z",
+  "model": "glm-5.3"
+}

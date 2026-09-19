@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 14:15",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اِیویں تھیسی گھوڑے، کھچڑے، اُٹھ تے گدے دی مار، تے انہاں پڑاؤاں وِچ دے ہر ڈنگر اُتے وی ایہی جیہی مار۔",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "تے اِیویں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "מגפת",
+      "gloss": "مار"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "کھچڑے"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "تے گدے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "במחנות",
+      "gloss": "پڑاؤاں وِچ"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "انہاں"
+    },
+    {
+      "surface": "כמגפה",
+      "gloss": "ایہی جیہی مار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:42.694354837Z",
+  "model": "glm-5.3"
+}

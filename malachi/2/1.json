@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ہُݨ تُہاݙے کیتے ⟨ہے⟩ ایہ حکم، اَے کاہنو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "اَے کاہنو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:31.089127481Z",
+  "model": "glm-5.3"
+}

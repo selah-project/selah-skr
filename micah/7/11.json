@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تیݙیاں وِttlum بݨاوݨ دا ݙینہہ — او ݙینہہ حد ٻہوں پریں تھی ویسی۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بݨاوݨ دا"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "تیݙیاں وِttlum"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "پریں تھی ویسی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حد"
+    }
+  ],
+  "timestamp": "2026-09-19T18:58:55.763530374Z",
+  "model": "glm-5.3"
+}

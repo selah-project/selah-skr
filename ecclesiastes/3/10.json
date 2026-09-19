@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں ⟨את⟩ اوں محنت کوں ݙٹھا جو ایلوہیم آدمی دے پُتریں کوں اوندے وِچ جھکݨ کیتے ݙتی ہے۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوں محنت کوں"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "اوں محنت کوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی ہے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتریں کوں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی دے"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "جھکݨ کیتے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:00.523014278Z",
+  "model": "glm-5.3"
+}

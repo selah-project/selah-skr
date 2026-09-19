@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میݙا یار میݙا ہے تے میں اوندا ہاں؛ او سوہݨے پھُلاں وِچ چریندے۔",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میݙا یار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چریندے"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "سوہݨے پھُلاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:42.639015547Z",
+  "model": "glm-5.3"
+}

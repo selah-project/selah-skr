@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے جے دیگچی وِچ پکی تیݙی قربانی ہووے، تاں او باریک اٹا تیل نال بݨسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "دیگچی"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "تیݙی قربانی"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک اٹا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل نال"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بݨسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:39.840141809Z",
+  "model": "glm-5.3"
+}

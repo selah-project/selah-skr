@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر، تے اوندے ڳݨے ہوئے چھیتالی ہزار تے پنج سو ہن۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "تے اوندے ڳݨے ہوئے"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالیہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:19.383138347Z",
+  "model": "glm-5.3"
+}

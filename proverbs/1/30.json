@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں میݙی صلاح نہ منی، تے میݙی ساری تنبیہ اُنہاں جھٹک ݙتی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "منی"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "میݙی صلاح"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "جھٹک ݙتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "میݙی تنبیہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:05.772097196Z",
+  "model": "glm-5.3"
+}

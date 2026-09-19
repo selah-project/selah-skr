@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے اویملیخ آکھیا: “میں نہ ڄاݨدا جو ایہ ⟨את⟩ کم کِن کیتا، تے نہ تیں میکوں ݙسیا، تے نہ میں آپ سُݨیا، سوا اِیں ݙینہہ دے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اویملیخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨدا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ کم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ݙسیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سوا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:04.876581784Z",
+  "model": "glm-5.3"
+}

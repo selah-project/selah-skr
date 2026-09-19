@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 1:32",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے آشری کنعانیاں، زمین دے وسنیکاں، دے وچکار رہ ڳیا، کیوں جو اُوں اوکوں مٹایا نہ۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رہ ڳیا"
+    },
+    {
+      "surface": "האשרי",
+      "gloss": "آشری"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانیاں"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "وسنیکاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "مٹایا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:20:12.632964626Z",
+  "model": "glm-5.3"
+}

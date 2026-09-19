@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے یاہوہ دا کلام میݙے کولھ آیا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:37:23.646075850Z",
+  "model": "glm-5.3"
+}

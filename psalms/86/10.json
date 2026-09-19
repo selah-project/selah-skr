@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 86,
+  "translation": "کیوں جو تُوں وݙا ہِیں تے کرشمے کریندا ہِیں، تُوں کلہا ایلوہیم ہِیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "کرشمے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کلھے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:40.292416996Z",
+  "model": "glm-5.3"
+}

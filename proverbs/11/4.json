@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "قَہر دے ݙینہہ دَولت کوئی فائدہ نہ ݙیندی، تے راستی مَوت توں بچیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "کوئی … نہ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "فائدہ ݙیندی"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دَولت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "قَہر"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچیندی ہے"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "مَوت توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:50.397898280Z",
+  "model": "glm-5.3"
+}

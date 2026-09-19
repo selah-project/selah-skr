@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے بنی اسرائیل ⟨את⟩ موشے کیتے مُوآب دے میداناں وِچ تریہہ ݙینہہ روئے؛ تے موشے دے سوڳ دے رووݨ دے ݙینہہ پورے تھی ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "روئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "میداناں وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "پورے تھی ڳئے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "رووݨ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوڳ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:32.889251646Z",
+  "model": "glm-5.3"
+}

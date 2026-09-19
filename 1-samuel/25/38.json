@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے داہیں ݙینہہ پچھوں تھیا، یاہوہ ⟨את⟩ نَبل کوں ماریا، تے او مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "داہیں وانگوں"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَبل"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نَبل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:09:31.965507292Z",
+  "model": "glm-5.3"
+}

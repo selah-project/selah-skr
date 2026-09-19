@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اُوں ⟨את⟩ پنج پردے وکھرے جوڑیے، تے ⟨ואת⟩ چھ پردے وکھرے۔",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "اُوں جوڑیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنج پردے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وکھرے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "چھ پردے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وکھرے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:15.780016027Z",
+  "model": "glm-5.3"
+}

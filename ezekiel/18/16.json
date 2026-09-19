@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 18:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "کہیں بندے تے ظلم نہ کیتس، گروی نہ گھدی، لُٹ نہ لُٹیس، اپݨی روٹی بُکھے کوں ݙتی، تے ننگے کوں کپڑے نال ڈھکیا،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "کہیں بندے تے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "ظلم کیتس"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گروی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گھدی"
+    },
+    {
+      "surface": "וגזלה",
+      "gloss": "تے لُٹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "لُٹیس"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "اپݨی روٹی"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "بُکھے کوں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "تے ننگے کوں"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ڈھکیا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:43.981036755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "آپݨیاں اکھیں وِچ سیاݨا نہ بݨ، یاہوہ ⟨את⟩ توں ݙر، تے برائی توں ہٹ ونڄ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بݨ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "آپݨیاں اکھیں وِچ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "تے ہٹ ونڄ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائی توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:32.068412164Z",
+  "model": "glm-5.3"
+}

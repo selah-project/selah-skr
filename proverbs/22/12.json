@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "یاہوہ دیاں اَکھاں علم دی راکھی کریندیاں ہن، تے دغاباز دیاں ڳالھیں الٹ ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "اَکھاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "راکھی کریندیاں ہن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "الٹ ݙیندے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "دغاباز"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:30.056011728Z",
+  "model": "glm-5.3"
+}

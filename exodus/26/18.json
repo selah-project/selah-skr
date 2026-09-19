@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے تُساں مسکن کیتے ⟨את⟩ تختے بݨیسی — ویہہ تختے لمے پاسے، لم دو۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے بݨیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختے"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن کیتے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "نגבה",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "لم دو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:30.001743528Z",
+  "model": "glm-5.3"
+}

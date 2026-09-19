@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 81,
+  "translation": "تیݙے وِچ کوئی اوپرا ایل نہ ہووے، تے تُساں کہیں اوپرے ایل اُتے سجدہ نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ کرو"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل اُتے"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:29.257674951Z",
+  "model": "glm-5.3"
+}

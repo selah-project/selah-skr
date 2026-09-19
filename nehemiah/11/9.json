@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یوائل زکری دا پُتر اُنہاں اُتے نگران ہا، تے یہودہ ہسّنواہ دا پُتر شہر اُتے ݙوجھا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "تے یوائل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زکری"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہودہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "ہسّنواہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ݙوجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:34.156515081Z",
+  "model": "glm-5.3"
+}

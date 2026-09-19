@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے جݙاں رتھاں دے سرداراں ݙٹھا جو او اسرایل دا بادشاہ کائنی، تاں او اوندے پچھوں توں وَل آئے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ݙیکھݨ تے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رتھاں دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "تے وَل آئے"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "اوندے پچھوں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:01.597511672Z",
+  "model": "glm-5.3"
+}

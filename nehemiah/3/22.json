@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اُوندے پچھوں کاہناں، میدان دے مرد، مضبوط کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اُوندے پچھوں"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "مضبوط کیتا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:23.644025298Z",
+  "model": "glm-5.3"
+}

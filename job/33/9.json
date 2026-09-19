@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "«میں صاف ہاں، بغیر بغاوت دے؛ میں بےگناہ ہاں، تے میݙے کیتے کوئی بدی کائنی۔»",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "חף",
+      "gloss": "بےگناہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:01:32.487799984Z",
+  "model": "glm-5.3"
+}

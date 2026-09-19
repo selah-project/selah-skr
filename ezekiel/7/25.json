@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سنگین ݙر آندا پئے، تے او سلامتی ڳولیسن، پر کوئی نہ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "سنگین ݙر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا پئے"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "تے او ڳولیسن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر کوئی نہ ہوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:25:21.687307611Z",
+  "model": "glm-5.3"
+}

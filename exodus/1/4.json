@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "دان، نفتالی، گاد تے اشیر۔",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "تے نفتالی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے اشیر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:51.212425033Z",
+  "model": "glm-5.3"
+}

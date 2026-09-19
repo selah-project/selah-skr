@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تُساں جتنا ڄاݨدے ہو، میں وی اتنا ڄاݨداں؛ میں تُساں توں گھٹ کائنی۔",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "تُساں دی ڄاݨ موجب"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨداں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "נפل",
+      "gloss": "گھٹ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُساں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:13.865623490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اِیں ڳالھ وِچ تُساں یاہوہڣ تُہاݙے ایلوہیم اُتے یقین نہ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "تے اِیں ڳالھ وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "تُساں نہ"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "یقین رکھیا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:09.502349687Z",
+  "model": "glm-5.3"
+}

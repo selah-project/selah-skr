@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "بَ بھلا اوہ آپݨا جال خالی کریسی، تے ہمیشہ قوماں کوں مارݨ کیتے رحم نہ کریسی؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "بَ بھلا ⟨کیا⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "خالی کریسی"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "آپݨا جال"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "تے ہمیشہ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "مارݨ کیتے"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "رحم کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:58:32.219206022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "زبولون کیتے: اِلیاب، خیلون دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "زبولون کیتے"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خیلون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:22.798250813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کہیں غلام کوں اون٘دے مالک دے حوالے نہ کریندا، جیہڑا اون٘دے مالک کنوں بچ کے تیݙے کول آوے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "حوالے کریندا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اون٘دے مالک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "بچ کے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے کول"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اون٘دے مالک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:55.448338016Z",
+  "model": "glm-5.3"
+}

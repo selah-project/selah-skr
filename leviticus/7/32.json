@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے تُساں ⟨את⟩ سڄی ران کاہن کوں تَرومہ ݙیسو، تُہاݙیاں سلامتی قربانیاں وِچوں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سڄی ران"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ران"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "سڄی"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ݙیسو"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "تَرومہ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن کوں"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "قربانیاں وِچوں"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "تُہاݙیاں سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:21.132883030Z",
+  "model": "glm-5.3"
+}

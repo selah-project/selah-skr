@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "پر اِیں ڳالھ کوں سُݨ، جیہڑی میں تیݙیاں کنّاں وِچ تے ساری قوم دے کنّاں وِچ آکھداں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہُݨ⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ کوں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھداں"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "تیݙیاں کنّاں وِچ"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "تے کنّاں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:36.958768819Z",
+  "model": "glm-5.3"
+}

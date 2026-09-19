@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تدمر ⟨את⟩ بیابان وِچ بݨایس، تے سارے انبار دے شہر ⟨את⟩ جیہڑے خَماط وِچ بݨائے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "تے بݨایس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تدمر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تدمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے شہراں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "انبار آلے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨائے ہن"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "خَماط وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:24.532858168Z",
+  "model": "glm-5.3"
+}

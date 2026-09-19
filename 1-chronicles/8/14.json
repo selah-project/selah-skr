@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اَخیو، شاشاق تے یِریموت۔",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اَخیو"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشاق"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "تے یِریموت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:07.849890794Z",
+  "model": "glm-5.3"
+}

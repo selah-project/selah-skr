@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے نفتالی پُتریاں دے ٹبر کِیتے سردار پِدہایل، عمیہود دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے … ٹبر کِیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دے"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "پِدہایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیہود"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:51.225617498Z",
+  "model": "glm-5.3"
+}

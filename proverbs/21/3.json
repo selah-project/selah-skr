@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "راستی تے انصاف کرݨ یاہوہ کیتے قربانی توں چُݨیا ہویا ہے۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چُݨیا ہویا ہے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:59.605875400Z",
+  "model": "glm-5.3"
+}

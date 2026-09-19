@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ٻہوں تھوڑا باقی ہا جو میں ہر ہِک برائی وِچ پُڄ ویندا، کٹھ تے کانگر دے وچکار۔",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ٻہوں تھوڑا باقی ہا جو"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "پُڄ ویندا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی وِچ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کٹھ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "تے کانگر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:47.965115868Z",
+  "model": "glm-5.3"
+}

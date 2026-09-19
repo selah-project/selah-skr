@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "سردی دی وِجہ توں سوٹھا ہل نہ ہلیندا؛ فصلاں دے ویلے منگدے، تے کجھ نہ ہوندا۔",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "سردی دی وِجہ توں"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سوٹھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ہل ہلیندا"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "منگدے"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "فصلاں دے ویلے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کجھ نہ ہوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:52.712661303Z",
+  "model": "glm-5.3"
+}

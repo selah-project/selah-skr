@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایہ سارا میں حکمت وِچ پرکھیا؛ میں آکھیا: “میں سیاݨا تھیساں” پر او میں توں پریں ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "میں پرکھیا"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت وِچ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "سیاݨا تھیساں"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "پریں ہے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:19.279349391Z",
+  "model": "glm-5.3"
+}

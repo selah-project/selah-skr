@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "اوندے اُتے تیݙا ہتھ رکھو — جنگ یاد رکھو — ولا نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "تیݙا ہتھ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ولا کریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:38.707906247Z",
+  "model": "glm-5.3"
+}

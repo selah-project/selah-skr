@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "بُرے لوکاں توں جِل نہ، تے شریراں دا حسد نہ کر۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "جل"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "بُرے لوکاں توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد کر"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "شریراں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:51.841005388Z",
+  "model": "glm-5.3"
+}

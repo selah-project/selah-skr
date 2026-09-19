@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ہِک نسل اے جیہڑی آپݨے پیو کوں لعنت ݙیندی ہے تے ⟨את⟩ آپݨی ماء کوں نیں بھلیندی۔",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آپݨے پیو کوں"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "لعنت ݙیندی ہے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی ماء کوں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آپݨی ماء کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "بھلیندی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:07.918225996Z",
+  "model": "glm-5.3"
+}

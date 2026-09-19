@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے اخیمعتص ⟨את⟩ عزرایہ کوں پیدا کیتا، تے عزرایہ ⟨את⟩ یوخنان کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "تے اخیمعتص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزرایہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرایہ"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "تے عزرایہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوخنان"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوخنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:37.651143626Z",
+  "model": "glm-5.3"
+}

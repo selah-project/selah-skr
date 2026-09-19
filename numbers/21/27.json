@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 21:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "ایں کیتے پهاکے آکھن آلے آکھدن: “آؤ خشبون، بݨے تے وسیۓ، سِیخون دا شہر۔”",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھدن"
+    },
+    {
+      "surface": "המשלים",
+      "gloss": "پهاکے آکھن آلے"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "خشبون"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بݨے"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "تے وسیۓ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سِیخون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:28.983180789Z",
+  "model": "glm-5.3"
+}

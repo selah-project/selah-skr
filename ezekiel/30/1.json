@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے یاہوہ دا ⟨آیا⟩ ⟨⟨١١⟩⟩ نہ — تے یاہوہ دا ⟨آیا⟩ آڳیا مین٘وں، ایہہ آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:24.971919612Z",
+  "model": "glm-5.3"
+}

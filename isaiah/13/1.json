@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بابل دا بار ⟨بار: مَ prophecy⟩، جیڑھا یشَعیاہو، اَموتص دا پُتر، ݙٹھا۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشَعیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اَموتص"
+    }
+  ],
+  "timestamp": "2026-09-19T17:38:09.982445704Z",
+  "model": "glm-5.3"
+}

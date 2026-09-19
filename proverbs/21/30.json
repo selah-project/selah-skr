@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "یاہوہ دے سامھݨے نہ کوئی دانائی، نہ کوئی سمجھ، تے نہ کوئی صلاح ⟨کائنی⟩۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نہ کوئی … ⟨کائنی⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نہ کوئی"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نہ کوئی"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "دے سامھݨے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:55.506330367Z",
+  "model": "glm-5.3"
+}

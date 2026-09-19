@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "نینوہ دا بار؛ نحوم ایلکشی آلے دے درشن دی کتاب۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "درشن"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "نحوم"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ایلکشی آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:24.567045570Z",
+  "model": "glm-5.3"
+}

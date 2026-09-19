@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "او ڳالھ جیہڑی یاہوہ ⟨מאת⟩ کنوں یِرمِیاہو کوں تھئی، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "یاہوہ کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:02:14.474505363Z",
+  "model": "glm-5.3"
+}

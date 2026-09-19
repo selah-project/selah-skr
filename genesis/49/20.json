@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "اشیر کنوں اوندا کھاݨا چرب ہوسی، تے او بادشاہ دیاں لذتاں ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "اشیر کنوں"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "چرب"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "اوندا کھاݨا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "لذتاں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:28.388897964Z",
+  "model": "glm-5.3"
+}

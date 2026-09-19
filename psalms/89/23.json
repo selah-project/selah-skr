@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "دشمن اونکوں قرض توں نہ ستھڑیسی، تے ظلم دا پُتر اونکوں نہ جُلھیسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "قرض توں ستھڑیسی"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے … دا پُتر"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעنנו",
+      "gloss": "جُلھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:38.446435767Z",
+  "model": "glm-5.3"
+}

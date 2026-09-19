@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاہوہ دے خیسِد — کیوں جو اساں مُکے کائنی، کیوں جو اوندیاں رحمتاں نہ مُکیاں۔",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "اساں مُکے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "مُکیاں"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "اوندیاں رحمتاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:53.460067231Z",
+  "model": "glm-5.3"
+}

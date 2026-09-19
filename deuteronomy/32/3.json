@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو میں یاہوہ دا ناں سݙیساں؛ آپݨے ایلوہیم کوں وݙائی ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں سݙیساں"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "وݙائی"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "آپݨے ایلوہیم کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:52.600453568Z",
+  "model": "glm-5.3"
+}

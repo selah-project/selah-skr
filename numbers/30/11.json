@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے جے اوں آپݨے پئے دے گھر وِچ نذر کیتا، یا قسم نال آپݨی نفس اُتے ہِک بندھن ٻدھا،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "آپݨے پئے دے"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نذر کیتا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ٻدھا"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "بندھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "آپݨی نفس"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "قسم نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:47.914420508Z",
+  "model": "glm-5.3"
+}

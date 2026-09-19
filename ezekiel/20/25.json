@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے میں وی انہاں کوں اِیہو جہے فرض کیتے جیہڑے چنگے کائنی، تے اِیہو جہے حکم جِنہاں نال او جِی نہ سڳن۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ݙتے میں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "تے حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جِی سڳن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انہاں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:32.018947838Z",
+  "model": "glm-5.3"
+}

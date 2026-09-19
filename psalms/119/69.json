@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "گھمنڈیاں میݙے اُتے کوڑ چمبریا، پر میں پورے دل نال تیݙے فرمان نبھیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "چمبریا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "گھمنڈیاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پورے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "نبھیندا ہاں"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تیݙے فرمان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:01.955344870Z",
+  "model": "glm-5.3"
+}

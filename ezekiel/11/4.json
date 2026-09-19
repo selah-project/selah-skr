@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ایں کیتے انہاں دے خلاف نبوت کر، نبوت کر، اِیں آدم دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انہاں دے اُتے"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:03.174907359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "سیاݨا پُتر پیو دی تربیت سُݨدا ہے، پر ٹھٹھاکوں بازاجر سن٘دا کائنی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو دی"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ٹھٹھاکوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سن٘دا"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "بازاجر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:54.789131426Z",
+  "model": "glm-5.3"
+}

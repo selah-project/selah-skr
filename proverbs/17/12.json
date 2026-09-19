@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "بندے کوں ٻچے وِنجائی ہوئی بھالݨی ملے، کمازر کوں نہ اپݨی مُٹک وِچ۔",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ملے"
+    },
+    {
+      "surface": "דב",
+      "gloss": "بھالݨی"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ٻچے وِنجائی ہوئی"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بندے کوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کمازر کوں"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "اپݨی مُٹک وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:53.838068004Z",
+  "model": "glm-5.3"
+}

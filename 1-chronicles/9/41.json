@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے مِیخا دے پُتر فیتون، مِلِک تے تَحرِع ہَن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "فیتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے مِلِک"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "تے تَحرِع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:59.765754627Z",
+  "model": "glm-5.3"
+}

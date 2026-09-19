@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ہَگِرشونی دے گھر پیو دا سردار اِلیاساف، لاایل دا پُتر ہا۔",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو دا"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ہَگِرشونی دے"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لاایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:15.181469754Z",
+  "model": "glm-5.3"
+}

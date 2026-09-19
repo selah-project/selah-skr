@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کݙاں تئیں میں نشان ݙیکھاں، شوفار دا آواز سُݨاں؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ݙیکھاں"
+    },
+    {
+      "surface": "נס",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "سُݨاں"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:25.864908371Z",
+  "model": "glm-5.3"
+}

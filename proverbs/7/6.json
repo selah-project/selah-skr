@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو میݙے گھر دی کھڑکی کنوں، میݙی جالی وِچوں میں جھات ماری۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "کھڑکی وِچ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میݙے گھر"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "میݙی جالی"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "میں جھات ماری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.993193106Z",
+  "model": "glm-5.3"
+}

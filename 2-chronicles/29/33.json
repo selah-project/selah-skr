@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے پاک کیتیاں ہویاں شیواں: ݙنگر چھی سو، تے بھیݙاں ترے ہزار۔",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "تے پاک کیتیاں ہویاں شیواں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ݙنگر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "تے بھیݙاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:58:17.015329164Z",
+  "model": "glm-5.3"
+}

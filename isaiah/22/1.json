@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "بوجھ وادی رویت دا: ہُݨ تیکوں کیا تھی ڳیا، جو تُساں سارے چھتاں اُتے چڑھ ڳیو؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "رویت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "چڑھ ڳیو"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "چھتاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:39:57.421232653Z",
+  "model": "glm-5.3"
+}

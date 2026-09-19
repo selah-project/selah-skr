@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یہوشوع ⟨את⟩ لوکاں کوں روانہ کیتا، ہر ہِک اپݨی وراثت دو۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "روانہ کیتا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوکاں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "לנחלاتו",
+      "gloss": "اپݨی وراثت دو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:19:02.692462234Z",
+  "model": "glm-5.3"
+}

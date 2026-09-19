@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "امیر تھیوݨ کیتے آپ کوں نہ تھکا، اپݨی سمجھ توں ہٹ ونڄ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "تھکا"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "امیر تھیوݨ کیتے"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "اپݨی سمجھ توں"
+    },
+    {
+      "surface": "חדل",
+      "gloss": "ہٹ ونڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:05.201353597Z",
+  "model": "glm-5.3"
+}

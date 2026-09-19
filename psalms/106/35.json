@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "بلکہ قوماں وِچ رَل ڳئے، تے اُنہاں دے کَم سِکھیے۔",
+  "tokens": [
+    {
+      "surface": "ויתעارבו",
+      "gloss": "رَل ڳئے"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "سِکھیے"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "اُنہاں دے کَم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:49.891253549Z",
+  "model": "glm-5.3"
+}

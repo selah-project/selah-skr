@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "میں آپݨی مُکلت کیتے تکھا کریندا، دوڑدی ہوا توں، طوفان توں۔",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "تکھا کریندا"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "مُکلت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپݨی کیتے"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ہوا توں"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "دوڑدی"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "طوفان توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:20.475359348Z",
+  "model": "glm-5.3"
+}

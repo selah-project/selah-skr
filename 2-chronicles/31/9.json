@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے حِزقیاہو کاہناں تے لاویاں کنوں ڈھیراں بارے پُچھیا۔",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "پُچھیا"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "تے لاویاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ڈھیراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:58:27.164422869Z",
+  "model": "glm-5.3"
+}

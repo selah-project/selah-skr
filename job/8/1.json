@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے بِلدَد شوحی جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بِلدَد"
+    },
+    {
+      "surface": "השוחی",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:42.509608690Z",
+  "model": "glm-5.3"
+}

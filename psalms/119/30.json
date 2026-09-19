@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ایمان دا رستہ میں چُݨیئے، تیݙے اِنساف میں اڳوے رکھین۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمان"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں چُݨیئے"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیݙے اِنساف"
+    },
+    {
+      "surface": "שויתی",
+      "gloss": "میں اڳوے رکھین"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:14.287658597Z",
+  "model": "glm-5.3"
+}

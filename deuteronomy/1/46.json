@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے تُساں قادِش وِچ ٻہوں ݙینہہ رہیوہ، جتنے ݙینہہ جو اُتھاں رہیوہ۔",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ٻہہ رہیوہ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قادِش وِچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "جتنے ݙینہہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "رہیوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:21.580054160Z",
+  "model": "glm-5.3"
+}

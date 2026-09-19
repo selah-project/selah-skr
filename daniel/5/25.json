@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے ایہ او لکھت ہے جیڑھی لکھی ڳئی: منی، منی، تکیل اُوپرسین۔",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکھت"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "لکھی ڳئی"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "منی"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "منی"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تکیل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "اُوپرسین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:35.383688206Z",
+  "model": "glm-5.3"
+}

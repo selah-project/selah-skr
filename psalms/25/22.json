@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایلوہیم، ⟨את⟩ یسرایل کوں اوندیاں ساریاں تنگیاں توں چھڑا۔",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "چھڑا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرایل کوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں توں"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "اوندیاں تنگیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:29.169853511Z",
+  "model": "glm-5.3"
+}

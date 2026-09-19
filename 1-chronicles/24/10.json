@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ستویں ہقوض کوں، اٹھویں اَویاہ کوں۔",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ہقوض کوں"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "اَویاہ کوں"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٹھویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:44.134832180Z",
+  "model": "glm-5.3"
+}

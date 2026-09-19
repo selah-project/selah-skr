@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ݙیکھو، اے ݙینہہ! ݙیکھو، آ ڳئی ہے! صبح نکھتی ہے، عصا پھُٹی ہے، گھمنڈ چمکیا ہے۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے ݙینہہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ ڳئی ہے"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکھتی ہے"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "پھُٹی ہے"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "پھُلی ہے"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "گھمنڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:25:52.717313056Z",
+  "model": "glm-5.3"
+}

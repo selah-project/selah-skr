@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے اوندے پاک تھیوݨ دے بعد اونکوں ست ݙینہہ ڳݨیے ویسن۔",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "تے … دے بعد"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "اوندي پاکیت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ڳݨیے ویسن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:00.205248117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کیوں جو تُہاݙیاں اکھیں ⟨את⟩ سارا اوہ وݙا کم ݙٹھا جو یاہوہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "تُہاݙیاں اکھیں"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا اوہ وݙا کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:54:11.650711063Z",
+  "model": "glm-5.3"
+}

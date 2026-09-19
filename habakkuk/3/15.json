@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تُساں سمندر وِچ اپݨے گھوڑیاں نال لتڑایا، ٻہوں پاݨیاں دا ڈھیر۔",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "لتڑایا"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمندر وِچ"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "اپݨے گھوڑیاں نال"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨیاں دا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:18.183188299Z",
+  "model": "glm-5.3"
+}

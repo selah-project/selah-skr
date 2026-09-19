@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "شلومو بادشاہ لبنان دے رُکھاں توں اپݨے کیتے ہِک اپریون ⟨تختہ-پالکی⟩ بݨایا۔",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "اپریون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپݨے کیتے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "رُکھاں توں"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:32.941236694Z",
+  "model": "glm-5.3"
+}

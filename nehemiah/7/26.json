@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بیت لَخم تے نطوفہ دے مرد ہِک سو اَسّی تے اَٹھ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَخم"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "تے نطوفہ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اَسّی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:28.094260287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "کِویں نہ چھوڑی ڳئی تعریف آلی شہر، میݙی خوشی دا شہر!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "چھوڑی ڳئی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "تعریف آلی"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "میݙی خوشی دا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:11.745675145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ موشے نال تے اہرون نال الایا جو آکھے،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:13.856305940Z",
+  "model": "glm-5.3"
+}

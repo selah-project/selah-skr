@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے کاہن ݙیکھسی داغ ⟨את⟩ کوں، تے داغ ⟨את⟩ کوں ست ݙینہہ بند رکھسی۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "بند رکھسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:34.320547004Z",
+  "model": "glm-5.3"
+}

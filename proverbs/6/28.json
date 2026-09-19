@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یا بندہ انڳاراں اُتے ٹُرے تے اوندے پیر نہ بھن٘ڄن؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "انڳاراں"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "تے اوندے پیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "بھن٘ڄن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:03.763775953Z",
+  "model": "glm-5.3"
+}

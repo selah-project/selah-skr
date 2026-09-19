@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "ایلوہیم یہوداہ وِچ ڄاݨیا ڳیا؛ یسرایل وِچ اوندا ناں وݙا ہے۔",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ڄاݨیا ڳیا"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یسرایل وِچ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:47.840185015Z",
+  "model": "glm-5.3"
+}

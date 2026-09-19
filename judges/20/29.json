@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یسرایل گِبعہ دے دوالے چھاپے مارݨ آلے ⟨کوں⟩ رکھیے۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "چھاپے مارݨ آلے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے کول"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گِبعہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:33:53.045605903Z",
+  "model": "glm-5.3"
+}

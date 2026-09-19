@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "یاہوہ دا ݙر حکمت دی تعلیم ہے، تے عزت توں پہلے عاجزی ہے۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "دا ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعلیم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت دی"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے توں پہلے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:37.234696849Z",
+  "model": "glm-5.3"
+}

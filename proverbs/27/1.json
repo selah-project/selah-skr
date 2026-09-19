@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "مَچل دے ݙینہہ بارے فخر نہ کر، کیوں جو توں نہ ڄاݨسیں جو ݙینہہ کیا ڄݨسی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر کر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "مَچل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاݨسیں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄݨسی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:20.505636350Z",
+  "model": "glm-5.3"
+}

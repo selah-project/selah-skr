@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "پر مال دا پہلوڑا، جیڑھا یاہوہ کیتے پہلوڑا بݨے، بندہ ⟨את⟩ اوندے کوں پاک نہ کرے؛ چاہے ݙاند ہووے، چاہے بھیݙ — او یاہوہ دا ہے۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوڑا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "پہلوڑا بݨے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "مال وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پاک کرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اونڈے کوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بھیݙ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:26.502020878Z",
+  "model": "glm-5.3"
+}

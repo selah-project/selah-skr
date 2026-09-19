@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اوندا تیردان کھلی قبر وانگوں — او سبھے بہادر ہن۔",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "اوندا تیردان"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "قبر وانگوں"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کھلی"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:00.498104754Z",
+  "model": "glm-5.3"
+}

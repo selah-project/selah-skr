@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے او تحفہ اوندے اڳوں لنگھ ڳیا، تے او اُوں رات وِچ ڈیرے وِچ رات کٹیس۔",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "تے لنگھ ڳیا"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندے منہ توں"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او آپ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "رات کٹیس"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڈیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:31.117726353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے چالیہہ ݙینہہ دے انت تے نُوح بیڑی دی ⟨את⟩ کھڑکی کھولی جیڑھی اُوں بݨائی ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "دے انت تے"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کھولیس"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھڑکی"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "کھڑکی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "بیڑی دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائی ہئی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:18.563091988Z",
+  "model": "glm-5.3"
+}

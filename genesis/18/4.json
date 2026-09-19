@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تھوڑا پاݨی گھن آیا ونڄے، تے تُساں آپݨے پیر دھوو، تے رُکھ تلے ٹیک لاؤ۔",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "گھن آیا ونڄے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "تے دھوو"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "آپݨے پیر"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "تے ٹیک لاؤ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:26.751947586Z",
+  "model": "glm-5.3"
+}

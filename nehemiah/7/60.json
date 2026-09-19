@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سارے ہنتینیم تے شلومو دے نوکراں دے پُتر — ترے سو انتانوے ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "ہنتینیم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوکراں دے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "انتانوے"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:44.063137448Z",
+  "model": "glm-5.3"
+}

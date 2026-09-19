@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "بِلگہ دے گھر توں شَمّوع، شِمعیہ دے گھر توں یِہوناتن۔",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بِلگہ دے گھر توں"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شَمّوع"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "شِمعیہ دے گھر توں"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:37.540258223Z",
+  "model": "glm-5.3"
+}

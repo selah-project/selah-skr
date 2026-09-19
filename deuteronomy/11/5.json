@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے جو کجھ اوں بِیابان وِچ تُساں کیتے کیتا، ایتھاں تئیں جو تُساں ایں تھاں تئیں آئے۔",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو کجھ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کیتے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بِیابان وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "تُساں آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:54:11.650170027Z",
+  "model": "glm-5.3"
+}

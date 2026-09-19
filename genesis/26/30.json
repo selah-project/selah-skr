@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "اُوں انہاں کیتے ضیافت بݨائی، تے او کھادونے تے پیتونے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کیتے"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافت"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "کھادونے"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "پیتونے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:26.787856177Z",
+  "model": "glm-5.3"
+}

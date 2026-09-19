@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے او مُردیاں تے جِیوندیاں دے وچکار کھڑا تھیا، تے وبا رُک ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھیا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُردیاں"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے دے وچکار"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جِیوندیاں"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "تے رُک ڳئی"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "وبا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:07.043396580Z",
+  "model": "glm-5.3"
+}

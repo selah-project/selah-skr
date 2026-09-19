@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اوندے ہتھ تلے یہوخنان سردار، تے اوندے نال ݙو سو اَسّی ہزار۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے تلے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندے ہتھ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یہوخنان"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوندے نال"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "تے اَسّی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:51.512250387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے قہات دے پُتر: عمرام، یِتصہار، خِبرون تے عُزّیایل۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "تے یِتصہار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "تے خِبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "تے عُزّیایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:00.257112077Z",
+  "model": "glm-5.3"
+}

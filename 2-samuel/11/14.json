@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے صبح تھئی تاں داوِد یوآب کیتے ہِک چِٹھی لکھی، تے اوں کوں اُوریاہ دے ہتھ بھیڄیس۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "لکھیس"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "چِٹھی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄیس"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:54:48.399098657Z",
+  "model": "glm-5.3"
+}

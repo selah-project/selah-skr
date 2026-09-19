@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ادوم وِچ بِلع راج کیتا، بِعور دا پُتر، تے اوندی بستی دا ناں دِنہَباہ ہا۔",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ادوم وِچ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بِعور"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "اوندی بستی دا"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "دِنہَباہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:33.846929783Z",
+  "model": "glm-5.3"
+}

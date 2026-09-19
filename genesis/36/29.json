@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ایہے حوریاں دے سردار ہن: سردار لوطان، سردار شوبال، سردار تصبِعون، سردار عَناہ۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "دے سردار"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوریاں"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبال"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "تصبِعون"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:33.846388959Z",
+  "model": "glm-5.3"
+}

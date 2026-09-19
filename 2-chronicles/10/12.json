@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یروبعام تے سارا قوم تریجھے ݙینہہ رحبعام کول آئے، جیویں بادشاہ آکھ کے آکھیا ہا: “تریجھے ݙینہہ میݙے کول ولو۔”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "تریجھے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ولو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "تریجھے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:04.318528127Z",
+  "model": "glm-5.3"
+}

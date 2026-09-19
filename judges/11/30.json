@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یفتاح یاہوہ کیتے ہِک نذر منی تے آکھیس: “جے تُساں عمون دے پُتریں ⟨את⟩ بے شک میݙے ہتھ ݙیسو —”",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "نذر منی"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتاح"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "میݙے ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:31.411714087Z",
+  "model": "glm-5.3"
+}

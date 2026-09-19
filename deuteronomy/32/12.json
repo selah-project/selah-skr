@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "یاہوہ کلھا اونکوں راہ ݙکھلیندا ہا، تے اوندے نال کوئی اوپرا ایل کائناں ہا۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "اونکوں راہ ݙکھلیندا ہا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائناں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:33.408344111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اوں ⟨את⟩ دروازے دے منہ دی چوڑائی ماپیا — ݙاہ ہتھ، تے دروازے دی لمبائی تیرھاں ہتھ۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ماپیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازے دے منہ دی چوڑائی"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے دے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے دی"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تیرھاں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "تیرھاں"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:39.018027691Z",
+  "model": "glm-5.3"
+}

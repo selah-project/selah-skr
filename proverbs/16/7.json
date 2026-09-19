@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "جݙاں بندے دے رستے یاہوہ کوں بھاندے ہن، او اوندے دشمن نال وی صلح کر ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "بھانوݨ تے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "دے رستے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "اوندے دشمن"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "صلح کر ݙیندے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:24.453369493Z",
+  "model": "glm-5.3"
+}

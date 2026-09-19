@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے پُراݨے پہاڑاں دی چوٹی توں، تے ہمیشہ دے ٹٻیاں دے مِگد توں۔",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "تے چوٹی توں"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پُراݨے"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "تے مِگد توں"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹٻیاں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:11.175395577Z",
+  "model": "glm-5.3"
+}

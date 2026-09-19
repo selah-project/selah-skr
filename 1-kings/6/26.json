@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ہِک کروب دی اُچائی ݙاہ ہتھ ہئی، تے ایویں ⟨ہا⟩ ݙوجھا کروب۔",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "اُچائی"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "تے ایویں"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:25.117099133Z",
+  "model": "glm-5.3"
+}

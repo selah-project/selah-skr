@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یاہوہ موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:50.706242655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے یاہوہ موشے نال آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:58.448251510Z",
+  "model": "glm-5.3"
+}

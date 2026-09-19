@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "⟨تُساں⟩ اساکوں قومیں دے وِچ کُوڑھ تے ردّی بݨائے۔",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "کُوڑھ"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "تے ردّی"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "دے وِچ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:01.894754705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے انہاں کیتے انہاں دی وراثت وِچ بئر شبع، تے شبع، تے مولاداہ ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کیتے"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "انہاں دی وراثت وِچ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے شبع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "تے مولاداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:58.764040926Z",
+  "model": "glm-5.3"
+}

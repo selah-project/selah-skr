@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیوں جو خواب ٻہوں دھند دھندینے آندا ہے، تے مُوٹھے دی آواز ٻہوں ڳالھیں وِچ ہوندی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا ہے"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "دھند دھندی"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مُوٹھے دی"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ڳالھیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:16.842692053Z",
+  "model": "glm-5.3"
+}

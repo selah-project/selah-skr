@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے شعلبین تے ایلون تے یتلاہ،",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "شعلبین"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ایلون"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "یتلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:57.156672295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں غصے نال انہاں دا پِچھا کریسیں تے انہاں کوں یاہوہ دے اسماناں تلوں مِٹا ڈیسیں۔",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "توں پِچھا کریسیں"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصے نال"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "تے انہاں کوں مِٹا ڈیسیں"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تلے توں"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:25.414135273Z",
+  "model": "glm-5.3"
+}

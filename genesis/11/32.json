@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ترخ دیاں ݙینہواراں ݙو سو پنج سال تھیاں، تے ترخ حاران وِچ مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھیاں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہواراں"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ترخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے ݙو سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ترخ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "حاران وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:23.138655658Z",
+  "model": "glm-5.3"
+}

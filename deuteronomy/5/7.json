@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تُساں کیتے میݙے سامݨے ٻئے معبود نہ ہوسن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُساں کیتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبود"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میݙے سامݨے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:43.203654744Z",
+  "model": "glm-5.3"
+}

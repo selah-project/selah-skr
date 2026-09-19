@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے تُوں، اِنسان دا پُتر، تصور ⟨اُتے⟩ ہِک ماتمی نوحہ چا گھن۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "שא",
+      "gloss": "چا گھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تصور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمی نوحہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:37:37.647881231Z",
+  "model": "glm-5.3"
+}

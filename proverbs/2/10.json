@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو حکمت تہاݙے دل وِچ آسی، تے ڄاݨ تُہاݙی جان کوں مِٹھی لڳسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آسی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "تہاݙے دل وِچ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تُہاݙی جان کوں"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "مِٹھی لڳسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:58.121577111Z",
+  "model": "glm-5.3"
+}

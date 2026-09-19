@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "غصے نال ڈھک ݙتوس، اساکوں پِچھا کیتوس، مار ݙتوس، ترس نہ کیتوس۔",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ڈھک ݙتوس"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصے نال"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "اساکوں پِچھا کیتوس"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "مار ݙتوس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "ترس کیتوس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:47.395304344Z",
+  "model": "glm-5.3"
+}

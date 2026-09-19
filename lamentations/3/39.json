@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کِیوں جِیندا بندہ شکایت کریندا ہے، بندہ اپݨے گناہ ⟨دی سزا⟩ بارے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِیوں"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "شکایت کریندا ہے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندہ ⟨زور آلا⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "اپݨے گناہ ⟨دی سزا⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:36.842352977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "شوُول دے پُتر: علوان، مناحت، عیول، شِفی تے اونام؛ تے تصیبون دے پُتر: آیہ تے عانہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوُول"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "علوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "تے مناحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "تے عیول"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "شِفی"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "تے اونام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "تصیبون"
+    },
+    {
+      "surface": "איה",
+      "gloss": "آیہ"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "تے عانہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:55.437917614Z",
+  "model": "glm-5.3"
+}

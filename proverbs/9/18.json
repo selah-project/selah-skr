@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے او نہ ڄاݨدا جو رفایم اُتھاں ہن، شیول دیاں گہرائیاں وِچ اوندے سݙیل ہن۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "گہرائیاں وِچ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "اوندے سݙیل ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:18.348414893Z",
+  "model": "glm-5.3"
+}

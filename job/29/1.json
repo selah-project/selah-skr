@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے ایوب اپݨا مَشَل چاوَݨ ⟨ول⟩ پکڑیا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ول"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "چاوَݨ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اپݨا مَشَل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:29.228093146Z",
+  "model": "glm-5.3"
+}

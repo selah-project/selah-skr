@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 59,
+  "translation": "او شام دو ول ویندن، کُتیں وانگوں بھݙیندن، تے شہر ⟨دے گھمدن⟩۔",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "او ول ویندن"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "شام دو"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "بھݙیندن"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "کُتیں وانگوں"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "تے گھمدن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:19.783810290Z",
+  "model": "glm-5.3"
+}

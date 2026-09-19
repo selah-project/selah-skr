@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "کیوں جو کون ایلوہ ⟨ہے⟩ یاہوہ دے سوا؟ تے کون چٹان ⟨ہے⟩ ساݙے ایلوہیم دے سوا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "دے سوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "دے سوا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:14.677166494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے زِبنون پُتریاں دے ٹبر کِیتے سردار اِلیتصپان، پَرناخ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے … ٹبر کِیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دے"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زِبنون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اِلیتصپان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "پَرناخ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:51.225080513Z",
+  "model": "glm-5.3"
+}

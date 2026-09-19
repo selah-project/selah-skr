@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اُوں آپݨی کمان تتّی، تے میکوں تیر کیتے نشان بݨایس۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "تتّی"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "آپݨی کمان"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "میکوں قائم کیتس"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "تیر کیتے نشان وانگوں"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "تیر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:26.104410823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اتے مسکن دے ݙوجھے پاسے کیتے، اُتر آلے پاسے، اوں ویہہ تختے بݨائے۔",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "اتے … پاسے کیتے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:03:44.277621979Z",
+  "model": "glm-5.3"
+}

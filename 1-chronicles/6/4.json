@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "مراری دے پُتر: مَحلی تے مُوشی۔ تے ایہ لاوی دیاں خانداناں ہن، آپݨے پیوواں موجب۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "تے مُوشی"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خانداناں"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی دیاں"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "آپݨے پیوواں موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:00.257267974Z",
+  "model": "glm-5.3"
+}

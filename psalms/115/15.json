@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "تُساں یاہوہ کنوں برکت آلے ہیوے، جیں اسماناں تے زمین بݨائی۔",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "برکت آلے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کنوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨاوݨ آلا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:37.916193658Z",
+  "model": "glm-5.3"
+}

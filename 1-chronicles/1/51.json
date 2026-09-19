@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ہدد مر ڳیا۔ تے ادوم دے سردار تھئے: سردار تمنع، سردار علوا، سردار یتت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدد"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "دے سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "علوا"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "یتت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:23.826245432Z",
+  "model": "glm-5.3"
+}

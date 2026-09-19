@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "کلھا او ہے میݙی چٹان تے میݙی مُکتی، میݙا اُچا ٹکاݨاں — ٻہوں میں نہ ہلاں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "میݙی چٹان"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "تے میݙی مُکتی"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "میݙا اُچا ٹکاݨاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "میں ہلاں"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:10.820571663Z",
+  "model": "glm-5.3"
+}

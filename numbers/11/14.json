@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "میں کلہا نہ سڳدا سارے ⟨את⟩ ایں قوم کوں چاوݨ، کیوں جو او میں کنوں بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سڳدا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چاوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے ایں قوم کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:35:20.315169080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "پگھلائے ہوئے دیوتاواں دے ایلوہیم ⟨توں⟩ نہ بݨویں۔",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "دیوتاواں دے"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "پگھلائے ہوئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بݨویں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨توں⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T15:02:03.361037885Z",
+  "model": "glm-5.3"
+}

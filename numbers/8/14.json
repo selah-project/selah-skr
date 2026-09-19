@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تُوں ⟨את⟩ لوییم کوں بِنی اِسرائیل دے وِچوں وکھرا کریسی، تے لوییم میݙے تھی سن۔",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "وکھرا کریسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوییم"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوییم"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "دے وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تھی سن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوییم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:25.656863204Z",
+  "model": "glm-5.3"
+}

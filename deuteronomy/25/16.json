@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "کیوں جو یاہوہ تیݙے ایلوہیم کوں ایہ سبھ کرݨ آلا گھننا ہے — ہر اوہ جیہڑا ناانصافی کریندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "گھننا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙے ایلوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ آلا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ آلا"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ناانصافی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:36.964091367Z",
+  "model": "glm-5.3"
+}

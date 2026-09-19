@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "میݙا ایلوہیم، میکوں بھلے کیتے یاد رکھ، سبھ کجھ جو میں ایں قوم کیتے کیتے۔",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میݙا ایلوہیم"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بھلے کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:30:31.443924751Z",
+  "model": "glm-5.3"
+}

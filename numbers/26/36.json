@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے ایہ شُوتِلاخ دے پُتر ہن: عِیران توں عِیرانی ٹبر۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شُوتِلاخ دے"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "عِیران توں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "عِیرانی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:12.980054058Z",
+  "model": "glm-5.3"
+}

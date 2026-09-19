@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یہوناتن دا پُتر مریو-بعال ہا، تے مریو-بعال ⟨את⟩ میکاہ کوں جݨایا۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے … دا پُتر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مریو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-بعال"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "تے مریو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-بعال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکاہ کوں"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:52.673249312Z",
+  "model": "glm-5.3"
+}

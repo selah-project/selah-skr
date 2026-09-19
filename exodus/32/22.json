@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "اہرون آکھیا: “میݙے ادونای دا غصہ نہ بھڑے؛ تُوں ⟨את⟩ قوم کوں ڄاݨدے، کیوں جو او برائی وِچ ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "بھڑے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:46.690939500Z",
+  "model": "glm-5.3"
+}

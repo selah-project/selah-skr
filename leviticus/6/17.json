@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:11.325773687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے تصفنیاہ کاہنے ⟨את⟩ اِیں کتاب کوں یِرمیاہوہ نبی دے کناں وِچ پڑھیا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "پڑھیا"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تصفنیاہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِیں کتاب"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کناں وِچ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہوہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:23.138645124Z",
+  "model": "glm-5.3"
+}

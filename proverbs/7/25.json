@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اوندے دھریاں دو تیݙا دِل نہ ولسی، اوندے رستیاں وِچ نہ رل۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "ولسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "اوندے دھریاں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دِل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "رل"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "اوندے رستیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:36.295973659Z",
+  "model": "glm-5.3"
+}

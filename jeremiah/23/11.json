@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کیوں جو نبی وی، کاہن وی پلیت تھی ڳئے؛ میݙے گھر وِچ وی میں اوہناں دی برائی ݙٹھی — یاہوہ دا آکھیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "پلیت تھی ڳئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "میݙے گھر وِچ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں ݙٹھی"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "اوہناں دی برائی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:09:15.970669722Z",
+  "model": "glm-5.3"
+}

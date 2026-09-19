@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے تُساں میݙے کیتے قوم تھیسو، تے میں تُہاݙے کیتے ایلوہیم تھیساں۔",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "تُساں تھیسو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "تھیساں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:36.275311032Z",
+  "model": "glm-5.3"
+}

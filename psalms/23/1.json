@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "داوِد دا مز مور۔ یاہوہ میݙا چوپاہاں ہے — میں کُجھ کائنی کھٹیندا۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "میݙا چوپاہاں ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "کُجھ کھٹیندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:26.676905694Z",
+  "model": "glm-5.3"
+}

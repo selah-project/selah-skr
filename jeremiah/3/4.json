@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "بھلا ہُݨ توں میکوں سݙ نہ مریں؟ «میݙا پیو، تئیں نوجوانی دا یار ہیں۔»",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "مעתה",
+      "gloss": "ہُݨ توں"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "سݙ نہ مریں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙا پیو"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "یار"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نوجوانی دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تئیں ہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:58:53.223953207Z",
+  "model": "glm-5.3"
+}

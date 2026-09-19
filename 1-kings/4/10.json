@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "خیسِد دا پُتر اَروُبوث وِچ؛ اونکوں سوکوہ تے حِیپِر دا سارا دیس ہئی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد دا"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "اَروُبوث وِچ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حِیپِر دا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:54.902735343Z",
+  "model": "glm-5.3"
+}

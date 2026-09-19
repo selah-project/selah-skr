@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 148,
+  "translation": "او یاہوہ دے ⟨את⟩ ناں دی تعریف کرن، کیوں جو اُوں حکم ݙتا تے او پیدا کیتے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دے ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "تے پیدا کیتے ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:28.439650596Z",
+  "model": "glm-5.3"
+}

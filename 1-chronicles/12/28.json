@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یِہویدا عہ دا سردار، اَوراہام نہ — اہرون کیتے؛ اُوندے نال ترے ہزار ست سو۔",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "تے یِہویدا"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کیتے"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "اُوندے نال"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:05.856319034Z",
+  "model": "glm-5.3"
+}

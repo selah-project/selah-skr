@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راستباز دا کم حیاتی کیتے ہے، تے بدکار دی کَمائی گناہ کیتے ہے۔",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "حیاتی کیتے"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "کَمائی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:54.812703423Z",
+  "model": "glm-5.3"
+}

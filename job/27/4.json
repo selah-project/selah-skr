@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "میݙے ہوٹھ ظلم نہ ٻولسن، تے میݙی زبان فریب نہ الیسے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ٻولسن"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میݙے ہوٹھ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "تے میݙی زبان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "الیسی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:29.936322075Z",
+  "model": "glm-5.3"
+}

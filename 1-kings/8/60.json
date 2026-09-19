@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تاں جو زمین دیاں ساریاں قوماں ڄاݨن جو یاہوہ ئی ایلوہیم ہے — اوندے توں ٻیا کوئی کائنی۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا کوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:10:29.729035678Z",
+  "model": "glm-5.3"
+}

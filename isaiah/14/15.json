@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "پر تُوں اِی شیول وِچ لَہایا ویسیں، گڑھے دیاں نیہاں تئیں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "لَہایا ویسیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "نیہاں"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڑھے دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:32.504850043Z",
+  "model": "glm-5.3"
+}

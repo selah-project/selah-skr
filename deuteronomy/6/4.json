@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "سُݨ، اے اِسرائیل: یاہوہ ساݙا ایلوہیم — یاہوہ ہِک ہِے۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:24.924418261Z",
+  "model": "glm-5.3"
+}

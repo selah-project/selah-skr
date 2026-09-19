@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ہر کپڑا، تے چمڑے دا ہر برتن، تے ٻکریاں دے والیں دی ہر بݨاوٹ، تے لکڑی دا ہر برتن پاک کریسو۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے دا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "بݨاوٹ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں دے والیں دی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑی دا"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاک کریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:36.375049709Z",
+  "model": "glm-5.3"
+}

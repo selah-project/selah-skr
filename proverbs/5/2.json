@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تاں جو تدبیراں نبھاوےں، تے دانش تیݙے ہونٹھاں نال رکھی رہے۔",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "تاں جو نبھاوےں"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "تدبیراں"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے دانش"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تیݙے ہونٹھاں نال"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "رکھی رہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:10.805933818Z",
+  "model": "glm-5.3"
+}

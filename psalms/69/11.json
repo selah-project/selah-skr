@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "تے میں اپݨی جان دے روزے وِچ رووݨ لڳا، تے او میݙی کیتے ذلت بݨ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "تے میں رووݨ لڳا"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "روزے وِچ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے بݨ ڳئی"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ذلت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:05.442771785Z",
+  "model": "glm-5.3"
+}

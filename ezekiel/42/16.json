@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "ناپ دی قنبہ نال اوں پوادھ ⟨پاسہ⟩ ناپیا — پنج ہتھ ⟨ہک ہتھ، قنباں وِچ⟩، ناپ دی قنبہ نال، چوپھیر۔",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ناپیا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قنبہ نال"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ دی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قنبیاں"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قنبہ نال"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ دی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوپھیر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:54.045274715Z",
+  "model": "glm-5.3"
+}

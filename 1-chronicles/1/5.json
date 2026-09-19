@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یفت دے پُتر: گومر، تے مگُوگ، تے مَدای، تے یاوان، تے توبل، تے مِشیخ، تے تیراس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یفت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "تے مگُوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "تے مَدای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "تے یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "تے توبل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "تے مِشیخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "تے تیراس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:03.466583329Z",
+  "model": "glm-5.3"
+}

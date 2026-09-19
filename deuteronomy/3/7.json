@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ساری ڈنگر تے شہراں دا مال غنیمت اساں آپ کیتے لُٹ گھدا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "تے مال غنیمت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہراں دا"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "لُٹ گھدا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:07.523320064Z",
+  "model": "glm-5.3"
+}

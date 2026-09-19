@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "میں، میں آپ یاہوہ ہاں، تے میݙے توں سوا کوئی بچاوݨ ہار کائنی۔",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "میݙے توں سوا"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "بچاوݨ ہار"
+    }
+  ],
+  "timestamp": "2026-09-19T17:47:38.723298447Z",
+  "model": "glm-5.3"
+}

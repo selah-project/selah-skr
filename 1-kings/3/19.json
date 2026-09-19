@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ایں تریمت دا پُتر رات کوں مر ڳیا، جݙاں او اوندے اُتے سُتی ہئی۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "سُتی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:04:39.882772197Z",
+  "model": "glm-5.3"
+}

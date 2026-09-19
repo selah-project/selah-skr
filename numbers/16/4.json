@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے موشے سُݨیا، تے آپݨے مُکھ اُتے ڈھہہ پیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُݨیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "تے ڈھہہ پیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آپݨے مُکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:44.947334905Z",
+  "model": "glm-5.3"
+}

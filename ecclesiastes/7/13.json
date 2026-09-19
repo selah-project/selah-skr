@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایلوہیم دا کم ⟨את⟩ ݙیکھ — کیوں جو کہڑا سڳسی ⟨את⟩ اوہ سِدھا کرݨ، جیڑھا اوں وِنگایا ہے؟",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کم"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کہڑا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سڳسی"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "سِدھا کرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ جیڑھا اوں وِنگایا ہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "اوں وِنگایا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:05.192613045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "اَوِن ⟨دے⟩ نوجوان تے پی-بِسِت دے تلوار نال ڈھہسِن، تے اے شہر قید وِچ ویسن۔",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "און",
+      "gloss": "اَوِن"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "تے پی"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "بِسِت"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈھہسِن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے اے"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:01.910794423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاہوہ ولا میکوں ٻیا آکھیا، ایہ آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہ آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:35:45.021668723Z",
+  "model": "glm-5.3"
+}

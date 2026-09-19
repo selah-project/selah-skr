@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اگر او ہِک ہزار ورھیاں ݙو واری جِیوے، تے چنڳائی نہ ݙٹھی — بھلا کیا سارے ہِکے تھاں دو نہ ویندے؟",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "تے اگر"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "جِیوے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورھیاں"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ݙو واری"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "تے چنڳائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙٹھی"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "بھلا کیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِکے"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:26.789391263Z",
+  "model": "glm-5.3"
+}

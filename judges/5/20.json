@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اسماناں توں لڑیے، تارے اپݨیاں پٹڑیاں توں سسرا نال لڑیے۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "لڑیے"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "تارے"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "اپݨیاں پٹڑیاں توں"
+    },
+    {
+      "surface": "نלחמו",
+      "gloss": "لڑیے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سسرا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:23:30.919992032Z",
+  "model": "glm-5.3"
+}

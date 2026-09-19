@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "صیہون توں، سوہݨپ دی پوریکتا توں، ایلوہیم چمکیا۔",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "صیہون توں"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "پوریکتا توں"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "سوہݨپ دی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "چمکیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:36.405622705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ہتھ ہتھ نال، برے ⟨کوں⟩ مُاف نہ تھیسی، پر نیکاں دی نسل بچ ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "مُاف تھیسی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "پر نسل"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکاں دی"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "بچ ویندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:47.992959456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے سارا جسم ڄاݨسی جو میں یاہوہ ہاں جیں میݙی تلوار اپݨے میان توں کڈھی ہے — او ولا نہ ولسی۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے ڄاݨسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "کڈھی ہے"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میݙی تلوار"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "اپݨے میان توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ولسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:33:11.866062452Z",
+  "model": "glm-5.3"
+}

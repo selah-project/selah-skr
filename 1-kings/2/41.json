@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 2:41",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شلومو کوں ݙسیا ڳیا جو شِمعی یروشلایم توں گت ڳیا ہا تے ول آیا۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسیا ڳیا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڳیا ہا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "یروشلایم توں"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ول آیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:23.005957253Z",
+  "model": "glm-5.3"
+}

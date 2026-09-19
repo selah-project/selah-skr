@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اتے توں آپݨے کیتے ہِک ڈھیر بݨایا، اتے ہر ہک چوک وِچ آپݨے کیتے ہِک اُچی جاہ بݨائی۔",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "גב",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "بݨائی"
+    },
+    {
+      "surface": "لך",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "رמה",
+      "gloss": "اُچی جاہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر ہک"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "چوک وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:00.384805264Z",
+  "model": "glm-5.3"
+}

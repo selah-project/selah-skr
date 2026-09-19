@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "کیوں جو جنگل دا ہر جانور میݙا ہے، تے ہزار پہاڑیاں اُتے ڈنگر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل دا"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "پہاڑیاں اُتے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:41.594805354Z",
+  "model": "glm-5.3"
+}

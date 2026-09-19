@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "میں راستی دے رستے وِچ ٹُردی ہاں، انصاف دے رستیاں دے وچکار۔",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی دے"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "میں ٹُردی ہاں"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:18.513150656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تے اُں ݙینہہ نسیح اپݨے کیتے تے سارے ملک دے لوکاں کیتے ہِک وِچھا گناہ دی قربانی طور تے ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "نسیح"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ تے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُں"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اپݨے کیتے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک دے"
+    },
+    {
+      "surface": "פר",
+      "gloss": "وِچھا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:21.322591763Z",
+  "model": "glm-5.3"
+}

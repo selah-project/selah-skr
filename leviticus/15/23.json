@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے جے اوہ مسکن اُتے ہووے، یا اُوں برتݨ اُتے جیندے اُتے اوہ ٻیٹھی ہووے، اوندے لڳݨ تے اوہ نجس تھیسی شام تئیں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "برتݨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے اُتے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ٻیٹھی ہووے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "لڳݨ تے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس تھیسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:51.804765246Z",
+  "model": "glm-5.3"
+}

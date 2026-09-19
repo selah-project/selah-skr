@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے بادشاہ دے دروازے دے اڳوں تئیں آ ڳیا، کیوں جو بادشاہ دے دروازے وِچ ساک پا کے آوݨ کہیں کوں جائز کائنی ہا۔",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "تے آ ڳیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "پا کے"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ساک"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:12.361244896Z",
+  "model": "glm-5.3"
+}

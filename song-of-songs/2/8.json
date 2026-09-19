@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میݙے محبوب دی آواز! ݙیکھو، ایہ آندا پئے — پہاڑاں اُتے ٹپ ماریندا، ٹبیاں اُتے اُچھلدا۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میݙے محبوب"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا پئے"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ٹپ ماریندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "اُچھلدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹبیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:21.817476879Z",
+  "model": "glm-5.3"
+}

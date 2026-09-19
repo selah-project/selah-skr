@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "جݙاں تُوں کہیں شہر دو جنگ کرݨ کیتے ویندیں، تاں اُوں کوں سلامتی دا سݙ ݙیسیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تُوں نیڑے ویندیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "جنگ کرݨ کیتے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُوندے نال"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "تاں سݙ ݙیسیں"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اُوں کوں"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلامتی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:58.550148409Z",
+  "model": "glm-5.3"
+}

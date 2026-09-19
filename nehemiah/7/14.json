@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "زکّای ⟨دے⟩ پُتراں دی ڳݨتری ست سو سِٹھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زکّای"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سِٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:24.069846631Z",
+  "model": "glm-5.3"
+}

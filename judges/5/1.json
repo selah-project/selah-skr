@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تݙاں دبورہ تے بارق، ابینوام دا پُتر، اُوں ݙینہہ ڳاوݨ ڳایا، آکھݨ لئی:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "تݙاں ڳاوݨ ڳایا"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "دبورہ"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "تے بارق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ابینوام"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لئی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:23:51.195466416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ⟨את⟩ ہر کُوئی کاں، اپݨی جنس دے موجب۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کُوئی کاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کاں"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "اپݨی جنس دے موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:21.445270585Z",
+  "model": "glm-5.3"
+}

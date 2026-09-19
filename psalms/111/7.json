@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 111,
+  "translation": "اوندے ہتھ دے کم سچ تے انصاف ⟨ہن⟩؛ اوندے سارے حکم پکے ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ہتھ دے"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "پکے ⟨ہن⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "اوندے حکم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:00.874367617Z",
+  "model": "glm-5.3"
+}

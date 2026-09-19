@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "موآب دے سردار اُٹھے تے بالاق کول ڳئے تے آکھیا: “بِلعام ساݙے نال ونڄݨ توں منع کیتے۔”",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "اُٹھے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ڳئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "منع کیتے"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ونڄݨ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ساݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:03.050065475Z",
+  "model": "glm-5.3"
+}

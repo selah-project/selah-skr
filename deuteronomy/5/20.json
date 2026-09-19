@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے تُساں آپݨے ہمسائے خلاف کوڑی گواہی نہ ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب ݙیوو"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "آپݨے ہمسائے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "کوڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:12.296080492Z",
+  "model": "glm-5.3"
+}

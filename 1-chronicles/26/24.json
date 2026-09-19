@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے شِبُوایل، موشے دے پُتر گِرشُوم دا پُتر، خزانیاں اُتے سردار ہا۔",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "تے شِبُوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "دا پُتر"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرشُوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزانیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:19.272201527Z",
+  "model": "glm-5.3"
+}

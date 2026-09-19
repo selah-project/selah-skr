@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے میں ⟨את⟩ زمین کوں اجاڑ ݙیساں، کیوں جو او غداری کیتی — ادونای یاہوہ دا آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے میں بݨیساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین کوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "اجڑی ہوئی"
+    },
+    {
+      "surface": "יען",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "غداری کیتی او"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "غداری"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:25.599706755Z",
+  "model": "glm-5.3"
+}

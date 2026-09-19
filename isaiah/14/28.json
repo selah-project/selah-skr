@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "اوں سال وِچ جݙاں بادشاہ اَخاز مریا، ایہ بار آیا۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "اوں سال وِچ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مریا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ایہ بار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:39.439843108Z",
+  "model": "glm-5.3"
+}

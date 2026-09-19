@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 5:11",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے میں تیݙے ہتھ توں جادو کٹیساں تے نجومی تیݙے کیتے نہ رہسن۔",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "تے میں کٹیساں"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "جادو"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیݙے ہتھ توں"
+    },
+    {
+      "surface": "ומעוננים",
+      "gloss": "تے نجومی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رہسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:56:29.888708528Z",
+  "model": "glm-5.3"
+}

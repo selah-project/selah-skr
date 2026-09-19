@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے موشے آکھیا: “میں ہُݨ ہِک پاسے تھی ونجاں تے ایہ وݙا نظارہ ⟨את⟩ ݙیکھاں جو جھاڑی سڑدی کیوں نہ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ہِک پاسے تھی ونجاں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "تے ݙیکھاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نظارہ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "نظارہ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "سڑدی"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "جھاڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:27.041371012Z",
+  "model": "glm-5.3"
+}

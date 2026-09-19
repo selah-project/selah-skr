@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "غم ہاسے توں چنڳا ہے، کیوں جو چہرے دی اداسی نال دل چنڳا تھی ویندے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غم"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ہاسے توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "اداسی نال"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرے دی"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چنڳا تھی ویندے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.308288342Z",
+  "model": "glm-5.3"
+}

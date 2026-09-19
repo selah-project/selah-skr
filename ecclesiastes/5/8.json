@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے زمین دا فائدہ ہر شے وِچ ⟨ہے⟩؛ بادشاہ ہِک کھیت دے خدمت گار ہے۔",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "تے فائدہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر شے وِچ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "کھیت دے"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "خدمت گار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:35.456913023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "اُسی ݙینہہ اَوراہام دا ختنہ تھیا، تے اِشماعیل اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "اُسی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "ختنہ تھیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "تے اِشماعیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:21:16.194022838Z",
+  "model": "glm-5.3"
+}

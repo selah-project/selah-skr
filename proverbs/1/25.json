@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے تُساں میݙی ساری صلاح کوں رد کیتا، تے میݙی تنبیہ کوں نہ منیا۔",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "رد کیتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "میݙی صلاح"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "تے میݙی تنبیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "منیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:11.175837449Z",
+  "model": "glm-5.3"
+}

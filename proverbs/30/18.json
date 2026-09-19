@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ترے میݙے کولوں اوپرے تھیاں، تے چارہے جیہڑے میں نہ ڄاتے۔",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "اوپرے تھیاں"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میݙے کولوں"
+    },
+    {
+      "surface": "وארבע",
+      "gloss": "تے چارہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ڄاتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:49.499302611Z",
+  "model": "glm-5.3"
+}

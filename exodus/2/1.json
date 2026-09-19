@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے لاوی دے گھر دا ہِک بندہ ڳیا، تے لاوی دی ہِک دھی ⟨את⟩ گھدس۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر دا"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھدس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوی دی ہِک دھی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:25.976081891Z",
+  "model": "glm-5.3"
+}

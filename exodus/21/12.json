@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "جیہڑا کہیں بندے کوں مارے تے او مر ونڄے، او یقیناً موت ماریا ویسی۔",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "جیہڑا مارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کہیں بندے کوں"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "تے او مر ونڄے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:28.933461299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "بے شک ایل فضول ڳالھ نہ سُݨسی، تے شدّای اوندے اُتے نظر نہ رکھسی۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "فضول ڳالھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "تے شدّای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "نظر رکھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:30.544345911Z",
+  "model": "glm-5.3"
+}

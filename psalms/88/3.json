@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 88,
+  "translation": "میݙی دعا تیݙے اڳوں آوے، اپݨا کن میݙے ہائیں دو جُھکا۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیݙے اڳوں"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دعا"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "جُھکا"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اپݨا کن"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "میݙے ہائیں دو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:13.908355966Z",
+  "model": "glm-5.3"
+}

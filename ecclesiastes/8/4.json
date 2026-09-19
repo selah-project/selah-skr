@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "جتھاں بادشاہ دی ڳالھ ہوندی ہے، اُتھاں اقتدار ہے، تے کون اوں کوں آکھسی: “توں کیا کریندا ہیں؟”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دی"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "اقتدار"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریندا ہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:33.832120415Z",
+  "model": "glm-5.3"
+}

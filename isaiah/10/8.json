@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "کیوں جو او آکھے: “کیا میݙے سردار سارے کٹھے بادشاہ کائنی؟”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا … کائنی"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "میݙے سردار"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "کٹھے"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:43.080170831Z",
+  "model": "glm-5.3"
+}

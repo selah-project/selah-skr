@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یہوشوع قوم دے رَڑھدے ہوئے ⟨את⟩ آواز سُݨیا، تے موشے کوں آکھیس: “جنگ دا آواز پڑاؤ وِچ ہے۔”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم دا آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "رَڑھدے ہوئے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "پڑاؤ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:39.161579884Z",
+  "model": "glm-5.3"
+}

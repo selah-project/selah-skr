@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اونکوں ٹکڑے ٹکڑے کرو، تے اُوندے اُتے تیل ڈال — ایہ قربانی ہے۔",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ٹکڑے ٹکڑے کر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ٹکڑے"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ٹکڑے"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "تے ڈال"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہ ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:39.839981161Z",
+  "model": "glm-5.3"
+}

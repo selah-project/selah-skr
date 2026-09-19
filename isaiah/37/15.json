@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے خِزقیاہو یاہوہ اڳوں دعا کیتی، آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "تے دعا کیتی"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:46:11.054070448Z",
+  "model": "glm-5.3"
+}

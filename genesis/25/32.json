@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے عیسو آکھیا: “ݙیکھ، میں مرݨ وینداں، تے اے پہلوں دا حق میکوں کیا؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ویندا ہاں"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرݨ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "پہلوں دا حق"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:54.719891720Z",
+  "model": "glm-5.3"
+}

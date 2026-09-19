@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے زمین کوں ݙیکھو جو او کیہ ہے، تے ⟨את⟩ اُو قوم کوں جو اُوندے اُتے رہندی ہے — بھلا او مضبوط ہے یا کمزور، گھٹ ہِن یا ڈھیر۔",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ݙیکھسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "رہندی ہوئی"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "گھٹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ڈھیر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:35:01.467429374Z",
+  "model": "glm-5.3"
+}

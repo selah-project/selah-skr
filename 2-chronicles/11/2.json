@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یاہوہ دا ڳالھ شمعیاہو کولھ آئی — او ایلوہیم دا بندہ ہا — آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شمعیاہو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:25:00.757198673Z",
+  "model": "glm-5.3"
+}

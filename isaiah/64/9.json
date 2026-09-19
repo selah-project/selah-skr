@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 64,
+  "translation": "تُہاݙے پاک شہر بن چا کر ڳئے، صیون بن بݨ ڳئی، یروشلایم ویرانی۔",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تُہاݙے پاک"
+    },
+    {
+      "surface": "היו",
+      "gloss": "تھی ڳئے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بݨ ڳئی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:56:41.904227024Z",
+  "model": "glm-5.3"
+}

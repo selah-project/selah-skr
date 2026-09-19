@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "جے او دیوار ہے، تاں اساں اُتے چاندی دی برج بݨاؤں؛ تے جے او دروازہ ہے، تاں اُتے ارج دے تختے لا کے بند رکھوں۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "بݨاؤں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "برج"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "بند رکھوں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ارج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:37.136439975Z",
+  "model": "glm-5.3"
+}

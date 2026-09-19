@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اوں ⟨את⟩ میز کوں ملاقات دے خیمے وِچ، مسکن دے پاسے اُترے پاسو، پردے توں ٻاہر رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دی"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "اُترے پاسو"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "پردے توں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:43.213475405Z",
+  "model": "glm-5.3"
+}

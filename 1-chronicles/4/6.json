@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے نَعرہ اوں کوں ⟨את⟩ اَخُزّام، ⟨ואת⟩ خِیفِر، ⟨ואת⟩ تِیمنی تے ⟨ואת⟩ اَخشتری ڄنے؛ اے نَعرہ دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "تے ڄنے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نَعرہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَخُزّام"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "اَخُزّام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "خِیفِر"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "خِیفِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "تِیمنی"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "تِیمنی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اَخشتری"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "اَخشتری"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نَعرہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.713202133Z",
+  "model": "glm-5.3"
+}

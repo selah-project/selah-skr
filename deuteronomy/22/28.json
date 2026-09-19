@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جے کوئی بندہ کوئی کنواری نینگر ڳولے جیہڑی منگنی نہ تھئی ہووے، تے اوں کوں پکڑے تے اوں نال سِتے، تے اوہ پکڑیے ونڄن،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ڳولے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نینگر"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "کنواری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "منگنی تھئی ہووے"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "پکڑے"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "سِتے"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اوں نال"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "پکڑیے ونڄن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:07.800828812Z",
+  "model": "glm-5.3"
+}

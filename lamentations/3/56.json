@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میݙی آواز سُنی ہئی؛ اپݨا کن نہ لُکا میݙے ساہ کیتے، میݙی پُکار کیتے۔",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُنی ہئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלم",
+      "gloss": "لُکا"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اپݨا کن"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "میݙے ساہ کیتے"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "میݙی پُکار کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.899219749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے پرعوہ یوسیف کوں آکھیا: “میݙے خاب وِچ ݙیکھو، میں دریا دے کنارے اُتے کھڑا ہا۔”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسیف"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "میݙے خاب وِچ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ݙیکھو میں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑا ہا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریا دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:33.029622484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "اُبھا تے لَما توں بݨائے، تُور تے حرمون تیݙے ناں نال شادمانی کرِن ۔",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "اُبھا"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "تے لَما"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تُور"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "تے حرمون"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "تیݙے ناں نال"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "شادمانی کرِن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:24.392256806Z",
+  "model": "glm-5.3"
+}

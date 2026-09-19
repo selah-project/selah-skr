@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "گلی وِچ اوندے کونے نال لنگھدا ہویا، تے اوندے گھر دے رستے ٹُردا ویندا۔",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "لنگھدا ہویا"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "گلی وِچ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "اوندے کونے"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اوندے گھر"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ٹُردا ویندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.993475149Z",
+  "model": "glm-5.3"
+}

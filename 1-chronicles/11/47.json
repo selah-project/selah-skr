@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اِلیایل، تے عووید، تے یَعسیایل ہَمِتصوبایہ۔",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "اِلیایل"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "تے عووید"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "تے یَعسیایل"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "ہَمِتصوبایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:39.356088874Z",
+  "model": "glm-5.3"
+}

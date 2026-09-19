@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے ہُݨ تاں وݙائی تے اُچائی پا، تے جلال تے شان ⟨پاوݨ⟩ کوں چا。",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "چا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تاں"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "وݙائی"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "تے اُچائی"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شان"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "پا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:18.005265996Z",
+  "model": "glm-5.3"
+}

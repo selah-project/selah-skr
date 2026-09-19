@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے اِیں کیتے نہ جو اساں رہݨ کیتے گھر بݨاؤں، تے نہ انگوری، نہ کھیت تے نہ بیج ساݙا ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "اِیں کیتے نہ جو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بݨاؤں"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "ساݙے رہݨ کیتے"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "تے انگوری"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "تے کھیت"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "تے بیج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:14:42.657972743Z",
+  "model": "glm-5.3"
+}

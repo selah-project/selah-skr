@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ہِک نسل ویندی رہندی ہے تے ہِک نسل آندی ہے، تے زمین ہمیشہ کھڑی رہندی ہے۔",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ہِک نسل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ویندی رہندی ہے"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "تے ہِک نسل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندی ہے"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "کھڑی رہندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:20.323034521Z",
+  "model": "glm-5.3"
+}

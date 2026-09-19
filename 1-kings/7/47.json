@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے شلومو ⟨את⟩ سارے برتن اِیویں چھوڑ ݙتے جو ٻہوں ٻہوں ودھ ہن؛ پیتل دا وزن نہ ڳݨیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "چھوڑ ݙتا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ودھ توں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "ڳݨیا ڳیا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "پیتل دا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:06:31.748010643Z",
+  "model": "glm-5.3"
+}

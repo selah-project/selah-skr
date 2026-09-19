@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "لَوی دے پُتر: گَرشون، قِہات تے مَراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لَوی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گَرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "مَراری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:48.164932396Z",
+  "model": "glm-5.3"
+}

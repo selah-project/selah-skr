@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ دا قیطاس میݙے کول ݙوجھی واری آیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … آیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قیطاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھی واری"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:59.970712625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو او بدی دا روٹی کھاندے ہن، تے زیادتیاں دا شراب پیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "کھاندے ہن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "زیادتیاں"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پیندے ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.456875639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "خَریف، عَناتوت، نوُبای۔",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "خَریف"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عَناتوت"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "نوُبای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:55.883705945Z",
+  "model": "glm-5.3"
+}

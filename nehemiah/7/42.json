@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "خارم دے پُتر ہِک ہزار سترہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:40.373766609Z",
+  "model": "glm-5.3"
+}

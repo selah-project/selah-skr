@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے موشے گاد دے قبیلے کوں — گاد دی اولاد کوں، اُنہاں دے ٹٻریاں کیتے — ݙتی۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "اولاد کوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اُنہاں دے ٹٻریاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:13:18.103943916Z",
+  "model": "glm-5.3"
+}

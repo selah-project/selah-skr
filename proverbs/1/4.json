@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پتےآں کوں ہوشیاری ݙیوݨ کیتے، نینگر کوں ڄاݨ تے سوچ-سمجھ۔",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "ݙیوݨ کیتے"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "پتےآں کوں"
+    },
+    {
+      "surface": "ערمה",
+      "gloss": "ہوشیاری"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نینگر کوں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "تے سوچ-سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:45.887900258Z",
+  "model": "glm-5.3"
+}

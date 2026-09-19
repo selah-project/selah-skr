@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "کِویں کٹیا ڳیا تے ترٹ ڳیا ہتھوڑا، ساری زمین دا! کِویں بابل قوماں وِچ ویرانی بݨ ڳئی!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "کٹیا ڳیا"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "تے ترٹ ڳیا"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "ہتھوڑا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بݨ ڳئی"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:56.674552486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "مُنڈھ وِچ ایلوہیم ⟨את⟩ اسماناں تے ⟨את⟩ زمین کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "مُنڈھ وِچ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسماناں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T13:50:00.655579954Z",
+  "model": "glm-5.3"
+}

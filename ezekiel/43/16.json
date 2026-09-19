@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے ارایل ٻارہاں ہاتھ لمبا، ٻارہاں ہاتھ چوڑا، چارے پاسے چوکور۔",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "تے ارایل"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ہاتھ لمبا"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارہاں"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ہاتھ چوڑا"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "چوکور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چارے"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:46.320609604Z",
+  "model": "glm-5.3"
+}

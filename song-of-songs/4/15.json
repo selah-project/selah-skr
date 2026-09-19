@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "باغاں دا چشمہ، جیوندے پاݨی دی کھوہ، تے لُبنان توں وہندے ہوئے۔",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "باغاں دا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کھوہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیوندا"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "وہندے ہوئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لُبنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:02.492197834Z",
+  "model": "glm-5.3"
+}

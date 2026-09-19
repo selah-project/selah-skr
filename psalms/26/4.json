@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "میں کوڑھے بندیاں نال نہ ٻیٹھا، تے لُکݨ آلیاں نال نہ ویساں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "میں ٻیٹھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "کوڑھے"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے … نال"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "لُکݨ آلیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ویساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:40.011015319Z",
+  "model": "glm-5.3"
+}

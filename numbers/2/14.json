@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے گاد دا قبیلہ، تے گاد دے پُتراں دا سردار ایلیسف ہوسی، رعوایل دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "تے قبیلہ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں دا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ایلیسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:45.408747149Z",
+  "model": "glm-5.3"
+}

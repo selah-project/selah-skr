@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 77,
+  "translation": "تُوں اپݨے لوکاں کوں ریڑھ وانگوں موشے تے اہرون دے ہتھ ٹوریا۔",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "ٹوریا"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ریڑھ وانگوں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپݨے لوکاں کوں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:05.079083511Z",
+  "model": "glm-5.3"
+}

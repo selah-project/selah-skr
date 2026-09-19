@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایہے اہرون دے پُتراں دے ناں ہن، مسح تھئے کاہن، جنہاں دے ہتھ اوں کاہن گڑھݨ کیتے بھرے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "مسح تھئے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھرے"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "اوں دے ہتھ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن گڑھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:10.418436464Z",
+  "model": "glm-5.3"
+}

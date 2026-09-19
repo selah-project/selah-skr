@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے تھیا، اوندے ڄمݨ دے ویلا، تے ݙیکھو — اوندے پیٹ وِچ جوڑے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "اوندے ڄمݨ دے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "جوڑے"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "اوندے پیٹ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:51.629658512Z",
+  "model": "glm-5.3"
+}

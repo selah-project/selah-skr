@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "جیویں گوپے وِچ پتھر ٻدھݨ، اُوویں مورکھ کوں عزت ݙیوݨ۔",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "جیویں ٻدھݨ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "گوپے وِچ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اُوویں"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ݙیوݨ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "مورکھ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:31.120584476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے مِتصرایمیں ⟨את⟩ اساکوں برا کیتا تے اساکوں ستایا تے اساں اُتے سخت محنت لا ݙتی۔",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "برا کیتا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "اساکوں"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مِتصرایمیں"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "اساکوں ستایا"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "لا ݙتی"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اساں اُتے"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:39.480583178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے اوں یاہوہ اُتے ایمان گھدس، تے ⟨اوہ⟩ اوندے کیتے راستی ڳݨیس۔",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "ایمان گھدس"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "ڳݨیس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:48.381183070Z",
+  "model": "glm-5.3"
+}

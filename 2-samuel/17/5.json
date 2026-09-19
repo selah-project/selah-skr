@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "اَبشالوم آکھیا: ”خوشی ہارکی کوں وی سݙو، تے اساں سُݨوں جو اوندے مُنہ وِچ کیا ہے، اوہ وی۔“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سݙو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ٻس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ہارکی"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "سُݨوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "اوندے مُنہ وِچ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:10:06.752797116Z",
+  "model": "glm-5.3"
+}

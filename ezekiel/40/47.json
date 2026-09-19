@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "اُوں ⟨את⟩ چوک کوں ماپیا: لمبائی سو گز تے چوڑائی سو گز، چوکور؛ تے قربان گاہ گھر دے اڳوں ہئی۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "اُوں ماپیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوک"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "چوکور"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "تے قربان گاہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:24.442665653Z",
+  "model": "glm-5.3"
+}

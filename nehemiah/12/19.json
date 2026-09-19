@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یویاریب دے گھر توں مَتّنای، یِدعیہ دے گھر توں عُزّی۔",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "تے یویاریب دے گھر توں"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "مَتّنای"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "یِدعیہ دے گھر توں"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:37.540387999Z",
+  "model": "glm-5.3"
+}

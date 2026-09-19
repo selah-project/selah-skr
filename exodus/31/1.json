@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یاہوہ موشے نال ٻولیا، آکھ کے جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے جو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:03.623184595Z",
+  "model": "glm-5.3"
+}

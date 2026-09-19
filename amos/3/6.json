@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "جے شہر وِچ شنگ وڄایا ویسی، تے لوک نہ کَپسن؟ جے شہر وِچ کوئی مصیبت تھیندی ہے، تے یاہوہ او نہ کیتا؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "وڄایا ویسی"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شنگ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے لوک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "کَپسن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تھیندی ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:53:38.926489943Z",
+  "model": "glm-5.3"
+}

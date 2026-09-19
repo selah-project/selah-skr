@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "شِمعون دے پُتر ہَن: نِمُوایل، یامین، یاریو، زِراخ تے شاؤل۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "نِمُوایل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "تے یامین"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "یاریو"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِراخ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:18.993896643Z",
+  "model": "glm-5.3"
+}

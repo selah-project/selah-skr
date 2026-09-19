@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے جے کوئی بندہ راستباز ہووے، تے انصاف تے راستی کرے،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:08.342290145Z",
+  "model": "glm-5.3"
+}

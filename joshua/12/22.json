@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "قِدیش دا بادشاہ ہِک، کارمَل وَل یِقنِعام دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قِدیش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یِقنِعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "کارمَل وَل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.446335896Z",
+  "model": "glm-5.3"
+}

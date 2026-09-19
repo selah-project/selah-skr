@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے میں بھولاں وِچ ݙٹھا، نینگراں وِچ بھالیا — ہِک نینگر جیہڑا دل کنوں خالی ہا۔",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "تے میں ݙٹھا"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "بھولاں وِچ"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "میں بھالیا"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "نینگراں وِچ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ہِک نینگر"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.993336223Z",
+  "model": "glm-5.3"
+}

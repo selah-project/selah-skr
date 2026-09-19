@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 3:15",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یا اوں سرداراں نال جیندا سونا ہا، جیڑھے آپݨے گھر چاندی نال بھر ݙتے۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "جیندا ہا"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "بھر ݙتے"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "آپݨے گھر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:40.984047654Z",
+  "model": "glm-5.3"
+}

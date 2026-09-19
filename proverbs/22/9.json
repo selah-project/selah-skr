@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "چنڳی اَکھ والا او برکت پاوسی، کیوں جو اوں اپݨی روٹی توں غریب کوں ݙتی۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اَکھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت پاوسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "اپݨی روٹی توں"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "غریب کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:30.055521052Z",
+  "model": "glm-5.3"
+}

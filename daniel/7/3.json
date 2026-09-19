@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے چار وݙے جانور سمندر توں اُتے آئے، ہِک ݙوجھے توں وکھرے۔",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "اُتے آئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "وکھرے"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ݙوجھے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:23:42.937694175Z",
+  "model": "glm-5.3"
+}

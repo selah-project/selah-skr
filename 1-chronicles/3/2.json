@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تریجا اَبشالوم، مَعاکہ دا پُتر، جیہڑی تلمی، گشور دے بادشاہ، دی دھی ہئی؛ چوتھا اَدونیا، حگّیت دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "تریجا"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعاکہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تلمی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گشور"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھا"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "اَدونیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "حگّیت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:30.316338695Z",
+  "model": "glm-5.3"
+}

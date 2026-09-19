@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے یاہوہ وِچ مظہ تھیوو، او تیکوں تیݙے دل دیاں منگاں ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "تے مظہ تھیوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "او ݙیسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "منگاں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:32.305153331Z",
+  "model": "glm-5.3"
+}

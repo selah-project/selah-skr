@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "میں غلاماں کوں گھوڑیاں اُتے ݙٹھا، تے سرداراں کوں غلاماں وانگوں زمین اُتے ٹُردے ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑیاں"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "تے سرداراں کوں"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ٹُردے ہوئے"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "غلاماں وانگوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:50.724942457Z",
+  "model": "glm-5.3"
+}

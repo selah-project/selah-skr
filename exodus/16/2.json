@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یِسرائل دے پُتراں دی ساری جُماعت بیابان وِچ موشے تے اہرون اُتے شکایت کیتی۔",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "شکایت کیتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جُماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:31.623215610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے قہات دے پُتراں دے ٹبراں وِچوں ⟨کجھ⟩ دے حصے دے شہر افرایم دی ٹولی توں تھئے۔",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "تے ٹبراں وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "انہاں دے سرحدی حصے دے"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ٹولی توں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:31.803723598Z",
+  "model": "glm-5.3"
+}

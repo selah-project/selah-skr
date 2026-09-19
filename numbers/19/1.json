@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یاہوہ موشے تے اہرون کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیندے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:50.503085045Z",
+  "model": "glm-5.3"
+}

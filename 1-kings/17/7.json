@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے کجھ ݙینہہاں پچھوں نَہر سُک ڳئی، کیوں جو ملک وِچ مینہہ کائناں ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہاں"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "سُک ڳئی"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نَہر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائناں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:13:56.023064056Z",
+  "model": "glm-5.3"
+}

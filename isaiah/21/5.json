@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "میز کوں سِدھا کرو، پہرے تے پہرہ ݙیکھو، کھاؤ، پیو؛ اُٹھو، سردارو، ڈھال کوں تیل لاؤ۔",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "سِدھا کرو"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "پہرہ ݙیکھو"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "پہرے تے"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارو"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "تیل لاؤ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    }
+  ],
+  "timestamp": "2026-09-19T17:39:26.177421595Z",
+  "model": "glm-5.3"
+}

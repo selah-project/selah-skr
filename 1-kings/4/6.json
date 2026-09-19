@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اخیشار گھر اُتے ہا، تے عبدا دا پُتر ادونیرام ٹیکس اُتے ہا۔",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "اَخیشار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "ادونیرام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "عبدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ٹیکس"
+    }
+  ],
+  "timestamp": "2026-09-19T17:04:20.280357516Z",
+  "model": "glm-5.3"
+}

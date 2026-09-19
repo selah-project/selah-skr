@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ گاد دے پُتراں دے ٹبر ہن، انہاں دی ڳݨتی موجب: چالی ہزار تے پنج سوس۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "انہاں دی ڳݨتی موجب"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:51.567124086Z",
+  "model": "glm-5.3"
+}

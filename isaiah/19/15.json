@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے مِتصرایم کیتے ⟨کوئی⟩ کم نہ ہوسی، جو ⟨ایہ⟩ سر یا دُم، کھجور دی پت یا گھاہ کر سڳے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "لמצרים",
+      "gloss": "مِتصرایم کیتے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کر سڳے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "یا دُم"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کھجور دی پت"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "یا گھاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:13:30.125492453Z",
+  "model": "glm-5.3"
+}

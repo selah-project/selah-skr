@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "اوندے اُتے سختی نال حکومت نہ کریندا، تے آپݨے ایلوہیم کنوں ݙرسیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "حکومت کریندا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "سختی نال"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "تے ݙرسیں"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "آپݨے ایلوہیم کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:58.995066376Z",
+  "model": "glm-5.3"
+}

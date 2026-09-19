@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پر قین ساڑݨ کیتے ݙتا ویسی؛ کݙاں تئیں؟ اَشّور تیکوں قیدی بݨا گھنسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ساڑݨ کیتے"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قین"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "قیدی بݨا گھنسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:53.465102246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "میݙے کنوں سردار حکمرانی کریندن، تے امیر، سارے راستی دے فیصل کرݨ آلے۔",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "میݙے کنوں"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "حکمرانی کریندن"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "تے امیر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "فیصل کرݨ آلے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:36.635544953Z",
+  "model": "glm-5.3"
+}

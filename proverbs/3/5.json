@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "سارے دل نال یاہوہ اُتے بھروسہ کر، تے آپݨی سمجھ اُتے ٹیک نہ رکھ۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل نال"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "آپݨی سمجھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ٹیک رکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:32.068074593Z",
+  "model": "glm-5.3"
+}

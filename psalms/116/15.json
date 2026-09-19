@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 116,
+  "translation": "یاہوہ دیاں اکھیں وِچ اوندے خیسِداں دی موت قیمتی ہے۔",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "موت"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "اوندے خیسِداں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:57.332453023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تخت دی ہِک لکڑی کیتے ݙو جوڑ ہَن، ہِک ٻئے نال جُڑے ہوئے؛ مسکن دے سارے تختاں کیتے اُوں ایویں ای بݨائے۔",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "جوڑ"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "تخت کیتے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "جُڑے ہوئے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ٻئی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں ای"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے کیتے"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:28.932555087Z",
+  "model": "glm-5.3"
+}

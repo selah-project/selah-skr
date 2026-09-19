@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے میں جلاوطناں کوں او ⟨את⟩ سبھ ڳالھیں ݙسیاں جیڑھیاں یاہوہ میکوں ݙکھایاں۔",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "تے میں ݙسیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ ڳالھیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "میکوں ݙکھایاں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:27:24.722974296Z",
+  "model": "glm-5.3"
+}

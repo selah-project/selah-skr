@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "نیک بندے کوں کوئی برائی نہ وِیڑسی، تے بدکار خرابی نال بھریے ہوسن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "وِیڑسی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نیک بندے کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "تے بدکار"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بھریے ہوسن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خرابی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:51.750254238Z",
+  "model": "glm-5.3"
+}

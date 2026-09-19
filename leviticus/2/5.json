@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے جے تَوے اُتے پکی تیݙی قربانی ہووے، تاں او باریک اٹا، تیل وِچ رَلایا ہویا، بغیر خمیری ہووے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "تَوے"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "تیݙی قربانی"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک اٹا"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "رَلایا ہویا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل وِچ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "بغیر خمیری"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:39.839669713Z",
+  "model": "glm-5.3"
+}

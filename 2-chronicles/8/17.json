@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اُوں ویلے شلومو عِتصیون گِبیر ڳیا، تے اِیلوت وِچ، جیڑھے سمندر دے کنارے تے اِدوم دی بھِیں وِچ ہِن۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اُوں ویلے"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "عِتصیون ⟨وِچ⟩"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبیر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "اِیلوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر دے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "بھِیں وِچ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:40.781224069Z",
+  "model": "glm-5.3"
+}

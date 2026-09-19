@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے یاہوہ ⟨את⟩ اِیئوو کوں گردباد وِچوں جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِیئوو"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیئوو"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "گردباد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:47.920165381Z",
+  "model": "glm-5.3"
+}

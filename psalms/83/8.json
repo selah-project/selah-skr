@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "گِبَل، تے عَمّون، تے عمالیک، فِلشتِیم، صُور دے واسیاں نال۔",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "گِبَل"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "تے عَمّون"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "تے عمالیک"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فِلشتِیم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دے واسیاں"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:49.523984132Z",
+  "model": "glm-5.3"
+}

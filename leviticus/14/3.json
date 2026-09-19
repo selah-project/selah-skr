@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن ڈیرے دے ٻاہر نکلسی، تے کاہن ݙیکھسی، تے ݙیکھو — کوڑھ دا زخم کوڑھی توں ٹھیک تھی ڳیا،",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکلسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڈیرے توں"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ٹھیک تھی ڳیا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "کوڑھ دا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "کوڑھی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.238884778Z",
+  "model": "glm-5.3"
+}

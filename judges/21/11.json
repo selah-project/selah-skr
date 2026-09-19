@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 21:11",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ایہ اوہ ڳالھ ہے جو تُساں کریسو: ہر نر کوں، تے ہر اوہ ذالی کوں جیہڑی نر دا بستر ڄاݨدی ہے، حرام کر ݙیسو۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذالی"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدی ہے"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "بستر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "حرام کر ݙیسو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:34:23.005060650Z",
+  "model": "glm-5.3"
+}

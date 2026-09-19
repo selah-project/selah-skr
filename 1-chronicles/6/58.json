@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ⟨את⟩ راموت کوں اوندے چراہاں نال، تے ⟨את⟩ عانیم کوں اوندے چراہاں نال۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "راموت کوں"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "چراہاں کوں"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "اوندے چراہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عانیم کوں"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "عانیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "چراہاں کوں"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "اوندے چراہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:29.648567224Z",
+  "model": "glm-5.3"
+}

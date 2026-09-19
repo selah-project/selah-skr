@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "بندہ برائی نال قائم نہ رہ سڳدا، پر راستبازاں دی جڑ کݙاہیں نہ ہلسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم رہ سڳدا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "برائی نال"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "تے جڑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازاں دی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "کݙاہیں نہ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:44.542054042Z",
+  "model": "glm-5.3"
+}

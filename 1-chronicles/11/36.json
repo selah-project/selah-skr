@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "خِیفر المکراتی، اِخیّہ الفلونی۔",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "خِیفر"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "المکراتی"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اِخیّہ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "الفلونی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:57.371297730Z",
+  "model": "glm-5.3"
+}

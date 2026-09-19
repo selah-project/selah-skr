@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے او اُٹھیا تے ٹُر ڳیا، تے یِہوناتان شہر وِچ آیا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "تے یِہوناتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:45:28.321432525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ دا کلام میݙے پاس آیا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:42.253141363Z",
+  "model": "glm-5.3"
+}

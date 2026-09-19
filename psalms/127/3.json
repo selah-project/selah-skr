@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 127,
+  "translation": "ݙیکھو، پُتر یاہوہ دی وِراثت ہن، پیٹ دا پھل اُوندا انعام ہے۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "وِراثت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "انعام"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "پیٹ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:30.287252655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے آکھو: “کیویں میں تادیب توں نفرت کیتی، تے میݙے دل سرزنش کوں رد کیتا!”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھو"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "میں نفرت کیتی"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب توں"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "تے سرزنش کوں"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "رد کیتا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙے دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:11.641092859Z",
+  "model": "glm-5.3"
+}

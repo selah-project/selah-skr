@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے داریَوش میدی بادشاہی حاصل کیتی، اوہ سٹھ تے ݙو ورہیاں دا ⟨تقریباً⟩ ہا۔",
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "تے داریَوش"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "میدی"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "حاصل کیتی"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "تقریباً"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ورہیاں"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:23:06.111614766Z",
+  "model": "glm-5.3"
+}

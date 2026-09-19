@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے آکھیس: “توں ایہو میݙا پُتر عیسو ہیں؟” تے اوں آکھیا: “میں ہاں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙا پُتر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوں آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:10.131460241Z",
+  "model": "glm-5.3"
+}

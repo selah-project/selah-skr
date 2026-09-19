@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "وی تُساں ⟨את⟩ — تیݙے عہد دے لہو پاروں میں تیݙے قیدی بھیڄے، اُوں گڑھے توں جیندے وچ پاݨی کائنی۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے عہد دے لہو"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وچ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "تیݙے عہد دے"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں بھیڄے"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "تیݙے قیدی"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "گڑھے توں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:15.303978668Z",
+  "model": "glm-5.3"
+}

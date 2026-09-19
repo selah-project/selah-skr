@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے حِزقیاہو ݙٹھا جو سنحیریب آ ڳیا ہے تے اوندا رُخ جنگ کیتے یروشلایم دو ہے۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙٹھا"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا ہے"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سنحیریب"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "تے اوندا رُخ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:59:31.909887558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 17:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "کیوں جو اوں قسم کوں حقیر ڄاݨ تے عہد توڑ ݙتا، تے ݙیکھو، ہتھ ݙتُس، تے ایہ سبھ کیتُس — او بچسی نہ۔",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "تے حقیر ڄاݨ تے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "توڑݨ کیتے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتُس"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتُس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:49.159606707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کیوں جو تیں لُکا کے کیتا، پر میں ایہ ڳالھ ⟨את⟩ سارے اِسرائیل دے سامݨے تے سِجھ دے سامݨے کریساں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تیں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لُکا کے"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "پر میں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کریساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "تے سامݨے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:55:36.826918917Z",
+  "model": "glm-5.3"
+}

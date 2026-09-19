@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایں کیتے مضبوط قوم تیݙی عزت کریسی، ظالم قوماں دے شہر تیکوں ݙرسن۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "⟨ایں⟩ کیتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "تیݙی عزت کریسی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "تیکوں ݙرسن"
+    }
+  ],
+  "timestamp": "2026-09-19T17:42:01.681623374Z",
+  "model": "glm-5.3"
+}

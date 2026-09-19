@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "انہاں دے اُٹھ چار سو ترے سو تے پنج ہن، انہاں دے کھوتے چھی ہزار ست سو ویہہ ہن۔",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "انہاں دے اُٹھ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "انہاں دے کھوتے"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:57.184097588Z",
+  "model": "glm-5.3"
+}

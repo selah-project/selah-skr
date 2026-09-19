@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے پنحس اِلعازر دا پُتر پہلاں اُنہاں اُتے سردار ہا؛ یاہوہ اُوندے نال ہا۔",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "تے پنحس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:22.538614178Z",
+  "model": "glm-5.3"
+}

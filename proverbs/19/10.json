@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "عیش و آرام احمق کیتے ٹھیک کائنی، ٻیا ودھ ایہ جو غلام شہزادیاں اُتے حکم چلاوے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ٹھیک کائنی"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "احمق کیتے"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "عیش و آرام"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "غلام کیتے"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حکم چلاوے"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "شہزادیاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.991794717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "پیوݨ آلے دی زبان پیاس نال اپݨے تالو نال چمب ڳئی؛ نِراے ٻال روٹی منگدن، کوئی ونڈݨ آلا انہاں کوں کوئنی۔",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "چمب ڳئی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "پیوݨ آلے دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "اپݨے تالو"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "پیاس نال"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "نِراے ٻال"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "منگدن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ونڈݨ آلا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئنی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:03.820214178Z",
+  "model": "glm-5.3"
+}

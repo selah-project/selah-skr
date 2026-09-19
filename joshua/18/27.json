@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے رِقم تے یِرپئیل تے تروعلاہ۔",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "تے رِقم"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "تے یِرپئیل"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "تے تروعلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:03.852091601Z",
+  "model": "glm-5.3"
+}

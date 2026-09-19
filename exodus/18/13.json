@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ݙوجھے ݙینہہ تھیا، موشے قوم کوں فیصلہ ݙیوݨ کیتے ٻیٹھا، تے قوم موشے دوالے صبح توں شام تئیں کھڑی رہی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ݙوجھے ݙینہہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ٻیٹھا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "فیصلہ ݙیوݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑی تھئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:13.787084171Z",
+  "model": "glm-5.3"
+}

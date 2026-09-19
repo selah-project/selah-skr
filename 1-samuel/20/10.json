@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے داوِد یہوناتن کوں آکھیا: “میکوں کون ݙسیسی؟ یا جے تیݙا پیو تیکوں سخت جواب ݙیسی تاں؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا … تاں"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "تیکوں جواب ݙیسی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙا پیو"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:43:16.668537850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندی فوج، تے اوہناں دی ڳݨتری چار تے ستر ہزار تے چھی سو ہِن۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندی فوج"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اوہناں دی ڳݨتری"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:08.663631762Z",
+  "model": "glm-5.3"
+}

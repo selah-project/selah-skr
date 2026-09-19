@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ہُݨ ساݙی جان سُکی ہے؛ ساݙیاں اکھیاں دے اڳوں ہور کجھ کائنی، صرف او مَن۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساݙی جان"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "سُکی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "המן",
+      "gloss": "او مَن"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ساݙیاں اکھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:10.598174358Z",
+  "model": "glm-5.3"
+}

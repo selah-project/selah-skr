@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "جئیں دنیا کوں بنجر بݨایا تے اوندے شہر تروڑ ݙتے، جئیں اپݨے قیدیاں دا گھر نہ کھولیا۔",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "بنجر"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "تے اوندے شہر"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "تروڑ ݙتے"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "اپݨے قیدیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کھولیا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:46.950057465Z",
+  "model": "glm-5.3"
+}

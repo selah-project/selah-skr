@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے قَسیا پنج سو، مقدس جگت دے شیکل نال، تے زیتون دا تیل ہِک ہِن۔",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "تے قَسیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شیکل نال"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس جگت دے"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "تے تیل"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون دا"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ہِک ہِن ⟨پیمانہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:53.913923753Z",
+  "model": "glm-5.3"
+}

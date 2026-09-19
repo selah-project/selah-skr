@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے تُساں اوہو کریسو جو میں کیتا؛ اُتلی لبھ اُتے پٹی نہ ٻدھسو تے لوکاں دی روٹی نہ کھاسو۔",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "تے تُساں کریسو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "اُتلی لبھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "ٻدھسو"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "تے روٹی"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "لوکاں دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاسو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:36:15.907199241Z",
+  "model": "glm-5.3"
+}

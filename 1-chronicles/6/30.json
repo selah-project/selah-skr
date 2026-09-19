@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "حشبیاہ دا پُتر، امصیاہ دا پُتر، حلقیاہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "امصیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حلقیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:17.752185571Z",
+  "model": "glm-5.3"
+}

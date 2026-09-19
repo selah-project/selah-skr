@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "پشحور دے پُتر ہِک ہزار، ݙو سو چالیہہ ست۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پشحور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ست"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:40.371971749Z",
+  "model": "glm-5.3"
+}

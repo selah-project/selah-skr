@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ساریاں نہراں سمندر دو وہندیاں ہن، پر سمندر بھردا کائنی؛ جتھاں نہراں وہندیاں ہن، اُتھائیں وَل وہݨ او آندیاں ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "نہراں"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "وہندیاں ہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… دو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והים",
+      "gloss": "پر سمندر"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھردا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… دو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "جتھاں نہراں"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "وہندیاں ہن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھائیں"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "وَل آندیاں ہن"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "وہݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:51.073390551Z",
+  "model": "glm-5.3"
+}

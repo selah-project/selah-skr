@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "جو کجھ تھیا ہا، اوہو تھیسی؛ تے جو کجھ کیتا ڳیا، اوہو کیتا ویسی؛ تے سِجھ ہیٹھ کوئی نویں شے کائنی۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "تھیا ہا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے جو کجھ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "کیتا ڳیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "کیتا ویسی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:19.683262017Z",
+  "model": "glm-5.3"
+}

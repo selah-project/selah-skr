@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے او ناں ہگریاں نال، تے یتور نال، تے نفیش نال، تے نودپ نال جنگ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "تے جنگ کیتی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "ہگریاں"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "تے یتور"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "تے نفیش"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "تے نودپ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:03.609199150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "ہر جا تے یاہوہ دیاں اکھیاں برے تے چنگیاں کوں ݙیکھدیاں ہِن۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جا تے"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکھیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دیاں"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ݙیکھدیاں ہِن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "تے چنگیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:21.934192995Z",
+  "model": "glm-5.3"
+}

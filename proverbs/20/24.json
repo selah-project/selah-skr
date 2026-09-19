@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "بندے دے قدم یاہوہ توں ہِن؛ تے بندہ — او اپݨا رستہ کیویں سمجھسی؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "قدم"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھسی"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اپݨا رستہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:12.860504292Z",
+  "model": "glm-5.3"
+}

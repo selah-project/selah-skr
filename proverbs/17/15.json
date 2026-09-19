@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "جیہڑا ظالم کوں چھوڑا ݙیندے تے راستباز کوں مجرم — ݙوہیں یاہوہ کیتے مکروہ ہن۔",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "چھوڑا ݙیندے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "تے مجرم ݙیندے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ݙوہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:12.378090512Z",
+  "model": "glm-5.3"
+}

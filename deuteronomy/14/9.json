@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہو ⟨את⟩ تُساں کھاؤ، پاݨیاں وِچوں ہر اوہ جیڑھا ہے؛ جیندے پَر تے چَکّلے ہوون، اوہ تُساں کھا سڳدے او۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُساں کھاؤ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر اوہ جیڑھا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨیاں وِچوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "اوہ سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَر"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "تے چَکّلے"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُساں کھاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.556797036Z",
+  "model": "glm-5.3"
+}

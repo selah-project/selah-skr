@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے بندے اوہو کیتا جیویں یوسف آکھیا، تے بندے ⟨את⟩ بندیاں کوں یوسف دے گھر گھن ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے اوہو کیتا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے گھن ڳیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندیاں"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:46.464387102Z",
+  "model": "glm-5.3"
+}

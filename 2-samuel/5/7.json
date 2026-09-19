@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے داوِد ⟨את⟩ صیون دی مَزِد پکڑ گھدی؛ او داوِد دا شہر ہے۔",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "پکڑ گھدی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیون دی مَزِد"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "مَزِد"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:36.040345745Z",
+  "model": "glm-5.3"
+}

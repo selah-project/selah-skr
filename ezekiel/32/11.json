@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو اِیویں آکھیا ادونای یاہوہ: بابل دے بادشاہ دی تلوار تیکوں آ ویسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "تیکوں آ ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:39:45.562166626Z",
+  "model": "glm-5.3"
+}

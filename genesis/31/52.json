@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 31:52",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "گواہ اے ڈھیر تے گواہ اے ستون ⟨ہے⟩ — جے میں تیݙے پاس ⟨את⟩ اے ڈھیر نہ لنگھاں، تے جے تُساں میݙے پاس ⟨את⟩ اے ڈھیر تے ⟨ואת⟩ اے ستون برائی کیتے نہ لنگھو۔”",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "اے ڈھیر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "تے گواہ"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "اے ستون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "لنگھاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے پاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے ڈھیر"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "اے ڈھیر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "لنگھو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے پاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے ڈھیر"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "اے ڈھیر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اے ستون"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "اے ستون"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "برائی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:56.398824846Z",
+  "model": "glm-5.3"
+}

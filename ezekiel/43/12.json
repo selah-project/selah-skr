@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "ایہ گھر دی تورات ہے: پہاڑ دے سر اُتے سارا اُوندا حد ٻدھ چار پاسوں چار پاسوں پاک پاکاں ⟨ہوسی⟩۔ ݙیکھ، ایہ گھر دی تورات ہے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "حد ٻدھ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چار پاسوں"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چار پاسوں"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکاں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:37.131425944Z",
+  "model": "glm-5.3"
+}

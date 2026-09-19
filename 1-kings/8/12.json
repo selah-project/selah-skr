@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تݙاں شلومو آکھیا: “یاہوہ آکھیا جو او گھُنے اندھارے وِچ رہسی۔”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "رہوݨ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گھُنے اندھارے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:29.466962608Z",
+  "model": "glm-5.3"
+}

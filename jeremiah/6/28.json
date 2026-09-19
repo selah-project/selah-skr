@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 6:28",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "سارے پھر ڳئے باغی ہِن، چغل خوری وِچ ٹُرݨ آلے — ٹانبا تے لوہا؛ سارے او خراب کرݨ آلے ہِن۔",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "סרי",
+      "gloss": "پھر ڳئے"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "הלכי",
+      "gloss": "ٹُرݨ آلے"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغل خوری وِچ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٹانبا"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "تے لوہا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "خراب کرݨ آلے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او ہِن"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:25.711737952Z",
+  "model": "glm-5.3"
+}

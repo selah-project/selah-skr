@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ⟨ואת⟩ ہَدُورام کوں، تے ⟨ואת⟩ اُوزال کوں، تے ⟨ואת⟩ دِقلہ کوں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ہَدُورام"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ہَدُورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اُوزال"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "اُوزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "دِقلہ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دِقلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:04.831154557Z",
+  "model": "glm-5.3"
+}

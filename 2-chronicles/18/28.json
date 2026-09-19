@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اِسرائیل دے بادشاہ تے یہوسفط، یہوداہ دے بادشاہ، راموت گلعاد تے چڑھ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ ڳئے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "یہوسفط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:58.784968987Z",
+  "model": "glm-5.3"
+}

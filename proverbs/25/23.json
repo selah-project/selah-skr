@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "اُبھی ہوا مینہہ گھن آندی ہے، تے لُکی ہوئی زبان ⟨غصے بھرے⟩ مُہر پیدا کریندی ہے۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُبھے دی"
+    },
+    {
+      "surface": "תחولל",
+      "gloss": "گھن آندی ہے"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "تے مُہر"
+    },
+    {
+      "surface": "نזעמים",
+      "gloss": "غصے بھرے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "لُکی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:09.999323212Z",
+  "model": "glm-5.3"
+}

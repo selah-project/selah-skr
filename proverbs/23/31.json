@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "شراب دو نہ ݙیکھ جݙاں او لَتھی ہوئی ݙسے، جݙاں پیالے وِچ اوندا رنگ ݙیوے، جݙاں او سِدھا لَنگھے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "لَتھی ہوئی ݙسے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیوے"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "پیالے وِچ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "اوندا رنگ ⟨اکھ⟩"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "لَنگھے"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "سِدھا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:11.412033911Z",
+  "model": "glm-5.3"
+}

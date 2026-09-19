@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یہودہ کیتے نحشون، عَمینادو دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "یہودہ کیتے"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نحشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمینادو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:38.445234029Z",
+  "model": "glm-5.3"
+}

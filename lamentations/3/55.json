@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں تیݙا ناں پکاریا، اے یاہوہ، تلویں بُک توں۔",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "میں پکاریا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیݙا ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "بُک توں"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "تلویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.897247547Z",
+  "model": "glm-5.3"
+}

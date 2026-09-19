@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اُوندا لشکر، تے اُوندی ڳݨتری تھئی: ست تے پنجھاہ ہزار تے چار سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اُوندا لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "تے اُوندی ڳݨتری"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجھاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:15.741635257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 26:58",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ لوی دے ٹبر ہن: لبنی ٹبر، حبرونی ٹبر، محلی ٹبر، موشی ٹبر، قرحی ٹبر؛ تے قہات ⟨את⟩ عمرام کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی دے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "لبنی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "حبرونی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "محلی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "قرحی"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "تے قہات"
+    },
+    {
+      "surface": "הולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمرام"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:17.461573242Z",
+  "model": "glm-5.3"
+}

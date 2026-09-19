@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اتے اوندے ست پُتر اتے ترے دھیاں ڄمیاں۔",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "اتے ڄمیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "اتے ترے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:20.599328086Z",
+  "model": "glm-5.3"
+}

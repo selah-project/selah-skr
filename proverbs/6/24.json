@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تیکوں بچاوݨ کیتے بری ذال توں، تے اوپری زبان دی مِٹھی ڳالھ توں۔",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "تیکوں بچاوݨ کیتے"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ذال توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "مِٹھی ڳالھ توں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "اوپری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:27.450888212Z",
+  "model": "glm-5.3"
+}

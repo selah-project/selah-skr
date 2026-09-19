@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "خوف، تے گڑھا، تے جال تیݙے اُتے ہِن، اَے مُوآب دے واسی — یاہوہ دا آکھیا۔",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "تے گڑھا"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "تے جال"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "واسی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:29.440470476Z",
+  "model": "glm-5.3"
+}

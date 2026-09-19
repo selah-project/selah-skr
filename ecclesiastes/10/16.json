@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اُف تیکوں، اے زمین، جݙاں تیݙا بادشاہ ہِک نِکا نوجوان ہووے، تے تیݙے سردار سویرے کھاون!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "اُف"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اے زمین"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "تیݙا بادشاہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نِکا نوجوان"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "تے تیݙے سردار"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:52.757869759Z",
+  "model": "glm-5.3"
+}

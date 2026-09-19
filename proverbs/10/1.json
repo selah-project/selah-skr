@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "شلومو دیاں اَمثالاں۔ دانا پُتر پیو کوں خوش کریندا ہے، تے ناسمجھ پُتر اماں دا غم ہے۔",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "اَمثالاں"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کریندا ہے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ناسمجھ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اون٘دی ماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:34.234894056Z",
+  "model": "glm-5.3"
+}

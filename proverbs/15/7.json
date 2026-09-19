@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "سیاݨیاں دے ہونٹھ علم کھنڈیندے ہن، پر موئے دل لوکاں دا دل ایویں کائنی۔",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "سیاݨیاں دے"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "کھنڈیندے ہن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "پر … دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "موئے دل لوکاں دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:46.644390358Z",
+  "model": "glm-5.3"
+}

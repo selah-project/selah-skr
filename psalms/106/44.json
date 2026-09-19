@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے اوں انہاں دی تنگی ݙٹھی، جݙاں اوں انہاں دی چیک ⟨את⟩ سُنی۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھس"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دی"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "سُنݨ وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں دی چیک"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "انہاں دی چیک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:55.584451702Z",
+  "model": "glm-5.3"
+}

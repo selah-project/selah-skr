@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "کِتیاں چنگے ہِن تیݙے ٹٻر، یعقوو، تیݙے مسکن، یِسرایل!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِتیاں"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "تیݙے ٹٻر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "تیݙے مسکن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:28.065342770Z",
+  "model": "glm-5.3"
+}

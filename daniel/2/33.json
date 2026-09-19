@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اوں دیاں ٹانگاں لوہے دیاں، اوندے پیر — کجھ من لوہے دے، تے کجھ من مٹی دے ہن۔",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ٹانگاں"
+    },
+    {
+      "surface": "די",
+      "gloss": "دی"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "کجھ من"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "تے کجھ من"
+    },
+    {
+      "surface": "די",
+      "gloss": "دی"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "مٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:39.002973506Z",
+  "model": "glm-5.3"
+}

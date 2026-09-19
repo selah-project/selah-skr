@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیوں جو یاہوہ راست لوکاں دا رستہ ڄاݨدے، تے شریراں دا رستہ مُک ویسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راست لوکاں دا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریراں دا"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "مُک ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:55.968475614Z",
+  "model": "glm-5.3"
+}

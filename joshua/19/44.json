@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے التقہ تے گبتون تے بعلت،",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "التقہ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "گبتون"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "بعلت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:57.156879252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "سیاݨا نوکر شرم ݙیووݨ آلے پُتر اُتے راج کریسی، تے بھراواں وِچ وراثت ونڈسی۔",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "راج کریسی"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "پُتر اُتے"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرم ݙیووݨ آلے"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھراواں"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ونڈسی"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:49.085139137Z",
+  "model": "glm-5.3"
+}

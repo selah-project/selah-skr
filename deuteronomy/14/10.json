@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے جیندے پَر تے چَکّلے کائنی، اوہ نہ کھاؤ؛ اوہ تُہاݙے کیتے اَپَوِتر ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَر"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "تے چَکّلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اَپَوِتر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.557036472Z",
+  "model": "glm-5.3"
+}

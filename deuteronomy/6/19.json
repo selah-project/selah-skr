@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اپݨے سارے دشمناں کوں ⟨את⟩ تیݙے اڳوں توں کھدیڑݨ کیتے، جیویں یاہوہ آکھیا۔",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "کھدیڑݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے دشمناں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دشمناں"
+    },
+    {
+      "surface": "مפניך",
+      "gloss": "تیݙے اڳوں توں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:00.140552073Z",
+  "model": "glm-5.3"
+}

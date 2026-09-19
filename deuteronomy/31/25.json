@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے ⟨את⟩ لیویاں کوں، یاہوہ دے عہد دے صندوق چاوݨ آلیاں کوں، حکم ݙتا آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیویاں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لیویاں کوں"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چاوݨ آلیاں"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:14.337732423Z",
+  "model": "glm-5.3"
+}

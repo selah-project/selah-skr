@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اوہ سارے ہِکّو بےعقل تے مُورکھ ہِن: خالی شئیں دی تعلیم — رُکھ اوہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "تے ہِکّو"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "بےعقل"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "تے مُورکھ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعلیم"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "خالی شئیں دی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:01:53.006540560Z",
+  "model": "glm-5.3"
+}

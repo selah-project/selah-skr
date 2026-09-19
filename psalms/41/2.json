@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "خوش ⟨ہے⟩ اوہ جیہڑا غریب ول خیال رکھیندے؛ برے ݙینہہ وِچ یاہوہ اونکوں بچیسی۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "خیال رکھیندے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "بچیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:44.085043557Z",
+  "model": "glm-5.3"
+}

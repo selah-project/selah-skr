@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے جے تُساں آکھو: “ستویں سال وِچ اساں کیا کھاسوں؟ ݙیکھو، اساں نہ راہیسیے تے نہ ⟨את⟩ اپݨی فصل کٹیسوں۔”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "کھاسوں"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "راہیسیے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "کٹیسوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨی فصل کوں"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "اپݨی فصل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:00.986203034Z",
+  "model": "glm-5.3"
+}

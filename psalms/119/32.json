@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙیاں حکماں دا رستہ میں بھجسیاں، کیوں جو تُو میݙا دل کھلاسیں۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیݙیاں حکماں دا"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "بھجسیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "کھلاسیں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:11.720911153Z",
+  "model": "glm-5.3"
+}

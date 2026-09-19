@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ݙیوو یاہوہ کوں، قومیں دے خاندانو، ݙیوو یاہوہ کوں جلال تے طاقت۔",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندانو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں دے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے طاقت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:36.045097556Z",
+  "model": "glm-5.3"
+}

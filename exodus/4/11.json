@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ اوں کوں آکھیا: “بندے دا منہ کئی رکھیا؟ یا کئی گونگا بݨیندے، یا ٻوڑا، یا ݙیکھݨ آلا، یا اندھا؟ کیا میں یاہوہ کائنیں؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "פה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "بݨیندے"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "گونگا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ٻوڑا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ݙیکھݨ آلا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھا"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا … کائنیں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:46:00.993001724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یہوشوع وَل ڳیا، تے سارا اسرائیل اوندے نال، گِلگال آلے پڑاؤ دو۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَل ڳیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "گِلگال آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:23.935844734Z",
+  "model": "glm-5.3"
+}

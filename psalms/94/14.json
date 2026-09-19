@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "کیوں جو یاہوہ اپݨی قوم کوں نہ تیاڳسی، تے اپݨی وِراثت کوں نہ چھوڑسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "تیاڳسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اپݨی قوم کوں"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "تے اپݨی وِراثت کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "چھوڑسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:17.489017408Z",
+  "model": "glm-5.3"
+}

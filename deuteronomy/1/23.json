@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اوہ ڳالھ میݙیاں اکھیں کوں چنگی لڳی، تے میں تُساں وِچوں بارہ بندیاں گھدے — ہر قبیلے کیتے ہِک بندہ۔",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "چنگی لڳی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "میݙیاں اکھیں کوں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ ڳالھ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "میں گھدے"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُساں وِچوں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "قبیلے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:55.571377057Z",
+  "model": "glm-5.3"
+}

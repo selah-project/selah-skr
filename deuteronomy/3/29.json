@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اساں وادی وِچ، بیت پعور دے سامݨے، ٹکے ریہے۔",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "تے اساں ٹکے ریہے"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پعور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:02.651725816Z",
+  "model": "glm-5.3"
+}

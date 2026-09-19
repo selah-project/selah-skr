@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے جے تُساں اپݨے دِل وِچ آکھو: “اساں کِویں ڄاݨوں ⟨את⟩ او ڳالھ جیہڑی یاہوہ نہ آکھی ہووے؟”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپݨے دِل وِچ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ڄاݨوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "او ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "آکھی ہووے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:00.415583683Z",
+  "model": "glm-5.3"
+}

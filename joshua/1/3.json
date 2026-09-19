@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ہر اوہ تھاں جتھاں تُہاݙے پیراں دا تلوہ پوسی، اوہ میں تُہاکوں ݙتے، جیویں میں موشے نال آکھیا ہا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "پوسی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تلوہ"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "تُہاݙے پیراں دا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "میں ݙتے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:09:40.088295870Z",
+  "model": "glm-5.3"
+}

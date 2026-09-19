@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "ایلوہیم میݙی دُعا سُݨ، تے میݙی منت توں آپ کوں نہ لُکا۔",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دُعا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … نہ"
+    },
+    {
+      "surface": "תתעلם",
+      "gloss": "آپ کوں نہ لُکا"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "میݙی منت توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:47.595303200Z",
+  "model": "glm-5.3"
+}

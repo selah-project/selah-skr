@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو ݙڈھپ سیاݨے کوں پاڳل کر ݙیندے، تے رِشوت ⟨את⟩ دل کوں برباد کر ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ݙڈھپ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "پاڳل کر ݙیندے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨے کوں"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "تے … برباد کر ݙیندی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل کوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "رِشوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:30.343243327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 57,
+  "translation": "میݙا دل تیار ہے، ایلوہیم؛ میݙا دل تیار ہے؛ میں ڳاہاں تے الشانا。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "تیار ہے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار ہے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "میں ڳاہاں"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "تے الشانا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:00.244015275Z",
+  "model": "glm-5.3"
+}

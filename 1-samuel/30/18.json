@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے داوِد ⟨את⟩ او سب کجھ چھڑایا جو عمالق گھِدا ہا، تے ⟨את⟩ اپݨیاں ݙو ذالیں داوِد بچائیاں۔",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "چھڑایا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او سب کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "گھِدا ہا"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ݙو ذالیں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "بچائیاں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T16:48:52.656698910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے ہُݨ اوہ وِیرانے وِچ، سُکڑی تے تریہہ آلی زمین وِچ لائی ڳئی ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "لائی ڳئی ہے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "وِیرانے وِچ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُکڑی"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "تے تریہہ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:38.136314105Z",
+  "model": "glm-5.3"
+}

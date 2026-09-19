@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تریہہ ورہیاں توں ودھ تے پنجاہ ورہیاں تئیں، ہر اوہ جیہڑا خدمت وِچ آوے، مِلن دے خیمے وِچ کَم کرݨ کیتے،",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہیاں"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے ودھ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ورہیاں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "خدمت وِچ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:12.296222320Z",
+  "model": "glm-5.3"
+}

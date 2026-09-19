@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "شلمّا دے پُتر: بیت لَخم، تے نِطوفتِی، عَتروت بیت یوآو، تے مَناحتِیاں دا ادھ، تصرعِی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "شلمّا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَخم"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "تے نِطوفتِی"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عَتروت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھ"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "مَناحتِیاں دا"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "تصرعِی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:07.837167949Z",
+  "model": "glm-5.3"
+}

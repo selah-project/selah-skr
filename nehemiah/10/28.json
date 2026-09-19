@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مَلّوک، خارم، بَعنہ۔",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "مَلّوک"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارم"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بَعنہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:55.396768124Z",
+  "model": "glm-5.3"
+}

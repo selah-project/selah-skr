@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یہودہ قبیلے کیتے انہاں دی ڳݨتی چار تے ستر ہزار، چھ سوا ہئی۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "انہاں دی ڳݨتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کیتے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:55.368629297Z",
+  "model": "glm-5.3"
+}

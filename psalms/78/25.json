@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "مضبوراں دی روٹی ہر بندے کھادی؛ اوں انھاں کوں پیٹ بھرݨ کیتے خوراک بھیجی۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "مضبوراں دی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندے"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انھاں کوں"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "پیٹ بھرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:41.962504199Z",
+  "model": "glm-5.3"
+}

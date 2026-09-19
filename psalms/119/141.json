@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "نِکا میں ہاں تے بے قدر؛ تیݙے فرمان میں نہ بھلیوس۔",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "تے بے قدر"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تیݙے فرمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "بھلیوس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:08.997883114Z",
+  "model": "glm-5.3"
+}

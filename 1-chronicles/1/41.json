@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "عَنہ دے پُتر دیشون ہن، تے دیشون دے پُتر خمران، ایشبان، یتران تے خران ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَنہ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "خمران"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ایشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "یتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "خران"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:08.523223921Z",
+  "model": "glm-5.3"
+}

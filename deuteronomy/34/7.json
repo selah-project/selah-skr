@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے موشے اوندے مرݨ ویلے سو سال تے ویہہ سالاں دا ہا؛ اوندی اکھ نہ مَدی، تے اوندی تازگی نہ مُکی۔",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "تے موشے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…دا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "اوندے مرݨ ویلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "مَدی"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "اوندی اکھ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "بھڄ ڳئی"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "تازگی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:32.889080590Z",
+  "model": "glm-5.3"
+}

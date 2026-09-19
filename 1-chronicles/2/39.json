@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے عزریاہ خِلیتص کوں ڄمایا، تے خِلیتص اِلعاساہ کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "تے عزریاہ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خِلیتص"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "خِلیتص"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "تے خِلیتص"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلعاساہ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اِلعاساہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:20.022589980Z",
+  "model": "glm-5.3"
+}

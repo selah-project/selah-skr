@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اوندے منہ اُتے اوندا رستہ کون ݙسے؟ تے جو اوں کیتا اے، اوندا بدلا کون ݙیسی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندے منہ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوندا رستہ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلا ݙیسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:21.694621613Z",
+  "model": "glm-5.3"
+}

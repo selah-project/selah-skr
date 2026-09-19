@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے آکھسن سارے قومیں: ‘کیوں جو یاہوہ ایویں ایں زمین نال کیتا؟ ایہ بھڑکی ہوئی کاوڑ، ایہ وݙی، کیا ہے؟’",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ایں زمین نال"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "بھڑکی ہوئی"
+    },
+    {
+      "surface": "האף",
+      "gloss": "کاوڑ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:04:17.109021978Z",
+  "model": "glm-5.3"
+}

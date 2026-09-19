@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شِفتیاہ دے پُتراں دی ڳݨتری ترے سو ستر تے ݙو ہئی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتیاہ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:07.793599622Z",
+  "model": "glm-5.3"
+}

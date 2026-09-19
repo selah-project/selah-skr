@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "کیوں جو تیݙے کیتے میں توہین چاتی ہے، شرم میݙے مُکھّ کوں ڈھک گھدا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "میں چاتی ہے"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "توہین"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ڈھک گھدا ہے"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میݙے مُکھّ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:06.343269342Z",
+  "model": "glm-5.3"
+}

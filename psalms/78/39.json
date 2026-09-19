@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "تے اوں یاد رکھیا جو او گوشت ہن، ہک ہوا جیہڑی ویندی ہے تے وَلدی کائنی۔",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "تے اوں یاد رکھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہک ہوا"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ویندی ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "وَلدی کائنی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:26:59.692857814Z",
+  "model": "glm-5.3"
+}

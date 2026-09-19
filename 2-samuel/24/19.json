@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے داوِد گاد دی ڳالھ موجب چڑھ ڳیا، جیویں یاہوہ حکم کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ڳالھ موجب"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:08.294464745Z",
+  "model": "glm-5.3"
+}

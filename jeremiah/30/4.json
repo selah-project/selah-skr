@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے ایہ او ڳالھیں ہِن جیہڑیاں یاہوہ اِسرائل بارے تے یہوداہ بارے آکھیاں۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے بارے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:18.632853504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "جلدی کر، اُتھاں بچ ونڄ، کیوں جو تیݙے اُتھاں پُڄݨ توݨیں میں کجھ کر نہ سڳدا۔” ایں کیتے اوں شہر دا ناں تصوعر رکھیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "بچ ونڄ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سڳداں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "توݨیں"
+    },
+    {
+      "surface": "באך",
+      "gloss": "تیݙے پُڄݨ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناں رکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دا"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تصوعر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:28.187998626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "خیسِد تے سچ بادشاہ کوں بچیندن، تے خیسِد اُوندے تخت کوں سہارا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچ"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "بچیندن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ کوں"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "سہارا ݙیندے"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اُوندے تخت کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:25.803691550Z",
+  "model": "glm-5.3"
+}

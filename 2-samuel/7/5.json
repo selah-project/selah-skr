@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ونڄ تے میݙے خادم داوِد کوں آکھ: ایویں آہندا یاہوہ: «کیا تُو میݙے کیتے میݙے ٻہݨ دا گھر بݨیسیں؟»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میݙے خادم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آہندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "کیا تُو"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بݨیسیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "میݙے ٻہݨ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:36.411658107Z",
+  "model": "glm-5.3"
+}

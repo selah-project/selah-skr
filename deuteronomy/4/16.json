@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "نہ جو تُساں بگڑ ونڄو تے آپݨے کیتے کوئی مورتی بݨاوو، کہیں وی صورت دی شکل — مرد دی شکل یا عورت دی۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نہ جو"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "بگڑ ونڄو"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "بݨاوو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "بݨتر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "عورت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:55.413202620Z",
+  "model": "glm-5.3"
+}

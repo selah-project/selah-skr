@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 6:18",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے گھر دے اندر دیodar — گُٻݨ آلے گول کَنڈیاں تے کُھلے پھُلاں دے نقش نال؛ سبھ دیodar ہا، کوئی پتھر نظر نہ آندا ہا۔",
+  "tokens": [
+    {
+      "surface": "וארז",
+      "gloss": "تے دیodar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "מקלעת",
+      "gloss": "گُٻݨ نقش"
+    },
+    {
+      "surface": "پקעים",
+      "gloss": "گول کَنڈے"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "تے کُھلے"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دیodar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی … نہ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "نرאה",
+      "gloss": "نظر آندا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:06:23.367769828Z",
+  "model": "glm-5.3"
+}

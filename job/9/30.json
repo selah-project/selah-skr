@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "جے میں برف نال دھوواں، تے اپݨیاں ہتھیلیاں صابݨ نال صاف کراں،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "دھوواں"
+    },
+    {
+      "surface": "במו",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "صاف کراں"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "صابݨ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ہتھیلیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:11.898933359Z",
+  "model": "glm-5.3"
+}

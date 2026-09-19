@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "بیوقوف دا غصہ اُو ݙینہہ ڄاݨیج ویندے، تے سیاݨا رسوائی لُکا ڳھندے۔",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "بیوقوف"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُو ݙینہہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨیج ویندے"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "اوندا غصہ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "تے لُکا ڳھندے"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "رسوائی"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "سیاݨا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:10.931650128Z",
+  "model": "glm-5.3"
+}

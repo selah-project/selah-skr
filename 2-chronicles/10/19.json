@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اسرائیل داوِد دے گھر نال بغاوت کیتی، اِیں ݙینہہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "بغاوت کیتی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر نال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:49.378211032Z",
+  "model": "glm-5.3"
+}

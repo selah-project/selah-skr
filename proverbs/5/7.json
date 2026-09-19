@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے ہُݨ، اے پُتراں، میکوں سُݨو، تے میݙے مُنہ دیاں ڳالھیں توں نہ ہٹو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے پُتراں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ہٹو"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙے مُنہ دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:38.969040167Z",
+  "model": "glm-5.3"
+}

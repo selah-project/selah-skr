@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ہاتخ مردخی کول نکل ڳیا — شہر دی چوک اُتے، جیڑھی بادشاہ دے دروازے دے اڳوں ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکل ڳیا"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ہاتخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:02.655625006Z",
+  "model": "glm-5.3"
+}

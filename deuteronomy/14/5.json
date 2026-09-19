@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہِرن، تے مہاک، تے یَحمور، تے جنگلی ٻکرا، تے دیشون، تے جنگلی ݙاند، تے زامِر۔",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ہِرن ⟨ایک ہرن⟩"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "تے مہاک"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "تے یَحمور"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "تے جنگلی ٻکرا"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "تے دیشون"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "تے جنگلی ݙاند"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "تے زامِر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:46.378785689Z",
+  "model": "glm-5.3"
+}

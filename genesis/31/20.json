@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یعقوو ⟨את⟩ لابن اَرامی دے دل کوں چُکایا — اوندے توں بِناں ݙسائے، جو او بھڄ ڳیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "چُکایا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لابن اَرامی دے دل کوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "اَرامی"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِناں"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ݙسائے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھڄ ڳیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:15.596299178Z",
+  "model": "glm-5.3"
+}

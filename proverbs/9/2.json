@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ذبح کیتُس آپݨا ذبیحہ، ملایُس آپݨی شراب، بلکہ آپݨا دسترخوان وچھایُس۔",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ذبح کیتُس"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "آپݨا ذبیحہ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ملایُس"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "آپݨی شراب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "وچھایُس"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "آپݨا دسترخوان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.299685248Z",
+  "model": "glm-5.3"
+}

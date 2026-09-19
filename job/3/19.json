@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "نِکا تے وݙا اُتھاں ہِکو ہے، تے غلام اپݨے آقا توں آزاد ہے۔",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "تے وݙا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہِکو ہے"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "تے غلام"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "اپݨے آقا توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:25.769505184Z",
+  "model": "glm-5.3"
+}

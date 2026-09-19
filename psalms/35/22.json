@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "توں ݙٹھا، یاہوہ — چُپ نہ رہ، ادونای، میں توں پَرے نہ تھی۔",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "توں ݙٹھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "چُپ نہ رہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "پَرے نہ تھی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:41.841928419Z",
+  "model": "glm-5.3"
+}

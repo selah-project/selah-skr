@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ہعوّیم، تے ہپَرا، تے عَفرا۔",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "تے ہعوّیم"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "تے ہپَرا"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "تے عَفرا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:00.259467735Z",
+  "model": "glm-5.3"
+}

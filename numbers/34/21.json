@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "بِنیامین دے ٹبر وِچوں اِلِیداد، کِسلون دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ٹبر وِچوں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "اِلِیداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "کِسلون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:07.506723590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یفدیہ، تے پنوایل — شاشق دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "تفدیہ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "تے پنوایل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشق"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:52.675992917Z",
+  "model": "glm-5.3"
+}

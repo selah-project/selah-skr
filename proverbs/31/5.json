@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "متاں او پیوے تے مقرر شدہ حکم بھُل ونڄے، تے سبھ غریباں دے پُتراں دا فیصلہ وٹا ݙیوے۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متاں"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "پیوے"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "تے بھُل ونڄے"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "مقرر شدہ حکم"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "تے وٹا ݙیوے"
+    },
+    {
+      "surface": "דין",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں دا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریباں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:10.746091316Z",
+  "model": "glm-5.3"
+}

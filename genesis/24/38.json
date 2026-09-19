@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "“بلکہ توں میݙے پیو دے گھر دو تے میݙی برادری دو ویندا، تے میݙے پُتر کیتے ذال گھندیں۔”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨بلکہ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو دے"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ویندا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "میݙی برادری"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "تے گھندیں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "میݙے پُتر کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:26.422366831Z",
+  "model": "glm-5.3"
+}

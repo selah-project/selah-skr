@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اوہ جان جیہڑا اوندی چھو آلا تھیوے، او شام تئیں نجیس رہسی، تے پاک شیئں توں نہ کھاوسی، جے تئیں او پاݨی وِچ اپݨا جسم نہ دھو گھنے۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "چھووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندی"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "تے نجیس تھیسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک شیئں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "دھووے"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اپݨا جسم"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:02.792612288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بادشاہ تے سارا لوک یاہوہ دے اَڳوں قربانی قربان کریندے ہن۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قربان کریندے ہن"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:33.268204522Z",
+  "model": "glm-5.3"
+}

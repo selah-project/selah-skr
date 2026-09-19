@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کِریات یعاریم، کِفیرہ تے بِیروت دے بندے، ست سو تریہہ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "کِریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کِفیرہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "تے بِیروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالھی"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تریہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:32.634216232Z",
+  "model": "glm-5.3"
+}

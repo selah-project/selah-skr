@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے دان بارے آکھیس: دان شیر دی ہِک بچّی ہے، او بشان توں ٹپ مریسی۔",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "تے دان بارے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بچّی"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر دی"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ٹپ مریسی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بشان"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:04.754003979Z",
+  "model": "glm-5.3"
+}

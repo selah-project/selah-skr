@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاد کریندا، ول ول یاد کریندا، تے میݙی جان میݙے اُتے جھکی ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد کریندا"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ول ول یاد کریندا"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "تے … جھکی ویندی ہے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:46.504763212Z",
+  "model": "glm-5.3"
+}

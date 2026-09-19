@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یاہوہ اُتے ہمیشہ تائیں بھروسہ کرو، کیوں جو یاہ یاہوہ وِچ چٹان یگاں دی ہے۔",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "بھروسہ کرو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "یاہ وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "یگاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:14.350442816Z",
+  "model": "glm-5.3"
+}

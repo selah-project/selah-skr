@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "آپݨاں جھیڑا آپݨے سنگتی ⟨את⟩ نال لڑ، تے کہیں ٻئے دا راز نہ کھول۔",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "آپݨاں جھیڑا"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے سنگتی"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "آپݨے سنگتی"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "تے راز"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کہیں ٻئے دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "کھول"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.992630161Z",
+  "model": "glm-5.3"
+}

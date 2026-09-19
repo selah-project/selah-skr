@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایں ڳالھ موجب بادشاہ داریاوش لکھت تے حکم کوں دستخط کیتا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ڳالھ موجب"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "داریاوش"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "دستخط کیتا"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکھت"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "تے حکم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:22:57.360330560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "آکھن ہُݨ یاہوہ توں ݙرݨ آلے، جو ہمیشہ واسطے اُوندا خیسِد ہے۔",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ݙرݨ آلے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ واسطے"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اُوندا خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:52.583600997Z",
+  "model": "glm-5.3"
+}

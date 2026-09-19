@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "بدکار چھاتی توں رشوت گھندے، انصاف دیاں رستیاں کجھاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "چھاتی توں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھندے"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "کجھاوݨ کیتے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:16.305502432Z",
+  "model": "glm-5.3"
+}

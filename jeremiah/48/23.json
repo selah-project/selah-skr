@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے قریاتایِم اُتے، تے بیت گامول اُتے، تے بیت معون اُتے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "قریاتایِم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "گامول"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:10.117707160Z",
+  "model": "glm-5.3"
+}

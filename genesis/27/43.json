@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ہُݨ میݙے پُتر، میݙی آواز مَن، تے اُٹھی، بھڄ تے میݙے بھرا لابن دو خاران ونڄ۔”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "تے اُٹھی"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھڄ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میݙے بھرا"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "خاران"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:32.402917245Z",
+  "model": "glm-5.3"
+}

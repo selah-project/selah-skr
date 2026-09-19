@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے اِیہ تھیا جو بادشاہ دے تورات دے لفظ سُݨݨ ⟨את⟩، تاں اوں آپݨے کپڑے ⟨את⟩ پاڑ گھدے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے اِیہ تھیا"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "دے سُݨݨ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات دے لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات دے"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "پاڑ گھدس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے کپڑے"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "آپݨے کپڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:00:43.816503895Z",
+  "model": "glm-5.3"
+}

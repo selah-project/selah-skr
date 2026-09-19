@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے ادوم مل بݨسی، تے سعیر اوندے دشمنیں دا مل بݨسی، تے یسرایل بہادری کریسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مل"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "اوندے دشمنیں دا"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یسرایل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    }
+  ],
+  "timestamp": "2026-09-19T15:42:07.772660643Z",
+  "model": "glm-5.3"
+}

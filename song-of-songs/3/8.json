@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "سارے تلوار پکڑے ہوئے، جنگ وچ سِکھے ہوئے، ہر ہِک اپݨی تلوار ران اُتے، راتیں دے ݙر توں۔",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "پکڑے ہوئے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "سِکھے ہوئے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ وچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "اپݨی تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ران"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ݙر توں"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "راتیں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:22.538768832Z",
+  "model": "glm-5.3"
+}

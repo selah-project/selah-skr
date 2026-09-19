@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "کُتیّ دیاں کنّاں پکڑیندا، او لنگھدا ہویا اوں جھیڑے وِچ وڑدے جیہڑا اوندا کائنی۔",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "پکڑیندا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "دیاں کنّاں"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کُتیّ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھدا ہویا"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "غصے نال وڑدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:37.243807222Z",
+  "model": "glm-5.3"
+}

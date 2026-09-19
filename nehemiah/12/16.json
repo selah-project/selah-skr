@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "عدیا دے وِچوں زکریاہ؛ گنتون دے وِچوں مِشُلّم۔",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "عدیا دے وِچوں"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریاہ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "گنتون دے وِچوں"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:21.621946399Z",
+  "model": "glm-5.3"
+}

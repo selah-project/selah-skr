@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ڄاݨ کے ڄاݨ تُساں اپݨیاں ٻکریاں دے مُہاندرے، اپݨا دل لا ݙے اَجڑاں اُتے۔",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاݨ کے ڄاݨ"
+    },
+    {
+      "surface": "پנے",
+      "gloss": "مُہاندرے"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "اپݨیاں ٻکریاں دے"
+    },
+    {
+      "surface": "שית",
+      "gloss": "لا ݙے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپݨا دل"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "اَجڑاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:15.857875908Z",
+  "model": "glm-5.3"
+}

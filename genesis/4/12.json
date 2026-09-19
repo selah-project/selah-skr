@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "“جݙاں توں ⟨את⟩ زمین نوں کمرسی، تاں اوہ ٻیا آپݨی طاقت تیکوں نہ ݙیسی؛ بھڳڑدا تے رلدا ہویا توں زمین اُتے رہسی۔”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "کمرسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "آپݨی طاقت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "נע",
+      "gloss": "بھڳڑدا"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "تے رلدا ہویا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:27.428375640Z",
+  "model": "glm-5.3"
+}

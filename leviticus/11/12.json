@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "سبھ اوہ جیندے پَرّ تے چَھلّے کائنی، پاݨیاں وِچ — اوہ تُہاݙے کیتے گھناؤݨ ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کولھ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَرّ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "تے چَھلّے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨیاں وِچ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤݨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:03.104046739Z",
+  "model": "glm-5.3"
+}

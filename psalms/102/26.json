@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 102,
+  "translation": "پہلے توں تیں زمین دی نیہہ رکھی، تے اسمان تیݙے ہتھاں دا کم ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "نیہہ رکھی"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "تے کم"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تیݙے ہتھاں دا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:12.935179139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے پرعوہ یوسیف کوں آکھیا: “تیݙا پیو تے تیݙے بھرا تیݙے کول آ ڳئے ہِن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسیف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙا پیو"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "تے تیݙے بھرا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ ڳئے ہِن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے کول"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:10.754623199Z",
+  "model": "glm-5.3"
+}

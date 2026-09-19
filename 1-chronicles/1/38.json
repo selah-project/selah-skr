@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے سعیر دے پُتر: لوتان، شوُول، تصیبون، عانہ، دیشون، عیصر تے دیشان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "تے شوُول"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "تے تصیبون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "تے عانہ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "تے دیشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "تے عیصر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "تے دیشان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:55.437668050Z",
+  "model": "glm-5.3"
+}

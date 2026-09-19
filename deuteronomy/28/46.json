@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے اوہ تیݙے اُتے نشانی تے حیرانی بݙسن، تے تیݙی نسل وِچ، ہمیشہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "اوہ بݙسن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "نشانی کیتے"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "تے حیرانی کیتے"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "تے تیݙی نسل وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جݙاں تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:16.825275767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے موشے تے اہرون ملاقات دے خیمے دے اڳوں دو آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:06.390488086Z",
+  "model": "glm-5.3"
+}

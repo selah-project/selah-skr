@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے مشکیزے وِچوں پاݨی مُک ڳیا، تے اوں ⟨את⟩ ٻال کوں جھاڑیاں وِچوں ہِک دی تلے سٹ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "تے مُک ڳیا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "مشکیزے"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "تے سٹ ݙتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻال"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "جھاڑیاں وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:23.328231324Z",
+  "model": "glm-5.3"
+}

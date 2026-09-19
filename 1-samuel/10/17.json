@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے شموائل ⟨את⟩ قوم کوں یاہوہ کیتے مِتصفا وِچ سݙ مار کے کٹھا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "سݙ مار کے کٹھا کیتا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموائل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِتصفا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:38:40.804806758Z",
+  "model": "glm-5.3"
+}

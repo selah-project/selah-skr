@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے یاہوہ موشے نال آکھیا جو آکھیس:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:33.340307277Z",
+  "model": "glm-5.3"
+}

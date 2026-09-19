@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کیوں جو ہر اوہ جان جیہڑی اِیں آپ ہی ݙینہہ آپ کوں دَکھ نہ ݙیسی، اوہ آپݨی قوم کنوں کَٹی ویسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "دَکھ ݙیسی"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "آپ ہی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "تے کَٹی ویسی"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "آپݨی قوم کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:26.344343040Z",
+  "model": "glm-5.3"
+}

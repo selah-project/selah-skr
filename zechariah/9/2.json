@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے حماٿ وی اُوندے نال سرحد بݨسی، تے صور تے صیدون — کیوں جو او ٻہوں سیاݨی ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماٿ"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "سرحد بݨسی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُوندے نال"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "تے صیدون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:31.010473580Z",
+  "model": "glm-5.3"
+}

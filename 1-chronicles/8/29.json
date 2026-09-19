@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے گِبعون وِچ گبعون دا پیو رہندا ہا، تے اوندی ذال دا ناں ماعخاہ ہا۔",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "تے گِبعون وِچ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہندا ہا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گبعون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماعخاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:13.775632688Z",
+  "model": "glm-5.3"
+}

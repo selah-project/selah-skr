@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "او خوفناک تے ݙراوݨاں ہے؛ اوں کنوں اوندا فیصلہ تے اوندی بلندی نکلسی۔",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "خوفناک"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "تے ݙراوݨاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں کنوں"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "اوندا فیصلہ"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "تے اوندی بلندی"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:59.548934656Z",
+  "model": "glm-5.3"
+}

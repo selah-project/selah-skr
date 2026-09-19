@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "کہیں دے رہیماں تے اوندا رکھ گہنے وِچ نہ گھنو، کیوں جو اوہ جِیندی دا گہنہ بݨیندے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "گہنے وِچ گھنو"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "رہیماں"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "تے اوندا رکھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جِیندی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گہنہ بݨیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:21.285811518Z",
+  "model": "glm-5.3"
+}

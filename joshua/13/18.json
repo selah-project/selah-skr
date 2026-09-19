@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یہتصہ، تے قدموت، تے مفعت،",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "تے یہتصہ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "تے قدموت"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "تے مفعت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:50.315117808Z",
+  "model": "glm-5.3"
+}

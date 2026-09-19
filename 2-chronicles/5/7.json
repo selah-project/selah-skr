@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کاہناں ⟨את⟩ یاہوہ دے عہد دا صندوق اوندی جاہ تے گھن آئے — گھر دے اندرونی خانے ول، پوتراں دے پوترے خانے ول، کروباں دے پراں دے تلے۔",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "گھن آئے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اوندی جاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "اندرونی خانہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوترا"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پوتراں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:33.741237014Z",
+  "model": "glm-5.3"
+}

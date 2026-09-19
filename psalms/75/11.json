@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "تے سارے بدکاراں دے سنگ میں کپیساں، نیک دے سنگ اُچے تھیسن۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دے"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "میں کپیساں"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "اُچے تھیسن"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:22.435965041Z",
+  "model": "glm-5.3"
+}

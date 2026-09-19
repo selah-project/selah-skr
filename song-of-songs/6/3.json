@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "میں میݙے دود دی آں، تے میݙا دود میݙا ہے، اوہ سوسن پھلاں وِچ چریندے۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "میݙے دود دی"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "تے میݙا دود"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "اوہ چریندے"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "سوسن پھلاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:43.387767578Z",
+  "model": "glm-5.3"
+}

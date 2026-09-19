@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "میں غصے وِچ تیکوں بادشاہ ݙتا، تے اپݨے قہر وِچ اوں کوں کھس گھدا۔",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "میں ݙتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "غصے وِچ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "تے کھس گھدا"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "قہر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:36.433016104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاہوہ میݙے نال وی تُہاݙے کارݨ غصہ تھیا، آکھݨ لڳا: “توں وی اُتھاں نہ ویسیں۔”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "غصہ تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "تُہاݙے کارݨ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ویسیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:56.444777442Z",
+  "model": "glm-5.3"
+}

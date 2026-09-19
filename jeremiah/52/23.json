@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "تے انار ہِک پاسے نوے تے چھ ہن؛ سارے انار جالی اُتے دوالے سو ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوے"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "جالی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:53.343867705Z",
+  "model": "glm-5.3"
+}

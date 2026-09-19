@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "غریب کوں ستاوݨ آپ ودھاوݨ کیتے، تے امیر کوں ݙیوݨ — ٻس تنگی کیتے۔",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ستاوݨ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب کوں"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ودھاوݨ کیتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیوݨ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر کوں"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ٻس"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "تنگی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:19.014859032Z",
+  "model": "glm-5.3"
+}

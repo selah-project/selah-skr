@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "“لویاں کوں بنی اِسرائیل وِچوں گھن، تے انہاں کوں پاک صاف کریں۔",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویاں کوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "پاک صاف کریں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "انہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:02.377223183Z",
+  "model": "glm-5.3"
+}

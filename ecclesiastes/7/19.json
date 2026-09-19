@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "حکمت سیاݨے کیتے اُوں توں زیادہ تکڑی بݨیندی ہے جِتنا ݙاہ حکمران جو شہر وِچ ہن۔",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "تکڑی بݨیندی ہے"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "سیاݨے کیتے"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ݙاہ توں"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "حکمران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:04.967754960Z",
+  "model": "glm-5.3"
+}

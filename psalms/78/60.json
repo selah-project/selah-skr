@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "تے اوں شِیلوہ دا مسکن چھوڑ ݙتا، اوہ خیمہ جینکوں اوں بندیاں وِچ وَسایا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "چھوڑ ݙتُس"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "شِیلوہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "وَسایا"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:11.710070746Z",
+  "model": "glm-5.3"
+}

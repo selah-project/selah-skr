@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یاہوہ ایلوہیم اَدم ⟨دوں⟩ سݙیا، تے اونکوں آکھیس: “توں کتھاں ایں؟”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨دوں⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کتھاں ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:58.783451496Z",
+  "model": "glm-5.3"
+}

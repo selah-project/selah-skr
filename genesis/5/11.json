@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے اینوش دے سارے ݙینہہ پنج سال تے نو سو سال تھئے، تے او مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اینوش"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "تے نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:07.865977531Z",
+  "model": "glm-5.3"
+}

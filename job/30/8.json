@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "بے عقل لوکاں دے پُتر، بلکہ بے ناں لوکاں دے پُتر، اوہ زمین توں کُٹے کڈھے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بے عقل لوکاں دے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "کُٹے کڈھے ڳئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:47.188801802Z",
+  "model": "glm-5.3"
+}

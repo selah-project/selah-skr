@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے یاہوہ دا فرمان میکوں آیا، آکھݨ لئی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:43:19.385683091Z",
+  "model": "glm-5.3"
+}

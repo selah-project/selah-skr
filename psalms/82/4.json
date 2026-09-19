@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 82,
+  "translation": "غریب تے محتاج کوں بچاؤ، شریریں دے ہتھ توں انہاں کوں کڈھو۔",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریریں"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "کڈھو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:34.680556676Z",
+  "model": "glm-5.3"
+}

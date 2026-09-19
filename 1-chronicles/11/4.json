@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے داوِد تے سارا یِسرایل یروشلایم ڳیا — او یوُس ہئی — تے اُتھاں زمین دے وسنیک یوُسی رہندے ہن۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او … ہئی"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "یوُس"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یوُسی"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:20.934642948Z",
+  "model": "glm-5.3"
+}

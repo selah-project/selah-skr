@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "ول اوہ پچادھی پاسے دو ڳیا تے ماپیا، پنج سو نرس، نپݨ آلی نرس نال۔",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ول ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "پچادھی"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ماپیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نرساں"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "نرس نال"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپݨ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:26.539901107Z",
+  "model": "glm-5.3"
+}

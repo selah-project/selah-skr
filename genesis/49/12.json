@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "شراب توں اکھیاں ہن سرخ، تے کھیر توں دند ہن سفید۔",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھیاں"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب توں"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "تے سفید"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دند"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "کھیر توں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:02.476049517Z",
+  "model": "glm-5.3"
+}

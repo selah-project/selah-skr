@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ⟨את⟩ اوندا سارا چربی اوں توں کڈھیس تے قربانی گاہ اُتے ساڑیس۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوnderے سارا چربی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "اوندا چربی"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "کڈھیس"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "تے ساڑیس"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانی گاہ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:40.481824643Z",
+  "model": "glm-5.3"
+}

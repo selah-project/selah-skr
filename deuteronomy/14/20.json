@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہر پاک پرندہ تُساں کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پرندہ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.924872640Z",
+  "model": "glm-5.3"
+}

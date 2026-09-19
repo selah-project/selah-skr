@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے اَویشوع ⟨את⟩ بُکی کوں ڄݨایا، تے بُکی ⟨את⟩ عُزی کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "تے اَویشوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُکی"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکی"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "تے بُکی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:40.679194674Z",
+  "model": "glm-5.3"
+}

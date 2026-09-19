@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندے اُتے تیل پاویسیں، تے اوندے اُتے لُبان رکھسیں — ایہ مِنحہ ہے۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "تے پاویسیں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوںدے اُتے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "تے رکھسیں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوںدے اُتے"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لُبان"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مِنحہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہ ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:42.899244344Z",
+  "model": "glm-5.3"
+}

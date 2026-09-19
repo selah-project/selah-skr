@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اِنسان دے مُونہہ دے لفظ ڳوڑھے پاݨی ہِن، حکمت دا چشمہ ہِک واہندا نال ہے۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "עמוקים",
+      "gloss": "ڳوڑھے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُونہہ دے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وہندا نال"
+    },
+    {
+      "surface": "نבע",
+      "gloss": "واہندا"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.281625291Z",
+  "model": "glm-5.3"
+}

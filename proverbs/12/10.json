@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "راستباز اپݨے ڈھنگور دی جان ڄاݨدے، پر بُریاں دے رحم بے رحمی ہن۔",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "اپݨے ڈھنگور دی"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "تے رحم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُریاں دے"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بے رحمی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:57.423385797Z",
+  "model": "glm-5.3"
+}

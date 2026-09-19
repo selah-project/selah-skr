@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 120,
+  "translation": "ہائے میکوں، کیوں جو میں مِشیک وِچ پردیسی ریہاں، قیدار دے خیمیاں نال رہندا ریہاں۔",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "پردیسی ریہاں"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مِشیک"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "رہندا ریہاں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خیمیاں"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:34.430188427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے اوں شہر وِچ اَخآب، یِسرایل دے بادشاہ دوں ایلچی بھیجے۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجس"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ایلچی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:16:14.298990687Z",
+  "model": "glm-5.3"
+}

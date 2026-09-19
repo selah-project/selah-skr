@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اُوں زمین توں اَشُّور نِکلیا، تے ⟨את⟩ نینوہ، ⟨את⟩ رِحوبوت-عیر تے ⟨את⟩ کَلح بݨائیُس۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اُوں زمین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشُّور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "بݨائیُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینوہ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رِحوبوت-عیر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رِحوبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَلح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلح"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:52.239984878Z",
+  "model": "glm-5.3"
+}

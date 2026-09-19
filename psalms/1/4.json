@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایویں کائنی بدکاراں دا، بلکہ اوہ بھوسہ ہِن جینکوں واء اُݙا ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "بدکاراں دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨بلکہ⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "بھوسہ وانگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جینکوں"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "اُݙا ݙیندی ہے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واء"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:09.486049511Z",
+  "model": "glm-5.3"
+}

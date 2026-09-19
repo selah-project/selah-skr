@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پر ⟨את⟩ لوی دے قبیلے کوں نہ ڳݨیں، تے ⟨את⟩ انہاں دے سِر نہ چاویں، اِسرائیل دے پُتراں دے وچکار۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوی دے قبیلے"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ڳݨیں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں دے سِر"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "انہاں دے سِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چاویں"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:56.208892510Z",
+  "model": "glm-5.3"
+}

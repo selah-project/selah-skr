@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے فلستی آ ڳئے، تے رافایم دی وادی وچ کِھنڈ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے فلستی"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ ڳئے"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "کِھنڈ ڳئے"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادی وچ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رافایم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:18.621756870Z",
+  "model": "glm-5.3"
+}

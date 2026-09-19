@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "“یاہوہ، سبھ بشر دے روحاں دا ایلوہیم، جماعت اُتے ہِک بندہ مقرر کرے،",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "مقرر کرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "روحاں دا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:36.578443031Z",
+  "model": "glm-5.3"
+}

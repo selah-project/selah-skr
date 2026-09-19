@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 81,
+  "translation": "یاہوہ دے ویری اوں توں منہ لُکا destinationسن، تے اوں دا وقت ہمیشہ کیتے رہ ویسی۔",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "دے ویری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "منہ لُکاdestinationسن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے رہ ویسی"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "اوں دا وقت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:34.743326905Z",
+  "model": "glm-5.3"
+}

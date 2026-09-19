@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "او میݙی مصیبت دے ݙینہہ میکوں آ ملے، تے یاہوہ میݙا سہارا تھیا۔",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "او میکوں آ ملے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "میݙی مصیبت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "سہارا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:47.086930944Z",
+  "model": "glm-5.3"
+}

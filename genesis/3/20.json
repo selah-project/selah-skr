@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اَدم اپݨی ذال دا ناں حوّا رکھیس، کیوں جو او سبھے جیوِیاں دی ماء ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ناں رکھیس"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اپݨی ذال دا"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حوّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوِیاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:04.251726412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "آپݨیاں وِچ چغلخور نہ ٹُریسی؛ اپݨے سنگتی دے لہو تے نہ کھڑسی — میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ٹُریسی"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلخور"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "آپݨیاں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپݨے سنگتی دے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:03.247039461Z",
+  "model": "glm-5.3"
+}

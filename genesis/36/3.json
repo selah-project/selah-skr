@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ⟨את⟩ بَسمت، یِشماعیل دی دِھی، نَبایوت دی بھیݨ ⟨گِھدی⟩۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بَسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دِھی"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماعیل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بھیݨ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:43.518625894Z",
+  "model": "glm-5.3"
+}

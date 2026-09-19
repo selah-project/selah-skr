@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ایلقانہ تے یشیاہو تے عزرایل تے یوعزر تے یاشبعام قارحی۔",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلقانہ"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "تے یشیاہو"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "تے عزرایل"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "تے یوعزر"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "تے یاشبعام"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "قارحی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:17.012643074Z",
+  "model": "glm-5.3"
+}

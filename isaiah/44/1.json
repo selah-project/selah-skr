@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے ہُݨ سُݨ، یعقوو، میݙا چاکر، تے اِسرائیل، جینکوں میں چُݨیا۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میݙا چاکر"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے اِسرائیل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں چُݨیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:49:17.027150566Z",
+  "model": "glm-5.3"
+}

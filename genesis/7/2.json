@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہر پاک جانور وِچوں تیکوں ستّ ستّ نر تے اوندی مادی گھنݨے، تے اوں جانور وِچوں جیہڑا پاک کائنی، ݙو — نر تے اوندی مادی۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ہر … وِچوں"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گھنݨے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "تے اوندی مادی"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "تے اوندی مادی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:13.928796609Z",
+  "model": "glm-5.3"
+}

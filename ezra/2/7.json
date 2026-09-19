@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "عِیلام دے پُتر، ہِک ہزار ݙو سو چوپن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ואربעה",
+      "gloss": "چوپن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:17.034774321Z",
+  "model": "glm-5.3"
+}

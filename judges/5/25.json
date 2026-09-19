@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پاݨی اوں منگیا، کھیر ݙتس؛ وݙے پیالے وِچ مکھن نیڑے گھن آئی۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "منگیا"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "کھیر"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "پیالے وِچ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "نیڑے گھن آئی"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "مکھن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:23:29.274013692Z",
+  "model": "glm-5.3"
+}

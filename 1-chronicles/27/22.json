@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "دان کیتے عزرایل یروخام دا پُتر۔ ایہ اِسرائیل دے قبیلیاں دے سردار ہن۔",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "دان کیتے"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عزرایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروخام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبیلیاں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:51.445099759Z",
+  "model": "glm-5.3"
+}

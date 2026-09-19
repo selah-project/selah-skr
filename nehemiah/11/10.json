@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کاہناں وِچوں: یِدعایاہ یویارِیب دا پُتر، یاکِین۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدعایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "یویارِیب"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "یاکِین"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:34.156727346Z",
+  "model": "glm-5.3"
+}

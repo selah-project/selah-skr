@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ اچݨکیتیں موشے، اہرون تے مِریَم کوں آکھیا: “تُساں ترے مُلاقات دے خیمے دو نکلو۔” تے او ترے نکل آئے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچݨکیتیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مِریَم"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "نکلو"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "تُساں ترے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مُلاقات"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "تے نکل آئے"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "او ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:59.574256219Z",
+  "model": "glm-5.3"
+}

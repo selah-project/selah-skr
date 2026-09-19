@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "چھڑا میݙی جان تلخ توں، کُتے دے ہتھ توں میݙی اِکلوتی کوں۔",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "چھڑا"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "تلخ توں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کُتے"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "میݙی اِکلوتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:46.734558613Z",
+  "model": "glm-5.3"
+}

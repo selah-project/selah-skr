@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "احمق دا مُوہݨاں اوندا تباہی ہے، تے اوندیاں ہونٹھاں اوندی جان دا فندا ہن۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "مُوہݨاں"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق دا"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "تے اوندیاں ہونٹھاں"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "فندا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوندی جان دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:46.199528934Z",
+  "model": "glm-5.3"
+}

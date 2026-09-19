@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "کُھلے میدان دے مُنہ اُتے تُوں ڈھہسیں، کیوں جو میں ٻولیا ہے — ادونای یاہوہ دا اعلان۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ڈھہسیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:42:45.529791485Z",
+  "model": "glm-5.3"
+}

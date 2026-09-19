@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "جے او کلہا آیا ہووے تاں کلہا ویسی؛ جے او ذال آلا بندہ ہووے تاں اوندی ذال اونdegoدے نال ویسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آیا ہووے"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ویسی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ذال آلا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "تاں … ویسی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:54.658874684Z",
+  "model": "glm-5.3"
+}

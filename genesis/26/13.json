@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اوہ بندہ وݙا تھی ڳیا، تے ودھدا ویندا رہیا، تئیں جو اوہ ٻہوں وݙا تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وݙا تھیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ویندا رہیا"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ودھدا ہویا"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ودھدا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "وݙا تھی ڳیا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:32.130304110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یِسّاکھر دے قبیلے توں یِگعال، یوسِف دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے توں"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاکھر"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "یِگعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسِف"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:14.930246804Z",
+  "model": "glm-5.3"
+}

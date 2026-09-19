@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اوندے اڳوں ساری زمین کپے؛ اَتے تِبیل ⟨دنیا⟩ ٹک ویسی، ہلسی نہ۔",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "کپے"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اَتے"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ٹک ویسی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِبیل ⟨دنیا⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ہلسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:02.843929219Z",
+  "model": "glm-5.3"
+}

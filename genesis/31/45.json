@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یعقوو ہِک پتھر چاتا، تے اوندے اُتے کھڑا ستون بݨایا۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "اُچا کیتا"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:48.149299248Z",
+  "model": "glm-5.3"
+}

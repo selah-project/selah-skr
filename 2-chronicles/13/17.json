@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 13:17",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اَبیّا تے اوندے قوم انہاں کوں وݙی مار ماری، تے اِسرائیل وِچوں پنج لکھ چُݨے ہوئے جوان مارے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "مار ماری"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبیّا"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوندے قوم"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "مارے ڳئے"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "قتل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اِسرائیل وِچوں"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چُݨے ہوئے جوان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:40.484933616Z",
+  "model": "glm-5.3"
+}

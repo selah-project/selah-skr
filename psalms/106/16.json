@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے او پڑاؤ وِچ موشے کوں حسد کیتا، تے اہرون کوں — یاہوہ دا پاک بندہ۔",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "حسد کیتا"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشے کوں"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "پڑاؤ وِچ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کوں"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:37.743849942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اوں اوں کوں آکھیا: “میں نہ ویساں؛ اپݨی بھوئیں دو تے اپݨے ڄمݨ دی جاہ دو ویساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ویساں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "میݙی بھوئیں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "میݙے ڄمݨ دی جاہ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ویساں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:38.434867241Z",
+  "model": "glm-5.3"
+}

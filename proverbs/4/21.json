@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اِیہے تیݙیاں اکھیاں توں نہ ہٹن، اِنہاں کوں تیݙے دل وِچ رکھ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "ہٹن"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "تیݙیاں اکھیاں توں"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "اِنہاں کوں رکھ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیݙے دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:06.771924605Z",
+  "model": "glm-5.3"
+}

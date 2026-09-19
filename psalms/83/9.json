@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "اَشُور وی اُنہاں نال رَل ڳیا، او لوط دے پُتراں کیتے بازو بݨ ڳئے۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشُور"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "رَل ڳیا"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اُنہاں نال"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بݨ ڳئے"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کیتے"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:33.898189629Z",
+  "model": "glm-5.3"
+}

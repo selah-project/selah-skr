@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "لالچ کیتے کُلھا بندہ ڳولدا ہے، ہر ٹھوس سمجھ اُتے ضد کریندا ہے۔",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "لالچ کیتے"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولدا ہے"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "کُلھا بندہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ٹھوس سمجھ"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ضد کریندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.281138666Z",
+  "model": "glm-5.3"
+}

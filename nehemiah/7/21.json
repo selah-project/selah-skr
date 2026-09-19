@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اِٹر خِزقیّاہ دے پُتراں دے ⟨پُتر⟩، اَٹھانوے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اِٹر"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "خِزقیّاہ دے"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نَوّان"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:28.536781385Z",
+  "model": "glm-5.3"
+}

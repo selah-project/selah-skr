@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "راہیل دے پُتر: یوسف تے بنیمین۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راہیل دے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:20.959040893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "دولت مند تے غریب آپس وِچ ملئے ہن؛ سبھے کوں بݨیندا یاہوہ ہے۔",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "دولت مند"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ملئے ہن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨیندا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:16.339238672Z",
+  "model": "glm-5.3"
+}

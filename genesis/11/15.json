@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے شَلح ⟨את⟩ عِیبَر کوں ڄݨݨ دے بعد ترے سو ترے سال جِیا، تے اونہہ پُتراں تے دھیاں کوں ڄݨیا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلح"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیبَر کوں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبَر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולد",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:09.465738637Z",
+  "model": "glm-5.3"
+}

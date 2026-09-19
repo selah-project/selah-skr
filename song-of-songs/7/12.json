@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "آ میݙے پیارے، اساں کھیت ونڄوں، پنڈاں وِچ رات کٹوں۔",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میݙے پیارے"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "اساں نکلسوں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "رات کٹوں"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "پنڈاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:34.712875728Z",
+  "model": "glm-5.3"
+}

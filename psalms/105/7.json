@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "او یاہوہ ساݙا ایلوہیم ⟨ہے⟩، ساری زمین اُتے اوں دے فیصلے ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "اوں دے فیصلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:15.140890804Z",
+  "model": "glm-5.3"
+}

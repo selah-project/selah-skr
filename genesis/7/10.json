@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ست ݙینہاں توں بعد طوفان دے پاݨی زمین اُتے آ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہاں توں بعد"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے پاݨی"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان دے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "آ ڳئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:11.066818025Z",
+  "model": "glm-5.3"
+}

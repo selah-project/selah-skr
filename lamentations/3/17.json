@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے میݙی جان سلامتی توں پرے سٹی ڳئی، میں بھلیس نیائیں کوں۔",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "تے … پرے سٹی ڳئی"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "سلامتی توں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "میں بھلیس"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیائیں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:46.499171952Z",
+  "model": "glm-5.3"
+}

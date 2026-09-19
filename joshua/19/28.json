@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے عِبرون، تے رِخوب، تے خامّون، تے قانہ — وݙی صدون تائیں۔",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "تے عِبرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے رِخوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "تے خامّون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "تے قانہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:08:08.072871577Z",
+  "model": "glm-5.3"
+}

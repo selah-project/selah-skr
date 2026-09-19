@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے سارے یاویش گِلعاد اوہ ⟨את⟩ ساریاں ڳالھیں سُنیاں جو فلستیم شاؤل نال کیتیاں۔",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "سُنیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "یاویش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ ساریاں ڳالھیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:08.474384720Z",
+  "model": "glm-5.3"
+}

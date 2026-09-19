@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے تھیسی، جݙاں میں بادل زمین اُتے گھن آنداں، تاں کمان بادل وِچ ݙکھائی ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "میݙے بادل کوں"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "تے ݙکھائی ݙیسی"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بادل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:11.850047316Z",
+  "model": "glm-5.3"
+}

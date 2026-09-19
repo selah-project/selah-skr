@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے یشورون وِچ او بادشاہ ہا، جݙاں قوم دے سردار کٹھے تھئے، اسرائیل دے قبیلے سارے رَل کے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے او ہا"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "یشورون وِچ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "کٹھے تھیوݨ وِچ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دے"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:21.300190344Z",
+  "model": "glm-5.3"
+}

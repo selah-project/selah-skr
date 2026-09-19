@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے گَعَل شکم دے مالیاں اڳوں نِکھتا، تے ابیملخ نال لڑیُس۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکھتا"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گَعَل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالیاں"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم دے"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "تے لڑیُس"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "ابیملخ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:55.686423744Z",
+  "model": "glm-5.3"
+}

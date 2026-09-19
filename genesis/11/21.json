@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے رِعو سِروگ ⟨את⟩ کوں ڄݨݨ دے بعد ݙو سو ست ورہیاں جییا، تے پُتراں تے دھیاں کوں ڄݨیس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِروگ کوں"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سِروگ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورہیاں"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے ݙو سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہے"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:39.049929231Z",
+  "model": "glm-5.3"
+}

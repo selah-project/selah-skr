@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ⟨את⟩ نر نال عورت دے میسر وانگوں نہ سمہیں — اوہ گھناوناہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سمہیں"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "میسر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت دے"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گھناوناہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:51.122155166Z",
+  "model": "glm-5.3"
+}

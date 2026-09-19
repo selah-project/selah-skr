@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اُتھوں اوہ گُدگُدہ کوں ٹُرے، تے گُدگُدہ توں یُطبُتہ — پاݨیاں دیاں نہراں دی زمین۔",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گُدگُدہ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گُدگُدہ"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "یُطبُتہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "نہراں دیاں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:16.032760407Z",
+  "model": "glm-5.3"
+}

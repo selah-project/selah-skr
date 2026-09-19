@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے وت یاہوہ دا کلام میݙے کول آیا، آکھیندا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے وت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیندا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:23.198632279Z",
+  "model": "glm-5.3"
+}

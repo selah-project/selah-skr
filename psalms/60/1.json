@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 60,
+  "translation": "مُقصد ⟨کیتے⟩، «شوشن عِدوت» اُتے، داوِد دا مِختوم، سکھاوݨ ⟨کیتے⟩۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُقصد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "شوشن"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عِدوت"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مِختوم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "سکھاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:57.880438467Z",
+  "model": "glm-5.3"
+}

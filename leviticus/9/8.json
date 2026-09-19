@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اہرون قربان گاہ دو ڳیا، تے گناہ دی قربانی دا وِ wahijو ⟨את⟩، جیہڑا اوندا ہئی، ذبح کیتس۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح کیتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناہ دی قربانی دا وِ wahijو"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "وِ wahijو"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا ہئی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:21.750794614Z",
+  "model": "glm-5.3"
+}

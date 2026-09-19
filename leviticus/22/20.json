@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جیندے وِچ کوئی عیب ہووے، او نہ پیش کرو، کیوں جو اوہ تُہاݙے کیتے قبولیت دی شے نہ ⟨بݨسی⟩۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جو وی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کوئی عیب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "پیش کرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "قبولیت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:25.589742704Z",
+  "model": "glm-5.3"
+}

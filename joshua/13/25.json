@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اُنہاں دا سرحد تھیا یعزیر، تے سارے شہر گلعاد دے، تے آدھی زمین بنی عمّون دی، عروعیر تئیں جہڑا ربّہ دے اڳوں ہے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں دا"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یعزیر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد دے"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے آدھی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعیر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دے"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:13:47.321076612Z",
+  "model": "glm-5.3"
+}

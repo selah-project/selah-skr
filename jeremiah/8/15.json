@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اُمید رکھی اَساں سلامتی دی، تے کوئی بھلائی کائنی؛ شفا دے ویلھے دی، تے ݙیکھو — دہشت!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "اُمید رکھی"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلامتی دی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ویلھے دی"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "شفا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "دہشت"
+    }
+  ],
+  "timestamp": "2026-09-19T18:03:22.741347502Z",
+  "model": "glm-5.3"
+}

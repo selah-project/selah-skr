@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے لابن آکھیا: “ݙیکھو، کاش تیݙی ڳالھ موجب تھیوے ہا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "تھیوے ہا"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "تیݙی ڳالھ موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:24.926621653Z",
+  "model": "glm-5.3"
+}

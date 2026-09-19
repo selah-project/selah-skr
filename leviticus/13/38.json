@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جݙاں کہیں بندے یا ذال دی کھل وِچ، اُنہاں دے گوشت اُتے، چٹے دھبے ہوون — چِٹے دھبے —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوون"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "کھل وِچ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "اُنہاں دے گوشت اُتے"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "چِٹے دھبے"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "چِٹے دھبے"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "چِٹے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:43.544046704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "جو ایمان داری وہاوے، او راستی ݙسیندے، تے کُوڑا گواہ فراڈ۔",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "وہاوے"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمان داری"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیندے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "کُوڑا"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فراڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:22.250095493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ایہ تیݙے ناف کیتے شفا ہوسی، تے تیݙیاں ہݙیاں کیتے تراوٹ۔",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "شفا"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "تیݙے ناف کیتے"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "تے تراوٹ"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "تیݙیاں ہݙیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:32.068616327Z",
+  "model": "glm-5.3"
+}

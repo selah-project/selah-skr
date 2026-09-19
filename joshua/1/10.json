@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یہوشوع ⟨את⟩ لوکاں دے افسراں کوں حکم ݙتا آکھݨ،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم ݙتس"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوکاں دے افسراں"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "افسراں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:13.047345845Z",
+  "model": "glm-5.3"
+}

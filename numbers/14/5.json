@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تݙاں موشے تے اہرون اِسرائیل دے پُتراں دی ٹولی دے سارے کٹھ دے اڳوں اپݨے مُونہہ آن ڈھے پئے۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ڈھے پئے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "اپݨے مُونہہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کٹھ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:42.864695230Z",
+  "model": "glm-5.3"
+}

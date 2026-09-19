@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے سمندر دا ساحل چرواہیاں دیاں چراگاہاں تے مڑیاں بݨسی، تے ڳلیاں دیاں واڑاں۔",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "تے … بݨسی"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ساحل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "נות",
+      "gloss": "مڑیاں"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "چراگاہاں"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "چرواہیاں"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "تے واڑاں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ڳلیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:18.751170141Z",
+  "model": "glm-5.3"
+}

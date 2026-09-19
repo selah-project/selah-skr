@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "یاہوہ دا ݙر حیاتی دا جھرنا ہے، موت دے پنجیاں توں ہٹ ونڄݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "دا ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "جھرنا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ہٹ ونڄݨ کیتے"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "دے پنجیاں توں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:54.763436534Z",
+  "model": "glm-5.3"
+}

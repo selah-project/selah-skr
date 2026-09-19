@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے قوم یہوشوع کوں آکھیا: “نہ، بلکہ ⟨את⟩ یاہوہ کوں اساں عبادت کریسوں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "عبادت کریسوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:20:37.214889464Z",
+  "model": "glm-5.3"
+}

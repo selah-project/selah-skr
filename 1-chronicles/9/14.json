@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے لویاں وِچوں شمعیاہ، خشّوو دا پُتر، عزرِیقام دا پُتر، خشبیاہ دا پُتر، مراری دے پُتراں وِچوں۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "خشّوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عزرِیقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خشبیاہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:07.903919533Z",
+  "model": "glm-5.3"
+}

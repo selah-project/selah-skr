@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "بدلے نال آپݪے آپ کوں ڈھک گھدوس، جو دُعا لنگھ نہ سڳے۔",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ڈھک گھدوس"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بدلے نال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپݪے آپ کوں"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "لنگھݨ توں"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دُعا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:47.396848244Z",
+  "model": "glm-5.3"
+}

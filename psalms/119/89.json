@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ہمیشہ کیتے، یاہوہ، تیݙا کلام آسماناں وِچ پکا کھڑا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیݙا کلام"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "پکا کھڑا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسماناں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:25.190590252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یہوداہ دے بادشاہ دے گھر کوں ⟨آکھو⟩: یاہوہ دا کلام سُݨو۔",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "تے گھر کوں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:07:10.748958999Z",
+  "model": "glm-5.3"
+}

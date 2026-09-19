@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "برائی توں ہٹ ونڄ، تے بھلائی کر؛ سلامتی ڳول، تے اون٘دے پچھوں ٹُر۔",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ہٹ ونڄ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائی توں"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ڳول"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "تے اون٘دے پچھوں ٹُر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:52.176906896Z",
+  "model": "glm-5.3"
+}

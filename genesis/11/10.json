@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ایہ شیم دی نسل دے واقعات ہن: شیم سو سال دا ہا، تے طوفان توں ݙو سال بعد اُوں ⟨את⟩ اَرفکشد کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسل دے واقعات"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم دی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال دا"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرفکشد کوں"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفکشد"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ݙو سال"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان توں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:11.734810650Z",
+  "model": "glm-5.3"
+}

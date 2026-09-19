@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے آکھیس: “اپݨا اجر مقرر کر میݙے اُتے، تے میں ݙیساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مقرر کر"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "اپݨا اجر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "تے میں ݙیساں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:54.897270355Z",
+  "model": "glm-5.3"
+}

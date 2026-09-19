@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بادشاہ شلومو بھیڄیا، تے اوں ⟨את⟩ حیرام کوں صور توں گھن گھدا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھن گھدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیرام"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "صور توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:39.950532438Z",
+  "model": "glm-5.3"
+}

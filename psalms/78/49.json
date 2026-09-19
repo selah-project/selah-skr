@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "اُنہاں اُتے اپݨے غصے دی بھڑک بھیجیس — غضب تے رشت تے تنگی، بُرے فرشتےآں دی ہِک بھیڄ۔",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "بھیجیس"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بھڑک"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "تے رشت"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "تے تنگی"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "بھیڄ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتےآں"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بُرے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:12.958599641Z",
+  "model": "glm-5.3"
+}

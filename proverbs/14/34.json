@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "راستی قوم کوں اُچا کریندی ہے، تے قومیں وِچ گناہ ⟨شرمندگی⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "اُچا کریندی ہے"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "تے خیرات"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومیں کیتے"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:49.037866716Z",
+  "model": "glm-5.3"
+}

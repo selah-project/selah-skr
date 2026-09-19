@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 73,
+  "translation": "تے او آکھدن: “کیا ایل ڄاݨدا ہے؟ کیا عِلیون کولھ ڄاݨ ہے؟”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "تے او آکھدن"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "تے کیا ہے"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "عِلیون کولھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:31.663624207Z",
+  "model": "glm-5.3"
+}

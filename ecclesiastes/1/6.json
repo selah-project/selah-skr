@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "لمے دو ٹُردی ہے تے اُتریاں دو مُڑدی ہے؛ گھمدی گھمدی ٹُردی ہوا، تے اپݨے چکراں اُتے وَل آندی ہے ہوا۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ٹُردی ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… دو"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "تے مُڑدی ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… دو"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتریاں"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "گھمدی"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "گھمدی"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ٹُردی ہے"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "اپݨے چکراں"
+    },
+    {
+      "surface": "שב",
+      "gloss": "وَل آندی ہے"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:51.071779039Z",
+  "model": "glm-5.3"
+}

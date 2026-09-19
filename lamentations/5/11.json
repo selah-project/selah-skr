@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "صہیون وِچ تریمتیں کوں زیاں کیتیاں ڳئیاں، یہوداہ دے شہراں وِچ کنواریاں کوں۔",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "تریمتیں"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیون وِچ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "زیاں کیتیاں ڳئیاں"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "کنواریاں"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:46.103457412Z",
+  "model": "glm-5.3"
+}

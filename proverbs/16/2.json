@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بندے دے سارے راہ اوندیاں اکھیں وِچ صاف ہوندن، پر روحاں کوں تولیندا یاہوہ ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "זך",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اوندیاں اکھیں وِچ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "پر تولیندا"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "روحاں کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:26.706716107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اَوراہام اُٹھیا تے زمین دے لوکاں کوں، ایت دے پتراں کوں، سِر جُھکایا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "سِر جُھکایا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں کوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پتراں کوں"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ایت دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:25:05.340471984Z",
+  "model": "glm-5.3"
+}

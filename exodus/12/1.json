@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ موشے تے اہرون کوں مِتصرایم دی زمین وِچ آکھیا، جو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:13.671882466Z",
+  "model": "glm-5.3"
+}

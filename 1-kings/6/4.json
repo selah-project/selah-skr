@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اُوں گھر کیتے تنگ بند کھڑکیاں بݨایس۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بݨایس"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر کیتے"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "کھڑکیاں"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "سِدھیاں کھُلیاں"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "بند تنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:06:12.890192911Z",
+  "model": "glm-5.3"
+}

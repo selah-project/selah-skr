@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے مالِ غنیمت، لُٹ دا باقی حصہ جیہڑا لشکر دے لوکیں لُٹیا، ایہ ہا: بھیݙاں چھی سو ہزار، تے ستر ہزار، تے پنج ہزار۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "مالِ غنیمت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "لُٹیا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکیں"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر دے"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیݙاں"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:23.271561463Z",
+  "model": "glm-5.3"
+}

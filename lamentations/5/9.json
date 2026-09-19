@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙی جان نال اساں ساݙی روٹی گھن آندے ہاسے، بيابان دی تلوار ⟨دے ݙر توں⟩۔",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ساݙی جان نال"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "گھن آندے ہاسے"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ساݙی روٹی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے ݙر توں"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابان دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:46.097352707Z",
+  "model": "glm-5.3"
+}

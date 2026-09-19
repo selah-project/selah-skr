@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 98,
+  "translation": "سمندر گجّے تے اوندا سب کجھ، دھرتی تے اوندے وسنیک وی ہوون۔",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گجّے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "تے اوندا سب کجھ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "تے اوندے وسنیک وی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨اوندے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:11.776186239Z",
+  "model": "glm-5.3"
+}

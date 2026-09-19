@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "اوندے ݙیہاڑیاں وِچ راست باز ٹروسی، تے ٻہوں سلامتی، جیتئیں چندر نہ رہے۔",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "ٹروسی"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "اوندے ݙیہاڑیاں وِچ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "تے ٻہوں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جیتئیں"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چندر رہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:56.805784705Z",
+  "model": "glm-5.3"
+}

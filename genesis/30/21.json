@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے بعد وِچ لاعہ ہِک دھی جِمّی، تے اوندے ناں کوں دینہ سݙیا۔",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "تے بعد وِچ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جِمّی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "تے سݙیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے ناں کوں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:49.483788669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے ایوب مر ڳیا، ٻُڈھا تے ݙینہہاں توں ریہا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ٻُڈھا"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ریہا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:04.918856746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "جیڑھی یاہوہ دی ڳالھ نبی یرمیاہو کیتے پلشتیم بارے تھی ہئی، ⟨את⟩ عزہ کوں پرعوہ مارݨ توں پہلے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی ہئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارݨ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزہ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:57.942971721Z",
+  "model": "glm-5.3"
+}

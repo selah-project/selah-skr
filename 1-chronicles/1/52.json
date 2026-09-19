@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "سردار اہولیبامہ، سردار ایلاہ، سردار پینون۔",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "اہولیبامہ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلاہ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "پینون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:23.826361097Z",
+  "model": "glm-5.3"
+}

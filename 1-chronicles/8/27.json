@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یعریشیہ، تے الیہ، تے زکری — یروحام دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "تے یعریشیہ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "تے الیہ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "تے زکری"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروحام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:52.676325805Z",
+  "model": "glm-5.3"
+}

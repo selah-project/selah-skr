@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے او پنجے بادشاہ بھڄ ڳئے، تے مقیدہ دی ہِک غار وِچ لُک ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "بھڄ ڳئے"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنجے"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "او"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "تے لُک ڳئے"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غار وِچ"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "مقیدہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:11:42.534494885Z",
+  "model": "glm-5.3"
+}

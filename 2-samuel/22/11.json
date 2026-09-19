@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے او کروب اُتے سوار تھی اُڑیا، تے ہوا دے پراں اُتے ݙکھائی ݙتس۔",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "سوار تھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "اُڑیا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ݙکھائی ݙتس"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:59:14.247471734Z",
+  "model": "glm-5.3"
+}

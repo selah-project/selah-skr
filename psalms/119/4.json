@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تُساں حکم کیتا جو تیݙے احکام ٻہوں نبھائے ونڄن۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "حکم کیتا"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تیݙے احکام"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "نبھائے ونڄن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:12.982616357Z",
+  "model": "glm-5.3"
+}

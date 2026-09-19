@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بندے دا دل اپݨا رستہ سوچیندے، تے یاہوہ اوندے قدم کوں سیدھا کریندے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "سوچیندے"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اپݨا رستہ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "سیدھا کریندے"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "اوندے قدم کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:17.530599706Z",
+  "model": "glm-5.3"
+}

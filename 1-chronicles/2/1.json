@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایہ اِسرائیل دے پُتر ہن: رئوبین، شِمعون، لِوی تے یہوداہ، یِساخار تے زبولون۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبین"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہوداہ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساخار"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "تے زبولون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:57.992522492Z",
+  "model": "glm-5.3"
+}

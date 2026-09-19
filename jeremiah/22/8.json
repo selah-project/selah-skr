@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے ٻہوں سارے قوماں ایں شہر کنوں لنگھسن، تے ہر بندہ اپݨے سنگتی کوں آکھسی: “یاہوہ ایں وݙے شہر نال ایویں کیوں کیتا؟”",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "لنگھسن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپݨے سنگتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر نال"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:15.817020812Z",
+  "model": "glm-5.3"
+}

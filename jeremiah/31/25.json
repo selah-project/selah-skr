@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "کیوں جو میں تھکڑی جان کو سیر کر ݙتم، تے ہر ہمیش لگی جان کو میں بھر ݙتم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "سیر کر ݙتم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "تھکڑی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ہمیش لگی"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "بھر ݙتم"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:17.280369865Z",
+  "model": "glm-5.3"
+}

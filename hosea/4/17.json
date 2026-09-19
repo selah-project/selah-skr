@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "مورتاں نال جُڑیا ہویا اِفرایم — اوں کوں چھوڑ ݙے۔",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "جُڑیا ہویا"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "مورتاں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "چھوڑ ݙے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:10.708709081Z",
+  "model": "glm-5.3"
+}

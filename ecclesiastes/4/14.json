@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو قیدیاں دے گھر توں ٻاہر نِکھتا تھیا بادشاہی کیتے، کیوں جو او اپݨی بادشاהی وِچ غریب جمیا ہا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "قیدیاں دے"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکھتا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ بݨݨ کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "اپݨی بادشاہی وِچ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "جمیا"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:53.632353663Z",
+  "model": "glm-5.3"
+}

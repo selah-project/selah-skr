@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "“اِنسان دا پُتر! آپݨا مُکھڑا یِصرائل دے پہاڑاں دو رکھ، تے اُنہاں کوں نبوّت کر۔”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دا"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا مُکھڑا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِصرائل دے"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "نبوّت کر"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُنہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:27:13.255801694Z",
+  "model": "glm-5.3"
+}

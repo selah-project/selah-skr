@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے ہر زین جیڑھا وڳݨ آلا اُوندے اُتے چڑھدا ہووے، ناپاک تھیسی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "زین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "چڑھدا ہووے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "وڳݨ آلا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:30.034755025Z",
+  "model": "glm-5.3"
+}

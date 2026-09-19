@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "سُݨ، اَے یاہوہ، تے میں اُتے رحم کر؛ یاہوہ، میݙا مددگار تھی۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "تے میں اُتے رحم کر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:53.727321816Z",
+  "model": "glm-5.3"
+}

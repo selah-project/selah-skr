@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے تُساں میکوں ⟨את⟩ ڳولسو تے پاؤسو، کیوں جو تُساں میکوں آپݨے سارے دل نال ڳولیندے ہو۔",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ڳولسو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "میکوں"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "پاؤسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ڳولیندے ہو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:50.293597383Z",
+  "model": "glm-5.3"
+}

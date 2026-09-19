@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "منہہ نہ کر، اپݨے ناں کیتے؛ اپݨے جلال دا تخت رسوا نہ کر؛ یاد رکھ، اپݨا عہد ⟨אתנו⟩ ساݙے نال نہ توڑ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "منہہ کر"
+    },
+    {
+      "surface": "למען",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اپݨے ناں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "رسوا کر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "اپݨے جلال دا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "توڑ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "اپݨا عہد"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ساݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:05.802672690Z",
+  "model": "glm-5.3"
+}

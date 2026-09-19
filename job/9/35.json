@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "میں ٻولساں تے اوں کنوں نہ ڈرساں، کیوں جو میں آپ نال ایویں کائنی۔",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "میں ٻولساں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "اوں کنوں ڈرساں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "آپ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:17.092150052Z",
+  "model": "glm-5.3"
+}

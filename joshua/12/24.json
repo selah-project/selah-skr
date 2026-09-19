@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تِرتِصاہ دا بادشاہ ہِک۔ سارے بادشاہ تریہہ تے ہِک ہن۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تِرتِصاہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "تے ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.446602084Z",
+  "model": "glm-5.3"
+}

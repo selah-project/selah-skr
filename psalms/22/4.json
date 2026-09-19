@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے تُوں پاک ہِیں، یِسرایل دیاں تعریفاں وِچ ٻیٹھا ہِیں۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ٻیٹھا ہِیں"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "تعریفاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:06.708892141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ویلہہ ڄمݨ دا، تے ویلہہ مرݨ دا؛ ویلہہ لگاوݨ دا، تے ویلہہ لائی ہوئی ⟨شے⟩ کوں پٹݨ دا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ڄمݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرݨ دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "لگاوݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "پٹݨ دا"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "لائی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:29.049360510Z",
+  "model": "glm-5.3"
+}

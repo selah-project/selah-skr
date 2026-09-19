@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے یِسرایل دے سبھے بندے چھڑی دے مِلے وِچ بادشاہ کول کٹھے تھئے — او ہے ستواں مہینہ۔",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "کٹھے تھئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "چھڑی دے مِلے وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مہینہ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستواں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:19.267518439Z",
+  "model": "glm-5.3"
+}

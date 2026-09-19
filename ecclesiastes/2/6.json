@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں آپݨے کیتے پاݨی دے تالاب بݨائے، جو اُنہاں توں اُگدے رُکھاں دے جنگل کوں سیراب کرن ہا۔",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "تالاب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی دے"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "جو … سیراب کرن ہا"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اُنہاں توں"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل کوں"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "اُگدے"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "رُکھاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:19.746178528Z",
+  "model": "glm-5.3"
+}

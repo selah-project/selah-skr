@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 2:16",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایں کیتے ݙیکھو، میں اوندے دل نال ڳالھ کریساں۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מפתיה",
+      "gloss": "ولیسی"
+    },
+    {
+      "surface": "והלכתיה",
+      "gloss": "گھن ویساں"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بن بیابان وِچ"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "ڳالھ کریساں"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "اوندے دل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:50.632967638Z",
+  "model": "glm-5.3"
+}

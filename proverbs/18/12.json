@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تباہی توں پہلے بندے دا دل اُچا تھی ویندے، تے عزت توں پہلے عاجزی۔",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "اُچا تھی ویندے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے توں پہلے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:46.592957433Z",
+  "model": "glm-5.3"
+}

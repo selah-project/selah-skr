@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے میں جواب ݙتا تے اوں فرشتے کوں آکھیا جیہڑا میݙے نال ڳالھیندا ہا: “ایہ کیا ہن، میݙے ادونای؟”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "تے میں جواب ݙتا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "اوں فرشتے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھیندا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میݙے ادونای"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:54.701256823Z",
+  "model": "glm-5.3"
+}

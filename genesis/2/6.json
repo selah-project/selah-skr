@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے بھاپ زمین توں چڑھدی، تے ⟨את⟩ سارے مٹی دے مُہان٘ݙے کوں سیراب کریندی ہئی۔",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "تے بھاپ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "تے سیراب کریندی ہئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے مُہان٘ݙے کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُہان٘ݙے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "مٹی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:21.909162552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ٻہوں ݙینہہ یہوشوع ⟨את⟩ انہاں سبھے بادشاہاں نال جنگ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں سبھے بادشاہاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انہاں"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:06.768453523Z",
+  "model": "glm-5.3"
+}

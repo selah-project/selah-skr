@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "سست بندہ آپݨا ہتھ پیالے وِچ لُکا گھندے، اوندے مونہہ تئیں وی ولیندا کائنی۔",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "لُکا گھندے"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست بندہ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آپݨا ہتھ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "پیالے وِچ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اوندے مونہہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ولیندا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.538514962Z",
+  "model": "glm-5.3"
+}

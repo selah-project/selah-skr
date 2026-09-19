@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "میݙے لوکو، میں تیݙے کیتے کیا کیتا؟ تے میں تیکوں کتھ تھکائے؟ میݙے نال جواب ݙے۔",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "میݙے لوکو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "تھکائا"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب ݙے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:29.299431598Z",
+  "model": "glm-5.3"
+}

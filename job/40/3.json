@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے ایوب ⟨את⟩ یاہوہ کوں جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:17.524753708Z",
+  "model": "glm-5.3"
+}

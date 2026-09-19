@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ⟨את⟩ پرمشتا، تے ⟨את⟩ اریسائی، تے ⟨את⟩ اردائی، تے ⟨את⟩ ویَزتا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پرمشتا"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "پرمشتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اریسائی"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "اریسائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اردائی"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "اردائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ویَزتا"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ویَزتا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:37.210424417Z",
+  "model": "glm-5.3"
+}

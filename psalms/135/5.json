@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "کیوں جو میں ڄاݨدا جو یاہوہ وݙا ہے، تے ساݙا ادونای سارے دیوتیاں توں وݙا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "تے ساݙا ادونای"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے دیوتیاں توں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "دیوتا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:55.712279411Z",
+  "model": "glm-5.3"
+}

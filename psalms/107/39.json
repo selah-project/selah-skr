@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "تے اوہ گھٹ تھی ڳئے تے جِھک ڳئے، تنگی، برائی تے غم توں۔",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "گھٹ تھی ڳئے"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "جِھک ڳئے"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "تنگی توں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "تے غم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:23.201902300Z",
+  "model": "glm-5.3"
+}

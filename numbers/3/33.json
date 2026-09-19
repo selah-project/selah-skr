@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "مِراری آلے: مَحلی ٹبر تے مُوشی ٹبر — ایہے ہن مِراری دے ٹبر۔",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "مِراری آلے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "تے ٹبر"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "مُوشی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبراں"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:01.962341031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ایہ عیسو دے پُتر ہن، تے ایہ اُنہاں دے سردار ہن؛ او آپ ادوم ہے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "اُنہاں دے سردار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:53.295667674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ابیمیلخ کوں ݙسیا ڳیا جو شِکیم دے مینار دے سارے سردار کٹھے تھی ڳن۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسیا ڳیا"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ابیمیلخ کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "کٹھے تھی ڳن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:58.977450744Z",
+  "model": "glm-5.3"
+}

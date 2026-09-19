@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "joshua 15:62",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے نِبشان، تے نمک دا شہر، تے عین گِدی — چھی شہر تے اُنہاں دیاں وستیاں۔",
+  "tokens": [
+    {
+      "surface": "והנבשן",
+      "gloss": "تے نِبشان"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "تے شہر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک دا"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے عین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گِدی"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے اُنہاں دیاں وستیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:44.740329613Z",
+  "model": "glm-5.3"
+}

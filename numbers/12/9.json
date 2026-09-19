@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ دا غصہ انہاں اُتے بھڑکیا، تے اوہ ویندا تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "بھڑکیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں اُتے"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ویندا تھی ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:44.695223445Z",
+  "model": "glm-5.3"
+}

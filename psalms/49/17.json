@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "نہ ݙر جݙاں کوئی بندہ امیر تھیوے، جݙاں اوندے گھر دا جلال ودھے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "امیر تھیوے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوندے گھر دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:01.755283275Z",
+  "model": "glm-5.3"
+}

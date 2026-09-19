@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙے پیو دی بھیݨ دی برہنائی تُساں نہ کھولو، او تیݙے پیو دا گوشت ہے۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بھیݨ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولو"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:25.872886491Z",
+  "model": "glm-5.3"
+}

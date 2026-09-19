@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 127,
+  "translation": "جیویں تِیر ہِک بہادر دے ہتھ وِچ ہوندن، اِیویں جوانی دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "جیویں تِیر"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "جوانی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:30.287414142Z",
+  "model": "glm-5.3"
+}

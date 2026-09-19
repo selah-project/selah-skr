@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر، تے اوندے ڳݨے ہوئے ترے ہزار پنجاہ ہزار تے چار سو ہن۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اوندے ڳݨے ہوئے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:31.334380317Z",
+  "model": "glm-5.3"
+}

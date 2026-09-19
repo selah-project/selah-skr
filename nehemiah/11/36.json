@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے لاویاں وِچوں کجھ ٹوٹے یہوداہ وِچ بنیامین کیتے ہن۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویاں"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "ٹوٹے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "بنیامین کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:48.223119614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے یاہوہ دی ترُومت دا مَکس ⟨את⟩ ایلعزر کاہن کوں ݙتا، جیویں یاہوہ موشے کوں حکم کیتا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَکس"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "مَکس"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ترُومت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "ایلعزر کوں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا ہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:04.186384619Z",
+  "model": "glm-5.3"
+}

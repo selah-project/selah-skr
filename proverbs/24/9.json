@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "نالایق دی سوچ ہِک گناہ ہے، تے مذاق اُڑاوݨ آلا بندیاں کیتے ہِک گھناؤݨی شے ہے۔",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "نالایق دی سوچ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": " stupidity وَہم"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "تے گھناؤݨی شے"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بندیاں کیتے"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاق اُڑاوݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:22.268376702Z",
+  "model": "glm-5.3"
+}

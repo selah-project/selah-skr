@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ہُݨ یاہوہ تصواوت ایں طرح آکھیا: “آپݨے دل آپݨیاں راہاں اُتے لاؤ۔”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "لاؤ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "آپݨے دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "آپݨیاں راہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:30.634367716Z",
+  "model": "glm-5.3"
+}

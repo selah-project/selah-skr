@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو حکم ہِک بتی ہے، تے تورات ہِک سوجھلا، تے زندگی دا رستہ نصیحتاں ہِن تے سمجھاوݨ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נר",
+      "gloss": "بتی"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "تے تورات"
+    },
+    {
+      "surface": "אור",
+      "gloss": "سوجھلا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی دا"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "نصیحتاں"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "سمجھاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:27.450751451Z",
+  "model": "glm-5.3"
+}

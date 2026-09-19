@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "ہائے اَشّور! او میݙے غصے دی لاٹھی ہے، تے اُنہاں دے ہتھ وِچ دی ݙنڈی — میݙا قہر۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "لاٹھی"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "میݙے غصے"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "تے ݙنڈی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اُنہاں دے ہتھ وِچ"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "میݙا قہر"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:43.079382397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوہ وَل اَبنیر کوں ⟨את⟩ کہیں ڳالھ دا جواب نہ ݙے سڳیا، اوندے ڈر توں ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "سڳیا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "جواب ݙیوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبنیر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "اوندے ڈر توں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T16:50:38.305825356Z",
+  "model": "glm-5.3"
+}

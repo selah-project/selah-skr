@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کِویں سونا مدھم تھی ڳیا، چنڳا کیتل بدل ڳیا! پاک دے پتھر ہر گلی دے مُنڈھ وِچ وَہا ݙتے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "مدھم تھی ڳیا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بدل ڳیا"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "چنڳا کیتل"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "وَہا ݙتے ڳئے"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "دے پتھر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "مُنڈھ وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "گلی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:03.814195873Z",
+  "model": "glm-5.3"
+}

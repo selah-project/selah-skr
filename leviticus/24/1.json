@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یاہوہ موشے نال ٻولیا، آکھیس:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:33.444886900Z",
+  "model": "glm-5.3"
+}

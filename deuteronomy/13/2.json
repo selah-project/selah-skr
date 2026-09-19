@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "جݙاں تُہاݙے وِچ کوئی نبی اُٹھسی یا کوئی خواب ݙیکھݨ والا، تے تُہاکوں کوئی نشانی یا کوئی حیرت آلی ڳالھ ݙیکھسی،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٹھسی"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تُہاݙے وِچ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خواب ݙیکھݨ والا"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "تے ݙیکھسی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشانی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "حیرت آلی ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:13.748941035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "یاہوہ کوں تے اوندی طاقت کوں ڳولو، اوندا مُکھ ہمیشہ ڳولو۔",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ڳولو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "تے اوندی طاقت کوں"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳولو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندا مُکھ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:03.478282266Z",
+  "model": "glm-5.3"
+}

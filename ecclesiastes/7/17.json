@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ٻہوں شرارت نہ کر، تے نہ بے-عقل تھی؛ بغیر اپݨے ویلھے دے کیوں مریں؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "شرارت کر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "بے-عقل"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریں"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "اپݨے ویلھے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:04.963327074Z",
+  "model": "glm-5.3"
+}

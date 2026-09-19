@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ⟨את⟩ فِنوایل دا مینار اوں ڈھہایا، تے ⟨את⟩ شہر دے مردیں کوں مار ماریا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فِنوایل دا مینار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "فِنوایل"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ڈھہایا"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "مار ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر دے مرد"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:26:30.754641374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے تھیا، اَوراہام دے مِتصرایم وڑݨ ویلے، مِتصرایمیاں ذال ⟨את⟩ ݙٹھی، جو او ٻہوں سوہݨی ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "وڑݨ ویلے"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مِتصرایمیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذال"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:05.375934936Z",
+  "model": "glm-5.3"
+}

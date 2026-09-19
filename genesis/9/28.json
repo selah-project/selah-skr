@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے طوفان توں بعد نوح ترے سو پنجاہ سال جیایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "تے جیایا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:39.414102991Z",
+  "model": "glm-5.3"
+}

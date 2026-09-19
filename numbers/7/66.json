@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ݙاہویں ݙینہہ دݨ پُترے دا سردار اَخیعزر، پُتر عمیشدّای ⟨قربانی ݙتی⟩۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ اُتے"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ݙاہویں"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُترے دا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دݨ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اَخیعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عمیشدّای"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:40.650533032Z",
+  "model": "glm-5.3"
+}

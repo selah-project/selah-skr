@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ٹِلئے جو سِجھ نہ اُجڑے، تے اُجلا، تے چندر، تے تارے، تے بدلیں مینہہ توں بعد واپس ونڄن۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ٹِلئے جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "اُجڑسی"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "تے اُجلا"
+    },
+    {
+      "surface": "وירח",
+      "gloss": "تے چندر"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "تے تارے"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "تے واپس ونڄسن"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بدلیں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ہگشم",
+      "gloss": "مینہہ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:54.762420600Z",
+  "model": "glm-5.3"
+}

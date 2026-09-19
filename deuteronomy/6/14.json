@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ٻئے معبوداں پچھوں نہ ٹرو — اُنہاں قوماں دے معبوداں وِچوں جیہڑے تُہاݙے دوالے ہِن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبود"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "دے معبوداں وِچوں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "تُہاݙے دوالے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:56.948402656Z",
+  "model": "glm-5.3"
+}

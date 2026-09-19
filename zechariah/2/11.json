@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہو، صہیون! بچو، بابل دی دھی دے نال رہوݨ آلی۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "بچو"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "رہوݨ آلی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:19.934115709Z",
+  "model": "glm-5.3"
+}

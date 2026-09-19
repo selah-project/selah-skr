@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "قومیں دے سردار: پروش، پخت موآب، عیلام، زتّو، بانی،",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومیں دے"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پروش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پخت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زتّو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:01.611378758Z",
+  "model": "glm-5.3"
+}

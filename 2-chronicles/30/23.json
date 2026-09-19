@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے سارے کٹھ صلاح کیتی جو ٻئے ست ݙینہہ وی منائے ونڄن، تے او ٻئے ست ݙینہہ خُشی نال منائے۔",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "تے صلاح کیتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کٹھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "مناؤݨ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے منائے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خُشی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:59:07.286114020Z",
+  "model": "glm-5.3"
+}

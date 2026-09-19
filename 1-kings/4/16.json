@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "بَعنا، حوشائی دا پُتر، اَشیر تے بَعلاوت وِچ۔",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بَعنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشائی"
+    },
+    {
+      "surface": "באשر",
+      "gloss": "اَشیر وِچ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "تے بَعلاوت"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:51.893978788Z",
+  "model": "glm-5.3"
+}

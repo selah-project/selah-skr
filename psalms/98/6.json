@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 98,
+  "translation": "حصوصریاں تے شوفار دی آواز نال بادشاہ یاہوہ دے اڳوں ہلاری ݙیؤ۔",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "حصوصریاں"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے … دی آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ہلاری ݙیؤ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:11.776050106Z",
+  "model": "glm-5.3"
+}

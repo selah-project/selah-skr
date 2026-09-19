@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے لاوی داوِد دے سازاں نال کھڑے رہے، تے کاہن ترمبیاں نال۔",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "کھڑے رہے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "سازاں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "تے کاہن"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ترمبیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:58:27.888964847Z",
+  "model": "glm-5.3"
+}

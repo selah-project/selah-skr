@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اَشیر قبیلے دے، سَتُور میکائیل دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشیر"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "سَتُور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "دا پُتر"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میکائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:49.024126395Z",
+  "model": "glm-5.3"
+}

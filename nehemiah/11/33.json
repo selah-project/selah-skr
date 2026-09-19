@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "خاصور، رامہ، گیتیِم۔",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "خاصور"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "رامہ"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "گیتیِم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:48.222641860Z",
+  "model": "glm-5.3"
+}

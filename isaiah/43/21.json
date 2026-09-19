@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "ایہ قوم میں آپݨے کیتے بݨائی؛ میݙی تعریف او آکھِن۔",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "میں بݨائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "میݙی تعریف"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "او آکھِن"
+    }
+  ],
+  "timestamp": "2026-09-19T21:14:27.048771297Z",
+  "model": "glm-5.3"
+}

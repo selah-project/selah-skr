@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے ⟨את⟩ گناہ دی قربانی دا چرٻی قربان گاہ اُتے ساڑیسی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چرٻی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ساڑیسی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:23.516509091Z",
+  "model": "glm-5.3"
+}

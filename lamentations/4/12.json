@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "زمین دے بادشاہاں تے ساری دنیا دے رہݨ آلیاں یقین نہ کیتا جو دشمن تے ویری یروشلایم دے دروازیاں وِچ آ ویسن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "یقین کیتا"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہݨ آلے"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آ ویسن"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "تے ویری"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "دروازیاں وِچ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:37.009989524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "⟨את⟩ تیݙیاں نصاں میں رکھساں؛ میکوں ٻہوں نہ چھوڑیں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙیاں نصاں"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙیاں نصاں"
+    },
+    {
+      "surface": "אשמور",
+      "gloss": "رکھساں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבنי",
+      "gloss": "میکوں چھوڑیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:12.618159401Z",
+  "model": "glm-5.3"
+}

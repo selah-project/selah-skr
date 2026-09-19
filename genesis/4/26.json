@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے شیث کوں وی ہِک پُتر ڄایا ڳیا، تے اوں ⟨את⟩ اوندا ناں اینوش رکھیا۔ تݙاں یاہوہ دے ناں نال سݙݨ شروع تھیا۔",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "تے شیث کوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄایا ڳیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اینوش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "شروع تھیا"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "سݙݨ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:26.577097824Z",
+  "model": "glm-5.3"
+}

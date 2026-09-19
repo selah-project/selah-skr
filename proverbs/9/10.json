@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "حکمت دا مُنڈھ یاہوہ دا ݙر ہے، تے قدیساں دی ڄاݨ عقل ہے۔",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت دا"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدیساں دی"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "عقل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:30.374217652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "گلیاں وِچ شراب اُتے چیک ہے، ساری خوشی کالی تھی ڳئی، زمین دا سرور لݙ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "چیک"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "گلیاں وِچ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "کالی تھی ڳئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "لݙ ڳیا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:11.279126654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے پوادھی پاسے پنج سے تے چار ہزار، تے ترے دروازے: یوسف دا ہِک دروازہ، بنیامین دا ہِک دروازہ، دان دا ہِک دروازہ۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "پوادھی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سے"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "تے دروازے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "تے دروازہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:37.856815697Z",
+  "model": "glm-5.3"
+}

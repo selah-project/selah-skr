@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "نفتالی ہِک چھُٹی ہوئی ہرنی ہے — اوہ سوہݨے البیلے لفظ ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ہرنی"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "چھُٹی ہوئی"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ݙیندی ہے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "سوہݨے البیلے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:05.666113890Z",
+  "model": "glm-5.3"
+}

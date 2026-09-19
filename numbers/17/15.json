@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اہرون موشے کول واپس آیا، مِلاقات دے خیمے دے دروازے دو، تے وبا رُک ڳئی۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے واپس آیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلاقات"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "تے وبا"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "رُک ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:07.043809658Z",
+  "model": "glm-5.3"
+}

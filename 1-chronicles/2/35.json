@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شیشان ⟨את⟩ آپݨی دھی آپݨے نوکر یرحع کوں ذال بݨا تے ݙتی، تے اوں اوندے کیتے ⟨את⟩ عتای کوں جنم ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تے ݙتی"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شیشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی دھی"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آپݨی دھی"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "یرحع کوں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "آپݨے نوکر"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال بݨا تے"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے جنم ݙتس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عتای"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عتای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.656086280Z",
+  "model": "glm-5.3"
+}

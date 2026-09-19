@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کٹھے تھیوو، ہاں کٹھے تھیوو، اے قوم جیندی کوئی تانگھ کائنی،",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "کٹھے تھیوو"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ہاں کٹھے تھیوو"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "تانگھیلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:19.476330077Z",
+  "model": "glm-5.3"
+}

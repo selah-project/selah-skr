@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "شریراں کیتے سلامتی کائنی — یاہوہ آہدا ہے۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آہدا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "شریراں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:49:19.046740834Z",
+  "model": "glm-5.3"
+}

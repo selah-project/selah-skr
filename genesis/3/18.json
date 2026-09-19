@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تیکوں کانڈے تے پھوڳ ⟨اوہ⟩ اُگاسی، تے ⟨את⟩ کھیت دی ساوی کھاسیں۔",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "تے کانڈے"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "تے پھوڳ"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "اُگاسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "تے کھاسیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھیت دی ساوی"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ساوی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت دی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:04.251443252Z",
+  "model": "glm-5.3"
+}

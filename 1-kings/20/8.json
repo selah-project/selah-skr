@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے سارے بزرگ تے ساری قوم اوں کوں آکھیونے: “نہ سُݨ، تے راضی نہ تھی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیونے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "راضی تھی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:17:17.781227207Z",
+  "model": "glm-5.3"
+}

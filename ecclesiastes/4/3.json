@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ݙوہاں توں چنڳا او ⟨את⟩ جیہڑا ہُݨ تئیں نہ ہا، جیہڑے ⟨את⟩ برے کم نہ ݙٹھا جو سِجھ تلے تھیا۔",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "تے چنڳا"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ݙوہاں توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او جیہڑا ہُݨ تئیں نہ ہا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ہُݨ تئیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برے کم"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:05.936147913Z",
+  "model": "glm-5.3"
+}

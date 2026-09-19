@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اوہ یتیم تے زال دا انصاف کریندا ہے، تے پرائے نال پیار کریندا ہے، اوں کوں مانی تے کپڑا ݙیوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کریندا ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "تے زال"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "تے پیار کریندا ہے"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ݙیوݨ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانی"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "تے کپڑا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:48.154612137Z",
+  "model": "glm-5.3"
+}

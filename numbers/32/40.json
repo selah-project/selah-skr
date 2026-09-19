@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے موشے ⟨את⟩ گلعاد ماکیر کوں ݙتا — مݨشے دے پُتر کوں — تے او اوندے وِچ ٻہہ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ماکیر کوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مݨشہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ٻہہ ڳیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:43.270103924Z",
+  "model": "glm-5.3"
+}

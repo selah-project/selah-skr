@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اتے داوِد مضاوت وِچ رہݨ لڳا، ایں کیتے اوندے ناں تے او شہر داوِد دا سݙیڄݨ لڳا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رہݨ لڳا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "مضاوت وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سݙیڄݨ لڳا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے ناں تے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:37.298325803Z",
+  "model": "glm-5.3"
+}

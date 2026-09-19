@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اوں انہاں کوں آکھیا: “وت ترے ݙینہہ، وَل میݙے کول ول آؤ۔” تے قوم ٹُر ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وت"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ول آؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُر ڳئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:26.635644837Z",
+  "model": "glm-5.3"
+}

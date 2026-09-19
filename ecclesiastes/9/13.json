@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ایہ وی میں ݙٹھا — سیاݨپ سِجھ دے تھلے، تے او میکوں وݙی لڳی۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "تے وݙی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:52.860250915Z",
+  "model": "glm-5.3"
+}

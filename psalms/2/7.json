@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں حکم ݙسینداں: یاہوہ میکوں آکھیا: “تُوں میݙا پُتر ہِیں، اَڄ میں تیکوں ڄݨیا ہِے۔”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "میں ݙسینداں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙا پُتر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "تیکوں ڄݨیا ہِے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:23.675149567Z",
+  "model": "glm-5.3"
+}

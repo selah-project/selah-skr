@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "سارے نیتینیم تے شلومو دے غلاماں دے پُتر — ترے سو نوّے ݙو۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "نیتینیم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلاماں دے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوّے"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:44.320970900Z",
+  "model": "glm-5.3"
+}

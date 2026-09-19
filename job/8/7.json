@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تیݙی مُنڈھ تھوڑی ہوسی، ⟨پر⟩ تیݙا انت ٻہوں ودھسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "تیݙی مُنڈھ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "تھوڑی"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "تے تیݙا انت"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ودھسی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:33.820027163Z",
+  "model": "glm-5.3"
+}

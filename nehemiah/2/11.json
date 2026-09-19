@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں یروشلایم آیا، تے اُتھاں ترے ݙینہہ ریہا۔",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "تے میں آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "تے میں ریہا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:30:33.446921319Z",
+  "model": "glm-5.3"
+}

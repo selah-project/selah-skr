@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "پُتراں دا ٹَبر نِتسیاخ دا، پُتراں دا ٹَبر خَتِیفا دا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دا ٹَبر"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نِتسیاخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دا ٹَبر"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "خَتِیفا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:51.025550815Z",
+  "model": "glm-5.3"
+}

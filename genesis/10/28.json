@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ⟨ואת⟩ عُوبال کوں، تے ⟨ואת⟩ اَبیماایل کوں، تے ⟨ואת⟩ شِبا کوں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "عُوبال"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عُوبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اَبیماایل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "اَبیماایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "شِبا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:04.831295089Z",
+  "model": "glm-5.3"
+}

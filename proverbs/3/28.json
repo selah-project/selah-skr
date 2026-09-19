@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "آپݨے سنگتی کوں نہ آکھ: “ونڄ تے ول آ، تے کل ݙیساں” — جݙاں تیݙے کول ⟨את⟩ موجود ہووے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "آپݨے سنگتی کوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "تے ول آ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "تے کل"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ݙیساں"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "تے موجود"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے کول"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:50.128316284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اوندی نذریت دے سارے ݙینہہ او یاہوہ کیتے پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "اوندی نذریت دے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:04.876787932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اوندا ناپ زمین توں ودھ لمبا ہے، تے سمندر توں ودھ چوڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ودھ لمبا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "اوندا ناپ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "تے ودھ چوڑا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:31.286990992Z",
+  "model": "glm-5.3"
+}

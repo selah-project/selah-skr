@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ولو مضبوط قلعے وچ، اُمید دے قیدیؤ! وی اَج میں ݙسینداں: ݙُو ایھاں میں تیکوں ولو ݙیساں۔",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "ولو"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "مضبوط قلعے وچ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "اُمید دے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ݙسیندا"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ݙُو ایھاں"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "میں ولو ݙیساں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:15.304118851Z",
+  "model": "glm-5.3"
+}

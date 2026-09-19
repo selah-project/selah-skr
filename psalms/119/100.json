@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "بُڈھیاں توں میں ودھ سمجھدا، کیوں جو میں تیݙے حکم رکھین۔",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "بُڈھیاں توں"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "سمجھدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تیݙے حکم"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "رکھین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:11.024141993Z",
+  "model": "glm-5.3"
+}

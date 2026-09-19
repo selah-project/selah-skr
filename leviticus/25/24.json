@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے تُہاݙی ملکیت آلی ساری زمین وِچ زمین کیتے ول گھنݨ دا حق ݙیسو۔",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "تُہاݙی ملکیت"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ول گھنݨ دا حق"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ݙیسو"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:58.060950957Z",
+  "model": "glm-5.3"
+}

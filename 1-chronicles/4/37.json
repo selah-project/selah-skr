@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے زیزا پُتر شِفعی، پُتر اَلّون، پُتر یِدایاہ، پُتر شِمری، پُتر شِمعیاہ۔",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "تے زیزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شِفعی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "اَلّون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "یِدایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمعیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:24.980614759Z",
+  "model": "glm-5.3"
+}

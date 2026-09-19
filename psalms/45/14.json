@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "بادشاہ دی دھی ساری شان نال اَندر ⟨ہے⟩؛ سونے دی کڑھائی آلی اُوندی پوشاک ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "شان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دی"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "اَندر"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "کڑھائی آلی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "پوشاک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:23.834041024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "کیوں جو تُساں آکھیا: “یاہوہ ساݙے کیتے بابل وِچ نبی اُٹھائے۔”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "اُٹھائے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:50.294010738Z",
+  "model": "glm-5.3"
+}

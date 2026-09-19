@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں ہسے بارے آکھیا: “اوہ پاڳل ہے”؛ تے خوشی بارے: “ایہ کیا کریندی ہے؟”",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ہسے بارے"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "پاڳل"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "تے خوشی بارے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:01.417867761Z",
+  "model": "glm-5.3"
+}

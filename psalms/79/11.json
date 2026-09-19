@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 79,
+  "translation": "قیدی دی کراہ تیݙے سامݨے آوے؛ تیݙی ٻانہہ دی وݙائی موجب، موت دے پُتراں کوں بچا گھن۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیݙے سامݨے"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "کراہ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "تیݙی ٻانہہ"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "بچا گھن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:03.115056896Z",
+  "model": "glm-5.3"
+}

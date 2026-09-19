@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اُوں موآب کوں ⟨את⟩ ماریا، تے موآبِی داوِد دے غلام بݨ ڳئے، تحفے چا آوݨ آلے۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "بݨ ڳئے"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبِی"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد دے"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چا آوݨ آلے"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تحفے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:18.508660102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تݙاں جنگل دے رُکھ یاہوہ دے سامݨے خوشی نال ڳاؤݨسن، کیوں جو او ⟨את⟩ زمین کوں انصاف کرݨ کیتے آندا پے۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ڳاؤݨسن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل دے"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے سامݨے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا پے"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "انصاف کرݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:05.667778477Z",
+  "model": "glm-5.3"
+}

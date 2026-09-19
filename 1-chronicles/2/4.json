@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے تامار، اوندی بہو، اوندے کیتے ⟨את⟩ پیرت تے ⟨את⟩ زارح کوں ڄنّیا۔ یہوداہ دے سارے پُتر پنج ہن۔",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "تے تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "اوندی بہو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄنّیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیرت"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پیرت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زارح"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:57.993308682Z",
+  "model": "glm-5.3"
+}

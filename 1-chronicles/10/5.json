@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "شاؤل دا ہتھیار چاوݨ آلے ݙٹھا جو شاؤل مر ڳیا ہے، تاں او وی تلوار اُتے ڈھہہ پیا تے مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاوݨ آلے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ہتھیار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ڈھہہ پیا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:37.999118732Z",
+  "model": "glm-5.3"
+}

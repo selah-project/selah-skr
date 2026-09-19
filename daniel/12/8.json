@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے میں سُݨیا پر نہ سمجھیا؛ ول میں آکھیا: “میݙا ادونای، انہاں دا انت کیہ ہوسی؟”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "سمجھیا"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ول میں آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میݙا ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "انت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "انہاں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:59.973193494Z",
+  "model": "glm-5.3"
+}

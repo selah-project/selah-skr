@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "راحیل دے پُتر — یعقوو دی ذال — یوسف تے بنیامین۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیامین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:56.084113625Z",
+  "model": "glm-5.3"
+}

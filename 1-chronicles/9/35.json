@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے گبعون وِچ رہندے ہن گبعون دا پیو یعوایل، تے اوندے ذال دا ناں ماخلہ ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "تے گبعون وِچ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہندے ہن"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گبعون دا"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یعوایل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندے ذال دا"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماخِلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:11.613185926Z",
+  "model": "glm-5.3"
+}

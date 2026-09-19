@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ بنی اسرائیل دی ڳݨتری ہئی — چھ سو ہزار ہِک ہزار، ست سو تے ترے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ڳݨتری"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "تے ہِک ہزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:01.600977956Z",
+  "model": "glm-5.3"
+}

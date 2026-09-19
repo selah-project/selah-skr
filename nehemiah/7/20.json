@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "عادین دے پُتر — چھی سو، پنجاہ تے پَن٘ج۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پَن٘ج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:36.005042906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "خیسِد تے سچائی تیکوں نہ چھوڑن؛ انہاں کوں اپݨے ڳل وچ ٻدھ، انہاں کوں اپݨے دِل دی تختی اُتے لکھ۔",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "تیکوں چھوڑن"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ٻدھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "تیݙے ڳل"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "لکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙے دِل دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.846741298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "یِتصہَر دے پُتر: شلومِت مُکھیا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصہَر"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلومِت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:25.925993604Z",
+  "model": "glm-5.3"
+}

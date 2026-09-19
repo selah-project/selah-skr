@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے جے او مادی ہووے، تاں تیݙا اندازہ تریہہ شکل ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تاں ہوسی"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیݙا اندازہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شکل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:33.340922908Z",
+  "model": "glm-5.3"
+}

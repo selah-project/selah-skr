@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جݙاں کوئی بندہ ہِک ذال گھنے، تے اوندے کول ونڄے، تے اوں توں نفرت کرے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھنے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "اوندے کول ونڄے"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوندے کول"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "اوں توں نفرت کرے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:25.296034525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میݙا ٻہڳ یاہوہ ہے؛ میں آکھیا جو میں تیݙے احکام نبھیساں۔",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "میݙا ٻہڳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "نبھیساں"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تیݙے احکام"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:20.714959281Z",
+  "model": "glm-5.3"
+}

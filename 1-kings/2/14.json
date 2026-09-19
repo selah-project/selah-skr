@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اوں آکھیا: “میݙی تئوں ہِک ڳالھ ہے۔” تے اوں آکھیا: “آکھ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئوں"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:04:15.704632843Z",
+  "model": "glm-5.3"
+}

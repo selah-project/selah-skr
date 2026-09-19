@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ دا کلام میݙے کولھ آیا، آکھدا ہا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:02.390920973Z",
+  "model": "glm-5.3"
+}

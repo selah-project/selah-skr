@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "آپݨے پُتر کوں سزا ݙے، کیوں جو اُمید ہے، تے اوندے مارݨ دو آپݨی جان نہ چا۔",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "سزا ݙے"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "آپݨے پُتر کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "اوندے مارݨ دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چا"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "آپݨی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:49.425179594Z",
+  "model": "glm-5.3"
+}

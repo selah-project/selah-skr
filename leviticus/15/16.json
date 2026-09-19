@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے جݙاں کہیں بندے توں بیج دا وہاؤ نکلے، تاں اوہ پاݨی وِچ ⟨את⟩ آپݨا سارا جسم دھووے، تے شام تئیں اَپوترا رہے۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "لیتڑے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "تے دھووے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨا سارا جسم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اپݨا جسم"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے اَپوترا رہے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:33.938724458Z",
+  "model": "glm-5.3"
+}

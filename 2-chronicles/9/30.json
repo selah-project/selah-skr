@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شلومو یروشلایم وِچ سارے اِسرائیل اُتے چالیہ ورہےیاں تئیں بادشاہ ریہا۔",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ ریہا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہےیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:53.465672441Z",
+  "model": "glm-5.3"
+}

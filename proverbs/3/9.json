@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاہوہ ⟨את⟩ دا اکرام کر تیݙے مال توں، تے تیݙی ساری فصل دے مُنڈھ توں۔",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "اکرام کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "تیݙے مال توں"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "تے مُنڈھ توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "تیݙی فصل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:16.456259929Z",
+  "model": "glm-5.3"
+}

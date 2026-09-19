@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "چور دا سانجھا اپݨی جان کوں ویری رکھیندے — لعنت سُݨدے پر نہ ݙسیندے۔",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "سانجھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ویری رکھیندے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان کوں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨدے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:21.159940180Z",
+  "model": "glm-5.3"
+}

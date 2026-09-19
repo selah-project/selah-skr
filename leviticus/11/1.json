@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یاہوہ موشے تے اہرون کوں ٻولیا، آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:53.368960068Z",
+  "model": "glm-5.3"
+}

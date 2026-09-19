@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں انہاں کوں بدلہ ݙسیں، اے یاہوہ، انہاں دے ہتھاں دے کم موجب۔",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "توں … ݙسیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "גמור",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "کم موجب"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "انہاں دے ہتھاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:08.617646317Z",
+  "model": "glm-5.3"
+}

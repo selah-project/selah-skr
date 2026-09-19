@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مگفیعش، مشلم، خزیر۔",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "مگفیعش"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "خزیر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:52.013353979Z",
+  "model": "glm-5.3"
+}

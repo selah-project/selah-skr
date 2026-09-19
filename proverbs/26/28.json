@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "کوڑ دی زبان دبے ہوئیاں توں نفرت کریندی ہے، تے چکورا منہ بربادی پیدا کریندے۔",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "نفرت کریندی ہے"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "دبے ہوئیاں توں"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "تے منہ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "چکورا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "پیدا کریندے"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "بربادی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:35.322974682Z",
+  "model": "glm-5.3"
+}

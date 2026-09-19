@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ایہ ڳالھ ایلوہیم دیاں اکھیں وِچ بری لڳی، تے اُوں یِسرائل ⟨את⟩ ماریا۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "بری لڳی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:39.912184334Z",
+  "model": "glm-5.3"
+}

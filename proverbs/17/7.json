@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ودھیا لب احمق کوں زیب نہ ݙیندے، کتھاہیں جو کوڑ دا لب ہِک امیر کوں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "زیب ݙیندے"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "احمق کوں"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لب"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ودھیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "کتھاہیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ہِک امیر کوں"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لب"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:40.689874554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاہوہ حکمت نال زمین دی نیہہ رکھی، تے سمجھ نال اسماناں کوں کھڑا کیتا۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت نال"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "نیہہ رکھی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "کھڑا کیتا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں کوں"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "سمجھ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.033945315Z",
+  "model": "glm-5.3"
+}

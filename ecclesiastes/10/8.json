@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "جیہڑا گَڈّا پٹیندے او اُوندے وِچ ڈھہہ پوندے، تے جیہڑا باڑ توڑے، اوہ کوں سانپ ݙنگسی۔",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "جیہڑا پٹیندے"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "گَڈّا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈھہہ پوندے"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "تے جیہڑا توڑے"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "باڑ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ݙنگسی"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:50.727284080Z",
+  "model": "glm-5.3"
+}

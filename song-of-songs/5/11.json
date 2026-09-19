@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اوندا سر خالص سونا، بہترین سونا ہے؛ اوندے لٹھ لٹکدے ہوئے، کالے کاں وانگوں۔",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "اوندا سر"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "خالص سونا"
+    },
+    {
+      "surface": "פז",
+      "gloss": "بہترین سونا"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "اوندے لٹھ"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "لٹکدے ہوئے"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "کالے"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "کاں وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:43.918100777Z",
+  "model": "glm-5.3"
+}

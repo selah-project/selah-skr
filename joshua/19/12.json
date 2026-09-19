@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے سارد توں پوادھ دو، سجھ چڑھݨ آلے پاسے، کسلت تابور دی حد اُتے وَلے، تے ہدبرت دو نکلی، تے یافیع تے چڑھی۔",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "وَلے"
+    },
+    {
+      "surface": "משריד",
+      "gloss": "سارد توں"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھ دو"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "سجھ چڑھݨ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سجھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "כסלת",
+      "gloss": "کسلت"
+    },
+    {
+      "surface": "תבר",
+      "gloss": "تابور"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نکلی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הדברת",
+      "gloss": "ہدبرت"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "تے چڑھی"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "یافیع"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:40.887602330Z",
+  "model": "glm-5.3"
+}

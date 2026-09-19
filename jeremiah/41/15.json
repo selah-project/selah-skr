@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 41:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے یشماعیل نتنیاہ دا پُتر اَٹھ بندیاں نال یوخنان کنوں بچ نکلیا تے عمّون دے پُتریں دو ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "یشماعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "نتنیاہ"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "بچ نکلیا"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوخنان"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:16.586121958Z",
+  "model": "glm-5.3"
+}

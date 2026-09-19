@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "کیوں جو او کُوڑ وِچ تُہاݙے کیتے میݙے ناں وِچ نبی ہن؛ میں انہاں کوں نہ بھیجیا، یاہوہ دا اعلان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "کُوڑ وِچ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبی ہن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "میݙے ناں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "بھیجیا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:38.787699589Z",
+  "model": "glm-5.3"
+}

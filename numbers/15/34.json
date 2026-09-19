@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے اُوکوں قید وِچ رکھیا، کیوں جو اِیہ نہ ݙسیا ڳیا ہا جو اوندے نال کیا کیتا ونڄے۔",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ اوکوں",
+      "marks": "اوکوں"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ݙسیا ڳیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیتا ونڄے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:29.875192405Z",
+  "model": "glm-5.3"
+}

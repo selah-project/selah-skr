@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 16:28",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "وت تُوں اَشور دے پُتراں نال زنا کیتی، بغیر تس دے، تے وت زنا کیتی — ول وی تُساں تس نہ لہی۔",
+  "tokens": [
+    {
+      "surface": "ותזני",
+      "gloss": "وت زنا کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشور"
+    },
+    {
+      "surface": "מבלתי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "שבעתך",
+      "gloss": "تس دے"
+    },
+    {
+      "surface": "ותזנים",
+      "gloss": "وت زنا کیتی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے ول وی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "تس نہ لہی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:30.778227068Z",
+  "model": "glm-5.3"
+}

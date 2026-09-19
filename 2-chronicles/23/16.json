@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یہویاداع آپݨے تے سارے لوکاں تے بادشاہ دے وچکار عہد کیتس، جو او یاہوہ دی قوم بݨن۔",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "کیتس"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویاداع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "آپݨے تے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بݨݨ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:56.731541232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 25:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے آپݨے کیتے ست شبّاتاں سالیں دیاں ڳݨیں — ست سال ست واری — تے ست شبّاتاں سالیں دے ݙینہہ تیکوں نوں تے چالی سال تھیسن۔",
+  "tokens": [
+    {
+      "surface": "וספרת",
+      "gloss": "ڳݨیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شبّاتاں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالیں دیاں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالیں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واریاں"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تھیسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شبّاتاں"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "سالیں"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:27.246532385Z",
+  "model": "glm-5.3"
+}

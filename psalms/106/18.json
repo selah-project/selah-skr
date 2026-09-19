@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے انہاں دی جماعت وِچ بھا بھڑک ڳی، شولے بدکاراں کوں چاٹ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "بھڑک ڳی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "انہاں دی جماعت وِچ"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "شولا"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "چاٹ ڳیا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:12.677923572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "سِجھ زمین اُتے نِکلیا تے لُوط تصوعر وِچ آ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "تے لُوط"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "تصوعر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:28.188123861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے بندہ یا زنانی، جݙاں اوندے وِچ نَگع ہووے — سر اُتے یا ݙاڑھی وِچ،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نَگع"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "سر اُتے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ݙاڑھی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:41.010577619Z",
+  "model": "glm-5.3"
+}

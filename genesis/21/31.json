@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "ایہیں کیتے اُوں جاہ دا ناں بئر شَبع ⟨ست دا کھوہ⟩ رکھیا، کیوں جو اُتھاں ݙوہیں قسمت چاتی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایہیں کیتے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناں رکھیا"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "اُوں جاہ کوں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوہ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شَبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "قسمت چاتی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ݙوہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:32.193744880Z",
+  "model": "glm-5.3"
+}

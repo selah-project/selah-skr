@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ میکوں آکھیا: “میں ⟨את⟩ ایں قوم کوں ݙٹھا ہے، تے ݙیکھو، او ہِک سخت گردن آلی قوم ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایں قوم کوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:54:18.269961358Z",
+  "model": "glm-5.3"
+}

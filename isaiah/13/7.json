@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ایں کیتے سارے ہتھ ڈھلہ تھی ویسن، تے ہر ہک فانی بندے دا دل پگھرسی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں اُتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ڈھلہ تھی ویسن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر ہک"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندے دا"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "پگھرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:07.499791032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ایہ تُساں کیتے اُتریلا سرحد ہوسی: وݙے سمندر توں تُساں کیتے ہور پہاڑ کوں نشابر کریسو۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کیتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتریلا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "نشابر کریسو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کیتے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:52.677769302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے ختصور حدتّہ، تے قریوت — ختصرون، او ہے ختصور۔",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "تے ختصور"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "حدتّہ"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "تے قریوت"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ختصرون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ختصور"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:38.754281900Z",
+  "model": "glm-5.3"
+}

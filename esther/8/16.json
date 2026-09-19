@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "یہودیں کیتے روشنی تے خوشی، نچھاور تے مان تھئی۔",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "یہودیں کیتے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "تے خوشی"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "نچھاور"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "تے مان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:38.415322298Z",
+  "model": "glm-5.3"
+}

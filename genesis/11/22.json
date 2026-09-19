@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے سِروگ تریہہ ورہے جییا، تے نَحور ⟨את⟩ کوں ڄݨیس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سِروگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہے"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَحور کوں"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نَحور"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:39.050209806Z",
+  "model": "glm-5.3"
+}

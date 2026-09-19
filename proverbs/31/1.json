@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "لموایل بادشاہ دے ٻول ہن، ہِک بار ⟨جیہڑی⟩ اوندی ماں اوکوں سکھائی۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "لموایل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "سکھائی اوکوں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوندی ماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:39.620423770Z",
+  "model": "glm-5.3"
+}

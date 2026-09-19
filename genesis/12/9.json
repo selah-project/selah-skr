@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اَوراہام ٹُردا پندھ کریندا لمے آلے پاسے ٹُر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ٹُردا"
+    },
+    {
+      "surface": "وנסוע",
+      "gloss": "پندھ کریندا"
+    },
+    {
+      "surface": "ہנگبه",
+      "gloss": "لمے آلے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:13.178262041Z",
+  "model": "glm-5.3"
+}

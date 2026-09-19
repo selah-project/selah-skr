@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ آلا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے … ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:17.565980823Z",
+  "model": "glm-5.3"
+}

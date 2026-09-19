@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تُساں وی، کوشی، میݙی تلوار دے وݙھے ہوئے ہوسو — اوہ ای۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کوشی"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وݙھے ہوئے"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میݙی تلوار دے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ ای"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:20.172821852Z",
+  "model": "glm-5.3"
+}

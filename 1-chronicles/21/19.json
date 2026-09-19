@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے داوِد گاد دی ڳالھ موجب چڑھیا، جو اوں یاہوہ دے ناں نال آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ڳالھ موجب"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:14.803862492Z",
+  "model": "glm-5.3"
+}

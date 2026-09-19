@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 61,
+  "translation": "موڑ وِچ تانت والے سازاں اُتے، داوِد دی دعا۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڑ وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "تانت والے سازاں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی دعا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:12.955511142Z",
+  "model": "glm-5.3"
+}

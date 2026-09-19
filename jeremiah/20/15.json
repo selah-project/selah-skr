@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "لعنتی ہووے او بندہ جیں خوشخبری ݙتی ⟨את⟩ میݙے پیو کوں، آکھ کے: “تیکوں پُتر ڄمیا، نر”، تے اونکوں ٻہوں خوش کیتس۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "او بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیں"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "خوشخبری ݙتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙے پیو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄمیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "خوش کیتس"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:48.070276671Z",
+  "model": "glm-5.3"
+}

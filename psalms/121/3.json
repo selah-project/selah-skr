@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "⟨اوہ⟩ تیݙے پیر کوں لڑھکݨ نہ ݙیسی، تیݙا رکھوالا اونگسی نہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "لڑھکݨ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیݙے پیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "اونگسی"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تیݙا رکھوالا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.574307062Z",
+  "model": "glm-5.3"
+}

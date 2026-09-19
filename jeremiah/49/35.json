@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "ایہو یاہوہ تصواوت آکھیا: “ݙیکھ، میں عیلام دی کمان ⟨את⟩ تروڑ ݙیندا، انہاں دی طاقت دا مُنڈھ۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "تروڑ ݙیندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام دی"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "انہاں دی طاقت"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:41.120675657Z",
+  "model": "glm-5.3"
+}

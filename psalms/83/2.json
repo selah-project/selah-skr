@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "ایلوہیم، چُپ نہ کر، خاموش نہ رہ، تے ساکن نہ تھی، ایل۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش رہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ساکن تھی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:46.620695490Z",
+  "model": "glm-5.3"
+}

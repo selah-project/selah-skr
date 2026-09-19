@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے موشے ⟨את⟩ گاݙیاں تے ⟨ואת⟩ ݙنگراں گھدیاں، تے ⟨את⟩ اُنہاں کوں لاویاں کوں ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے گھدیاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاݙیاں"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاݙیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ݙنگر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ݙنگر"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے ݙتس"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اُنہاں کوں",
+      "marks": "لاویاں کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:22.452631197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "یاہوہ دے اُوں سارے چنگے ڳالھ دا جیڑھا گھر اِسرائیل نال آکھیا ہا، ہِک ڳالھ وی نہ ڈھاتی — سارا آ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈھاتی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے … توں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ دا"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا ہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:52.328577629Z",
+  "model": "glm-5.3"
+}

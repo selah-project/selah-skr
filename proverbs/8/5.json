@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اَے سادہ لوکو، چالاکی سمجھو، اَے ناسمجھو، دل سمجھو۔",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "سمجھو"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "اَے سادہ لوکو"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "چالاکی"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "تے اَے ناسمجھو"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "سمجھو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:26.272697623Z",
+  "model": "glm-5.3"
+}

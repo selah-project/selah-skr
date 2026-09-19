@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "او اپݨے پیوواں دی نسل ⟨ول آسی⟩، او ہمیش کیتے روشنی نہ ݙیکھسن۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ول آسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "اپݨے پیوواں دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ݙیکھسن"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:01.756119343Z",
+  "model": "glm-5.3"
+}

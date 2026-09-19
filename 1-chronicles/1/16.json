@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ اروادی کوں، تے ⟨את⟩ تصمری کوں، تے ⟨את⟩ خماتی کوں ⟨ڄݨیا⟩۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اروادی"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "اروادی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تصمری"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "تصمری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "خماتی"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "خماتی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:36.195953263Z",
+  "model": "glm-5.3"
+}

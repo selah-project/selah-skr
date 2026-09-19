@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ہِک ⟨את⟩ پنچھی کوں مٹی دے برتن وِچ، جِیندے پاݨی اُتے، ذبح کریسی۔",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "تے ذبح کریسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک پنچھی کوں"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "پنچھی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:17.733975021Z",
+  "model": "glm-5.3"
+}

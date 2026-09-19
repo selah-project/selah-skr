@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بادشاہ دا غصہ موت دے فرشتے ⟨ہن⟩، تے سیاݨا بندہ اوں کوں مِٹا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "اوں کوں مِٹا ݙیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:29.517269600Z",
+  "model": "glm-5.3"
+}

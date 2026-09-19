@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ابشای، تصرویہ دا پُتر، ادوم کوں ⟨את⟩ لوݨ دی وادی وِچ ماریا — اَٹھارہ ہزار۔",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "تے ابشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصرویہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "لوݨ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–ارہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:47.696115445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے یعقوو آپݨی نندر توں جاڳا، تے آکھیس: “سچ ایہ ہے جو یاہوہ ایں جاہ وِچ ہے، تے میں نہ ڄاݨدا ہم۔”",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "تے جاڳا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "آپݨی نندر توں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاہ وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ڄاݨدا ہم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:16.367488169Z",
+  "model": "glm-5.3"
+}

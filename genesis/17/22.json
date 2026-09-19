@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اوں ⟨את⟩ اُوں نال ڳالھ مُکائی، تے ایلوہیم اَوراہام کنوں اُتے چڑھ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "مُکائی"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالھ کرݨ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُوں"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "اُتے چڑھ ڳیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:21:09.470306600Z",
+  "model": "glm-5.3"
+}

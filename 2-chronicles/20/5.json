@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یہوشفات یہوداہ تے یروشلایم دے مجمع وِچ، یاہوہ دے گھر وِچ، نویں چوک اڳوں کھڑا تھیا۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھیا"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشفات"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجمع وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "تے یروشلایم"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "نویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:25.651514265Z",
+  "model": "glm-5.3"
+}

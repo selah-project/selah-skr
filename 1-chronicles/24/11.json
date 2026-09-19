@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "نویں ییشوع کوں، ݙاہویں شکنیاہو کوں۔",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "ییشوع کوں"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "شکنیاہو کوں"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ݙاہویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:44.134968731Z",
+  "model": "glm-5.3"
+}

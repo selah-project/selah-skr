@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "بُری اکھ آلا بندہ دولت کیتے گھبرایا ہویا ہے، تے اوں کوں خبر کائنی جو کمی اوں دو آسی۔",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "گھبرایا ہویا"
+    },
+    {
+      "surface": "להון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُری"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمی"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "اوں دو آسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:37.934889768Z",
+  "model": "glm-5.3"
+}

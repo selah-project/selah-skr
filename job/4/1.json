@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ایلیفز ہتیمانی جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ایلیفز"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ہتیمانی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:49.437025703Z",
+  "model": "glm-5.3"
+}

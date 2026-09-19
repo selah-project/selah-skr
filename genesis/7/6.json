@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے نُوح چھ سو سالاں دا پُتر ہا، تے طوفان ⟨ہا⟩ پاݨی زمین اُتے۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "تے نُوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "تے طوفان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:53.644384489Z",
+  "model": "glm-5.3"
+}

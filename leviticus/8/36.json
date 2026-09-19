@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اہرون تے اوندے پُتر ⟨את⟩ او سارے کم کیتے جیہڑے یاہوہ موشے دے ذریعے حکم ݙتے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوندے پُتر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "او سارے کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ذریعے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:06.352172536Z",
+  "model": "glm-5.3"
+}

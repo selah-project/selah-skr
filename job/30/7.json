@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "جھاڑیاں وِچ اوہ رڑکدِن، کانڈیاں تلے اوہ کٹھے تھیندِن۔",
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "جھاڑیاں"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "رڑکدِن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "חרول",
+      "gloss": "کانڈیاں"
+    },
+    {
+      "surface": "יספחו",
+      "gloss": "کٹھے تھیندِن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:47.187361625Z",
+  "model": "glm-5.3"
+}

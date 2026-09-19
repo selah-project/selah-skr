@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "بلکہ اوہ زیادتی نہیں کریندے، اوندے رستیاں وِچ ٹُردن۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کریندے"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زیادتی"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "اوندے رستیاں وِچ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ٹُردن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:12.982411705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے یِزرَعیل، تے یُقدعام، تے زَنوح۔",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "تے یِزرَعیل"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "تے یُقدعام"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "تے زَنوح"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:25.196898471Z",
+  "model": "glm-5.3"
+}

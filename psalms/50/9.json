@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "نہ میں تیݙے گھروں بیل گھنساں، نہ تیݙیاں واڑیاں توں ٻکرے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "میں گھنساں"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "تیݙے گھروں"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "تیݙیاں واڑیاں توں"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ٻکرے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:41.594532742Z",
+  "model": "glm-5.3"
+}

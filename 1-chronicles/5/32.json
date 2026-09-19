@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے عُزی ⟨את⟩ زرخیاہ کوں ڄݨایا، تے زرخیاہ ⟨את⟩ مرایوت کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "تے عُزی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرخیاہ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرخیاہ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "تے زرخیاہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرایوت"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرایوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:40.679353714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے پہاڑ اِفرایم دا ہِک بندہ ہا، اوندا ناں میکایہو ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندہ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "پہاڑ اِفرایم دا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوندا ناں"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایہو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:30:55.273807756Z",
+  "model": "glm-5.3"
+}

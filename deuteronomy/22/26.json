@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے نینگر نال کجھ نہ کرو؛ نینگر وِچ موت دا گناہ کائنی، کیوں جو جیویں کوئی بندہ اپݨے سنگتی اُتے چڑھ تے اوندا قتل کرے، ایویں ای ایہ ڳالھ ہے۔",
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "تے نینگر نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نینگر وِچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپݨے سنگتی"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "قتل کرے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:07.800443047Z",
+  "model": "glm-5.3"
+}

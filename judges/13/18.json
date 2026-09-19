@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ دا فرشتہ اوں کوں آکھیا: “ایہو کیوں، جو توں میݙا ناں پُچھدیں؟ تے اوہ تاں عجیب ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "پُچھدیں"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میݙا ناں"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "عجیب"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:05.695857117Z",
+  "model": "glm-5.3"
+}

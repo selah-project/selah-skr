@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ایلوہیم ⟨את⟩ سبھ اوندے ݙٹھا جو اوں بݨایا، تے ݙیکھو — ٻہوں چنگا؛ تے شام تھئی، تے سویر تھیا — ݙینہہ چھیواں۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙٹھا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ اوندے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوں بݨایا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیواں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:28.928296542Z",
+  "model": "glm-5.3"
+}

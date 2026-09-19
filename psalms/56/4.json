@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 56,
+  "translation": "جݙاں میں ݙردا ہاں، میں تیݙے اُتے بھروسہ کریساں۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "میں ݙردا ہاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "بھروسہ کریساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:52.924302336Z",
+  "model": "glm-5.3"
+}

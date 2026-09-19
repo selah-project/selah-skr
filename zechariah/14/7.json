@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ہِک ݙینہہ تھیسی، او یاہوہ کیتے ڄاݨیا ہویا ہوسی، نہ ݙینہہ تے نہ رات، تے شام دے ویلے اُنور تھیسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨیا ہویا ہوسی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "دے ویلے"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُنور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:52.068622898Z",
+  "model": "glm-5.3"
+}

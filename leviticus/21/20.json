@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "یا کوہان، یا نکا، یا اکھ وِچ داغ والا، یا کھجھی والا، یا چنڈ والا، یا کچلے اَنڈے والا۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "کوہان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "דק",
+      "gloss": "نکا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "اکھ وِچ داغ"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "اُوندی اکھ وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "کھجھی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "چنڈ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "کچلے ہوئے"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "اَنڈے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:37.524243446Z",
+  "model": "glm-5.3"
+}

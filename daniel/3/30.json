@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تݙاں بادشاہ شدرک، میشک تے عیبد نگو کوں بابل دے صوبے وِچ اُچا کیتا۔",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "اُچا کیتا"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "شدرک کوں"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشک"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "تے عیبد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "صوبے وِچ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:06.090320784Z",
+  "model": "glm-5.3"
+}

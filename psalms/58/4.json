@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 58,
+  "translation": "شریر رحم توں اوپرے تھی ڳئے، پیٹ توں ہی بھٹک ڳئے، کُوڑ ٻولݨ آلے۔",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "اوپرے تھی ڳئے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "رحم توں"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "بھٹک ڳئے"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پیٹ توں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ٻولݨ آلے"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "کُوڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:05.596349828Z",
+  "model": "glm-5.3"
+}

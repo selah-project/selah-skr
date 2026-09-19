@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ݙیکھ، تُساں سوہݨی ہیں میݙی سہیلی؛ ݙیکھ، تُساں سوہݨی ہیں! تیݙیاں اکھیاں کبوتر ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میݙی سہیلی"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیݙیاں اکھیاں"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "کبوتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:53.437608653Z",
+  "model": "glm-5.3"
+}

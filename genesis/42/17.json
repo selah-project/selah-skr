@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے اوں ⟨אתם⟩ انہاں کوں حراست وِچ ترے ݙینہہ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "انہاں (بھراواں) کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "حراست"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:17.764300975Z",
+  "model": "glm-5.3"
+}

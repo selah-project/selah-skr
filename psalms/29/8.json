@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "یاہوہ دا آواز بیابان کوں ہلا ݙیندی ہے؛ یاہوہ قادش دے بیابان کوں ہلا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ہلا ݙیندی ہے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ہلا ݙیندے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:54.637231758Z",
+  "model": "glm-5.3"
+}

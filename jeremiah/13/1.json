@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ایویں یاہوہ میݙے توں آکھیا: “ونڄ، آپ کیتے ہِک سُٹ دا پیٹا گھن، تے اوندے کمر اُتے رکھ، تے پاݨی وِچ اوندے کوں نہ پا۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے توں"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "پیٹا"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "سُٹ دا"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "کمر"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "تے پاݨی وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "اوندے کوں پا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:59.970332448Z",
+  "model": "glm-5.3"
+}

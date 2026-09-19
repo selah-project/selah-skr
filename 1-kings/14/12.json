@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے تُوں اُٹھی، آپݨے گھر ونڄ؛ تے جݙاں تیݙے پیر شہر وِچ آسن، ٻال مرسی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "آپݨے گھر"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "جݙاں آسن"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "تیݙے پیر"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ٻال مرسی"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻال"
+    }
+  ],
+  "timestamp": "2026-09-19T21:11:12.912030699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن اپݨی سڄی اُنگل نال اُوں تیل وِچوں، جیڑھا اُوندی کھٻی تلی اُتے ہے، یاہوہ دے سامھݨے ست واری چھڑکسے۔",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "چھڑکسے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "اُنگل نال"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "سڄی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "تلی"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کھٻی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے سامھݨے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:39.993514812Z",
+  "model": "glm-5.3"
+}

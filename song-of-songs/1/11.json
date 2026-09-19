@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "سونے دیاں طلیاں اساں تیݙے کیتے بݨیسوں، چاندی دے ٹُکریاں نال۔",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "طلیاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دیاں"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "اساں بݨیسوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ٹُکریاں"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:37.838571055Z",
+  "model": "glm-5.3"
+}

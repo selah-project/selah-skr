@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ٻس اِیہو پکا رَکھ، جو خون نہ کھاویں، کیوں جو خون اوہو جان ہے؛ تے جان کوں گوشت نال نہ کھاویں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ٻس"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پکا رَکھ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "جو نہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاوݨ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاویں"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:40.151617195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے قایِن یاہوہ کوں آکھیا: “میݙا گناہ ⟨چاوݨ⟩ توں ٻہوں وݙا ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایِن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ٻہوں وݙا"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "میݙا گناہ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "چاوݨ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:46.149769219Z",
+  "model": "glm-5.3"
+}

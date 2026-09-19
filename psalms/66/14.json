@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "جیڑھیاں میݙے ہونٹھاں کھولیاں، تے میݙے مُہہ میݙی تنگی وِچ ٻولیا۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھیاں"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "کھولیاں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میݙے ۤونٹھ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے ٻولیا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙے مُہہ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی وِچ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:04.937781439Z",
+  "model": "glm-5.3"
+}

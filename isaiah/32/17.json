@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے راستی دا کم سلامتی تھیسی، تے راستی دی خدمت چُپ، تے بھروسہ، ہمیشہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "راستی دا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "تے خدمت"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "راستی دی"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "تے بھروسہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:42:51.071443544Z",
+  "model": "glm-5.3"
+}

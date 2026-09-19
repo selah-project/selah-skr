@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ ⟨את⟩ پرعوہ دا دل پکا کیتا، تے او انہاں دی نہ سݨی، جیویں یاہوہ موشے کوں آکھیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "پکا کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سݨی"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں دی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:45.018516Z",
+  "model": "glm-5.3"
+}

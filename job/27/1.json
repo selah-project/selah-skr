@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ایوب اپݨا مَثَل اُچا کر تے وادھا کیتا، تے آکھیا —",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وادھا کیتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "اُچا کر تے"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اپݨا مَثَل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:29.931682763Z",
+  "model": "glm-5.3"
+}

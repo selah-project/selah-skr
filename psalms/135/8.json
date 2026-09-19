@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "جئیں مِتصرایم دے پہلی اولاد کوں ماریا — بندے توں ڈھنگر تئیں۔",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "جئیں ماریا"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "پہلی اولاد کوں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "بندے توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ڈھنگر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:55.715052414Z",
+  "model": "glm-5.3"
+}

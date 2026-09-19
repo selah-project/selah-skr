@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "او تیکوں اُدھار ڈیسی، تے تُوں اوکوں اُدھار نہ ڈیسی؛ او سر بݨسی، تے تُوں دُم بݨسیں۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "تیکوں اُدھار ڈیسی"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "اوکوں اُدھار ڈیسی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بݨسی"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بݨسیں"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "دُم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:07.252730773Z",
+  "model": "glm-5.3"
+}

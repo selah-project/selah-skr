@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے شہر محاصرے وِچ رہ ڳیا، تصدیقیاہ بادشاہ دے同心 ایہو جھیں تئیں۔",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "تے داخل تھی ڳیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "محاصرے وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "numpy"
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "timestamp": "2026-09-19T17:33:40.153899362Z",
+  "model": "glm-5.3"
+}

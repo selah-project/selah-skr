@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ آکھیا: “میں تیݙی ڳالھ موجب بخش ݙتا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "بخش ݙتم"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "تیݙی ڳالھ موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:27.169726828Z",
+  "model": "glm-5.3"
+}

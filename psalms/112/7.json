@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 112,
+  "translation": "مندی خبر توں اوہ نہ ݙرسی؛ اوندا دل اِستوار ہے، یاہوہ اُتے بھروسہ رکھیندے۔",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "مندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ݙرسی"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "اِستوار"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندا دل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ رکھیندے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:03.002579288Z",
+  "model": "glm-5.3"
+}

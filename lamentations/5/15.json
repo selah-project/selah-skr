@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙے دل دا خوشی مُک ڳیا، ساݙا ناچ ماتم وِچ پلٹ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "مُک ڳیا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ساݙے دل"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "پلٹ ڳیا"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ماتم وِچ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ساݙا ناچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:54.524067115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "انہاں کوں تیݙے دل اُتے ہمیشہ ٻدھ رکھو، انہاں کوں تیݙے گلے وِچ ٻدھو۔",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ٻدھ رکھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙے دل"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "ٻدھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "تیݙے گلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:27.450196237Z",
+  "model": "glm-5.3"
+}

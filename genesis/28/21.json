@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے جے میں سلامتی نال میݙے پیو دے گھر دوں وَل آواں، تݙاں یاہوہ میݙا ایلوہیم تھیسی۔",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "وَل آواں"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتی نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو دے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تݙاں تھیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:02.940359624Z",
+  "model": "glm-5.3"
+}

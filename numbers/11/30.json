@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے موشے وَل آیا پڑاؤ وِچ، او آپ تے اِسرائیل دے بزرگ۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وَل آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "تے بزرگ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:35:20.358420890Z",
+  "model": "glm-5.3"
+}

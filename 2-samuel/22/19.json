@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 22:19",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "او میݙے ݙکھے ݙینہہ وِچ میݙے اڳوں آ ڳئے، پر یاہوہ میݙا سہارا تھیا۔",
+  "tokens": [
+    {
+      "surface": "יקדמני",
+      "gloss": "میݙے اڳوں آ ڳئے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "میݙے ݙکھے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משען",
+      "gloss": "سہارا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:01:54.636072773Z",
+  "model": "glm-5.3"
+}

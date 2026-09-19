@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تروٹیندا دل جسم کیتے حیاتی ہے، تے حسد ہݙیاں دی سڑ ہے۔",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "حیاتی"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "جسم دے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "تروٹیندا"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "تے سڑ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ہݙیاں دی"
+    },
+    {
+      "surface": "קנאه",
+      "gloss": "حسد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:58.664202230Z",
+  "model": "glm-5.3"
+}

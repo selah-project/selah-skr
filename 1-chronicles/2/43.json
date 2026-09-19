@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے خِبرُون دے پُتر: قورح، تے تپوح، تے رقیم، تے شمع۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خِبرُون"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "تے تپوح"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "تے رقیم"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے شمع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:01.584618144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اِتنِی دا پُتر، زَرَخ دا پُتر، عَدایاہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "اِتنِی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "عَدایاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:40.879239374Z",
+  "model": "glm-5.3"
+}

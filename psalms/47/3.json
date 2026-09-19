@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "کیوں جو یاہوہ عِلیون ݙراؤݨا ہے، ساری زمین اُتے وݙا بادشاہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ݙراؤݨا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:36.217902822Z",
+  "model": "glm-5.3"
+}

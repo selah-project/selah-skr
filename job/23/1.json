@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے ایوب جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:21.778247473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تُساں کہیں ودھوا یا یتیم کوں ستائو نہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ودھوا"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "یا یتیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ستائو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:41.568542090Z",
+  "model": "glm-5.3"
+}

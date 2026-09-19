@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے سارہ آکھیا: “ایلوہیم میݙے کیتے ہسݨ بݨایا ہے؛ جو کوئی سُݨسی، میݙے نال ہسیسی۔”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ہسݨ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "سُݨݨ آلا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ہسیسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:40.642343305Z",
+  "model": "glm-5.3"
+}

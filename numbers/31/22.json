@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "پر سونا ⟨את⟩، تے چاندی ⟨את⟩، تانبے ⟨את⟩، لوہے ⟨את⟩، ٹین ⟨את⟩ تے سیسے ⟨ואת⟩ کوں —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چاندی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تانبا"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوہا"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٹین"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ٹین"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سیسہ"
+    },
+    {
+      "surface": "העفרת",
+      "gloss": "سیسہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:52.449965857Z",
+  "model": "glm-5.3"
+}

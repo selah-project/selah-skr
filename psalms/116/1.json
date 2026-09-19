@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 116,
+  "translation": "میں پیار کیتا، کیوں جو یاہوہ ⟨את⟩ میݙی آواز — میݙی منت سُݨدا ہے۔",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "میں پیار کیتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨدا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙی آواز"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "میݙی منت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:06.259789860Z",
+  "model": "glm-5.3"
+}

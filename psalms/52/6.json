@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "توں سارے ہڑپ کرݨ آلے لفظاں کوں پیار کیتا، دھوکے آلی زبان۔",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "پیار کیتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ہڑپ کرݨ آلے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکے آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:32.375122686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے تسلہ وی ⟨اوہ⟩ ⟨את⟩ توٗبل قین کوں جنم ݙتس — ہر تانبے تے لوہے دے کاریگر دا گھڑݨ آلا — تے توٗبل قین دی بھیݨ نعمہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "تے تسلہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنم ݙتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توٗبل قین"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توٗبل"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قین"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "گھڑݨ آلا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کاریگر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "تے لوہے"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "تے بھیݨ"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توٗبل"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قین"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "نعمہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:37.800324768Z",
+  "model": "glm-5.3"
+}

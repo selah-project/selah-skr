@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے نَحور انتے ورہے جییا، تے تِرَخ ⟨את⟩ کوں ڄݨیس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نَحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "ועשرים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہے"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تِرَخ کوں"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِرَخ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:39.050528448Z",
+  "model": "glm-5.3"
+}

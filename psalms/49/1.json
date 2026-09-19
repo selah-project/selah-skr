@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "موسیقار کیتے، قورخ دے پُتراں کیتے، ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موسیقار کیتے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کیتے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورخ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:15.083842237Z",
+  "model": "glm-5.3"
+}

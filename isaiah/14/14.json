@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "میں گھٹلاں دیاں اُچائیاں اُتے چڑھساں، میں عُلیان جیہا تھیساں۔",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "چڑھساں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "اُچائیاں"
+    },
+    {
+      "surface": "עב",
+      "gloss": "گھٹلاں دیاں"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "جیہا تھیساں"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "عُلیان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:32.504624088Z",
+  "model": "glm-5.3"
+}

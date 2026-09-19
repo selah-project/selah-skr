@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "او صاف چراغدان دے اُتے بتیاں ⟨את⟩ یاہوہ دے اڳوں ہمیشہ سِدھیاں رکھسی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "چراغدان"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "سِدھا رکھسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بتیاں"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "بتیاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:33.445547513Z",
+  "model": "glm-5.3"
+}

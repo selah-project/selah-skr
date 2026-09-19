@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "جیہڑا دنبہ تئیں ݙٹھا، ݙوں سنگھیں دا مالک، اوہ مادای تے پارَس دے بادشاہ ہن۔",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تئیں ݙٹھا"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "ݙوں سنگھیں"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "تے پارَس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:22:21.048662018Z",
+  "model": "glm-5.3"
+}

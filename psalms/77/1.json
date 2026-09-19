@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 77,
+  "translation": "مِہان٘تے کیتے، یَدُوتُون اُتے، اَساف کیتے ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مِہان٘تے کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "یَدُوتُون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:15.925585629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو میں یاہوہ ہاں، میں نہ وٹایا؛ تے تُساں یعقوو دے پُتر — تُساں نہ مُکائے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "میں وٹایا"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "تے تُساں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "تُساں مُکائے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:15.293026462Z",
+  "model": "glm-5.3"
+}

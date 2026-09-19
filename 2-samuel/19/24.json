@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے بادشاہ شِمعی کوں آکھیا: “توں نہ مریسی۔” تے بادشاہ اوں نال قسم چاتی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریسی"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "تے … قسم چاتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:00:09.523282671Z",
+  "model": "glm-5.3"
+}

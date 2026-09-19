@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوہ تِݙاں نہ سُتے ہَن، تے اوہ زنانی اُنہاں کول چڑھ ڳئی ہئی — چھت اُتے۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "تِݙاں نہ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "سُتے ہَن"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ زنانی"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "چڑھ ڳئی ہئی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں کول"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "چھت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:39.068975934Z",
+  "model": "glm-5.3"
+}

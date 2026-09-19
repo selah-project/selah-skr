@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "آدم دے پُتر! آپݨا مُہرے بینی عمّون دے پُتریں دو موڑ، تے اُنہاں دی طرف نبوت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دا"
+    },
+    {
+      "surface": "שים",
+      "gloss": "موڑ ݙے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "آپݨا مُہرے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "تے نبوت کر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں دی طرف"
+    }
+  ],
+  "timestamp": "2026-09-19T18:36:20.541342104Z",
+  "model": "glm-5.3"
+}

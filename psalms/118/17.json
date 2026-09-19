@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "میں نہ مرساں، کیوں جو جی ساں، تے یاہ دے کم ݙسیندا رہساں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مرساں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "جی ساں"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "تے ݙسیندا رہساں"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "دے کم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:54.252390371Z",
+  "model": "glm-5.3"
+}

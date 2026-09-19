@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "انہاں دے ہتھ تے رپایہ پُتر خور — یروشلایم دے آدھے ضلعے دا سردار — مرمت کیتس۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مرمت کیتس"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رپایہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "آدھے"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ضلعے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:04.553664462Z",
+  "model": "glm-5.3"
+}

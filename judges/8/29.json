@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یَرُبّعل، یوآش دا پُتر، ڳیا تے آپݨے گھر وِچ رہݨ لڳا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "یَرُبّعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رہݨ لڳا"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "آپݨے گھر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:09.011058932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اَوراہام ولا ہِک ذال گھدی، تے اوندا ناں کتورہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھدی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ہِک ذال"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اوندا ناں"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "کتورہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:49.336016120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ملعون ہے اوہ جیہڑا رِشوت گھندا ہے ہِک جان کوں مارݨ کیتے — بےقصور خون ⟨وار⟩ — تے سارے لوک آکھسن: “آمین۔”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گھندا ہے"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رِشوت"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "مارݨ کیتے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےقصور"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:35.920145306Z",
+  "model": "glm-5.3"
+}

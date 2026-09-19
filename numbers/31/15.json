@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے اوںناں کوں آکھیا: “کیا تُساں ہر مادہ کوں جِیندا رکھیے؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوںناں کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "جِیندا رکھیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:42.307778947Z",
+  "model": "glm-5.3"
+}

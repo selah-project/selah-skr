@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "پر شراباں دے سردار ⟨את⟩ یوسف کوں یاد نہ رکھیا، تے اوندے نال بُھل ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھیا"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "شراباں دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "بُھل ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:35:43.567570264Z",
+  "model": "glm-5.3"
+}

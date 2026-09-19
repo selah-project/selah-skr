@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تݙاں دانی ایل بادشاہ نال ڳالھ کیتی: “بادشاہ! ہمیشہ کیتے جیویں!”",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانی ایل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جیویں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:23:50.038441938Z",
+  "model": "glm-5.3"
+}

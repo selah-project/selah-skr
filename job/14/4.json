@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "کوݨ پاک کوں اَپاویتوں ݙے سڳدے؟ کوئی نہ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙے سڳدے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "اَپاویتوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "کوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:31.974934496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کاہن ایہیاں ⟨את⟩ لعنتاں کتاب وِچ لکھسی، تے کڑوے پاݨی وِچ ⟨مٹا ݙیسی⟩۔",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "لکھسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہیاں لعنتاں"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "لعنتاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہیاں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "مٹیسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ ⟨کوں⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "کڑوے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:49.108570971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پر جو میݙی سُݨسی او بھروسے نال رہسی، تے بُرائی دے ݙر توں سکون وِچ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "پر جو سُݨسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "تے سکون وِچ ہوسی"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ݙر توں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:48.983432925Z",
+  "model": "glm-5.3"
+}

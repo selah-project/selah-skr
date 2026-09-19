@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے موشے ⟨את⟩ ݙنڈیاں کوں یاہوہ دے اڳوں، گواہی دے خیمے وِچ، رکھیا۔",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ݙنڈیاں"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ݙنڈیاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:53.367459052Z",
+  "model": "glm-5.3"
+}

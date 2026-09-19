@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایں کیتے بندہ ⟨את⟩ پیو کوں تے ⟨את⟩ ماء کوں چھوڑسی، تے اپݨی ذال نال چمبڑ ویسی، تے او ہِک گوشت تھی ویسن۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "چھوڑسی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ماء"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "چمبڑ ویسی"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "اپݨی ذال نال"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تھی ویسن"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ہِک گوشت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:10.518342734Z",
+  "model": "glm-5.3"
+}

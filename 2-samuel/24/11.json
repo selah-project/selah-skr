@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے داوِد سویرے اُٹھیا، تے یاہوہ دا کلام گد نبی، داوِد دے ݙیکھݨ آلے کول آیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙیکھݨ آلے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:08.905675088Z",
+  "model": "glm-5.3"
+}

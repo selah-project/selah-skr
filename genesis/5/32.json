@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے نُوح پنج سو سال دا پُتر ہا، تے نُوح ⟨את⟩ شیم کوں، ⟨את⟩ حام کوں تے ⟨את⟩ یافت کوں ڄمائیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمائیا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:46.957850106Z",
+  "model": "glm-5.3"
+}

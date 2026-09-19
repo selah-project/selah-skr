@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "پنجواں شفتایا، اَویتال توں؛ چھیواں یِترعام، عگلا، اوندی ذال، توں۔",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجواں"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتایا"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "اَویتال توں"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیواں"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "عگلا توں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:30.316472520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے تُسیں تابوت وِچ ⟨את⟩ گواہی رکھسیں، جیڑھی میں تیکوں ݙیساں۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "رکھسیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ݙیساں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:22.003986998Z",
+  "model": "glm-5.3"
+}

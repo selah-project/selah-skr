@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے بنی اسرائیل دی رہائش، جیہڑی او مِتصرایم وِچ رہے، چار سو تریہہ سال ہئی۔",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "تے رہائش"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "יִשׂראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:50.620266752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے ایندے بعد تھیا جو اوں ہِک ذال نال محبت کیتی، سورک دی وادی وِچ، تے اوندا ناں دلیلا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایندے"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "محبت کیتی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "سورک دی"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "دلیلا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:31:43.523371081Z",
+  "model": "glm-5.3"
+}

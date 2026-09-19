@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اوں اوندا ناں شِبعہ رکھیا؛ ایں کیتے اُوں شہر دا ناں بئر شِبع ہے، اَڄ تئیں اِیں ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے اوں … ناں رکھیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا (شِبعہ)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شِبعہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اُوں شہر دا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اَڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:47.725653797Z",
+  "model": "glm-5.3"
+}

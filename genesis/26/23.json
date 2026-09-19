@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اوں اُتھوں بئر-شبع دوں اُٹھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اُٹھی ڳیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:24.872544634Z",
+  "model": "glm-5.3"
+}

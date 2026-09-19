@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تیݙی چاندی ⟨את⟩ اوں کوں سود اُتے نہ ݙیسیں، تے ودھیک تے تیݙا کھاݨاں نہ ݙیسیں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙی چاندی"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "تیݙی چاندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیسیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "سود اُتے"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "تے ودھیک تے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیسیں"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "تیݙا کھاݨاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:29.196035306Z",
+  "model": "glm-5.3"
+}

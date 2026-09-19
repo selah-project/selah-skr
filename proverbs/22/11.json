@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جیہڑا صاف دل پیار کرے، اوندے ہونٹھاں تے کرم، بادشاہ اوندا یار۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חן",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "اوندے ہونٹھاں تے"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اوندا یار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:30.055904932Z",
+  "model": "glm-5.3"
+}

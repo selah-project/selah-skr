@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے بادشاہ میکوں آکھیا: “تُوں ایہ کیا منگدا ہیں؟” تے میں اسماناں دے ایلوہیم کوں دعا کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "منگدا ہیں"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "تے میں دعا کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:30:27.919257790Z",
+  "model": "glm-5.3"
+}

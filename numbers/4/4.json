@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایہ کہات دے پُتریاں دی خدمت ہے، مِلن دے خیمے وِچ، پاک شکناں دے پاک ⟨دی بارے وِچ⟩۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کہات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک شکناں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:12.296384505Z",
+  "model": "glm-5.3"
+}

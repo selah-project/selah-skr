@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں اپݨیاں اکھیں چا چُکیاں تے ݙٹھا، تے ݙیکھو، ہِک بندہ، تے اوندے ہتھ وِچ ناپ دا ݙور ہا۔",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "چا چُکیاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اپݨیاں اکھیں"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "تے ݙٹھا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندہ"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "تے اوندے ہتھ وِچ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ݙور"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:02.659263451Z",
+  "model": "glm-5.3"
+}

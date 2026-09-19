@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ہر ریندی رَوَّݨ آلے اُݙݨ والے دا جیندے چار پیر ہون، تُہاݙے کیتے میکوہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ریندی رَوَّݨ آلے"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "اُݙݨ والے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "میکوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:11:52.228188275Z",
+  "model": "glm-5.3"
+}

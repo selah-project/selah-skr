@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے جماعت کیتے پاݨی کائنی ہا، تے او موشے اُتے تے اہرون اُتے کٹھے تھئے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "جماعت کیتے"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "کٹھے تھئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:44.443197861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے عمارت دے اڳوڑے دی تے وکھری جاہ دی چوڑائی پوادھ پاسے ہِک سو ہتھ۔",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوڑا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "عمارت دے"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "تے وکھری جاہ"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "پوادھ پاسے"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:17:23.794839685Z",
+  "model": "glm-5.3"
+}

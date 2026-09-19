@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "اوہ بانجھ تریمت کوں گھر وِچ ٻلہیندا، ٻالاں دی ماء، خوش — یاہ دی تعریف کرو!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "ٻلہیندا"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "بانجھ تریمت کوں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ٻالاں دی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:20.875351757Z",
+  "model": "glm-5.3"
+}

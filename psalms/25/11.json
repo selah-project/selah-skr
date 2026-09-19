@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "یاہوہ، تیݙے ناں کیتے میݙا گناہ معاف کر، کیوں جو او ٻہوں وݙا ہے۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیݙے ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "معاف کریسی"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "میݙا گناہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں وݙا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:48.321265622Z",
+  "model": "glm-5.3"
+}

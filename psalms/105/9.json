@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "جیڑھا اوں اَوراہام نال ⟨את⟩ کیتا، تے اوندی قسم یِتصخاق کوں،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "تے اوندی قسم"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "یِتصخاق کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:12.526551516Z",
+  "model": "glm-5.3"
+}

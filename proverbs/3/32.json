@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو کُجھیل یاہوہ کیتے گھناؤنا ہے، تے سِدھیاں نال ⟨את⟩ اُوندا راز ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "کُجھیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "اُوندا راز"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.884662606Z",
+  "model": "glm-5.3"
+}

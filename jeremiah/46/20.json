@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "مِتصرایم ہِک ٻہوں سوہݨی ڳئی ⟨ہے⟩؛ شمال توں تباہی آندی ہے، آندی ہے۔",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "ڳئی"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "شکل آلی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "شمال توں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندی ہے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:42.987997568Z",
+  "model": "glm-5.3"
+}

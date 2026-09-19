@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "سچ، میں ڄاݨداں جو ایویں ہے، پر فانی بندہ ایل نال کیویں راستہ تھیسی؟",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨداں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں ہے"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "پر کیویں"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "راستہ تھیسی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:47.995383339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے اَپھرایم دی سرحد اُتے، پوادھ دی طرف توں لَہندے پاسے تئیں، رئوبین کیتے ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَپھرایم"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "توں طرف"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لَہندے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:29.530862491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تریجھا خارِم کیتے، چوتھا سِعورِم کیتے۔",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "خارِم کیتے"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تریجھا"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "سِعورِم کیتے"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "چوتھا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:20.275205810Z",
+  "model": "glm-5.3"
+}

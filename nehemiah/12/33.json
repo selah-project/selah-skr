@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے عَزَریاہ، عِزرا تے مِشُلّم۔",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "تے عَزَریاہ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عِزرا"
+    },
+    {
+      "surface": "ومשלם",
+      "gloss": "تے مِشُلّم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:40.023261581Z",
+  "model": "glm-5.3"
+}

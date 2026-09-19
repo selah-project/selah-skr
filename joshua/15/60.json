@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "قِریت بَعل — ایہو قِریت یِعارِم ہے — تے رَبّہ: ݙو شہر تے اُنہاں دے پنڈ۔",
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یِعارِم"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "تے رَبّہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے اُنہاں دے پنڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.735095015Z",
+  "model": "glm-5.3"
+}

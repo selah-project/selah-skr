@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 36:33",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "شہ اُوندے بارے ݙسیندے، مال وی چڑھدی ہوئی شے بارے ڄاݨدے۔",
+  "tokens": [
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیندے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے بارے"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "شہ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "چڑھدی ہوئی شے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:10.239378055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "یاہوہ ⟨את⟩ دی خدمت ڈر نال کرو، تے کپکار وِچ خوش تھاؤ۔",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ڈر نال"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "تے خوش تھاؤ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "کپکار وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:14.080270415Z",
+  "model": "glm-5.3"
+}

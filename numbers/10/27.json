@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے نفتالی دے پُتریں دے قبیلے دے لشکر اُتے اَخیرع، پُتر عیناݨ۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں دے"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَخیرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عیناݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:17.780589163Z",
+  "model": "glm-5.3"
+}

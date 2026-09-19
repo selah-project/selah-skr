@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شلومو دے نوکراں دے پُتر: سوطای دے پُتر، سوپھرت دے پُتر، پِرودا دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوکراں دے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "سوطای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "سوپھرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "پِرودا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:44.057330433Z",
+  "model": "glm-5.3"
+}

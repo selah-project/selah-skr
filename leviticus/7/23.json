@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اسرائیل دے پُتراں نال آکھ: “ٻڈھے دا، بھیݙ دی تے ٻکری دا چرٻی تساں نہ کھاؤ۔”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻی"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ٻڈھے دی"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "تے بھیݙ دی"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے ٻکری دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:41.306734919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یاہوہ، میݙے دشمن کتنے ودھ ڳئے! ٻہوں سارے ہن جیہڑے میݙے اُتے اُٹھی کھڑدن۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کتنا"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ودھ ڳئے"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "میݙے دشمن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "اُٹھی کھڑدن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:36.586209770Z",
+  "model": "glm-5.3"
+}

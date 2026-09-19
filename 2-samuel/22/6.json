@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "شیول دے رسّے میکوں ولوڑ گھدا، موت دے پھندے میݙے اُتے آ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسّے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "میکوں ولوڑ گھدا"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "میݙے اُتے آ ڳئے"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "پھندے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T17:00:24.614549814Z",
+  "model": "glm-5.3"
+}

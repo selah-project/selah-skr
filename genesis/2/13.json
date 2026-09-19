@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ݙوجھے دریا دا ناں گیحون ⟨ہے⟩؛ اوہو سارے ⟨את⟩ ملک کُوش کوں وَلھیٹ ویندے۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا دا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گیحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "وَلھیٹ ویندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے ملک کُوش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:33.279569156Z",
+  "model": "glm-5.3"
+}

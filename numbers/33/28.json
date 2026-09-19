@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ تَراخ کنوں ٹُرے، تے مِتقہ وِچ پڑاؤ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "تَراخ کنوں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پڑاؤ کیتا"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "مِتقہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:33.069887543Z",
+  "model": "glm-5.3"
+}

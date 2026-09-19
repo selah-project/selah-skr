@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "اوں ⟨את⟩ موٹھیاں کیکر دی لکڑی دیاں بݨایاں، تے اوہناں کوں کانسی نال ڈھکّیا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موٹھیاں"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "موٹھیاں"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ڈھکّیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں کوں"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "کانسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:13.247273294Z",
+  "model": "glm-5.3"
+}

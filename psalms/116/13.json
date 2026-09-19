@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 116,
+  "translation": "میں نجاتاں دا کاسہ چیساں، تے یاہوہ دے ناں نال سݙ مریسی۔",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "کاسہ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "نجاتاں دا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چیساں"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "تے … دے ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "سݙ مریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:57.331949704Z",
+  "model": "glm-5.3"
+}

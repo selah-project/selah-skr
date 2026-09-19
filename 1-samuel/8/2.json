@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوندے پہلے پُتر دا ناں یُوایل ہا، تے ݙوجھے دا ناں اَویا ہئی؛ او بیئر شِبع وِچ قاضی ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یُوایل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَویا"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "قاضی"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بیئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    }
+  ],
+  "timestamp": "2026-09-19T16:36:05.173434839Z",
+  "model": "glm-5.3"
+}

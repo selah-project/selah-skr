@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ مُصیروت توں ٹُرے، تے بنے-یعقان وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے اوہ ٹُرے"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "مُصیروت توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "بنے-… وِچ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یعقان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:37.998929762Z",
+  "model": "glm-5.3"
+}

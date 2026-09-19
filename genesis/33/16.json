@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوں ݙینہہ عیسو آپݨے رستے سعیر وَل وَلیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَلیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "آپݨے رستے"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "سعیر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:31.265294697Z",
+  "model": "glm-5.3"
+}

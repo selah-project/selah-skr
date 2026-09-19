@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "اَتے موشے پہاڑ اُتے چڑھیا، اَتے بادل ⟨את⟩ پہاڑ کوں ڍک گھدا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ڍک گھدا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہاڑ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:31.080758629Z",
+  "model": "glm-5.3"
+}

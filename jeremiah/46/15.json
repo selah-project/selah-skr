@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "کیوں تیݙے سورمے لَتھڑ ڳئے؟ او کھڑے نہ تھی سڳیے، کیوں جو یاہوہ اوندے کوں دھکا ݙتس۔",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "لَتھڑ ڳئے"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "تیݙے سورمے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑے تھیے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "دھکا ݙتس"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:33.498825833Z",
+  "model": "glm-5.3"
+}

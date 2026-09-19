@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یقیناً تُساں ای ⟨اُو⟩ قوم ہیوے، تے تُہاݙے نال ہی حکمت مرسی!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "تے تُہاݙے نال"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرسی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:17.235187540Z",
+  "model": "glm-5.3"
+}

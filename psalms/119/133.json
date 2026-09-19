@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 133,
+  "ref": "psalms 119:133",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میرے قدم تیݙے آکھے موجب ٹکا ݙے، تے کوئی برائی میݙے اُتے راج نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "פעמי",
+      "gloss": "میرے قدم"
+    },
+    {
+      "surface": "הכן",
+      "gloss": "ٹکا ݙے"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "تیݙے آکھے موجب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשלט",
+      "gloss": "راج کرے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:18.328312076Z",
+  "model": "glm-5.3"
+}

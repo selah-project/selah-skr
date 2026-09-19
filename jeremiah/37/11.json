@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے تھیا جو كسدیاں دی فوج، پرعوہ دی فوج دے ݙر توں، یروشلایم توں اُٹھ ونڄݨ وِچ ہئی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "اُٹھ ونڄݨ وِچ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "كسدیاں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے ݙر توں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:41.863294663Z",
+  "model": "glm-5.3"
+}

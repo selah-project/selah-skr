@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ دَاہ، تے ⟨את⟩ اَیّاہ آپݨی قسم دے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "دَاہ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دَاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اَیّاہ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "اَیّاہ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "آپݨی قسم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:11:50.803559513Z",
+  "model": "glm-5.3"
+}

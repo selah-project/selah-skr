@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "توں اُنہاں دی سلامتی تے اُنہاں دی بھلائی نہ ڳولینجا، ساری تیݙی حیاتی، ہمیشاں کیتے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ڳولینجا"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "اُنہاں دی سلامتی"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "تے اُنہاں دی بھلائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تیݙی حیاتی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:25.271943948Z",
+  "model": "glm-5.3"
+}

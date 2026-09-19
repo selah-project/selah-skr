@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "زبولون دے ٹبر وِچوں گدیایل، سودی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "دے ٹبر وِچوں"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گدیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:08.243849334Z",
+  "model": "glm-5.3"
+}

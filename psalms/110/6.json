@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 110,
+  "translation": "او قوماں وِچ فیصلہ کریسی، لاشاں نال بھریسی، وݙی زمین اُتے سر کوں کُچھ ݙتیس۔",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "فیصلہ کریسی"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھریسی"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "لاشاں نال"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "کُچھ ݙتیس"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:58.263851768Z",
+  "model": "glm-5.3"
+}

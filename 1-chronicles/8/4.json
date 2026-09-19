@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اَبیشوع، تے نعمان، تے اَخواح۔",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "تے اَبیشوع"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "تے نعمان"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "تے اَخواح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:44.405431912Z",
+  "model": "glm-5.3"
+}

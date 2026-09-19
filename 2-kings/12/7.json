@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے تھیا: بادشاہ یہوآش دے ویہہ تے ترے سال وِچ کاہناں گھر دی ⟨את⟩ دراڑ مُرمت نہ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یہوآش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "مُرمت کیتی"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دراڑ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "دراڑ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:12:01.547093315Z",
+  "model": "glm-5.3"
+}

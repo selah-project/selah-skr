@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے یہوداہ اپݨے پہلوٹھے عیر کیتے ہِک ذال گھدی، تے اوندا ناں تامار ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گھدی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ہِک ذال"
+    },
+    {
+      "surface": "לער",
+      "gloss": "عیر کیتے"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "اوندے پہلوٹھے"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اوندا ناں"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:01.512180035Z",
+  "model": "glm-5.3"
+}

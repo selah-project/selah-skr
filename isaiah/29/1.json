@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "ہائے اریئل، اریئل، او شہر جتھاں داوِد ٹِکیا ہا! سال اُتے سال رَلّو؛ جَشن ہِک ٻئے پچھوں آؤن۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اریئل"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اریئل"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "جتھاں ٹِکیا ہا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "رَلّو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "جَشن"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "آؤن"
+    }
+  ],
+  "timestamp": "2026-09-19T17:43:16.963397707Z",
+  "model": "glm-5.3"
+}

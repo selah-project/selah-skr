@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تُساں بندے توں رکو، جیندے نَس وِچ ساہ ہے، کیوں جو او کیہݙا ڳݨیا ویندا ہے؟",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "رکو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "نَس وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "במה",
+      "gloss": "کیہݙا"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "ڳݨیا ویندا ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T17:31:48.365615892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے بانی، تے بنّوای، شِمعی،",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے بانی"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "تے بنّوای"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:48.204111875Z",
+  "model": "glm-5.3"
+}

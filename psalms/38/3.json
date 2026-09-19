@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کیوں جو تیݙے تیر میں وِچ اتر ڳئے، تے تیݙا ہتھ میݙے اُتے ٹک ڳیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تیݙے تیر"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "اٹر ڳئے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "اتر آیا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙا ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:16.745131391Z",
+  "model": "glm-5.3"
+}

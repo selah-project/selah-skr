@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "میݙے پُتر، اُنہاں ⟨את⟩ نال رستے وِچ نہ ٹُر، آپݨا پیر اُنہاں دے راستیں توں روک۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ٹُر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اُنہاں"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "روک"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "آپݨا پیر"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "اُنہاں دے راستیں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:50.454402807Z",
+  "model": "glm-5.3"
+}

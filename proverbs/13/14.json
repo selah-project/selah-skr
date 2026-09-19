@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "سیاݨے دی تورات ⟨ہے⟩ جیوݨ دا چشمہ، تاں جو مرݨ دے پھندیاں توں ہٹیجا ونڄے۔",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨے دی"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیوݨ دا"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "تاں جو ہٹیجا ونڄے"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "پھندیاں توں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرݨ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:55.089553746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "چالاک دی دانائی اوندا راہ سمجھݨ ⟨ہے⟩، تے بیوقوفاں دی بھول مکر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "چالاک"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "سمجھݨ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوندا راہ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "تے بھول"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "بیوقوفاں دی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مکر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:39.940421643Z",
+  "model": "glm-5.3"
+}

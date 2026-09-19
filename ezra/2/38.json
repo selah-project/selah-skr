@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "پشخُّر دے پُتر، ہِک ہزار ݙو سو چالی تے اِت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پشخُّر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے اِت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:49.912054054Z",
+  "model": "glm-5.3"
+}

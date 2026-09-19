@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یوسف دا گھر، اوہ وی بیت-ایل دوں چڑھیا، تے یاہوہ اُنہاں نال ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھیا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف دا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ایل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اُنہاں نال ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:18:48.363233240Z",
+  "model": "glm-5.3"
+}

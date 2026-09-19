@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے مِشمَع، تے دُومہ، تے مَسّا۔",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "تے مِشمَع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "تے دُومہ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "تے مَسّا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:06.044424452Z",
+  "model": "glm-5.3"
+}

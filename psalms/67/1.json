@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 67,
+  "translation": "راہبر کیتے، تاراں آلے سازاں نال — ہِک زبور، ہِک ڳاوݨ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راہبر کیتے"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تاراں آلے سازاں نال"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:13.229640271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یِسرایل دی ساری جماعت ⟨את⟩ اِیکوں کریسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اِیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:52.103409402Z",
+  "model": "glm-5.3"
+}

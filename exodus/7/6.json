@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے موشے تے اہروں اوویں کیتا جیویں یاہوہ ⟨את⟩ اُنہاں کوں حکم ݙتا — ایویں اِنہاں کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہروں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں کوں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "انہاں کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:45:20.574676094Z",
+  "model": "glm-5.3"
+}

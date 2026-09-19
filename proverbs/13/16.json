@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ہر سیاݨا علم نال کم کریندے، تے احمق مورکھپ کھول ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کم کریندے"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "علم نال"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "تے احمق"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "کھول ݙیندے"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "مورکھپ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:55.089919046Z",
+  "model": "glm-5.3"
+}

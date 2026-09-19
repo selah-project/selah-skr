@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ایلی دے پُتر بلیعال دے پُتر ہن، او ⟨את⟩ یاہوہ کوں نہ ڄاݨدے ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ایلی دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعال دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدے ہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:33:55.491806112Z",
+  "model": "glm-5.3"
+}

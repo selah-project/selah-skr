@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "چݨیا ہویا چانڈی ⟨ہے⟩ راست بندے دی زبان، پر بدکاراں دا دل ٻہوں تھوڑے جِتنا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چانڈی"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چݨیا ہویا"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست بندے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ٻہوں تھوڑے جِتنا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:22.644893571Z",
+  "model": "glm-5.3"
+}

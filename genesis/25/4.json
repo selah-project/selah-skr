@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے مدیان دے پُتر عیفہ تے عیفر تے حنوک تے ابیدعہ تے الدعہ ہن؛ سبھ اے کتورہ دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدیان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "عیفہ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "تے عیفر"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "تے حنوک"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "تے ابیدعہ"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "تے الدعہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "کتورہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:49.336547374Z",
+  "model": "glm-5.3"
+}

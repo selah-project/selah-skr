@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایمیم ⟨ہُݨ توں⟩ پہلے اُتھاں وسیندے ہَن — ہِک وݙا، ٻہوں تے اُچا قوم، عناقیں وانگوں۔",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ایمیم"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "وسیندے ہَن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "تے ٻہوں"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "تے اُچا"
+    },
+    {
+      "surface": "کענקים",
+      "gloss": "عناقیں وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:46.178200604Z",
+  "model": "glm-5.3"
+}

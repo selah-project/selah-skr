@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "جلال تے شوکت اوندے اڳوں ہِن، تے طاقت تے خوشی اوندی جاہ وِچ ہِن۔",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شوکت"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "تے خوشی"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "اوندی جاہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:36.044952974Z",
+  "model": "glm-5.3"
+}

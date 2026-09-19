@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 55,
+  "translation": "میݙا دل میݙے وِچ ولوڑ کھاندے، تے موت دے ݙر میݙے اُتے ڈھہہ پئے ہن۔",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ولوڑ کھاندے"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میݙے وِچ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "دے ݙر"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈھہہ پئے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:03.787202010Z",
+  "model": "glm-5.3"
+}

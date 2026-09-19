@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے اسرائیل دا گھرانہ اُنہاں کوں دفن کریسی، تاں جو ⟨את⟩ زمین کوں پاک صاف کرے — ست مہینے۔",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "دفن کریسی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھرانہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "پاک صاف کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:42:36.577573029Z",
+  "model": "glm-5.3"
+}

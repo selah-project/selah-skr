@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے انصافاں توں میں نہ ہٹیا، کیوں جو تُوں آپ میکوں سکھایا۔",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "تیݙے انصافاں توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ہٹیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں آپ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "میکوں سکھایا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:48.162349063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:41.502610181Z",
+  "model": "glm-5.3"
+}

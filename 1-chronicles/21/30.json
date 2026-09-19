@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے داوِد اوندے اڳوں ونڄ کے ایلوہیم توں نہ پُچھ سڳیا، کیوں جو یاہوہ دے فرشتے دی تلوار توں ݙر ڳیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "سڳیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ونڄݨ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "پُچھݨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "ݙر ڳیا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:58.963352248Z",
+  "model": "glm-5.3"
+}

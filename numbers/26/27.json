@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 26:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ زِبولُنیاں دے ٹبر ہن، انہاں دی ڳݨتی موجب: سَٹھ ہزار تے پنج سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "زِبولُنیاں"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "انہاں دی ڳݨتی موجب"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سَٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:45.377803475Z",
+  "model": "glm-5.3"
+}

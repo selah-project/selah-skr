@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ اُوفیر، تے ⟨את⟩ حَویلہ، تے ⟨את⟩ یوباب — ایہ سب یُوقطن دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُوفیر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اُوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حَویلہ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَویلہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یُوقطن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:47.590558664Z",
+  "model": "glm-5.3"
+}

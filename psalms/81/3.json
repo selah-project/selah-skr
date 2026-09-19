@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 81,
+  "translation": "ڳاوݨا اُچا کرو، تے ڈھول وڄاؤ، مِٹھا کِنّور نال نَبیل۔",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "اُچا کرو"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ڳاوݨا"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "تے وڄاؤ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ڈھول"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کِنّور"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "مِٹھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نَبیل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:58.346691007Z",
+  "model": "glm-5.3"
+}

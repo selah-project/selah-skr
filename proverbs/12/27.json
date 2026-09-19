@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "سُست بندہ آپݨا شکار بھنا نہ کریندا، پر محنتی بندے دا مال قیمتی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "بھنا کریندا"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "آپݨا شکار"
+    },
+    {
+      "surface": "והון",
+      "gloss": "پر مال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "محنتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:30.272290977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے تے کاہن اِلعازر اوہو کیتا جیویں یاہوہ ⟨את⟩ موشے کوں حکم ݙتا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "تے اِلعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:23.271378184Z",
+  "model": "glm-5.3"
+}

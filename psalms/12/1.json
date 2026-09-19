@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "مُن٘چی کیتے، شمنیت اُتے — داوِد دا مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُن٘چی کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "شمنیت ⟨اَٹھویں سرے اُتے⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:54.256835504Z",
+  "model": "glm-5.3"
+}

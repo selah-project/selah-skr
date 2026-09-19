@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "خبردار جو تُساں یاہوہ ⟨את⟩ کوں نہ بُھلاہے، جیں تیکوں مِتصرایم دی زمین توں، غلاماں دے گھر توں کڈھیا۔",
+  "tokens": [
+    {
+      "surface": "השمר",
+      "gloss": "خبردار ہوویں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "פן",
+      "gloss": "جو نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بُھلاہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیں"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "تیکوں کڈھیا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:07.068524027Z",
+  "model": "glm-5.3"
+}

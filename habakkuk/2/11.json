@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو دیوار وِچوں پتھر چلائسی، تے لکڑی وِچوں کڑی اوندا جواب ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "دیوار وِچوں"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "چلائسی"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "تے کڑی"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "لکڑی وِچوں"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "جواب ݙیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:23.672726104Z",
+  "model": "glm-5.3"
+}

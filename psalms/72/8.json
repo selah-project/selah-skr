@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "تے او راج کریسی سمندر توں سمندر تئیں، تے دریا توں زمین دے کنڈیآں تئیں۔",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "تے او راج کریسی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "تے دریا توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کنڈیآں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:56.805898136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "انہاں دا ٻہݨ تے اُٹھݨ ݙیکھ گِھن؛ میں انہاں دی تانسیں دا ڳانڈھا ہاں۔",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "انہاں دا ٻہݨ"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "تے اُٹھݨ"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "ݙیکھ گِھن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "انہاں دی تانسیں دا ڳانڈھا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:08.616145373Z",
+  "model": "glm-5.3"
+}

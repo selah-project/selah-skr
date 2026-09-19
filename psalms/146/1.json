@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 146,
+  "translation": "ستائش کرو یاہ کوں، ستائش کرو، میݙی جان، ⟨את⟩ یاہوہ کوں۔",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستائش کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستائش کر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:04.917376449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "بھلا جنگلی گدھا گھاہ اُتے ہنکدا ہے؟ یا ڳاں اپݨے چارے اُتے ٻولیندی ہے؟",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "بھلا ہنکدا ہے"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "جنگلی گدھا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ٻولیندی ہے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "اپݨے چارے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:17.549800773Z",
+  "model": "glm-5.3"
+}

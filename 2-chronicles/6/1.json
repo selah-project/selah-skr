@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تݙاں شلومو آکھیا: “یاہوہ ⟨את⟩ آکھیا — گھنے اندھارے وِچ وسݨ۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "وسݨ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گھنے اندھارے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:55.482662380Z",
+  "model": "glm-5.3"
+}

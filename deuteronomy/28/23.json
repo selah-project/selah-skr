@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے تیݙے سر اُتے آلے اسمان تانبا بݨسن، تے تلے آلی زمین تیݙے تلے لوہا۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "بݨسن"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "تیݙے اسمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تیݙے سر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تیݙے تلے"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:52.311526223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "یاہوہ دا ناں برکت والا ہووے، اِیں ویلے توں ہمیشہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "اِیں ویلے توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:38.009388662Z",
+  "model": "glm-5.3"
+}

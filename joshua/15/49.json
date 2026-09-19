@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے دَنّہ، تے قِرت سَنّہ ⟨اوہو دَبِر ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "تے دَنّہ"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "تے قِرت"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "سَنّہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبِر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.905945213Z",
+  "model": "glm-5.3"
+}

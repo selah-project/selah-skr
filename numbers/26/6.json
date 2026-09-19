@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "حصرون — حصرونی ٹبر؛ کرمی — کرمی ٹبر۔",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "حصرونی"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "کرمی"
+    },
+    {
+      "surface": "مשפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "کرمی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:56.765744918Z",
+  "model": "glm-5.3"
+}

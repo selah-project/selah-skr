@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایں کیتے قوماں، سُݨو، تے جماعت ڄاݨ ⟨את⟩ جو ⟨اُنہاں اُتے⟩ آوݨ لڳا ہے۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو (اُنہاں اُتے آوݨ آلی ڳالھ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنہاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:57.462740770Z",
+  "model": "glm-5.3"
+}

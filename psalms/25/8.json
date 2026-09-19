@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "یاہوہ بھلا تے سِدھا ⟨ہے⟩؛ ایں کیتے او گناہگاراں کوں رستے وِچ سکھیندے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "سکھیندے"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہگاراں کوں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:05.700367286Z",
+  "model": "glm-5.3"
+}

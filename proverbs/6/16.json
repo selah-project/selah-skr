@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "چھی شیہاں ایہو جہیاں ہن جنہاں توں یاہوہ نفرت کریندے، تے ست اوندی نفش کیتے مکروہ ہن۔",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "شیہاں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "نفرت کریندے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوندی نفش کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.179607057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 4:18",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تُساں جو خط اساں کوں بھیجا، او وضاحت نال میݙے اڳوں پڑھیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "נשתונא",
+      "gloss": "خط"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלחתון",
+      "gloss": "بھیجا"
+    },
+    {
+      "surface": "עלינא",
+      "gloss": "اساں کوں"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "وضاحت نال"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "پڑھیا ڳیا"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "میݙے اڳوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:27:19.835383295Z",
+  "model": "glm-5.3"
+}

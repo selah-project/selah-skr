@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "صرف ݙو شہیں میݙے نال نہ کر؛ تݙاں میں تیݙے مُکھ توں نہ لُکساں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کر"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیݙے مُکھ توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "میں لُکساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:09.704778994Z",
+  "model": "glm-5.3"
+}

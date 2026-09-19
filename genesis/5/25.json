@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے مَتوُشَلح ست تے اَسی سال تے ہِک سو سال جِییا، تے ⟨את⟩ لَمِیخ کوں پیدا کیتس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِییا"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مَتوُشَلح"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اَسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے ہِک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کیتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لَمِیخ"
+    },
+    {
+      "surface": "لמך",
+      "gloss": "لَمِیخ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:49.941187030Z",
+  "model": "glm-5.3"
+}

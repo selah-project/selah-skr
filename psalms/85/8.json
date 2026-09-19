@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "یاہوہ، اساکوں اپݨا خیسِد ݙیکھا، تے اپݨی خلاصی اساکوں ݙے۔",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "اساکوں ݙیکھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "اپݨا خیسِد"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "تے اپݨی خلاصی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیسیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:59.255196923Z",
+  "model": "glm-5.3"
+}

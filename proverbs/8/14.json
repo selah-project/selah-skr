@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "مشورہ میݙا ہے، تے توُشیاہ ⟨ٹھوس دانائی⟩ میݙی ہے؛ میں سمجھ ہاں، طاقت میݙی ہے۔",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "میݙا"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "تے توُشیاہ ⟨ٹھوس دانائی⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:30.409515395Z",
+  "model": "glm-5.3"
+}

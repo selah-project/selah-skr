@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے جے کوئی جانور ہووے جیندے توں قربانی یاہوہ کیتے چاڑھی ونجے، جو کجھ کوئی اوندے توں یاہوہ کوں ݙیوے، او پاک ہوسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "چاڑھن"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اوندی توں"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیوے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوندے توں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:54.806424753Z",
+  "model": "glm-5.3"
+}

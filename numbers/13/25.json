@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے او چالیہہ ݙینہہ دے پچھتے زمین دی جاسوسی توں وَل آئے۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "وَل آئے"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "جاسوسی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دی"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "دے پچھتے"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:19.347871852Z",
+  "model": "glm-5.3"
+}

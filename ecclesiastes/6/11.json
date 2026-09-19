@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو ڳالھیں ٻہوں ساریاں ہِن جو ہیول ودھیندِن — بندے کوں کیا ودھیک ملدے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہِن"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں ساریاں"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ودھیندِن"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیول"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ودھیک"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بندے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:10.076256601Z",
+  "model": "glm-5.3"
+}

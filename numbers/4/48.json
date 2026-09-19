@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوہناں دے ڳݨے ہوئے اَٹھ ہزار تے پنج سو اَسی تھئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے تھئے"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "اوہناں دے ڳݨے ہوئے"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اَسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:45.764215003Z",
+  "model": "glm-5.3"
+}

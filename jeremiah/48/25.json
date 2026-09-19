@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "مُوآب دی سِنگ کٹی ڳئی ⟨ہے⟩، تے اوندا ٻانہہ ترٹ ڳیا ⟨ہے⟩ — یاہوہ دا اَعلان۔",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "کٹی ڳئی"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "سِنگ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "تے اوندا ٻانہہ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ترٹ ڳیا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اَعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:25.776639510Z",
+  "model": "glm-5.3"
+}

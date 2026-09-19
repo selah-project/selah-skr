@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اَزارِیل، شَلَمیاہو تے شَمَریاہ۔",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "اَزارِیل"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "تے شَلَمیاہو"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شَمَریاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:29:16.781973011Z",
+  "model": "glm-5.3"
+}

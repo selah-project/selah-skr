@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "جیہڑی ڳالھ نبی یاہوہ دے ناں نال آکھے، تے او ڳالھ نہ تھیوے تے نہ آوے، او او ڳالھ ہے جیہרی یاہوہ نہ آکھی؛ نبی اوہ ہٹ دھرمی نال آکھی ہے؛ اوں توں ݙر نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیوے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "آکھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ہٹ دھرمی نال"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "آکھی ہے"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "ݙرو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:00.416035594Z",
+  "model": "glm-5.3"
+}

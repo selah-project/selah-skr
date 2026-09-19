@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کیا مینہہ دا کوئی پیو ⟨ہے⟩، یا کئی شبنم دے قطرے جݙے؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "کیا… ⟨ہے⟩"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "مینہہ کیتے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "مי",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جݙے"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "قطرے"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:19.213097359Z",
+  "model": "glm-5.3"
+}

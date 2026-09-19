@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ گلعاد دے پُتر ہن: اِیعزر دی اِیعزری مِتصر، خیلک دی خیلکی مِتصر۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "اِیعزر"
+    },
+    {
+      "surface": "مשפחת",
+      "gloss": "مِتصر کھاندی"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "اِیعزری"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "خیلک دی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "مِتصر کھاندی"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "خیلکی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:00.710233947Z",
+  "model": "glm-5.3"
+}

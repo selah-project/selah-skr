@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "⟨את⟩ ہر کواں آپݨی قسم دے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کواں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کواں"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "آپݨی قسم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:11:50.803720580Z",
+  "model": "glm-5.3"
+}

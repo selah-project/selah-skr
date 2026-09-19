@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "شِمعا اوندا پُتر، حَگیہ اوندا پُتر، عَسایہ اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "حَگیہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عَسایہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:24.815880416Z",
+  "model": "glm-5.3"
+}

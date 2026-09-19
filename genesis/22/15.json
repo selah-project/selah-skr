@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے یاہوہ دے فرشتے اَوراہام کوں اسماناں توں ݙوجھی واری سݙیا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھی واری"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:25:37.545088893Z",
+  "model": "glm-5.3"
+}

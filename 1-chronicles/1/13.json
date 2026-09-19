@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے کنعان ⟨את⟩ تصیدون کوں، اپݨے پہلوٹھے کوں، تے ⟨את⟩ خیت کوں ڄݨیا۔",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "تے کنعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تصیدون"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "تصیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "اپݨے پہلوٹھے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "خیت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "خیت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:36.195211077Z",
+  "model": "glm-5.3"
+}

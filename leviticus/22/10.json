@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے ہر اوپرا پاک نہ کھاوے؛ کاہن کول ٹِکا ہویا مہمان تے پگھار آلا نوکر پاک نہ کھاوے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک (مقدس چیز)"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "ٹِکا ہویا مہمان"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن کول"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "تے پگھار آلا نوکر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک (مقدس چیز)"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:56.383576778Z",
+  "model": "glm-5.3"
+}

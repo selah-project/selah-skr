@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن تیل وِچوں اپݨے کھٻے ہتھ دی تلی اُتے پوڑیس۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے وِچوں"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "پوڑیس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تلی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن دے"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کھٻے ہتھ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:39.993341592Z",
+  "model": "glm-5.3"
+}

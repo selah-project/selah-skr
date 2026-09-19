@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اُوندا لشکر، تے اُوندی ڳݨتری تھئی: چر تے پنجھاہ ہزار تے چار سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اُوندا لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "تے اُوندی ڳݨتری"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چر"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجھاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:15.741176083Z",
+  "model": "glm-5.3"
+}

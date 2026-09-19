@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اساں اپݨے رستیاں کوں ڳول پرکھوں تے ڄاچوں، تے یاہوہ دو ولا آؤں۔",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ڳول پرکھوں"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "اساں اپݨے رستیاں کوں"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "تے ڄاچوں"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "تے ولا آؤں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:36.844368904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے تُساں خوشی نال نجات دے چشمیاں توں پاݨی کݙھسو۔",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "تے تُساں کݙھسو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "خوشی نال"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "چشمیاں توں"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "نجات دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:59.071633759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "شیم دے پُتر: عِیلام، اَشّور، اَرفکشد، لود تے اَرام۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "اَرفکشد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "اَرام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:49.266623526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن تیل دے لوگ وِچوں گھنسی، تے اپݨی کھٻی ہتھیلی اُتے ڈھاہسی۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "گھنسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "لوگ وِچوں"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل دے"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "تے ڈھاہسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن دی"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کھٻی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:36.491176645Z",
+  "model": "glm-5.3"
+}

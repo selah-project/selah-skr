@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے قوم وِچوں ترے ہزار بندے اُتھاں چڑھ ڳئے، تے ہعائی دے بندیاں دے اڳوں بھڄ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھ ڳئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "ترے ہزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨ہزار⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "بھڄ ڳئے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہعائی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:44.283790328Z",
+  "model": "glm-5.3"
+}

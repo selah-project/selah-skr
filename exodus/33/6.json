@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے یِسرایل دے پُتراں حورب پہاڑ ⟨توں⟩ آپݨے ⟨את⟩ ڳہݨے لہا گھدے۔",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "لہا گھدے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳہݨے"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ڳہݨے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "حورب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:02:25.669095027Z",
+  "model": "glm-5.3"
+}

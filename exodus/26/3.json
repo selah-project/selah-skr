@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "پنج پردے جُڑے ہوسن، ہِک اپݨی بھیݨ نال؛ تے پنج پردے جُڑے ہوسن، ہِک اپݨی بھیݨ نال۔",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "اپݨی بھیݨ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "اپݨی بھیݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:48.263108383Z",
+  "model": "glm-5.3"
+}

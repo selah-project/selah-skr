@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے کسدیاں ول آسن، تے ایں شہر نال لڑسن، تے اوندا قبضہ گھنسن، تے اوندا بھا نال ساڑسن۔",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "ول آسن"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کسدیاں"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "لڑسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "قبضہ گھنسن"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "ساڑسن"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:24.741827126Z",
+  "model": "glm-5.3"
+}

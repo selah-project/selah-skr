@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے آکھیس: “چا گھن۔” تے اوں ہتھ ودھایا تے اوندوں چا گھدس۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "چا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "تے ودھایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "تے چا گھدس"
+    }
+  ],
+  "timestamp": "2026-09-19T17:20:52.693227189Z",
+  "model": "glm-5.3"
+}

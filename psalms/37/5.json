@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "اپݨا رستہ یاہوہ اُتے وَہاؤ، تے اوں اُتے بھروسہ رکھو، تے او کریسی۔",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "وَہاؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "اپݨا رستہ"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "تے بھروسہ رکھو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں اُتے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:23.993183442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میݙی اکھ وہندی ہے تے رُکدی کائنی، بغیر کہیں رکاؤ دے۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "میݙی اکھ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "وہندی ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "رُکدی ہے"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "رکاؤ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.374568232Z",
+  "model": "glm-5.3"
+}

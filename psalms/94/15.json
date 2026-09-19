@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "کیوں جو فیصلہ دوبرا راستی ول ولسی، تے اوندے پچھوں سارے سِدھے دِل ⟨ہوسن⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨دوبرا⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ولسی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اوندے پچھوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:17.489161852Z",
+  "model": "glm-5.3"
+}

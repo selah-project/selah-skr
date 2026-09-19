@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "پر میں شدّای نال ٻولسیں، تے ایل نال بحث کرݨ چاہنداں۔",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ٻولسیں"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "تے ثابت کریساں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "چاہنداں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:13.867469548Z",
+  "model": "glm-5.3"
+}

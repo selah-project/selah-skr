@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "زنا نہ کریں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا کریں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:54.154290528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے موشے ⟨את⟩ آپݨے ݙیوٹے کوں روانہ کیتا، تے او آپݨی زمین دو ٹُر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "روانہ کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے ݙیوٹے کوں"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "آپݨے ݙیوٹے"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "آپݨی زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:50.130528038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایلکانہ دا پُتر، یوآیل دا پُتر، عزریاہ دا پُتر، تصفنیاہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلکانہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوآیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تصفنیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:15.403098490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بِبای دے پُتر، چھ سو ویہہ تے ترے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بِبای"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:47.469642674Z",
+  "model": "glm-5.3"
+}

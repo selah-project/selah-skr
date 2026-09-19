@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے عفرون ⟨את⟩ اَوراہام کوں جواب ݙتس، اُوں کوں آکھیا —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب ݙتس"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عفرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:32.408328662Z",
+  "model": "glm-5.3"
+}

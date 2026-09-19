@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے ݙیکھ، سِیسے دی ہِک گول ٹکر چاتی ڳئی، تے ایہ ہِک ذال ہے جیہڑی ایفہ دے وِچکار ٻیٹھی ہے۔",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "گول ٹکر"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "سِیسے دی"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "چاتی ڳئی"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ٻیٹھی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:50.274615812Z",
+  "model": "glm-5.3"
+}

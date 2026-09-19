@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "عیسو دے پُتر: اِلیفاز، رعوایل، یعوش، یعلم تے قورح۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "تے یعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "تے یعلم"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "تے قورح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:28.785057997Z",
+  "model": "glm-5.3"
+}

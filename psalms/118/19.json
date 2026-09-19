@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "میݙے کیتے راستی دے دروازے کھولو، میں اُنہاں وِچ ویساں، یاہ دی شکر کریساں۔",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "کھولو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی دے"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ویساں"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنہاں وِچ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "شکر کریساں"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:54.252775858Z",
+  "model": "glm-5.3"
+}

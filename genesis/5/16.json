@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے مہلالایل یِرد ⟨את⟩ کوں ڄمائݨ دے بعد تریہہ سال تے اَٹھ سو سال جِیا، تے اوں پُتر تے دھیاں ڄمایاں۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄمائݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِرد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یِرد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:32.759027283Z",
+  "model": "glm-5.3"
+}

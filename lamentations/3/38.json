@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیا برائیاں تے نیکی عِلیون دے مُنہ توں نئیں نکلدیاں؟",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "دے مُنہ توں"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلدیاں"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "برائیاں"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "تے نیکی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:36.840280683Z",
+  "model": "glm-5.3"
+}

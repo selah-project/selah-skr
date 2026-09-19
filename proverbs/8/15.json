@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "میں توں بادشاہ بادشاہی کریندن، تے سردار انصاف دے حکم لکھیندن۔",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "بادشاہی کریندن"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "حکم لکھیندن"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:30.409748335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے بِلدَد شوحی جواب ݙتا، تے آکھیس۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بِلدَد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:09.495978492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے جے تُساں میݙی ڳالھ نہ سݨو تے اِنہاں ⟨את⟩ ساریاں حکماں کوں نہ کرو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی ڳالھ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں حکماں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِنہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:26.617132475Z",
+  "model": "glm-5.3"
+}

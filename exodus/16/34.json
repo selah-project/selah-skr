@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "جیویں یاہوہ موشے کوں حکم ݙتا، اہرون اُوکوں گواہی دے اڳوں رکھ ݙتس، رکھائی کیتے۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "رکھ ݙتس"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "رکھائی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:37.434271300Z",
+  "model": "glm-5.3"
+}

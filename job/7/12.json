@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیا میں سمندر ہاں، یا تنین، جو توں میݙے اُتے پہرہ رکھیا ہے؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "کیا … سمندر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "تنین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "رکھیا ہے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پہرہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:50.369182566Z",
+  "model": "glm-5.3"
+}

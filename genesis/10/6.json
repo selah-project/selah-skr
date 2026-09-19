@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے خام دے پُتر: کُوش، تے مِتصرایم، تے پُوت، تے کنعان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "חם",
+      "gloss": "خام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "تے مِتصرایم"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "تے پُوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "تے کنعان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:02.493460020Z",
+  "model": "glm-5.3"
+}

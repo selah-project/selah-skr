@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "جݙاں تئیں ٻادشاہ اپݨی محفل وِچ ہا، میݙی نارد ⟨ہِک خوشبودار بوٹی⟩ آپݨی خوشبو ݙتی۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جݙاں تئیں"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ٻادشاہ"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "اپݨی محفل وِچ"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "میݙی نارد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "آپݨی خوشبو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:37.840637412Z",
+  "model": "glm-5.3"
+}

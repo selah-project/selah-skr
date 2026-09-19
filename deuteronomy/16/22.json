@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے آپ کیتے مچیوہ نہ کھڑا کریں، جینکوں یاہوہ تیݙا ایلوہیم نفرت کریندا ہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "کھڑا کریں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "مچیوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جینکوں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "نفرت کریندا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:55.729114583Z",
+  "model": "glm-5.3"
+}

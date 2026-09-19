@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اُوں گھر دے اڳوں ݙو تھمبھے بݨائے، پینتی ہتھ لمبے، تے اُنہاں دے سراں اُتے جیڑھا مُکٹ ہئی او پنج ہتھ ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "تھمبھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ترئی"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبے"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "تے مُکٹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اُوندے سر"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:07.458194734Z",
+  "model": "glm-5.3"
+}

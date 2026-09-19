@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے پیلگ تریہہ سال جِیا، تے رِعو ⟨את⟩ کوں ڄݨایُس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پیلگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِعو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:41.612918618Z",
+  "model": "glm-5.3"
+}

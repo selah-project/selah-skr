@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "سونے دی نتھ تے خالص سونے دا زیور — سیانی ٻُلھاکڑ، سُݨݨ آلے کن اُتے۔",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "نتھ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "تے زیور"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "خالص سونے دا"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ٻُلھاکڑ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُݨݨ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.993183071Z",
+  "model": "glm-5.3"
+}

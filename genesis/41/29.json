@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "ݙیکھو، ست سال آندے پئے ہن — پوری مِتصرایم دی زمین وِچ وݙی بہار۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "באות",
+      "gloss": "آندے پئے ہن"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بہار"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:49.561276620Z",
+  "model": "glm-5.3"
+}

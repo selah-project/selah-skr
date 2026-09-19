@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 34:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے تُہاݙا لمّاں پاسہ صین دی بیابان توں ہوسی، اَدوم دے نال؛ تے تُہاݙی لمّی سرحد نمک ⟨دے⟩ سمندر دے کنوں پوادھ دو ہوسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "لمّاں"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "بیابان توں"
+    },
+    {
+      "surface": "צן",
+      "gloss": "صین"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙی"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "لمّی"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھ دو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:56.166829163Z",
+  "model": "glm-5.3"
+}

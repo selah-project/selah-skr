@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے داوِد سُݨیا، تے اوں ⟨את⟩ یوآب تے ⟨את⟩ سارے سورمائی لشکر کوں بھیڄیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارا سورمائی لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "سورمائی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:32.029777268Z",
+  "model": "glm-5.3"
+}

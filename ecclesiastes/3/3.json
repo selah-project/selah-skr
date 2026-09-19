@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ویلہہ مارݨ دا، تے ویلہہ شفا ݙیوݨ دا؛ ویلہہ ڈھاوݨ دا، تے ویلہہ اُسارݨ دا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "مارݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "شفا ݙیوݨ دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ڈھاوݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "اُسارݨ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:29.050881430Z",
+  "model": "glm-5.3"
+}

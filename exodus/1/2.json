@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "رئووین، شمعون، لوی تے یہودہ۔",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "رئووین"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہودہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:51.212190837Z",
+  "model": "glm-5.3"
+}

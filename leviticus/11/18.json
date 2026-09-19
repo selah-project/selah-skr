@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ ہتنشمت کوں، تے ⟨את⟩ ہقات کوں، تے ⟨את⟩ ہراحم کوں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہتنشمت"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "ہتنشمت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہقات"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "ہقات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہراحم"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "ہراحم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:26.986862729Z",
+  "model": "glm-5.3"
+}

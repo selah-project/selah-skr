@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ قاین کوں آکھیا: “تیکوں کیوں غصہ چڑھے؟ تے تیݙا منہ کیوں ونڄے؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاین"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ چڑھے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "تے کیوں"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ونڄن"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا منہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:42.592738503Z",
+  "model": "glm-5.3"
+}

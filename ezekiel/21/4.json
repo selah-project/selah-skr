@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے سارا جسم ݙیکھسی جو میں یاہوہ ہاں جنہاں اوہ ٻالی ہے؛ او نہ بُجھسی۔",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "تے ݙیکھسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "اوہ ٻالی ہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "بُجھسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:34:12.154024885Z",
+  "model": "glm-5.3"
+}

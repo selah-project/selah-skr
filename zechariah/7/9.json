@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایویں یاہوہ تصواوت آکھیا: “سچا انصاف کرو، تے ہر بندہ ⟨את⟩ آپݨے بھرا نال خیسِد تے رحم کرے۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "تے خیسِد"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "تے رحم"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے بھرا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آپݨے بھرا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:17.136629213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یَرابوعم بادشاہ دے اَٹھارھویں سال وِچ اَبیّہ یہوداہ اُتے بادشاہ بݨیا۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ارھاں"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَرابوعم"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ بݨیا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبیّہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:41.673994960Z",
+  "model": "glm-5.3"
+}

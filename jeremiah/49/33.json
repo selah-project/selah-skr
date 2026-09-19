@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 49:33",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "تے حَصور گیدڑاں دا ٹکاݨا بݨسی، اُجڑیل جاہ ہمیشہ کیتے؛ اُتھاں کوئی بندہ نہ ٻہسی، تے اِنسان دا پُتر اُتھاں نہ رہسی۔",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "بݨسی"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حَصور"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "ٹکاݨا"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "گیدڑاں دا"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "اُجڑیل جاہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ٻہسی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:41.120244839Z",
+  "model": "glm-5.3"
+}

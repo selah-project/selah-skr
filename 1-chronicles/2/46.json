@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے کالِب دی پیلگش عیفہ خاران کوں ڄائی، تے ⟨את⟩ موتصا کوں، تے ⟨את⟩ گازیز کوں؛ تے خاران ⟨את⟩ گازیز کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "تے عیفہ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "پیلگش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "خاران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "موتصا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتصا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گازیز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازیز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "تے خاران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گازیز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازیز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:43.624451916Z",
+  "model": "glm-5.3"
+}

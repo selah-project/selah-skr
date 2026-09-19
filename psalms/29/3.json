@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "یاہوہ دا آواز پاݨیاں اُتے ہے، جلال دا ایل گجّیا، یاہوہ ٻہوں سارے پاݨیاں اُتے ہے۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "گجّیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨیاں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:43.635736090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے بیتوایل وِچ، تے خورماہ وِچ، تے تصِیقلگ وِچ۔",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "تے بیتوایل وِچ"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "تے خورماہ وِچ"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "تے تصِیقلگ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:47.706030508Z",
+  "model": "glm-5.3"
+}

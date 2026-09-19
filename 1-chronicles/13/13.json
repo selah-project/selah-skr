@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے داوِد ⟨את⟩ صندوق کوں آپݨے کول، داوِد دی شہر دو نہ ہٹایا، بلکہ اوں کوں عوبید-ادوم Getite دے گھر دو پھیر ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ہٹایا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آپݨے کول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "بلکہ اوں کوں پھیر ݙتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبید"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Getite ⟨گتی ٹبر دا⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:52.115042050Z",
+  "model": "glm-5.3"
+}

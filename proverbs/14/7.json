@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "بیوقوف بندے دے اڳوں توں ونڄ، کیوں جو تیکوں علم دے ہونٹھ نہ ڄاݨ تھیسن۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "اڳوں توں"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بیوقوف"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨ سیں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:39.940166142Z",
+  "model": "glm-5.3"
+}

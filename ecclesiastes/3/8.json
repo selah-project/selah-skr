@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "پیار کرݨ دا ویلہا، تے نفرت کرݨ دا ویلہا؛ جنگ دا ویلہا، تے سلامتی دا ویلہا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "پیار کرݨ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "نفرت کرݨ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:01.749443878Z",
+  "model": "glm-5.3"
+}

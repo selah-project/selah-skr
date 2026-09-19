@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے جݙاں او ⟨את⟩ یِسرایل کوں tracer طعنہ ݙیندا ہا، یِہوناتان، شِمعا دا پُتر، داوِد دا بھرا، اوں کوں ماریا۔",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "طعنہ ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرایل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "اوں کوں ماریا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:04.332982940Z",
+  "model": "glm-5.3"
+}

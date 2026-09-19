@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے یاہوہ دا جلال دروازے دے رستے توں گھر وِچ آیا — اُو دروازہ جیندے مُہاݙے پوادھ آلے رستے دوں ہن۔",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "تے … دا جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے توں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مُہاݙے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے دوں"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "پوادھ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:14.211824524Z",
+  "model": "glm-5.3"
+}

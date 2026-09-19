@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "پتھراں ہٹاوݨ آلا اُنھاں توں تکلیف چیندے، تے لکڑیاں چیرݨ آلا اُنھاں توں نقصان چیندے۔",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ہٹاوݨ آلا"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "تکلیف چیندے"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُنھاں توں"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "چیرݨ آلا"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "نقصان چیندے"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنھاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:37.336920744Z",
+  "model": "glm-5.3"
+}

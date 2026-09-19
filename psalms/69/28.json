@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "گناہ اُنہاں دے گناہ اُتے ݙے، تے او تیݙی راستی وِچ نہ آون۔",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "اُنہاں دے گناہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آون"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "تیݙی راستی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:00.788388652Z",
+  "model": "glm-5.3"
+}

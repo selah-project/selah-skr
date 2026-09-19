@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "ہِک مینھا ⟨את⟩ صبح ویلھے کریسو، تے ⟨את⟩ ݙوجھا مینھا شاماں دے وچکار کریسو۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک مینھا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مینھا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح ویلھے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ݙوجھا مینھا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مینھا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "شاماں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:30.144108637Z",
+  "model": "glm-5.3"
+}

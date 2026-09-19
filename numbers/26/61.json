@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 26:61",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے نَداب تے اَبیہو مر ڳئے، جݙاں او یاہوہ دے اڳوں اوپری بھا چاڑھیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳئے"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نَداب"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "تے اَبیہو"
+    },
+    {
+      "surface": "בהקריבם",
+      "gloss": "چاڑھیندے ویلے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "اوپری"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:42.523790167Z",
+  "model": "glm-5.3"
+}

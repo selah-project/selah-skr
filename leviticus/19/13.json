@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "توں اپݨے سنگتی کوں ⟨את⟩ ستام نہ ݙے، تے نہ لُٹے؛ مزدور دی اجرت تیݙے کول ⟨את⟩ سویرے تئیں رات نہ ٹکے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ستام ݙے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے سنگتی کوں"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپݨے سنگتی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "لُٹے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رات ٹکے"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "اجرتح"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدور"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے کول"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویرے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:03.246498986Z",
+  "model": "glm-5.3"
+}

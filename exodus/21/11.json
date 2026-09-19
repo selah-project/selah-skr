@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے جے اِنہاں ترے اوندے نال نہ کریسی، تاں او مفت نکل ویسی، چاندی کائناں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "نکل ویسی"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائناں"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:28.933323142Z",
+  "model": "glm-5.3"
+}

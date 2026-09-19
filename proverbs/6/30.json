@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "⟨لوک⟩ چور کوں بے عزتی نہ کریندن جو او اپݨی جان پُر کرݨ کیتے چوری کرے، جو او بُکھا ہووے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "بے عزتی کریندن"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "چور کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "چوری کرے"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "پُر کرݨ کیتے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "بُکھا ہووے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:08.458139576Z",
+  "model": "glm-5.3"
+}

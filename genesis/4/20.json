@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے عدہ ⟨את⟩ یابل کوں ڄنسی؛ او خیمیاں وِچ رہݨ آلیاں تے مال رکھݨ آلیاں دا پیو ہا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄنسی"
+    },
+    {
+      "surface": "عדה",
+      "gloss": "عدہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یابل"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "یابل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہݨ آلیاں"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمیاں وِچ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "تے مال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:13.121799043Z",
+  "model": "glm-5.3"
+}

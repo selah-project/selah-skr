@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاہوہ موشے کوں سݙیا، تے مِلݨ دے خیمے توں اوندے نال ٻولیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "خیمے توں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلݨ دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:28.920661284Z",
+  "model": "glm-5.3"
+}

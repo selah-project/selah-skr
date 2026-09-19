@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 15:29",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے یِسرایل دا زور وی جھوٹ نہ ٻولسی تے نہ پچھتسی، کیوں جو اوہ بندہ کائنی، جو ⟨پچھتسی⟩۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישקר",
+      "gloss": "جھوٹ ٻولسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "پچھتسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "להנחם",
+      "gloss": "⟨پچھتݨ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T16:40:46.593387968Z",
+  "model": "glm-5.3"
+}

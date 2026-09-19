@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "غلام اساݙے اُتے راج کیتا، اُنہاں دے ہتھ توں چھڑاوݨ آلا کوئی کائنی۔",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اساݙے اُتے"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "چھڑاوݨ آلا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی کائنی"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "اُنہاں دے ہتھ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:45.320984004Z",
+  "model": "glm-5.3"
+}

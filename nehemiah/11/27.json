@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے حصر-شوعال وِچ، تے بیر-شبع تے اوندے پنڈاں وِچ۔",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "تے حصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "تے بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "تے اوندے پنڈاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:04.985938947Z",
+  "model": "glm-5.3"
+}

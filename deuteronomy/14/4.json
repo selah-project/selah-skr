@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہ او ڈھور ہِن جِنہاں کوں تُساں کھا سڳدے ہیوے: ڳاں، بھیݙاں دی بھاݙ تے ٻکریاں دی بھاݙ۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڈھور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھا سڳدے ہیوے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بھاݙ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "بھیݙاں"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "تے بھاݙ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:34.284821498Z",
+  "model": "glm-5.3"
+}

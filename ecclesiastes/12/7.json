@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے مٹی زمین اُتے واپس تھیسی، جیویں پہلے ہئی، تے روح ایلوہیم دو واپس تھیسی، جیہڑے او ݙتی ہئی۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے واپس تھیسی"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "جیویں پہلے ہئی"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "واپس تھیسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتی ہئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:40.863677859Z",
+  "model": "glm-5.3"
+}

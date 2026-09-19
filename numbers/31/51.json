@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے تے کاہن اِلعازر اُنہاں کنوں ⟨את⟩ سونا گھدا — سب بݨائیاں ہوئیاں شے۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گھدا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "تے اِلعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ اُنہاں کنوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "شے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "بݨائیاں ہوئیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:22.330404604Z",
+  "model": "glm-5.3"
+}

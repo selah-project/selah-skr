@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اَٹھویں ݙینہہ اوہ کاہن کولھ، مِلݨ دے خیمے دے دروازے تے، ݙو ٹرٹل کبوتر یا کبوتر دے ݙو پُتر گھن آسی۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے ݙینہہ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اَٹھویں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "گھن آسی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ٹرٹل کبوتر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "کبوتر دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلݨ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:44.163426849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے زمین دا سارا ݙاہواں حصہ — زمین دا بیج تے رُکھ دا پھل — یاہوہ دا ہے؛ اوہ یاہوہ کیتے پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ݙاہواں حصہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "بیج توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "پھل توں"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ دے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:23.880294644Z",
+  "model": "glm-5.3"
+}

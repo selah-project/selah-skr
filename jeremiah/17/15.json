@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ݙیکھ، او میکوں آکھیندن: ”یاہوہ دی ڳالھ کِتھاں ہے؟ آ ہُݨ۔“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آکھیندن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کِتھاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:33.034791451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے میں تیݙے نَک وِچ نتھ پاتی، تے تیݙے کناں اُتے وہاڑے، تے تیݙے سر اُتے سوہݨا تاج۔",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "پاتیم"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "نتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیݙے نَک"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "وہاڑے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "تیݙے کناں"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "سوہݨا"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "تیݙے سر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:57.019979454Z",
+  "model": "glm-5.3"
+}

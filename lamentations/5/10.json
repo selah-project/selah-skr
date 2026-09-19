@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙی کَھل تنور وانگوں سڑ ڳئی ہے، بُکھ دی بھڑکدی تپیش ⟨دی وجہ توں⟩۔",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ساݙی کَھل"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "تنور وانگوں"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "سڑ ڳئی ہے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "زלעפות",
+      "gloss": "بھڑکدی تپیش"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بُکھ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:46.101044754Z",
+  "model": "glm-5.3"
+}

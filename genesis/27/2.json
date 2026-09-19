@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے اوں آکھیا: “ݙیکھ، میں ٻُڈھا تھی ڳیا ہاں، میں مرݨ دا ݙینہہ نہ ڄاݨدا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہُݨ⟩"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "میں ٻُڈھا تھی ڳیا ہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨدا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "میݨے مرݨ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:18.431016087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے ستویں ݙینہہ کاہن ⟨את⟩ نَگع کوں ݙیکھے، تے ݙیکھو جو نِتق پھیلیا کائنی تے اوندے وِچ پیلاوال نہ بݨیا، تے نِتق دا مُکھ چم توں گہرا کائنی۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَگع"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نَگع"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلیا"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نِتق"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بݨیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وال"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "پیلا"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "تے مُکھ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نِتق دا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "گہرا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העור",
+      "gloss": "چم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:41.011318835Z",
+  "model": "glm-5.3"
+}

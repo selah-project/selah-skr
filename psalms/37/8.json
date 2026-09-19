@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "غصے توں رُکو، تے بھڑک چھوڑو؛ غصہ نہ کھاؤ — ایہ صرف برائی کرݨ دوالے ڳیا ہے۔",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "رُکو"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "غصے توں"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "تے چھوڑو"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "بھڑک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غصہ کھاؤ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "برائی کرݨ دوالے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:23.993816465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او پونن توں روانہ تھئے، تے اوبوت وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "پونن توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "اوبوت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:39.319548416Z",
+  "model": "glm-5.3"
+}

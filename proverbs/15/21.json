@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "کم دل آلے کیتے بے عقلی خوشی ہے، تے سمجھ آلا بندہ ٹُرݨ کوں سِدھا کریندے۔",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "بے عقلی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "کمی آلے کیتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ آلا"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "سِدھا کریندے"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ٹُرݨ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:57.755073364Z",
+  "model": "glm-5.3"
+}

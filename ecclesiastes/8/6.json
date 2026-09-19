@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کیوں جو ہر منشاء کیتے ویلھا ہے تے انصاف ہے، کیوں جو بندے دی برائی اوندے اُتے ٻہوں وݙی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر … کیتے"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "منشاء"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھا"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ٻہوں وݙی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:01.106904996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شفق ویلے، ݙینہہ دی شام وِچ، رات دے گہرے اندھارے تے گھن اندھیری وِچ۔",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "شفق ویلے"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام وِچ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ دِی"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "گہرے اندھارے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات دِے"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "تے گھن اندھیری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.798512974Z",
+  "model": "glm-5.3"
+}

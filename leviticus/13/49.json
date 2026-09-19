@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 13:49",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے تھیسی: جے داغ پیلا ہووے یا رتّا، کپڑے وِچ یا چمڑ وِچ، تانے وِچ یا بانے وِچ، یا کہیں وی چمڑ دے برتن وِچ — اوہ صرع دا داغ ہے، تے کاہن ⟨את⟩ کوں ݙکھایا ویسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "ירקרק",
+      "gloss": "پیلا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אדמדם",
+      "gloss": "رتّا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڑ وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تانے وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "بانے وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑ دے"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "ݙکھایا ویسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:34.320299885Z",
+  "model": "glm-5.3"
+}

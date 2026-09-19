@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دا چمچا ݙاہ شکل ⟨دا⟩، خوشبو نال بھریا ہویا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریا ہویا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:51.017157110Z",
+  "model": "glm-5.3"
+}

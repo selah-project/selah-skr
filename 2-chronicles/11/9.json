@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ اَدورایِم، تے ⟨את⟩ لَکیش، تے ⟨את⟩ عَزِیکاہ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَدورایِم"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "اَدورایِم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لَکیش"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لَکیش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عَزِیکاہ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "عَزِیکاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:43.462693404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "اوں آکھیا، تے ٹڈی آ ڳیا، تے کِرم وی، جنہاں دی ڳݨتری کائنی۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے آ ڳیا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ٹڈی"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "تے کِرم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نہ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:17.164768791Z",
+  "model": "glm-5.3"
+}

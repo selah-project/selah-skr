@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "بُرے لوک چنگے اڳوں جُھک ویندن، تے ظالم نیک دے دروازیاں اُتے ⟨جُھک ویندن⟩۔",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "جُھک ویندن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بُرے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "تے ظالم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازیاں"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:13.139444099Z",
+  "model": "glm-5.3"
+}

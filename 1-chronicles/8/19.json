@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاکیم، تے زِکری، تے زَبدی۔",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "تے یاکیم"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "تے زِکری"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "تے زَبدی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:43.067682839Z",
+  "model": "glm-5.3"
+}

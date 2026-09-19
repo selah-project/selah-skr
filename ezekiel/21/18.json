@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "کیوں جو او ہِک امتحان ہے؛ تے کیا جو او ݙنڈ کوں وی منہ موڑسی؟ او ہُݨ نہ رہسی — ادونای یاہوہ دا اِعلان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "امتحان"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ݙنڈ"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "منہ موڑسی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اِعلان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:34:23.587235570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو جیویں کنڈیاں دی کِڑکِڑ ٹھاؤں ہیٹھ، تیویں نادان دا ہَسݨ — تے اے وی ہوا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "جیویں … آواز"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "کنڈیاں دی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ٹھاؤں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تیویں"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہَسݨ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان دا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:30.341219437Z",
+  "model": "glm-5.3"
+}

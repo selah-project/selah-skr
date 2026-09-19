@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "ایہ بِلہا دے پُتر ہن، جہڑے لابن آپݨی دھی راحیل کوں ݙتے؛ تے او یعقوو کیتے ایہناں ⟨את⟩ جنم ݙتے — سبھ جاناں ست۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتے"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحیل کوں"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آپݨی دھی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    }
+  ],
+  "timestamp": "2026-09-19T14:41:12.489123270Z",
+  "model": "glm-5.3"
+}

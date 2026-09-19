@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے لابن اوندی کنوں quoting disappointment نہ — تے لابن اونکوں ⟨את⟩ زِلفاہ، اوندی ٻانہی، ݙتی — لِیاہ اوندی دھی کوں ٻانہی بݨ کے۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زِلفاہ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلفاہ"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "اوندی ٻانہی"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "لِیاہ کوں"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "اوندی دھی"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ٻانہی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:55.481524267Z",
+  "model": "glm-5.3"
+}

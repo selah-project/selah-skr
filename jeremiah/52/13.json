@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "اوں یاہوہ دا گھر ⟨את⟩ تے بادشاہ دا گھر ⟨את⟩ ساڑیا، تے یروشلایم دے سارے گھر ⟨את⟩ تے ہر وݙے گھر ⟨את⟩ بھا وِچ ساڑ ݙتس۔",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ساڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ دا گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے گھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہر وݙا گھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڑ ݙتس"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:23:48.879407149Z",
+  "model": "glm-5.3"
+}

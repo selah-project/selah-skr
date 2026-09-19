@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوندے بھرا اپݨے پیو دیاں ٻکریاں ⟨את⟩ چراوَݨ ڳئے شِکیم وِچ۔",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ڳئے"
+    },
+    {
+      "surface": "אחיو",
+      "gloss": "اوندے بھرا"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "چراوَݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻکریاں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻکریاں"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "اپݨے پیو دیاں"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شِکیم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:52.836111381Z",
+  "model": "glm-5.3"
+}

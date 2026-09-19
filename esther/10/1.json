@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے بادشاہ اَخشِورش زمین تے سمندر دے جزیریاں اُتے لگان ⟨جبری مزدوری⟩ رکھی۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "اَخشِورش"
+    },
+    {
+      "surface": "מס",
+      "gloss": "لگان"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "تے جزیریاں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:35.973633454Z",
+  "model": "glm-5.3"
+}

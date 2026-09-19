@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں ݙٹھا، یاہوہ، میݙے اُتے تھیا ظلم؛ میݙا انصاف کر۔",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "توں ݙٹھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "میݙے اُتے تھیا ظلم"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "انصاف کر"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میݙا فیصلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:57.454063082Z",
+  "model": "glm-5.3"
+}

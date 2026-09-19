@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بنامین دے ٹبر وِچوں پلتی، رفوء دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "دے ٹبر وِچوں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنامین"
+    },
+    {
+      "surface": "پלتی",
+      "gloss": "پلتی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "رفوء"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:08.243534111Z",
+  "model": "glm-5.3"
+}

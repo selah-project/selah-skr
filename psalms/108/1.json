@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 108,
+  "translation": "ہِک گیت، ہِک مزمور، داوِد کا۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:50.934839071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے بادشاہ آکھیا جو ایں طرح تھیوے؛ تے شوشن وِچ حکم ݙتی ڳئی، تے ہامان دے ⟨את⟩ ݙاہ پُتر لڑکائے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "ݙتی ڳئی"
+    },
+    {
+      "surface": "דת",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ݙاہ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامان"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "لڑکائے ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:18:16.908876578Z",
+  "model": "glm-5.3"
+}

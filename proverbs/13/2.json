@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بندہ آپݨے مُنہ دے پَھل توں چنڳائی کھاندے، پر دغابازاں دی نفس زیادتی کھاندی ہے۔",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "دے پَھل توں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاندے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳائی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "پر … دی نفس"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "دغابازاں"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زیادتی کھاندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:54.789390908Z",
+  "model": "glm-5.3"
+}

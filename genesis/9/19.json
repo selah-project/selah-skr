@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ایہ ترے نوح دے پُتر ہن، تے انہاں توں ساری زمین کھنڈ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "تے انہاں توں"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "کھنڈ ڳئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:28.820053338Z",
+  "model": "glm-5.3"
+}

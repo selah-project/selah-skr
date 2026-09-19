@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کاہناں وِچوں ہر نر ⟨את⟩ اوندا کھاوے؛ او پاک پریکھدا ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "کاہناں وِچوں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا (قربانی دا حصہ)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکاں دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:25.596621762Z",
+  "model": "glm-5.3"
+}

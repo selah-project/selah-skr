@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "تے اوندے پُتراں اوندے نال ایویں کیتا، جیویں اوہناں کوں حکم ݙتا ہُوݨاں ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتراں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צום",
+      "gloss": "حکم ݙتا ہُوݨاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:29.408371108Z",
+  "model": "glm-5.3"
+}

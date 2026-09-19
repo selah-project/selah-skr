@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میکوں چنگا تھیا جو میں تنگی چاتم، تاں جو میں تیݙے حکم سکھاں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "تنگی چاتم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "سکھاں"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙے حکم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:01.956750545Z",
+  "model": "glm-5.3"
+}

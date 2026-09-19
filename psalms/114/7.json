@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 114,
+  "translation": "لرز ونڄ، اے زمین، اَدون دے سامھݨے، یعقوو دے ایلوہ دے سامھݨے۔",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "دے سامھݨے"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "اَدون"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "لرز ونڄ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے سامھݨے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:16.724357908Z",
+  "model": "glm-5.3"
+}

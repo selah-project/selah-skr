@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اَٹھویں ݙینہہ اوندی گوشت دی قبلہ کھل ختنہ تھیسی۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے ݙینہہ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اَٹھویں"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ختنہ تھیسی"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "اوندی قبلہ کھل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:40.114715596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کاہناں وِچوں ہر نر ایندے وِچوں کھاسی؛ پاک جاہ وِچ کھادا ویسی — ایہ پاکاں دا پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "کاہناں وِچوں"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ایندے وِچوں کھاسی"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاہ وِچ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادا ویسی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہ ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:23.736377420Z",
+  "model": "glm-5.3"
+}

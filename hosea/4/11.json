@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "زناکاری تے شراب تے نواں شراب دل کھوہ ڳھندن۔",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "زناکاری"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "تے نواں شراب"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "کھوہ ڳھندن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:18.468085263Z",
+  "model": "glm-5.3"
+}

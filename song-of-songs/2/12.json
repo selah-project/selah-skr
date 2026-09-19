@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "پھُل زمین اُتے ݙس پئے، ڳاوݨ دا ویلہا آ ڳیا، تے قُمری دا آواز ساݙی زمین وِچ سُݨیا ویندا ہے۔",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ݙس پئے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہا"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "ڳاوݨ دا"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "התור",
+      "gloss": "قُمری"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سُݨیا ویندا"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ساݙی زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:39.514076071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "مُہراں تے نک دے وٹے،",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "مُہراں"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "تے وٹے"
+    },
+    {
+      "surface": "האף",
+      "gloss": "نک"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:22.649991101Z",
+  "model": "glm-5.3"
+}

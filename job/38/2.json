@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "ایہ کون ہے جو بغیر ڄاݨ دے لفظاں نال تدبیر کوں اندھارا کریندا ہے؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "اندھارا کریندا ہے"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "تدبیر"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "لفظاں نال"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:47.922213159Z",
+  "model": "glm-5.3"
+}

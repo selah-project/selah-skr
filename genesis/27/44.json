@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے کجھ ݙینہہ اُوندے نال رہو، جݙاں تئیں تیݙے بھرا دا غصہ ولا ونڄے۔”",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "تے … رہو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُوندے نال"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جݙاں تئیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ولا ونڄے"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیݙے بھرا دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:32.403083201Z",
+  "model": "glm-5.3"
+}

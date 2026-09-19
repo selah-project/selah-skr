@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ایہ ایساؤ دیاں نسلاں ہن، جیہڑا ادوم دا پیو ہا، پہاڑ سعیر وِچ۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسلاں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساؤ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ وِچ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:45.666347582Z",
+  "model": "glm-5.3"
+}

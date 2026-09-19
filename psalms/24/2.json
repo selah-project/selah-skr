@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "کیوں جو اوں سمندراں اُتے اوندی نیہہ رکھی، تے دریاواں اُتے اوندی جِتی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "اوندی نیہہ رکھی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریاواں"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "اوندی جِتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:29.637178534Z",
+  "model": "glm-5.3"
+}

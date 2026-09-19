@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "⟨את⟩ شنگھ دا آواز سُݨیا تے نہ ݙریا — اوندا خون اوندے اُتے ہوسی؛ پر جے او ݙردا، آپݨی جان بچا گھندا۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شنگھ دا آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "شنگھ دا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ݙریا"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوندا خون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ݙردا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آپݨی جان"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "بچا گھندا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:40:26.355207068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "ناہ، میں کہیں بندے دا مُکھ نہ چاوِنساں، تے کہیں انسان کوں مِٹھے لقب نہ ݙیِنساں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ناہ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چاوِنساں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "لقب ݙیِنساں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:51.965627092Z",
+  "model": "glm-5.3"
+}

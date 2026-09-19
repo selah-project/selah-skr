@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تیکوں میݙے دل آکھیا: “میݙا چہرہ ڳولو”؛ ⟨את⟩ تیݙا چہرہ، یاہوہ، میں ڳولینداں۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙے دل"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳولو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میݙا چہرہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙا چہرہ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا چہرہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "میں ڳولینداں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:36.688858015Z",
+  "model": "glm-5.3"
+}

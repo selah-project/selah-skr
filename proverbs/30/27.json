@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ٹڈیاں کیتے کوئی بادشاہ کائنی، پر او سارے دستیاں بݨا تے نکلدن۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ٹڈیاں کیتے"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نکلدن"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "دستیاں وِچ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سارے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:51.902265306Z",
+  "model": "glm-5.3"
+}

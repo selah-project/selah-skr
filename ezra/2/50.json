@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اَسنَہ دے پُتر، مَعینیم دے پُتر، نَفیسیم دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اَسنَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "مَعینیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نَفیسیم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:22.656687613Z",
+  "model": "glm-5.3"
+}

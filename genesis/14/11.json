@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے او سدوم تے عمورہ دا سارا مال ⟨את⟩ تے سارا کھاݨاں ⟨את⟩ گھن گھدا تے ٹُر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "تے گھن گھدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "مال"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "تے عمورہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارا کھاݨاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "کھاݨاں"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے ٹُر ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:38.730529214Z",
+  "model": "glm-5.3"
+}

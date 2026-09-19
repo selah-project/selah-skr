@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "شَمّہ ہَراری، اَخیام پُتر شَرار ہَراری۔",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شَمّہ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ہَراری"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "اَخیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "شَرار"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ہَراری"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:23.585826293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے یاہوہ ⟨את⟩ اَیووب کوں گردباد توں جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَیووب کوں"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اَیووب"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "توں"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "گردباد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:49.184343650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 100,
+  "translation": "خُشی نال یاہوہ ⟨את⟩ دی خدمت کرو، اُوندے اَڳوں ڳاؤڑے نال آؤ۔",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خُشی نال"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اُوندے اَڳوں"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ڳاؤڑے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:25.419919463Z",
+  "model": "glm-5.3"
+}

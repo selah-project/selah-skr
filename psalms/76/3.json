@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "تے اوندا جھڳا شالیم وِچ تھیا، تے اوندی جھوک تصیون وِچ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "شالیم وِچ"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "اوندا جھڳا"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "تے اوندی جھوک"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "تصیون وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:47.840294396Z",
+  "model": "glm-5.3"
+}

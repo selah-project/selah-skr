@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "خوش اُوہے جیہڑے انصاف دی رکھوالی کریندے ہن، راستی ہر ویلے کریندے ہن۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "جیہڑے رکھوالی کریندے ہن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف دی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندے ہن"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:00.605299686Z",
+  "model": "glm-5.3"
+}

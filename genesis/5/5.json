@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے آدم دے سارے ݙینہہ جِنہاں وِچ او جِییا، نَو سو تِرہ سال تھئے، تے او مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں وِچ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِییا"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تِرہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:58.973194450Z",
+  "model": "glm-5.3"
+}

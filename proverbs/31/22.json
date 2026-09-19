@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "بچھاونے او آپ کیتے بݨائے؛ شیش ⟨مہین کتان⟩ تے ارغوان اوندا لباس ہے۔",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "بچھاونے"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شیش"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "تے ارغوان"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اوندا لباس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:09.283127746Z",
+  "model": "glm-5.3"
+}

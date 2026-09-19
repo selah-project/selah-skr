@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے شلمون ⟨את⟩ بوّعز کوں جنم ݙتا، تے بوّعز ⟨את⟩ عوِید کوں جنم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "تے شلمون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوّعز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوّعز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "تے بوّعز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوِید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوِید"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:12.312124446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ⟨את⟩ سارا نفتالی، تے ⟨את⟩ افرایم دی زمین، منسی، تے ⟨את⟩ ساری یہوداہ دی زمین، پچھلے سمندر تئیں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارا نفتالی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "افرایم دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "منسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ساری یہوداہ دی زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پچھلا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:34.424878078Z",
+  "model": "glm-5.3"
+}

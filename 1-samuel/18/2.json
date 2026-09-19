@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے شاؤل اوکوں اُوں ݙینہہ گھن گھدا، تے اوکوں اپݨے پیو دے گھر وَلّݨ نہ ݙتُس۔",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "گھن گھدس"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ݙتُس"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "وَلّݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپݨے پیو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:44:01.766218294Z",
+  "model": "glm-5.3"
+}

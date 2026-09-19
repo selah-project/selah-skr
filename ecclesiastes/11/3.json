@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "جے بدل بھر ونجن، تاں زمین اُتے مینہہ وَہیندن؛ تے جے رُکھ لمے وِچ ڈھسی، یا ابھے وِچ، جتھ رُکھ ڈھسی، اُتھاں اوہ رہسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "بھر ونجن"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יריקو",
+      "gloss": "وَہیندن"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈھسی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "لمے وِچ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا جے"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ابھے وِچ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ڈھسن وِچ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "رہسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:36.297835495Z",
+  "model": "glm-5.3"
+}

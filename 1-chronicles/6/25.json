@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "مِیخائیل دا پُتر، بَعَسیاہ دا پُتر، مَلکیاہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "مِیخائیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "بَعَسیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:40.878991140Z",
+  "model": "glm-5.3"
+}

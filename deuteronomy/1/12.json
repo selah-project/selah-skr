@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "میں کلہا کیویں چاواں تُہاݙا بھار، تے تُہاݙا بار، تے تُہاݙیاں جھیڑے؟",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چاواں"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "تُہاݙا بھار"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "تے تُہاݙا بار"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "تے تُہاݙیاں جھیڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:33.247421297Z",
+  "model": "glm-5.3"
+}

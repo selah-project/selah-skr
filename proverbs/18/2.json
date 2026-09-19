@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "کھوہے کوں سمجھ وِچ چس کائنی، سِوا اِیندے جو اوندا دِل کھُل پووے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چس رکھدا"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کھوہا"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "سمجھ وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سِوا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اِیندے جو"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "کھُل پووے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندا دِل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.281344854Z",
+  "model": "glm-5.3"
+}

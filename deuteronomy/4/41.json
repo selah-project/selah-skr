@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تݙاں موشے نے یاردن دے پار، سِجھ اُبھرݨ آلے پاسو، ترے شہر وکھرے کیتے۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "وکھرے کیتے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "دے پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سِجھ اُبھرݨ آلے پاسو"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:52.877028491Z",
+  "model": "glm-5.3"
+}

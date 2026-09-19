@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے لابن آکھیا: “ایہ ڈھیر میݙے تے تیݙے وچالے اَڄ گواہ ہے۔” ایں کیتے اوندا ناں گلعید سݙیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "ایہ ڈھیر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میݙے وچالے"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تیݙے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعید"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:48.149840980Z",
+  "model": "glm-5.3"
+}

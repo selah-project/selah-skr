@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "آپݨی بیٹھک دے ٹکانوے توں اُچکّے ݙٹھوس سبھ زمین دے وسنیکاں دو۔",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ٹکانوے توں"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "آپݨی بیٹھک"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "اُچکّے ݙٹھوس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:01.795432006Z",
+  "model": "glm-5.3"
+}

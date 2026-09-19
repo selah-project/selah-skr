@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو یاہوہ ایں طرح آکھیا: پوری زمین ویرانی تھیسی، پر میں پورا انت نہ کریساں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "پر پورا انت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کریساں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:54.632048739Z",
+  "model": "glm-5.3"
+}

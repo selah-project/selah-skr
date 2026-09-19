@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ایہ او حکم ہن جیہڑے یاہوہ ⟨את⟩ موشے کوں اِسرائیل دے پُتراں کیتے کوہ سینا اُتے ݙتس۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل دے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہ … اُتے"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:29.323437607Z",
+  "model": "glm-5.3"
+}

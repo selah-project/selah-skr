@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 102,
+  "translation": "او کلہیے دی دعا دو وَلّا، تے ⟨את⟩ اوندیاں دعاواں کوں حقیر نہ ڄاتا۔",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "وَلّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "کلہیے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "حقیر ڄاتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندیاں دعاواں"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "اوندیاں دعاواں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:03.706588207Z",
+  "model": "glm-5.3"
+}

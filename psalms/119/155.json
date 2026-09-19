@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "بدکاراں توں спасتی دور اے، کیوں جو او تیݙے فرضاں کوں نہ ڳولیا۔",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "بدکاراں توں"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "سپاشتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙے فرض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "او ڳولیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:48.245560773Z",
+  "model": "glm-5.3"
+}

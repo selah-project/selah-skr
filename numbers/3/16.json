@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے موشے ⟨אתם⟩ اُنہاں کوں یاہوہ دے مُنہ ⟨دی ڳالھ⟩ موجب ڳݨیا، جیویں حکم تھیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ڳݨیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اُنہاں کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم تھیا ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:06.920962276Z",
+  "model": "glm-5.3"
+}

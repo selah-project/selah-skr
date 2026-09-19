@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:31.710298150Z",
+  "model": "glm-5.3"
+}

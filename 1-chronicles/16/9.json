@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اوں کوں ڳاؤ، اوں کیتے راڳ ڳاؤ، اوندے سارے عجیب کمیں بارے ڳالھ کرو۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "راڳ ڳاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کیتے"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ڳالھ کرو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عجیب کمیں بارے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:03.477917807Z",
+  "model": "glm-5.3"
+}

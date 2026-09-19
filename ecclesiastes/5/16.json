@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "سارے ݙینہہ او ہنیر وِچ کھاندے، تے ٻہوں غصہ، تے اوندیاں بیماریاں تے رِیش۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اوندے ݙینہہ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ہنیر وِچ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاندے"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "تے غصہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "تے اوندیاں بیماریاں"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "تے رِیش"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.099603130Z",
+  "model": "glm-5.3"
+}

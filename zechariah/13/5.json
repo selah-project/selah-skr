@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "او آکھیس: “میں نبی کائنی؛ میں زمین کاشت کرݨ آلا بندہ ہاں، کیوں جو نِکے لاں توں میکوں ہِک بندے ڳھن گھدا ہا۔”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کاشت کرݨ آلا"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "ڳھن گھدا ہا"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "نِکے لاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:54.088997101Z",
+  "model": "glm-5.3"
+}

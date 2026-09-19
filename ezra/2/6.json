@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "پَخت موآب دے پُتر، یِشوع تے یوآب دے پُتراں وِچوں، ݙو ہزار اٹھ سو باراں۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَخت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "باراں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨باراں⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:17.033297265Z",
+  "model": "glm-5.3"
+}

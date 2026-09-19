@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے حوشیم کنوں اوں ⟨את⟩ ابیطوب کوں تے ⟨ואת⟩ ایلپعل کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "تے حوشیم کنوں"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابیطوب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ابیطوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ایلپعل"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ایلپعل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:23.993684382Z",
+  "model": "glm-5.3"
+}

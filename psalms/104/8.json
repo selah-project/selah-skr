@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "پہاڑ اُتے چڑھے، وادیاں تے لہہ ڳئے — اُوں جاہ دو جیہڑی تُوں اُنہاں کیتے بݨائی ہئی۔",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "لہہ ڳئے"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "وادیاں تے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "بݨائی ہئی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:24.694180829Z",
+  "model": "glm-5.3"
+}

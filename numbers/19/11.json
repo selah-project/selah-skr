@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "جیڑھا کہیں بندے دی مریندی جان کوں ہتھ لیندا اوہ ست ݙینہہ تئیں اَپݨت ہوسی۔",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "ہتھ لیندا"
+    },
+    {
+      "surface": "במת",
+      "gloss": "میت کوں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے اَپݨت ہوسی"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:34.667423256Z",
+  "model": "glm-5.3"
+}

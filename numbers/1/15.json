@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "نفتالی کیتے، اَخیرع، عِینان دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "نفتالی کیتے"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَخیرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:42.565927192Z",
+  "model": "glm-5.3"
+}

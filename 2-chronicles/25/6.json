@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اوں اسرائیل توں ہِک لکھ بہادر جنگجو کرائے تے گھدے، سو کِکار چاندی دے بدلے۔",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "کرائے تے گھدے"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائیل توں"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کِکار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:45.431132091Z",
+  "model": "glm-5.3"
+}

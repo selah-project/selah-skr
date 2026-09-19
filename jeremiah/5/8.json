@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پالے ہوئے گھوڑیاں وانگوں او پیاسو تھی ڳن؛ ہر بندہ اپݨی سنگتی دی ذال دو ہنکدا پئے۔",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑیاں"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "پالے ہوئے"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "پیاسو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "تھی ڳن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپݨی سنگتی دی"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "ہنکدا پئے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:22.339495074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 31:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے تیݙے اخیر کیتے اُمید ہے، یاہوہ دا فرمان، تے پُتر آپݨے سرحد دو ول آسن۔",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "تے ہے"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "לאחריתך",
+      "gloss": "تیݙے اخیر کیتے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "تے ول آسن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לגבולם",
+      "gloss": "آپݨے سرحد دو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:46.586724335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "سدین ⟨کتانی چادر⟩ بݨایا تے ویچیس، تے کمربند کنعانی ⟨وپاری⟩ کوں ݙتس۔",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "سدین"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "تے ویچیس"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "تے کمربند"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "کنعانی کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:09.283834109Z",
+  "model": "glm-5.3"
+}

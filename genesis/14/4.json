@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ٻارھاں ورھے او ⟨את⟩ کِدرلعومر دی خدمت کریندے ریہے، تے تریھویں ورھے بغاوت کیتی۔",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کریندے ریہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کِدرلعومر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کِدرلعومر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "بغاوت کیتی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:20:12.363701125Z",
+  "model": "glm-5.3"
+}

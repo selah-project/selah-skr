@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے خَنَنیاہ، تے عِیلام، تے عَنتُتیاہ —",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "خَنَنیاہ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "عَنتُتیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:02.538513602Z",
+  "model": "glm-5.3"
+}

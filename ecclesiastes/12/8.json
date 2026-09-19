@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "“بےکار بےکاریاں دا، قوہیلت آکھیا، سبھ کجھ بےکار ہے۔”",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "بےکار"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "بےکاریاں دا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הקוהלت",
+      "gloss": "قوہیلت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بےکار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:40.865884817Z",
+  "model": "glm-5.3"
+}

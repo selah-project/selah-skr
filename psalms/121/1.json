@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "چڑھائیاں دا ڳیت۔ میں اپݨیاں اکھیں پہاڑاں ݙے چاہسیاں — میݙی مدد کتھوں آؤسی؟",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ڳیت"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "چڑھائیاں دا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چاہسیاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اپݨیاں اکھیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "کتھوں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آؤسی"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "میݙی مدد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.573878898Z",
+  "model": "glm-5.3"
+}

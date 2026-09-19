@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے موشے ⟨את⟩ قوم کوں اُوں ݙینہہ حکم ݙتا، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تے حکم ݙتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:55.813958300Z",
+  "model": "glm-5.3"
+}

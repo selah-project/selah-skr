@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ موشے تے اہرون ݙو آکھیا: “ایہ فسح دی حکمت ہے: کوئی اوپرا پُتر اوندے وِچوں نہ کھاسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فسح دی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرے دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:50:26.580859657Z",
+  "model": "glm-5.3"
+}

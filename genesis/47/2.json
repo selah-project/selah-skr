@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 47:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے اوں اپݨے بھراں وِچوں پنج بندیے گھدے تے پرعوہ دے اڳوں پیش کیتُس۔",
+  "tokens": [
+    {
+      "surface": "ומקצה",
+      "gloss": "وِچوں کجھ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپݨے بھراں"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گھدے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندیے"
+    },
+    {
+      "surface": "ויצגם",
+      "gloss": "پیش کیتُس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:34.968382729Z",
+  "model": "glm-5.3"
+}

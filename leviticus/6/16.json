@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے کاہن دی ہر مَنحت پوری طرح ساڑی ویندی راہسی — کھادی نہ ویسی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مَنحت"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن دی"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "پوری طرح"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "راہسی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھادی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:24.520024858Z",
+  "model": "glm-5.3"
+}

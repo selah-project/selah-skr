@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 26:17",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے عَزریاہو کاہن اوندے پچھوں ڳیا، تے اوندے نال یاہوہ دے کاہن اسی، بہادر پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوندے پچھوں"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عَزریاہو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوندے نال"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:26.169244719Z",
+  "model": "glm-5.3"
+}

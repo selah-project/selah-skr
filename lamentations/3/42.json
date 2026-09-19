@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اساں سرکشی کیتی ہے تے بغاوت کیتی ہے — تُوں بخشا کائنی۔",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "اساں"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "سرکشی کیتی ہے"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "تے بغاوت کیتی ہے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "بخشا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:47.393920324Z",
+  "model": "glm-5.3"
+}

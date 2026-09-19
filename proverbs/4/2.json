@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو میں تُساں کوں چنڳا سبق ݙتے، میݙی تورات کوں نہ چھوڑو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "سبق"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں کوں"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "میݙی تورات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "چھوڑو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:55.342336073Z",
+  "model": "glm-5.3"
+}

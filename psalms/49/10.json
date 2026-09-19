@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "جو او ہمیشہ کیتے ٻیا جیوِے، تے گڑھے کوں نہ ݙیکھے۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جو او جیوِے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھے"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "گڑھا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:49.848051230Z",
+  "model": "glm-5.3"
+}

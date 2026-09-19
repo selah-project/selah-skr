@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں پگڑ اوندے سر اُتے رکھی، تے پگڑ اُتے، اوندے مُہانے دے سامݨے، سونے دی چمکی پٹی — پاک تاج — رکھی، جیویں یاہوہ موشے کوں حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "تے رکھیس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پگڑ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگڑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوندے سر"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے رکھیس"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگڑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מול",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندا مُہانہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونے دی چمکی پٹی"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "چمکی پٹی"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:09.454004855Z",
+  "model": "glm-5.3"
+}

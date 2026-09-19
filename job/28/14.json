@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تہوم آکھیا: “او میݙے وِچ کائنی”، تے سمندر آکھیا: “او میݙے نال کائنی۔”",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے وِچ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וים",
+      "gloss": "تے سمندر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:59.443826618Z",
+  "model": "glm-5.3"
+}

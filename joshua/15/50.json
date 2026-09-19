@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے عَناب، تے اَشتِمُوہ، تے عَنِیم۔",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "تے عَناب"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "تے اَشتِمُوہ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "تے عَنِیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.906156361Z",
+  "model": "glm-5.3"
+}

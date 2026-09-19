@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 53,
+  "translation": "سارے پچھوں تے ڳئے، رل کے میلے تھی ڳئے — بھلائی کرݨ آلا کوئی کائنی، اِی ہِک وی کائنی۔",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "סג",
+      "gloss": "پچھوں تے ڳئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رل کے"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "میلے تھی ڳئے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی … کائنی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ آلا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "اِی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:29.666004797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "لُد، خدید تے اونو دے پُتر، ست سو ٻاوی ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لُد"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "خدید"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "تے اونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٻاوی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:09.138069055Z",
+  "model": "glm-5.3"
+}

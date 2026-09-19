@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ہُݨ تیݙے ہتھ تلے کیا ہے؟ پنج روٹیاں میݙے ہتھ وِچ ݙے، یا او جو کجھ مِلسی۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙے ہتھ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹیاں"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "میݙے ہتھ وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "او جو مِلسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:45:28.322152159Z",
+  "model": "glm-5.3"
+}

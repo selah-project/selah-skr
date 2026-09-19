@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اسرائیل تے اَبشالوم گلعاد دے دیس وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "تے اَبشالوم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T16:56:51.679012326Z",
+  "model": "glm-5.3"
+}

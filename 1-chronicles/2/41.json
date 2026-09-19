@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شلوم یقمیاہ کوں ڄنڑیا، تے یقمیاہ ایلیشمع کوں ڄنڑیا۔",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "تے شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄنڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یقمیاہ"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "یقمیاہ"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "تے یقمیاہ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ڄنڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلیشمع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ایلیشمع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:01.584088284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تعلیم کوں مضبوط پکڑ، اوندے توں ہتھ نہ چھوڑ؛ اونکوں روک رکھ، کیوں جو او تیݙی جان ہے۔",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "مضبوط پکڑ"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "تعلیم کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ہتھ نہ چھوڑ"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "اونکوں روک رکھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تیݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:42.141458484Z",
+  "model": "glm-5.3"
+}

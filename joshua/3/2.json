@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ترے ݙینہہ دے اخیر تھیوݨ نال اہلکار پڑاؤ وِچوں لنگھے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "اخیر تھیوݨ نال"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "لنگھے"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "اہلکار"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:08:25.643874768Z",
+  "model": "glm-5.3"
+}

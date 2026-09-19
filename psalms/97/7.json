@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 97,
+  "translation": "شرمasar سارے مُورتاں دے پُجاری، جیہڑے اِنہاں بتاں نال فخر کریندن؛ سارے معبود اوں کوں سجدہ کرن۔",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرم servo sar اون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "دے پُجاری"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مُورتاں"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "فخر کریندن"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "اِنہاں بتاں نال"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "سجدہ کرن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبود"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:00.541540373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے بنیامین تے یہوداہ دے پُتراں وِچوں کجھ داوِد دے قلعے تئیں آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد کول"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:56.679560822Z",
+  "model": "glm-5.3"
+}

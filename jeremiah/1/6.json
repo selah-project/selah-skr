@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے میں آکھیا: “افسوس، ادونای یاہوہ! ݙیکھ، میں الاوݨ نہ ڄاݨدا، کیوں جو میں نینگر ہاں۔”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨدا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الاوݨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نینگر"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں ہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:57:54.016693591Z",
+  "model": "glm-5.3"
+}

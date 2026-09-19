@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایویں آکھیا یاہوہ تصواوت: پُچھ ہُݨ ⟨את⟩ کاہناں توں تورات بارے، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہناں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:46.243845414Z",
+  "model": "glm-5.3"
+}

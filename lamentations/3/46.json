@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ساݙے سارے ویریاں اَساݙے اُتے آپݨے مُنہ کھولیئے۔",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "کھولیئے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اَساݙے اُتے"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "آپݨے مُنہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ساݙے ویری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:01.896392829Z",
+  "model": "glm-5.3"
+}

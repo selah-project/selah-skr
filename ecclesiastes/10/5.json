@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "ہِک بُرائی میں سِجھ تلے ݙٹھی ہے — ہِک بھُل ⟨وانگوں⟩ جیہڑی حاکم دے اَڳوں توں نکلدی ہے۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہُوندی ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "ہِک بھُل ⟨وانگوں⟩"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "جیہڑی نکلدی ہے"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے اَڳوں توں"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "حاکم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:50.720330524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے تُساں نیڑے آئو تے پہاڑ تلے کھڑے ہوؤ، تے پہاڑ بھا نال بھڑدا ہا، اسماناں دے دل تئیں — ہنیرا، بدل تے گھنا گھٹا۔",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "تے نیڑے آئو"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "تے کھڑے ہوؤ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "تے پہاڑ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بھڑدا ہا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "تے گھنا گھٹا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:16.738258899Z",
+  "model": "glm-5.3"
+}

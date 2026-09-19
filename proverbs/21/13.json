@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "جیہڑا غریب دی پکار توں اپݨی کن بند کریندے، اوہ وی پکاریسی تے اُوکوں جواب نہ ݙتا ویسی۔",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند کریندے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپݨی کن"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "پکار"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکاریسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ݙتا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:15.864221641Z",
+  "model": "glm-5.3"
+}

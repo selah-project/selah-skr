@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اوندا منہ لعنت، فریب تے زیادتی توں بھریا ہے؛ اوندی زبان تلے محنت تے گناہ ہن۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اوندا منہ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھریا"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "تے فریب"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "تے زیادتی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "اوندی زبان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "تے گناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:42.380521667Z",
+  "model": "glm-5.3"
+}

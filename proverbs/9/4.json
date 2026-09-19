@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "“جو کوئی سادہ ہے، او اِتھاں پھر آوے”؛ جیہڑا دل توں خالی ہے، اونکوں او آکھیے:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "سادہ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "پھر آوے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "او آکھیے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.300013529Z",
+  "model": "glm-5.3"
+}

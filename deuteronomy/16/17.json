@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ہر بندہ اپݨے ہتھ دی بخشش دے مطابق ⟨ݙیسی⟩، جیویں یاہوہ تیݙا ایلوہیم تیکوں ݙتے۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "دی بخشش دے مطابق"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݨے ہتھ"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "جیویں برکت موجب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:40.422999569Z",
+  "model": "glm-5.3"
+}

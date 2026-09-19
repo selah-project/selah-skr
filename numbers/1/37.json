@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں دی ڳݨتی، بِنیامین دے ݙوہ دے، پنج تے ترِیہہ ہزار تے چار سَو ۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اُنہاں دی ڳݨتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ݙوہ دے"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے ترِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:28.728494392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "پاک دیاں پاک چیزاں وانگوں تُساں ⟨את⟩ اوندا کھاوسی؛ ہر نر اوندا کھاوسی؛ او پاک ہوسی تیݙے کیتے۔",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکاں"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:17.835176346Z",
+  "model": "glm-5.3"
+}

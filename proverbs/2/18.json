@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو اوندا گھر موت دو ڈھاندا ہے تے اوندے ٹراکے رفایم ⟨مُردے⟩ دو ویندن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ڈھاندا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اوندا گھر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم ⟨مُردے⟩"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "اوندے ٹراکے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:40.042430500Z",
+  "model": "glm-5.3"
+}

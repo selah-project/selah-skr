@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "اوں کانسی دے جالے دیاں چار کُنڈیاں اُتے چار کڑیاں ڈھالیاں — موٹھیاں کیتے گھر۔",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ڈھالیاں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کڑیاں"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "کُنڈیاں"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "جالے"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "کانسی"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "موٹھیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:13.247005291Z",
+  "model": "glm-5.3"
+}

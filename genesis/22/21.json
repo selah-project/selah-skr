@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "⟨את⟩ عُوض اوندا پہلا پُتر، تے ⟨את⟩ بُوز اوندا بھرا، تے ⟨את⟩ کموایل اَرام دا پیو۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُوض"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُوض"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "اوندا پہلا پُتر"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بُوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بُوز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندا بھرا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "کموایل"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کموایل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:38.020513285Z",
+  "model": "glm-5.3"
+}

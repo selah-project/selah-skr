@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "جے تُساں سیاݨے تھئے، آپ کیتے سیاݨے تھئے؛ تے جے ٹوک ماری، تاں کلھا چاویسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "سیاݨے تھئے"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "سیاݨے تھئے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "تے جے ٹوک ماری"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کلھا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چاویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:30.374545444Z",
+  "model": "glm-5.3"
+}

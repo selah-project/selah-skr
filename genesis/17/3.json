@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اَورام اپݨے منہ دے ڈھہہ پیا، تے ایلوہیم اوندے نال ⟨את⟩ ڳالھ کیتی، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ڈھہہ پیا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپݨا منہ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے نال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:13.294599086Z",
+  "model": "glm-5.3"
+}

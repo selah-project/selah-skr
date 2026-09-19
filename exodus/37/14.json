@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "حاشیے دے نال نال چھلّیاں ہن — بیراں کیتے جاہیں، میز ⟨את⟩ چاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "نال نال"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "حاشیے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "چھلّیاں"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "جاہیں"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "بیراں کیتے"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چاوݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:08.360654593Z",
+  "model": "glm-5.3"
+}

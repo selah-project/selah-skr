@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے ایہ ڳالھ بادشاہ دیاں اکھیں وِچ تے سارے کٹھ دیاں اکھیں وِچ ٹھیک لڳی۔",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ٹھیک لڳی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "تے اکھیں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:59:20.658978444Z",
+  "model": "glm-5.3"
+}

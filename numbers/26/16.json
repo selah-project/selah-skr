@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "اُوزنی توں — اُوزنیاں دی گھرانے؛ عیری توں — عیریاں دی گھرانے۔",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "اُوزنی توں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "گھرانے"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "اُوزنیاں دی"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "عیری توں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "گھرانے"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "عیریاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:33.582628932Z",
+  "model": "glm-5.3"
+}

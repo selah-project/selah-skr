@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے زانوخ، تے عین گنّیم، تفّوح تے ہاعینام،",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "تے زانوخ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے عین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنّیم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تفّوح"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "تے ہاعینام"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:44.120137687Z",
+  "model": "glm-5.3"
+}

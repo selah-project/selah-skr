@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "جیہڑی کوئی جان کوئی خون کھاوے، اوہا جان اوندے قوم توں کٹی ویسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "تے کٹی ویسی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "او جان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہا"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "اوندے قوم توں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:58.306182214Z",
+  "model": "glm-5.3"
+}

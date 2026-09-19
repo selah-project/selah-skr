@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "عیرا عِکِّش دا پُتر ہتقوعی، ابیعیزر ہعنتوثی۔",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِکِّش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ہتقوعی"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ابیعیزر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ہعنتوثی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:44.617736238Z",
+  "model": "glm-5.3"
+}

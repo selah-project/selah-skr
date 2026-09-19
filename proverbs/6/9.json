@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کتݙاں تئیں، کاہل، سُسیسی؟ کتݙاں تیݙی نندر توں اُسیسی؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کتݙاں"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سُسیسی"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کتݙاں"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُسیسی"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "تیݙی نندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:25.888516644Z",
+  "model": "glm-5.3"
+}

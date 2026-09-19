@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے ⟨את⟩ تُہاݙے بھرا کوں گھنو، اُٹھو، تے اوں بندے دو وَل ونڄو۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاݙے بھرا"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "تُہاݙے بھرا"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "گھنو"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "وَل ونڄو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوں بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:51.695170992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جے کاہن ݙیکھے تے ݙیکھے جو نبيض اوندوں دھووݨ توں بعد مُکا ڳیا ہے، تاں اوندوں کپڑے توں پاڑیسن، چمڑے توں، تاݨے توں یا بانے توں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھے جو"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "مُکا ڳیا ہے"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نبيض"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "دھووݨ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "نبيض آلا برتھا"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "پاڑیسن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "نبيض آلا ٹکڑا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העור",
+      "gloss": "چمڑے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تاݨے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "بانے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:53.983848442Z",
+  "model": "glm-5.3"
+}

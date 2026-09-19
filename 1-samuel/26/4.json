@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے داوِد جاسوس بھیڄے تے ڄاݨ گھدا جو شاؤل سچ موچ آ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "مרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "تے ڄاݨ گھدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سچ موچ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "یقینی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:48:01.251458274Z",
+  "model": "glm-5.3"
+}

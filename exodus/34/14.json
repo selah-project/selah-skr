@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "کیوں جو تُساں کہیں ٻئے ایل کوں سجدہ نہ کریسو، کیوں جو یاہوہ دا ناں غیور ہے، او غیور ایل ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ کریسو"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "کہیں ٻئے ایل کوں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غیور"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اُوندا ناں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غیور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:02:27.673987476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ موشے نال الایا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:41.306612128Z",
+  "model": "glm-5.3"
+}

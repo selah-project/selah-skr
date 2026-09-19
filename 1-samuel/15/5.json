@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے شاؤل عمالیق دی ہِک شہر تئیں آ ڳیا، تے نئی وِچ گھات لا گھدی۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالیق دی"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "گھات لا گھدی"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نئی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:41:16.228276107Z",
+  "model": "glm-5.3"
+}

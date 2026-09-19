@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے خیرام بادشاہ کوں سو تے ویہی کلڑ ⟨سون دا وزن⟩ سونا بھیڄیا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیڄیا"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "خیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ کوں"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہی"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کلڑ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:10:40.712271103Z",
+  "model": "glm-5.3"
+}

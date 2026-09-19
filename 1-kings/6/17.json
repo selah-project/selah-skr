@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے گھر — او ہیکل جیڑھا اُوندے اڳوں — چالیھ ہتھ دا ہا۔",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالیھ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:06:23.367534583Z",
+  "model": "glm-5.3"
+}

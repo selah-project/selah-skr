@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اَیوب جواب ݙتا تے آکھیس:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اَیوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:23.941275120Z",
+  "model": "glm-5.3"
+}

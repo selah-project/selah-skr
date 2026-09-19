@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "رستہ چھوڑݨ آلے کیتے تادیب بری ہے، تے جیہڑا تنبیہ توں نفرت کریندے، او مرسی۔",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "چھوڑݨ آلے کیتے"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "نفرت کریندے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تنبیہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:56.109256175Z",
+  "model": "glm-5.3"
+}

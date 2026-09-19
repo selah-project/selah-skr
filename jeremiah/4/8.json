@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایں ڳالھ اُتے جوٹ دے کپڑے ٻدھو، ماتم کرو تے واویلاں کرو، کیوں جو یاہوہ دا بھڑکدا غصہ اساں توں نہ ولسیا۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایں ڳالھ"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ٻدھو"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "جوٹ دے کپڑے"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "ماتم کرو"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "تے واویلاں کرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ولسیا"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بھڑکدا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اساں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:23.859684989Z",
+  "model": "glm-5.3"
+}

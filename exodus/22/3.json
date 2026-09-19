@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جے اوندے ہتھ چوری دا مال پک ملیا ملسی — بیل، ڳݙا یا بھیڈ، زندہ — تاں اوہ ݙوڑا بھریسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "پک ملیا"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملسی"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوندے ہتھ"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "چوری دا مال"
+    },
+    {
+      "surface": "משור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ڳݙا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بھیڈ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙوڑا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بھریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:35.969104787Z",
+  "model": "glm-5.3"
+}

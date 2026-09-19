@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "سیاݨپ حاصل کرݨ سونا توں کتنا چنڳا ہے، تے سمجھ حاصل کرݨ چاندی توں چُݨیا ہویا ہے۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کرݨ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کتنا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "سونا توں"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "تے حاصل کرݨ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چُݨیا ہویا"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چاندی توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:29.517622048Z",
+  "model": "glm-5.3"
+}

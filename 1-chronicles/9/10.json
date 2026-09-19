@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے کاہناں وِچوں: یِدعایاہ، یِہویاریو تے یاکِین۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدعایاہ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "یِہویاریو"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "یاکِین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:25.319120683Z",
+  "model": "glm-5.3"
+}

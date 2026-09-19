@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "ایہ رافا توں گت وِچ ڄمے ہن، تے داوِد دے ہتھ تے اوندے ٻانہیاں دے ہتھ ڈھے ہن۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ڄمے ہن"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "رافا توں"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گت وِچ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "تے ڈھے ڳئے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "تے دے ہتھ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اوندے ٻانہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:04.333127383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تہوم دے چشمے تے اسماناں دے دریچے بند تھی ڳئے، تے اسماناں توں مینہہ رُک ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "بند تھی ڳئے"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "دریچے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "رُک ڳیا"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:10.464405835Z",
+  "model": "glm-5.3"
+}

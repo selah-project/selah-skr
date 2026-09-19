@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایں یوبیل دے ورہے تُساں وَلسو — ہر بندہ اپݨی ملکیت دو۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ورہے وِچ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "یوبیل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "وَلسو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "اپݨی ملکیت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:25.655212522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "آکھیم شیتݨاں کوں: “نہ شیتݨپ کرو”، تے بدکاراں کوں: “نہ اُچا کرو سنگ۔”",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیم"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "شیتݨاں کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "شیتנپ کرو"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "تے بدکاراں کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "اُچا کرو"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "سنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:13.310058623Z",
+  "model": "glm-5.3"
+}

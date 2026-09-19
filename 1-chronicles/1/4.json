@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "نوح، شیم، حام تے یفت۔",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "تے یفت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:06.326696344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 57,
+  "translation": "اُچا تھی، ایلوہیم، اسماناں توں اُتے؛ ساری زمین اُتے تیݙا جلال۔",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "اُچا تھی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تیݙا جلال"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:42.996054607Z",
+  "model": "glm-5.3"
+}

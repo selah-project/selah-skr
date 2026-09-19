@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یعقوو کلہا رہ ڳیا، تے ہِک بندہ اوں نال صبح چڑھݨ تئیں کشتی کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "کلہا رہ ڳیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "کشتی کیتی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوں نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "چڑھݨ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "صبح"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:03.258238805Z",
+  "model": "glm-5.3"
+}

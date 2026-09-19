@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے تَخپنخیص وِچ یرمیاہو کول یاہوہ دی ڳالھ تھئی، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "تَخپنخیص وِچ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:10.758728689Z",
+  "model": "glm-5.3"
+}

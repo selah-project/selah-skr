@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے پچادھی سرحد — تُہاݙے کیتے وݙا سمندر تے ایندی سرحد تھیسی؛ ایہو تُہاݙی پچادھی سرحد ہوسی۔",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "تے سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "تے سرحد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙی"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "پچادھی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:56.934720761Z",
+  "model": "glm-5.3"
+}

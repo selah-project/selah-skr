@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "بغیر کندھی دا ڈھیا ہویا شہر ⟨وانگوں⟩ او بندہ ⟨ہے⟩ جیندی روح اُتے کوئی ضبط کائنی۔",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ڈھیا ہویا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "کندھی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "ضبط"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "آپݨی روح اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.694782159Z",
+  "model": "glm-5.3"
+}

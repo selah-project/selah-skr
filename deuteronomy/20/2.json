@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے تھیسو ایہو جو، جݙاں تُساں جنگ دے نیڑے پُنسو، کاہن اَڳوں آئے تے قوم نال ڳالھ کریسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسو ایہو جو"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "جݙاں تُساں نیڑے پُنسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ دے"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "کاہن اَڳوں آئے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے ڳالھ کریسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:52.059151707Z",
+  "model": "glm-5.3"
+}

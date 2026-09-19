@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پر اِیں قوم دا دِل بغاوت آلا تے سرکشی آلا ہِے؛ او پلٹے تے ٹُر ڳئین۔",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "پر اِیں قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہِے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "بغاوت آلا"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "تے سرکشی آلا"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "پلٹے"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے ٹُر ڳئین"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:34.759785977Z",
+  "model": "glm-5.3"
+}

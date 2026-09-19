@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "راستباز دا پَھل جِیندا رُکھ ہے، تے جیڑھا نفسیں کوں چا گھندے او سوجھواݨ ہے۔",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "پَھل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز دا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "تے چا گھندے"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "نفسیں کوں"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سوجھواݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:45.848902771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ݙاندیں دا پُتر، ہِک دنبہ، ہِک ہِک ورہے دا، سوختنی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "بקר",
+      "gloss": "ݙاندیں"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مینھ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک ورہے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوختنی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:29.106372341Z",
+  "model": "glm-5.3"
+}

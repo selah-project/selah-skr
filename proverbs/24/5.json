@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "بہادر عقل مند طاقت وِچ ہوندے، تے ڄاݨکاری آلا بندہ زور ودھیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "بہادر بندہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "عقل مند"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "طاقت وِچ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨکاری آلا"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ودھیندا ہے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.038671307Z",
+  "model": "glm-5.3"
+}

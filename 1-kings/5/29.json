@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 5:29",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے شلومو کیتے ستر ہزار بوجھ چاوَݨ آلے ہن، تے اسی ہزار پہاڑ وِچ تراشݨ آلے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو کیتے"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاوَݨ آلے"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اسی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "تراشݨ آلے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:06:51.646246863Z",
+  "model": "glm-5.3"
+}

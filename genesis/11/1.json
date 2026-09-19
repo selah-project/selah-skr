@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ساری زمین ہِک ٻولی ہئی، تے ڳالھیں ہِکو جیہیاں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ٻولی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "تے ڳالھیں"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ہِکو جیہیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:58.845772768Z",
+  "model": "glm-5.3"
+}

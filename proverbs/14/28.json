@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "لوکاں دی وݙی گنتی وِچ بادشاہ دی شان ⟨ہے⟩، تے قوم دے مُک ونڄݨ اُتے حاکم دی بربادی۔",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "وݙی گنتی وِچ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں دی"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "شان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "تے مُک ونڄݨ اُتے"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "حاکم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:54.763715084Z",
+  "model": "glm-5.3"
+}

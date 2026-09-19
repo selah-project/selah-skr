@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے ہُݨ، ادونای، میں کِیا اُمید رکھاں؟ میݙی اُمید تیݙے وِچ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "میں اُمید رکھاں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "میݙی اُمید"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:09.832681873Z",
+  "model": "glm-5.3"
+}

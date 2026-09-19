@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "یاہوہ دیاں اکھیں راستبازاں دو ہن، تے اوندے کن انہاں دی پکار دو۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "اکھیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازاں"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "تے اوندے کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "انہاں دی پکار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:52.177038348Z",
+  "model": "glm-5.3"
+}

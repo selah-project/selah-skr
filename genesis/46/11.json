@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے لِوی دے پُتر: گیرشون، قِہات تے مِراری۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گیرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "تے مِراری"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:34.520778763Z",
+  "model": "glm-5.3"
+}

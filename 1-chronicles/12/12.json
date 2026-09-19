@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "عَتّای چھیواں، اِلیایل ستواں۔",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "عَتّای"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیواں"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلیایل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستواں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:46.251674610Z",
+  "model": "glm-5.3"
+}

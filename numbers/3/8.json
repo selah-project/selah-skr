@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے او ملاقات دے خیمے دے ⟨את⟩ سارے برتݨ تے بنی یسرایل دی ⟨את⟩ پہرہ داری رکھسن، مسکن دی ⟨את⟩ خدمت کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "رکھسن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتݨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتݨ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پہرہ داری"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پہرہ داری"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خدمت"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:25.665400958Z",
+  "model": "glm-5.3"
+}

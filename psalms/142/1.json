@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 142,
+  "translation": "داؤِد دی ہدایت آلی نظم، جݙاں او غار وِچ ہا — ہِک اِلجاؤ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ہدایت آلی نظم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤِد دی"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "جݙاں او ہا"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غار وِچ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "اِلجاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:30.563808146Z",
+  "model": "glm-5.3"
+}

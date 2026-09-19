@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کاش جو میݙی منگ پُڄ آوے، تے ایلوہ میݙی اُمید پوری کرے!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیسی ⟨کاش⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "میݙی منگ"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "تے میݙی اُمید"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پوری کرے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:17.550745804Z",
+  "model": "glm-5.3"
+}

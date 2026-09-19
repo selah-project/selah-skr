@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 14:44",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوہ ہٹ کے پہاڑ دے سرے ول چڑھݨ لڳے، پر یاہوہ دے عہد دا صندوق تے موشے پڑچ وچوں ٹُرے نہ۔",
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "ہٹ کے چلیے"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "چڑھݨ کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ دا"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "تے صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "تے موشے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "משו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وچوں"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:54.453022158Z",
+  "model": "glm-5.3"
+}

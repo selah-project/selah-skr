@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "خاریم، مریموٹ، عوَدیاہ،",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "خاریم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مریموٹ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عوَدیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:51.768139645Z",
+  "model": "glm-5.3"
+}

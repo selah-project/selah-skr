@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "جو ٻیڑیاں وِچ سمندر تے لہندن، وݙے پاݨیاں وِچ کم کرݨ آلے۔",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "جو لہندن"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر تے"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ٻیڑیاں وِچ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کرݨ آلے"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨیاں وِچ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وݙے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:49.186735722Z",
+  "model": "glm-5.3"
+}

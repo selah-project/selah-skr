@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے موشے اوہو کیتا جیڑھا یاہوہ حکم ݙتا ہا، تے او ہور کوہ دے اُتے سارے سنگت دیاں اکھیں اڳوں چڑھ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھ ڳئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨دی اُتے⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکھیں اڳوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "سنگت"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:12.085270818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "ظلم اُتے بھروسہ نہ رکھو، تے لُٹ وِچ اُلجھا نہ رہو — مال جے ودھدا رہوے، ول دل ⟨اُوندے اُتے⟩ نہ رکھو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسہ رکھو"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم اُتے"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "تے لُٹ وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "اُلجھا رہو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "مال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ودھدا رہوے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:49.626936156Z",
+  "model": "glm-5.3"
+}

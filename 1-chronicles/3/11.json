@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یورام اوندا پُتر، اَحزیاہو اوندا پُتر، یواش اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "یورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اَحزیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یواش"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:05.006435447Z",
+  "model": "glm-5.3"
+}

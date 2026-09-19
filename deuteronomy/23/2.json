@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کٹیا ہویا، کچلیا ہویا تے رکنے دا انگ نپٹیا ہویا یاہوہ دی جماعت وِچ نہ ویسى۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ویسى"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "کٹیا ہویا"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "کچلیا ہویا"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "تے نپٹیا ہویا"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "⟨رکنے دا انگ⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:13.214855154Z",
+  "model": "glm-5.3"
+}

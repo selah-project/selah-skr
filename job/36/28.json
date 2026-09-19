@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "جݙاں بادل ٹپکیندے ہن، تے بندیاں اُتے ٻہوں وسیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ٹپکیندے ہن"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "وسیندے ہن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:05.172922063Z",
+  "model": "glm-5.3"
+}

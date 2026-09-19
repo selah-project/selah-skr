@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "مزمور، ہِک ڳاوݨ — شبّات دے ݙینہہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دے ݙینہہ کیتے"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:47.770391598Z",
+  "model": "glm-5.3"
+}

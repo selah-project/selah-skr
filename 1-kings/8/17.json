@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے داوِد میݙے پیو دے دل وِچ ہِک گھر یاہوہ اسرائیل دے ایلوہیم دے ناں کیتے بݨاوݨ ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بݨاوݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ناں کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:27.805999063Z",
+  "model": "glm-5.3"
+}

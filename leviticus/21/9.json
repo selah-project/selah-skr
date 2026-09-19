@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے کاہن دی دھی جے بدکاری نال آپ کوں خراب کرے، اوہ ⟨את⟩ آپݨے پیو کوں بے عزت کریندی ہے — بھا وِچ ساڑی ویسی۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "تے دھی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "خراب کرے"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "بدکاری نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے پیو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "آپݨے پیو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "بے عزت کریندی ہے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ساڑی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:47.764285496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایہ او مطلب ہے، اَے بادشاہ، تے او فیصلہ عِلیا ⟨سبھ توں اُچا⟩ دا ہے، جیڑھا میݙے سائیں بادشاہ اُتے آیا ہے۔",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "مطلب"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "تے فیصلہ"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "عِلیا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "سائیں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:21:23.904445496Z",
+  "model": "glm-5.3"
+}

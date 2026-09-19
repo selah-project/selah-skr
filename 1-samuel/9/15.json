@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ شموایل دا ⟨את⟩ کن کھولیا ہا، شاؤل دے آوݨ توں ہِک ݙینہہ پہلے، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کھولیا ہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوں"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل دا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:39:45.717791245Z",
+  "model": "glm-5.3"
+}

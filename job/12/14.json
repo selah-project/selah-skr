@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ݙیکھو، او ڈہیسی تے ⟨او⟩ نہ بݨسی؛ او بندے نال بند کریسی تے ⟨او⟩ نہ کھُلیسی۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "ڈہیسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بݨسی"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "بند کریسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھُلیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:58.422255918Z",
+  "model": "glm-5.3"
+}

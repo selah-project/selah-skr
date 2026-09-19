@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے تُساں پڳڑی اوندے سر اُتے رکھو، تے پاک ⟨את⟩ تاج پڳڑی اُتے رکھو۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "تے تُساں رکھو"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پڳڑی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوںدا سر"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "تے ݙیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاک تاج"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پڳڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:46.061407911Z",
+  "model": "glm-5.3"
+}

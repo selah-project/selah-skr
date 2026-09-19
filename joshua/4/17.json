@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یہوشوع ⟨את⟩ کاہناں کوں حکم ݙتس، آکھ کے: “یاردن توں چڑھو۔”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم ݙتس"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہناں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:44.967467385Z",
+  "model": "glm-5.3"
+}

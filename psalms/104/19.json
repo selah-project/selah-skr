@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "چندر کوں اَوقاتاں کیتے بݨایس؛ سِجھ اپݨے لَہݨ دی جاہ کوں ڄاݨدے۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بݨایس"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چندر"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "اَوقاتاں کیتے"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "اپݨے لَہݨ دی جاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:09.909748816Z",
+  "model": "glm-5.3"
+}

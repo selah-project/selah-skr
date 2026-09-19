@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "غریب منتاں نال ٻولیندے، تے امیر سخت جواب ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "منتاں نال"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ٻولیندے"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "تے امیر"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ݙیندے"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:02.686615160Z",
+  "model": "glm-5.3"
+}

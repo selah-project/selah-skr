@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "ݙو سو ٻکریاں تے ویہہ ٻکرے، ݙو سو بھیݙاں تے ویہہ مینہہ،",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "تے ٻکرے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "بھیݙاں"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "تے مینہہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:39.774697955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تنگی تے تکلیف میکوں پاتی؛ تیݙے حکم میݙیاں خوشیاں ہن۔",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "تے تکلیف"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "میکوں پاتی"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیݙے حکم"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "میݙیاں خوشیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:08.998427713Z",
+  "model": "glm-5.3"
+}

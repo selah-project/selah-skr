@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جے نیتِق پھیلدا اوندے پاک تھیوݨ دے بعد چم وِچ پھیلسی،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلدا"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "پھیلسی"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نیتِق"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم وِچ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "اوندے پاک تھیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:41.137818091Z",
+  "model": "glm-5.3"
+}

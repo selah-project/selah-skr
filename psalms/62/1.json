@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "ترتیب ݙیوݨ آلے کیتے، یدوتُن اُتے — داوِد دا ڳاوݨ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ترتیب ݙیوݨ آلے کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یدوتُن"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:10.820172907Z",
+  "model": "glm-5.3"
+}

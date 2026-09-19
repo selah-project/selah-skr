@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "جلال دا تخت، اُچے، مُنڈھ توں ⟨ہے⟩ — ساݙے پاک مقام دی جا۔",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "مُنڈھ توں"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جا"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ساݙے پاک مقام دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:20.332594012Z",
+  "model": "glm-5.3"
+}

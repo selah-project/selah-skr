@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "سفید والاں دا تاج شوکت ہے — اوہ راستی دے رستے وِچ پاتا ویندے۔",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شوکت"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "سفید والاں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پاتا ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:08.583145283Z",
+  "model": "glm-5.3"
+}

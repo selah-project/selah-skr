@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے او نہ ڄاݨدے ہن جو یوسف سُݨدا پیا ہے، کیوں جو ترجمان اُنہاں وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدے ہن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨدا پیا ہے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ترجمان"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "اُنہاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:09.515517776Z",
+  "model": "glm-5.3"
+}

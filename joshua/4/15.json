@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ یہوشوع نال آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:27.131966878Z",
+  "model": "glm-5.3"
+}

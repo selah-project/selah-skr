@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تُساں اِیہ ݙٹھا، جو ڄاݨو جو یاہوہ ⟨اوہو⟩ ایلوہیم ہے، اُوندے توں ٻیا کوئی کائنی۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جو ڄاݨو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہو⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم ہے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا کوئی"
+    },
+    {
+      "surface": "مלבדו",
+      "gloss": "اُوندے توں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:46.865418661Z",
+  "model": "glm-5.3"
+}

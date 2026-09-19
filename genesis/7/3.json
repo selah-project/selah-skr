@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اِیہویں آسماناں دے پنچھیاں وِچوں وی ستّ ستّ نر تے مادی، ساری زمین دے اُتے first-born نئیں — بٖ دا ساؤ …",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "پنچھیاں وِچوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسماناں دے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "تے مادی"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "جیوا رکھݨ کیتے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "first-born"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:13.928946920Z",
+  "model": "glm-5.3"
+}

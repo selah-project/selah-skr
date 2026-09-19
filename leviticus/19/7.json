@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے جے اوہ وَل تریجھے ݙینہہ کھایا ونڄے، تاں اوہ گھناؤنا ⟨ہے⟩، اوہ قبول نہ تھیسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا ونڄے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تریجھے"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "گھناؤنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "قبول تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:01.353170607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے تُساں، اوندا پُتر بیلشٹصر، اے سبھ کجھ ڄاݨدے ہووݨ دے باوجود اپݨا دل نہ جھکایا۔",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "تے تُساں"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بیلشٹصر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "جھکایا"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "دے باوجود"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدے ہووݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:12.613333208Z",
+  "model": "glm-5.3"
+}

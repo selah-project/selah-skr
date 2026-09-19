@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ایں کیتے، اے زناکار ترلےی، یاہوہ دی ڳالھ سُݨ۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "اے زناکار ترلےی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:53.585143043Z",
+  "model": "glm-5.3"
+}

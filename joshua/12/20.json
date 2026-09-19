@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "شِمرون-میرون دا بادشاہ ہِک؛ اکشاف دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شِمرون"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "میرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اکشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.397739194Z",
+  "model": "glm-5.3"
+}

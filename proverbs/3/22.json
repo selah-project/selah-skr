@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے او تیݙی جان کیتے جِیوݨ ہوسن، تے تیݙے ڳل کیتے تختی ۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے او ہوسن"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیوݨ"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تیݙی جان کیتے"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "تے تختی"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "تیݙے ڳل کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.784852257Z",
+  "model": "glm-5.3"
+}

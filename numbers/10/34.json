@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ڄݙاں اوہ پڑاؤ توں ٹُردے ہن، یاہوہ دا بدل ݙینہہ اوہناں اُتے رہندا ہا۔",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "تے بدل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "ڄݙاں اوہ ٹُردے ہن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:41.133741478Z",
+  "model": "glm-5.3"
+}

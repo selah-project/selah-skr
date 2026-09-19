@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "ایہ وہݨ آلے دی تورات ہے، تے اُوندے توں سُتے ہوئے بِج دا نِکھرݨ، جیندے نال او ناپاک تھیسی۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "وہݨ آلے دی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نِکھتسی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُوندے توں"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "سُتے ہوئے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بِج"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ناپاکی کیتے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:19.986898815Z",
+  "model": "glm-5.3"
+}

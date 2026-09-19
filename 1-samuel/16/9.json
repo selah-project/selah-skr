@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یِشای شمّا کوں لنگھایا، تے ⟨اوں⟩ آکھیا: “ایں وِچ وی یاہوہ چُݨا کائنی۔”",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "لنگھایا"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ایں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چُݨا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:41:25.262193664Z",
+  "model": "glm-5.3"
+}

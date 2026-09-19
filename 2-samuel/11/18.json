@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یوآب ⟨قاصد⟩ بھیڄا تے داوِد کوں ⟨את⟩ جنگ دے سارے احوال ݙسے۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے احوال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "احوال"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:55:09.135400665Z",
+  "model": "glm-5.3"
+}

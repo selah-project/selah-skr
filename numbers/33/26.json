@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ مَکہیلوت کنوں ٹُرے، تے تَخات وِچ پڑاؤ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "مَکہیلوت کنوں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پڑاؤ کیتا"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "تَخات وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:33.069513232Z",
+  "model": "glm-5.3"
+}

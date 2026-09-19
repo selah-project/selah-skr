@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اوہ میکوں آپݨے مُنہ دیاں چُماں چُمے، کیوں جو تیݙے پیار شراب کنوں چنگے ہن۔",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "چُمے ⟨اوہ⟩ میکوں"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "چُماں"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "آپݨے مُنہ دیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے ہن"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "تیݙے پیار"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:28.307384027Z",
+  "model": "glm-5.3"
+}

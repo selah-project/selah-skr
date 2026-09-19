@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "او ہکل ڳئے، ولا جواب نہ ݙتونے، لفظ اوہناں توں ہٹ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "ہکل ڳئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب ݙتونے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ہٹ ڳئے"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "لفظ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:01:05.118922735Z",
+  "model": "glm-5.3"
+}

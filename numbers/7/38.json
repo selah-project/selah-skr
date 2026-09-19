@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دی کف ݙاہ شیکل ⟨دا وزن⟩، خوشبو نال بھری ہوئی۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:28.546192221Z",
+  "model": "glm-5.3"
+}

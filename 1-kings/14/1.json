@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "اُوں ویلے اَبیّاہ، یرووعام دا پُتر، بیمار تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اُوں ویلے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "بیمار تھی ڳیا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبیّاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یرووعام"
+    }
+  ],
+  "timestamp": "2026-09-19T17:13:35.656756653Z",
+  "model": "glm-5.3"
+}

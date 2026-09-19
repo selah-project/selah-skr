@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "عقل جنگ دے ہتھیاراں کنوں چنگی ہے، پر ہِک گناہگار ٻہوں بھلائی برباد کر ݙیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "کنوں ہتھیاراں"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگ دے"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "تے گناہگار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "برباد کر ݙیندا ہے"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:17.612425439Z",
+  "model": "glm-5.3"
+}

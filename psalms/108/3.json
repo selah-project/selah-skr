@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 108,
+  "translation": "اُٹھو، نِبِل تے کِنّور؛ میں سویر کوں جڳینداں۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "نِبِل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "تے کِنّور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "میں جڳینداں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:50.935222043Z",
+  "model": "glm-5.3"
+}

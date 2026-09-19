@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے یاہوہ موشے نال آکھیا، آکھ تے۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:23.246545753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 57,
+  "translation": "تے آکھیسی: “پٹو، پٹو، رستہ بݨاؤ، میݙی قوم دے رستے توں ٹھوکری دا پتھر ہٹاؤ۔”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیسی"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "پٹو"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "پٹو"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "بݨاؤ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "ہٹاؤ"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ٹھوکری دا پتھر"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "رستے توں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T17:54:44.569624839Z",
+  "model": "glm-5.3"
+}

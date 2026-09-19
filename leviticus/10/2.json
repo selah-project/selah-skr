@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاہوہ دے اڳوں توں بھا نکلی، تے ⟨את⟩ انہاں کوں کھا ڳئی، تے او یاہوہ دے اڳوں مر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "نکلی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے اڳوں توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "کھا ڳئی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں کوں"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "مر ڳئے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:13.693472444Z",
+  "model": "glm-5.3"
+}

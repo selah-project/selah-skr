@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے بالاق وت سردار بھیڄے، انہاں توں ودھ تے ودھ عزت آلے۔",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄے"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ودھ"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "عزت آلے"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "انہاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:03.050227451Z",
+  "model": "glm-5.3"
+}

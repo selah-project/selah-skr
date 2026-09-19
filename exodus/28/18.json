@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے ݙوجھی قطار: نفیکھ، ساپیر تے یہالوم۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "تے قطار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھی"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نفیکھ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ساپیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "تے یہالوم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:01.019057856Z",
+  "model": "glm-5.3"
+}

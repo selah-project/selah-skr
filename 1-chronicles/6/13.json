@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے شموایل دے پُتر: پہلوں ڄَمیا وَشنی، تے ابیاہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "پہلوں ڄَمیا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وَشنی"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "تے ابیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:24.815492559Z",
+  "model": "glm-5.3"
+}

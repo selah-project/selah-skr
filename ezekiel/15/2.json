@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "“بندے دا پُتر، انگور دا رُکھ کوئی ٻئے رُکھ توں کیا ہے؟ اوہ ٹہنی، جیڑھی جنگل دے رُکھاں وِچ ہئی؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "انگور دا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "کوئی ٻئے توں"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "اوہ ٹہنی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "رُکھاں وِچ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:20.820011901Z",
+  "model": "glm-5.3"
+}

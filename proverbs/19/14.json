@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "گھر تے دولت پیوواں دی وراثت ہے، تے سمجھدار ذال یاہوہ کنوں ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "והון",
+      "gloss": "تے دولت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیوواں دی"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "تے یاہوہ کنوں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "سمجھدار"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:51.294432470Z",
+  "model": "glm-5.3"
+}

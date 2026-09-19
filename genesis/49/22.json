@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "یوسف پھل ݙیوݨ آلا پُتر ہے، پھل ݙیوݨ آلا پُتر چشمے دے کنارے؛ دھیاں ٹُردیاں دیوار دے اُتے۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پھل ݙیوݨ آلا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پھل ݙیوݨ آلا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دے اُتے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ٹُردیاں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دے اُتے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "دیوار"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:05.666338168Z",
+  "model": "glm-5.3"
+}

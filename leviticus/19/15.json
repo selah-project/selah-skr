@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "فیصلے وِچ ظلم نہ کریسو؛ غریب دا منہ نہ چاتیسی، تے نہ وَݙے دا منہ منیساں — راستی نال اپݨے سنگتی دا فیصلہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فیصلے وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چاتیسی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "منیساں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وَݙے دا"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "راستی نال"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "فیصلہ کریسو"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اپݨے سنگتی دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:03.246907869Z",
+  "model": "glm-5.3"
+}

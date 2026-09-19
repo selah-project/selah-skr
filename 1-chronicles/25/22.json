@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "پندرھویں یِریموتھ کوں، اوندے پُتراں تے اوندے بھرانواں — ہن باراں۔",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "پندرھویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پندرہ"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "یِریموتھ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "باراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:43.690355977Z",
+  "model": "glm-5.3"
+}

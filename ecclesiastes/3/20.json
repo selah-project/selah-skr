@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "سب ہِک جاہ دو ویندن؛ سب مٹی توں تھئے ہِن، تے سب مٹی دو وَل ویندن۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ویندن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "تے سب"
+    },
+    {
+      "surface": "שב",
+      "gloss": "وَل ویندن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:49.610634010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے مُوآب وچ میں فیصلے کریساں، تے او ڄاݨ گھنسن جو میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "تے مُوآب وچ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کریساں"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "تے او ڄاݨ گھنسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:08.667813699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "گھر وِچ اِیفاہ تے اِیفاہ، وݙی تے نِکی، تیکوں نہ ہووے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اِیفاہ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "تے اِیفاہ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "تے نِکی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:36.963722435Z",
+  "model": "glm-5.3"
+}

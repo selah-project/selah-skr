@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "جلال تے شوکت اوندے اڳوں ہن، زور تے سنجاوا اوندے مقدس مقام وچ۔",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شوکت"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "تے سنجاوا"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "اوندے مقدس مقام وچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:34.417969297Z",
+  "model": "glm-5.3"
+}

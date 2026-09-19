@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ݙیکھو، ایہ میں ڳولیا، قہالت آکھیا، ہِک ہِک کر کے حساب پُڄݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں ڳولیا"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قہالت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ہِک نال"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "پُڄݨ کیتے"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حساب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:45.258722477Z",
+  "model": "glm-5.3"
+}

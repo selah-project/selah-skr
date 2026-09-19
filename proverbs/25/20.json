@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ٹھڈے ݙینہہ کپڑا لہاوݨ آلا، تے نطر اُتے سرکہ سٹݨ آلا — اوہ جیہڑا برد دل کوں ڳاوݨیاں ڳاندے۔",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "لہاوݨ آلا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ٹھڈے"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سرکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "نתר",
+      "gloss": "نطر"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "تے ڳاندے"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ڳاوݨیاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:08.881083486Z",
+  "model": "glm-5.3"
+}

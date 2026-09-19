@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یِرمیاہو ڏاہواں، مکبّنای یارہواں۔",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ڏاہواں"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "مکبّنای"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−واں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:29.650934006Z",
+  "model": "glm-5.3"
+}

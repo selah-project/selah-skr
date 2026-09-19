@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 21:2",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے لوک بیت-ایل ڳئے تے اُتھاں ایلوہیم دے اڳوں شام تئیں ٻیٹھے، تے آپݨی اَواز اُچی کیتی تے وݙی ہاکل نال روئے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ڳئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ٻیٹھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "اُچی کیتی"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "آپݨی اَواز"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "روئے"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "رووݨ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:33:29.819028806Z",
+  "model": "glm-5.3"
+}

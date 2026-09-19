@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مَکنَدبای، شاشای، شارای،",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "مَکنَدبای"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "شاشای"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "شارای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:48.206189686Z",
+  "model": "glm-5.3"
+}

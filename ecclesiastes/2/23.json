@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو اوندے سارے ݙینہہ درد ہِن، تے اوندا کم غصّہ ہے؛ رات وِچ وی اوندا دل نہ سُتا — ایہ وی ہِبل ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اون٘دے ݙینہہ"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "درد"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "تے غصّہ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "اون٘دا کم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سُتا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہِبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:32.065700341Z",
+  "model": "glm-5.3"
+}

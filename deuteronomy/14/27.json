@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے لوی، جیہڑا تیݙے دروازیاں وِچ ہے، اوں کوں نہ چھوڑو، کیوں جو اوں دا کُئی حصہ تے وراثت تیݙے نال کائنی۔",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "تے لوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تیݙے دروازیاں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "چھوڑو اوں کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں دا"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "تے وراثت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:32.149235999Z",
+  "model": "glm-5.3"
+}

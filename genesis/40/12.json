@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے یوسف اوں کوں آکھیا: “ایہ اوندا تعبیر ہے: ترے شاخاں — ترے ݙینہہ ہن۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبیر"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "شاخاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:12.690466273Z",
+  "model": "glm-5.3"
+}

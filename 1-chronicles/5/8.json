@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے بِیلا عَزاز دا پُتر، عَزاز شِمع دا پُتر، شِمع یُوایل دا پُتر — او اَرویر وِچ، نیبو تائیں تے بَعل مِعون تائیں رہندا ہا۔",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "تے بِیلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "عَزاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شِمع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یُوایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رہندا ہا"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "اَرویر وِچ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نیبو"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "تے بَعل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مِعون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:16.345932193Z",
+  "model": "glm-5.3"
+}

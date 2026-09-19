@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "گاد کیتے، اِلیاسف، دِعوایل دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "گاد کیتے"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعوایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:42.565825635Z",
+  "model": "glm-5.3"
+}

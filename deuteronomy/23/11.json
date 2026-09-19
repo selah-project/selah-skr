@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "جے تُہاݙے وِچ کوئی بندہ ہووے جیہڑا رات دے کہیں اتفاقے پاروں پاک نہ ہووے، تاں او مچان توں ٻاہر ونڄے؛ مچان دے وچکار نہ وڑے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہاݙے وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "اتفاقے پاروں"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات دے"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ونڄے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨کی طرف⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "مچان توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "وڑے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨کی طرف⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مچان دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.198304109Z",
+  "model": "glm-5.3"
+}

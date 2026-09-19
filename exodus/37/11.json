@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوندے اُتے خالص سونا چڑھایُس ⟨אתו⟩، تے بݨایُس اوندے کیتے سونے دا کنار چاروں پاسے۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "چڑھایُس"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "بݨایُس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "זר",
+      "gloss": "کنار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:08.280652420Z",
+  "model": "glm-5.3"
+}

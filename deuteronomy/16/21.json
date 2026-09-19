@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "آپ کیتے اشراہ نہ لڳاویں — کوئی وی رُکھ — یاہوہ تیݙے ایلوہیم دی قربانگاہ دے نیڑے، جینکوں تُساں آپ کیتے بݨاوسیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "لڳاویں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "اشراہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙے ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بݨاوسیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:57:55.728911887Z",
+  "model": "glm-5.3"
+}

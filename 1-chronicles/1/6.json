@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے گومر دے پُتر: اشکناز، تے دیفت، تے توگرمہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشکناز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "تے دیفت"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "تے توگرمہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:03.466825838Z",
+  "model": "glm-5.3"
+}

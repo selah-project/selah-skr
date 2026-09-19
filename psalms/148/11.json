@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 148,
+  "translation": "زمین دے بادشاہ تے ساریاں قوماں، سردار تے زمین دے سارے فیصلے کرݨ آلے،",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساریاں"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "فیصلے کرݨ آلے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:41.173887002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "اُبھے پاسے کوں ماپیا، پنج سو نرس، نپݨ آلی نرس نال، چارے پاسے۔",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ماپیا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "اُبھے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نرساں"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "نرس نال"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپݨ آلی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چارے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:26.539438999Z",
+  "model": "glm-5.3"
+}

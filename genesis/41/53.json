@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے مِتصرایم دی زمین وِچ ہووݨ آلی وافری دے اوہ ست سال پورے تھی ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "پورے تھی ڳئے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "وافری دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہووݨ آلی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:58.554886365Z",
+  "model": "glm-5.3"
+}

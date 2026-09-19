@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یہوشُع اچانک اُنہاں اُتے آ ڳیا — ساری رات او گِلگال توں چڑھدا ریہا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھدا ریہا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گِلگال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:11:59.380866983Z",
+  "model": "glm-5.3"
+}

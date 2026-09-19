@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یِشوع وِچ، تے مولاداہ وِچ، تے بیت-پالیط وِچ۔",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "تے یِشوع وِچ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "تے مولاداہ وِچ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالیط"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:04.985788148Z",
+  "model": "glm-5.3"
+}

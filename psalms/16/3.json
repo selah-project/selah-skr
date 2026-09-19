@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "زمین وِچ جو پاک ہن، او ای ہن — تے ممتاز، انہاں وِچ میݙی ساری خوشی ہے۔",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "پاکاں کیتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او ای ہن"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "تے ممتاز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "میݙی خوشی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:18.389398151Z",
+  "model": "glm-5.3"
+}

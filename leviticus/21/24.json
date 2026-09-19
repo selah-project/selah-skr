@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے موشے اہرون کوں، اوندے پُتریں کوں تے یِسرایل دے سبھ پُتریں کوں آکھیا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:59.060278822Z",
+  "model": "glm-5.3"
+}

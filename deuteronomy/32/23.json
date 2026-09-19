@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "انہاں اُتے بُرائیاں کٹھیاں کریساں، اپݨے تیر انہاں اُتے مُکریساں۔",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "کٹھیاں کریساں"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "انہاں اُتے"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بُرائیاں"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اپݨے تیر"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "مُکریساں"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:22.325727039Z",
+  "model": "glm-5.3"
+}

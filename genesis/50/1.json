@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "یوسف آپݨے پیو دے مُہاندے اُتے ڈھہہ پیا، اُوندے اُتے رویا تے اُوندو چُم ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ڈھہہ پیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُہاندے"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آپݨے پیو دے"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "رویا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "چُم ݙتس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:15.963746456Z",
+  "model": "glm-5.3"
+}

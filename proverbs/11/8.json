@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "راستباز تنگی توں کڈھیا ویندا ہے، تے شریر اوندی جاہ تے آ ویندا ہے۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "تنگی توں"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "کڈھیا ویندا ہے"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے آ ویندا ہے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوندی جاہ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:59.459202120Z",
+  "model": "glm-5.3"
+}

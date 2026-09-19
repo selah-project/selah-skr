@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "دل حاصل کرݨ آلا اپݨی جان کوں پیار کریندا ہے؛ سمجھ دی راکھی کرݨ آلا چنڳائی پاسی۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کرݨ آلا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کریندا ہے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "راکھی کرݨ آلا"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تاں جو پاوے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳائی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:56.026575380Z",
+  "model": "glm-5.3"
+}

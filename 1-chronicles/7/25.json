@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے رِفح اوندا پُتر، تے رِشِف، تے تِلح اوندا پُتر، تے تِحان اوندا پُتر ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "تے رِفح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "تے رِشِف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "تے تِلح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "تے تِحان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:53.597825139Z",
+  "model": "glm-5.3"
+}

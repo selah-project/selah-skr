@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 102,
+  "translation": "قیدی دی کرلاٹ سُن٘ݨ کیتے، تے موت دے پُتراں کوں کھولݙݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "سُن٘ݨ کیتے"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "کرلاٹ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "قیدی دی"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "کھولݙݨ کیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "موت دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:39.128837477Z",
+  "model": "glm-5.3"
+}

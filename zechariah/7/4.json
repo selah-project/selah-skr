@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ تصواوت دا ٻول میݙے کولھ آیا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:29.253256770Z",
+  "model": "glm-5.3"
+}

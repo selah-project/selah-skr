@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "⟨מאת⟩ یاہوہ توں ایہ تھئی، ایہ ساݙیاں اکھیں وِچ عجیب ہے۔",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "عجیب"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "ساݙیاں اکھیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:48.231321404Z",
+  "model": "glm-5.3"
+}

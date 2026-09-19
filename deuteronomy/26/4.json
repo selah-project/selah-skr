@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے کاہن ٹوکری تیݙے ہتھ توں گھسی، تے اونکوں یاہوہ تیݙے ایلوہیم دے قربانگاہ اڳِ رکھسی۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "تے گھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "ٹوکری"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیݙے ہتھ توں"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "تے رکھسی اونکوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳِ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:48.317406861Z",
+  "model": "glm-5.3"
+}

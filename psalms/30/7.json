@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے میں آپݨی سُکھ چین وِچ آکھیا: “میں بالکل نہ ہلساں، ہمیش کیتے۔”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "آپݨی سُکھ چین وِچ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بالکل نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ہلساں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیش کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:30.772151745Z",
+  "model": "glm-5.3"
+}

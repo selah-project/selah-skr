@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "تے ساݙا ایلوہیم اسماناں وِچ ہے — جو کجھ اوں چاہیا، اوہ کیتُس۔",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "تے ساݙا ایلوہیم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ ⟨سارا⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جو⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہیا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتُس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:22.892702540Z",
+  "model": "glm-5.3"
+}

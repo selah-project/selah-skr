@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "محنتی جان اون٘دے کیتے محنت کریندی ہے، کیوں جو اوندا مُونہہ اون٘دے اُتے دٻیندے۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنتی"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "محنت کریندی ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اون٘دے کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "دٻیندے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اون٘دے اُتے"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "مُونہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:18.436752641Z",
+  "model": "glm-5.3"
+}

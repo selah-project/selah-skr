@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "بنی اِسرایل کوں آکھ: جݙاں کوئی جُتی یا تریمت اِنساناں دیاں ساریں گناہاں وِچوں کوئی گناہ کرے — یاہوہ دے خلاف خیانت کرݨ نال — تاں او نفس guilty ہوسی۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرایل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جُتی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "کرن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریں وِچوں"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اِنساناں دیاں"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "خیانت کرݨ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خیانت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دے خلاف"
+    },
+    {
+      "surface": "ואשמہ",
+      "gloss": "تاں guilty ہوسی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "او نفس"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:22.752935139Z",
+  "model": "glm-5.3"
+}

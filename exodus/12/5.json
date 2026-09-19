@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "او مَنڈا پُورا ہووے، نر، ہِک ورھے دا؛ تُساں بھیڈاں وِچوں یا ٻکریاں وِچوں اوکوں گھنو۔",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "مَنڈا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "پُورا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے دا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساݙے کیتے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بھیڈاں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "یا وِچوں"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ٻکریاں"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گھنو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:13.066742219Z",
+  "model": "glm-5.3"
+}

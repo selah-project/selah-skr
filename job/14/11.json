@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "سمندر توں پاݨی ونڄ ویندا ہے، تے دریا سُک ویندا تے سُکدا ہے۔",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "ونڄ ویندا ہے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "تے دریا"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "سُک ویندا ہے"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "سُکدا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:26.089861365Z",
+  "model": "glm-5.3"
+}

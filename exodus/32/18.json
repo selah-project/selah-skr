@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "اوں آکھیا: “جِت دا ہنگامہ کوائنی، نہ ہار دا ہنگامہ — ڳاوݨ دا ہنگامہ میں سُݨدا پیا ہاں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوائنی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ہنگامہ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "جِت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ہنگامہ"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "ہار"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ہنگامہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨدا پیا ہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:39.161784605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "⟨את⟩ ہِک سمندر، تے ⟨את⟩ بارہ ݙنگر اُوندے تلے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بارہ ݙنگر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ݙنگر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اُوندے تلے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:26.652450442Z",
+  "model": "glm-5.3"
+}

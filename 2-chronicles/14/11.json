@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ ⟨את⟩ کُوشیاں کوں اَسا تے یہوداہ دے اڳوں ماریا، تے کُوشی بھڄ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کُوشیاں کوں"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کُوشیاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے … دے اڳوں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "بھڄ ڳئے"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کُوشی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:39.004792317Z",
+  "model": "glm-5.3"
+}

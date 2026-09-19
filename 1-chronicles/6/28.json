@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یَخَت دا پُتر، گیرشوم دا پُتر، لےوی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَخَت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لےوی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:40.879531891Z",
+  "model": "glm-5.3"
+}

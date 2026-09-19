@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "ہِک ݙاہواں حصہ ہِک ہِک مینھے کیتے، ست مینھیاں کیتے۔",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ہِک ݙاہواں حصہ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ہِک ہِک مینھے کیتے"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "مینھے کیتے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مینھیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:38.289715221Z",
+  "model": "glm-5.3"
+}

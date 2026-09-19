@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "میں ݙٹھا تے ݙیکھو، کوئی بندہ کائنی، تے اسماناں دے سارے پنچھی اُڈ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پنچھی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "اُڈ ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:54.631707676Z",
+  "model": "glm-5.3"
+}

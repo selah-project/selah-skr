@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اِیوّب جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب ݙتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیوّب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:52.601130860Z",
+  "model": "glm-5.3"
+}

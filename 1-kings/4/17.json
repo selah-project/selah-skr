@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "یہوشوعات، پاروخ دا پُتر، یِساکر وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشوعات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "پاروخ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "یِساکر وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:39.760732975Z",
+  "model": "glm-5.3"
+}

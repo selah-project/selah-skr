@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "جیہڑا ذال پاوے، او بھلائی پاوے، تے یاہوہ کنوں پسند ⟨کڈھیندے⟩۔",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "پاوے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "پاوے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "کڈھیندے"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "پسند"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:02.686443755Z",
+  "model": "glm-5.3"
+}

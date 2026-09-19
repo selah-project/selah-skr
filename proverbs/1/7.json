@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یاہوہ دا ݙر علم دا مُنڈھ ہے؛ حکمت تے تاکید کوں اَݨ سُدھ مندن۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "تے تاکید"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "اَݨ سُدھ"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "مندن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:42.594792842Z",
+  "model": "glm-5.3"
+}

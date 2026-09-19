@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "عقاب دا راہ اسمان وِچ، سانپ دا راہ چٹان اُتے، جہاز دا راہ سمندر دے وچکار، تے جوان دا راہ نینگر نال۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "عقاب دا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسمان وِچ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ دا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "جہاز دا"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے راہ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "جوان دا"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "نینگر نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:49.499501605Z",
+  "model": "glm-5.3"
+}

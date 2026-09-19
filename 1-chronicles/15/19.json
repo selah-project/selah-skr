@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 15:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے ڳائیک ہیمان، آساف تے ایتن تانبے دے صنجاں نال آواز کڈھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "והמשררים",
+      "gloss": "تے ڳائیک"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "ہیمان"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "تے ایتن"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "صنجاں نال"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "آواز کڈھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:06.226221778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ݙاندیں دا پُتر، ہِک دنبہ، ہِک برا، ہِک ورھے دا پُتر، سوختہ قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ݙاندیں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "برا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوختہ قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:46.154684205Z",
+  "model": "glm-5.3"
+}

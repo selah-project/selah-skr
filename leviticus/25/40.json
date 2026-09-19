@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "مزدور وانگوں، پردیسی وانگوں او تیݙے نال رہسی؛ یوبیل دے سال تئیں او تیݙے نال کم کریسی۔",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "مزدور وانگوں"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "پردیسی وانگوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یوبیل دا"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "کم کریسی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:29.196711215Z",
+  "model": "glm-5.3"
+}

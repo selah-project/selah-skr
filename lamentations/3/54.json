@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "پاݨی میݙے سر اُتے وہہ ڳئے؛ میں آکھیا: میں کٹیا ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "وہہ ڳئے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "میݙے سر"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "میں کٹیا ڳیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.895341280Z",
+  "model": "glm-5.3"
+}

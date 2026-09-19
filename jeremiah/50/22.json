@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "زمین وِچ جنگ دا آواز ہے، تے وݙی شکست دا۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "تے شکست"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:56.674403082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بَتصلُوت دے پُتر، مَخِیدا دے پُتر، خَرشا دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "بَتصلُوت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مَخِیدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "خَرشا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:22.659419891Z",
+  "model": "glm-5.3"
+}

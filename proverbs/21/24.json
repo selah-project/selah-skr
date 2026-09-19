@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "مغرور، اُکڑا، ٹھٹھ باز — ایہ اوندا ناں ہے، جیہڑا گھمنڈ دے غصے نال کم کریندے۔",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "مغرور"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "اُکڑا"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ٹھٹھ باز"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "کم کریندے"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "دے غصے نال"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "گھمنڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:33.188175372Z",
+  "model": "glm-5.3"
+}

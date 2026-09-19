@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "پَرْبار دو، لہند پاسے، چار سڑک تے، تے ݙو پَرْبار وِچ۔",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "پَرْبار دو"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "لہند پاسے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "سڑک تے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "پَرْبار وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:18.164957447Z",
+  "model": "glm-5.3"
+}

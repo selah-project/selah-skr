@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے اوں توں کجھ صبح تئیں نہ چھوڑو، تے جو کجھ اوں توں صبح تئیں بچسی، اوں کوں بھاں وِچ ساڑو۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "چھوڑو"
+    },
+    {
+      "surface": "مמנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "تے جو بچسی"
+    },
+    {
+      "surface": "مמנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھاں وِچ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ساڑو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:48:38.451995045Z",
+  "model": "glm-5.3"
+}

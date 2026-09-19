@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 41:22",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "اوندے ہیٹھوں تِکھے کھرکڑے، او گارے اُتے مال وچھیندے۔",
+  "tokens": [
+    {
+      "surface": "תחתיו",
+      "gloss": "اوندے ہیٹھوں"
+    },
+    {
+      "surface": "חדודי",
+      "gloss": "تِکھے"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کھرکڑے"
+    },
+    {
+      "surface": "ירפד",
+      "gloss": "وچھیندے"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "گارے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:29.239433283Z",
+  "model": "glm-5.3"
+}

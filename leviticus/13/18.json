@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جݙاں کنڈھ تے کہیں دے گوشت وِچ سوج آوے تے او ٹھیک تھی ونڄے —",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "کنڈھ اُتے"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "سوج"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "تے ٹھیک تھی ونڄے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:01.144175466Z",
+  "model": "glm-5.3"
+}

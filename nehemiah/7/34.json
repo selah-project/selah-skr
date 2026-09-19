@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ٻئے عِیلام دے پُتر، ہِک ہزار ݙو سَو چوپن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سَو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:35.978390874Z",
+  "model": "glm-5.3"
+}

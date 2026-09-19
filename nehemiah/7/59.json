@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شِفتیاہ دے پُتر، حتّیل دے پُتر، پوخرت-ہتصویّیم دے پُتر، آمون دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتیاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حتّیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوخرت"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "ہتصویّیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:44.061331971Z",
+  "model": "glm-5.3"
+}

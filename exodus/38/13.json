@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے پوادھلے پاسے، پوادھ دو، پنجاہ ہتھ ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "تے پاسے"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "پوادھ دو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:42.108892143Z",
+  "model": "glm-5.3"
+}

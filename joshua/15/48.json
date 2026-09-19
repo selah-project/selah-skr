@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے پہاڑی ملک وِچ: شامیر، یتّیر تے سوکوہ،",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "تے پہاڑی ملک وِچ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شامیر"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "یتّیر"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "تے سوکوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:46.033804477Z",
+  "model": "glm-5.3"
+}

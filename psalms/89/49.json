@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "کہڑا بندہ جیوے تے موت نہ ݙیکھے؟ کیا او اپݨی جان کوں شیول دے ہتھ توں بچا گھنسے؟ سیلَہ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کہڑا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیوے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچا گھنسے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھ توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلَہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:18.846182844Z",
+  "model": "glm-5.3"
+}

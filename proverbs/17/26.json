@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "بھلا وی راستباز کوں سزا ݙیوݨ چنگا کائنی، نہ راستی تے ٹُردے سرداراں کوں مارݨ۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھلا وی"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "سزا ݙیوݨ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستباز کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "مارݨ"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سرداراں کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:48.716028254Z",
+  "model": "glm-5.3"
+}

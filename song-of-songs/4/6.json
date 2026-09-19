@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تئیں جو ݙینہہ سِرو تھیوے تے پچھانویں بھڄ ونڄن، میں آپ کیتے مُور دے پہاڑ دو چلی ویساں، تے لُبانے دی پہاڑی دو۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں جو"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "سِرو تھیوے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "تے بھڄ ونڄن"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "پچھانویں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "چلی ویساں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "המור",
+      "gloss": "مُور دے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "پہاڑی"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "لُبانے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:50.793432536Z",
+  "model": "glm-5.3"
+}

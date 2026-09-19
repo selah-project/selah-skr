@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "مبارک ہِں تُو یاہوہ؛ میکوں تیݙے قاعدے سکھا۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "میکوں سکھا"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙے قاعدے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:32.322390239Z",
+  "model": "glm-5.3"
+}

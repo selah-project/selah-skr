@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے میں غصے تے قہر نال ⟨את⟩ اُنہاں قومیں توں بدلہ گھنساں جنہاں سُݨیا نہ۔",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "بدلہ گھنساں"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصے نال"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "تے قہر نال"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں قومیں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨیا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:56:09.785030519Z",
+  "model": "glm-5.3"
+}

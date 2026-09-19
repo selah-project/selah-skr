@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے جِہڑے شہر تُساں ݙیسو، چھی شہر پناہ گاہ دے تُہاݙے کیتے ہوسن۔",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "تے شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تُساں ݙیسو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پناہ گاہ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:18.609539250Z",
+  "model": "glm-5.3"
+}

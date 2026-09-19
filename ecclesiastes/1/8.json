@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ساریاں ڳالھیں تھکا ݙیوݨ آلیاں ہن؛ کوئی بندہ اُوں کوں آکھ نہ سڳدا؛ اَکھ ݙیکھݨ نال رجدی کائنی، تے کَن سُݨݨ نال بھردا کائنی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "تھکا ݙیوݨ آلیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سڳدا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "رجدی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اَکھ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ݙیکھݨ نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "بھردا"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کَن"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "سُݨݨ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:51.074992424Z",
+  "model": "glm-5.3"
+}

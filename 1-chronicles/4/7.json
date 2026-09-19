@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے خِلہ دے پُتر ہن: صِیرِت، یِتصخَر تے ایتنان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "خِلہ دے"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "صِیرِت"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "یِتصخَر"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "تے ایتنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.713381778Z",
+  "model": "glm-5.3"
+}

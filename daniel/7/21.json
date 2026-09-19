@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "میں ݙیکھدا پیا ہم، تے اوں سنگھ قدیساں نال جنگ کیتی تے اُنہاں توں جِت ڳیا۔",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "میں ݙیکھدا پیا ہم"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "پیا ہم"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "تے سنگھ"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "قدیساں"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "تے جِت ڳیا"
+    },
+    {
+      "surface": "להון",
+      "gloss": "اُنہاں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:23:20.294451724Z",
+  "model": "glm-5.3"
+}

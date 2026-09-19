@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ٻئے ݙینہہ نتَنایل پُتر صُوعر، یِساکر دا سردار، ⟨את⟩ قربانی نیڑے گھن آیا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "نیڑے گھن آیا"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتَنایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صُوعر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:12.095933832Z",
+  "model": "glm-5.3"
+}

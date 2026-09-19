@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ہر بندے اوں کوں ݙٹھا، انسان پرے کنوں ݙیکھدے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ݙیکھدے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "پرے کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:05.172118332Z",
+  "model": "glm-5.3"
+}

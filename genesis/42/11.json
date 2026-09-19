@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "اسارے سبھ ہِک بندے دے پُتر ہیسے، اساں سچے بندے ہیسے، تیݙے غلام جاسوس کائنی ہن۔",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "اسارے سبھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ہیسے"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "سچے"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیݙے غلام"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:36.324245409Z",
+  "model": "glm-5.3"
+}

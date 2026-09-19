@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "آپݨاں دل نصیحت دو گھن آ، تے آپݨے کنّاں کوں جانݨ دیاں ڳالھیں دو۔",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "گھن آ"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "نصیحت دو"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "آپݨاں دل"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "تے آپݨے کنّاں کوں"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ڳالھیں دو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانݨ دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:37.585088214Z",
+  "model": "glm-5.3"
+}

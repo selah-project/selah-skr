@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے تُساں کوئی خون نہ کھاؤ — پرندیں دا تے ڈھور دا — تُہاݙیاں ساریاں وسوںاں وِچ۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے کوئی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "تُہاݙیاں وسوںاں"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "پرندیں دا"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "تے ڈھور دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:58.306067036Z",
+  "model": "glm-5.3"
+}

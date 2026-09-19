@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ خُور ہگِدگاد توں ٹُرے، تے یاطبَتہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "خُور ہگِدگاد"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "یاطبَتہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.488876923Z",
+  "model": "glm-5.3"
+}

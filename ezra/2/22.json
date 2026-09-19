@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نتوفہ دے بندے، پنجاہ تے چھی۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "نتوفہ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "تے چھی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:30.890399462Z",
+  "model": "glm-5.3"
+}

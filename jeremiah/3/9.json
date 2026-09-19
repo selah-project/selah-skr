@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوندے زنا دے ہلکپنے پاروں اوں ⟨את⟩ ملک کوں گندا کیتا، تے ⟨את⟩ پتھر نال تے ⟨את⟩ رُکھ نال زنا کیتس۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "دے ہلکپنے پاروں"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "اوندے زنا"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "گندا کیتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "زنا کیتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پتھر"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "رُکھ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:58:18.862064722Z",
+  "model": "glm-5.3"
+}

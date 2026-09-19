@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے جے سُݨݨ دے بعد ⟨אתם⟩ اُنہاں کوں رد کر ݙیوے، تاں او ⟨את⟩ اوندا گناہ چاتیسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "رد"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "کر ݙیوے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اُنہاں کوں (نذراں تے بندھ)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨݨ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چاتیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا گناہ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:01.533897471Z",
+  "model": "glm-5.3"
+}

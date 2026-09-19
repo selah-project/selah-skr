@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "عام بندیاں دے پُتر وی، وݙے بندیاں دے پُتر وی، ہِکٹھے — امیر تے غریب۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ہِکٹھے"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے غریب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:15.084203905Z",
+  "model": "glm-5.3"
+}

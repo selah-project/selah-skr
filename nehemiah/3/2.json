@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوندے نال جِریخو دے بندیاں بݨایا؛ تے اوندے نال بݨایا زکّور، پُتر عِمری۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "جِریخو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زکّور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "عِمری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:06.232716401Z",
+  "model": "glm-5.3"
+}

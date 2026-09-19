@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اُوندے ݙینہہ گھٹ ہون، تے اُوندا عہدہ ہِک ٻیا گھنے۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اُوندے ݙینہہ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "گھٹ"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "اُوندا عہدہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھنے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ہِک ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:51.091496757Z",
+  "model": "glm-5.3"
+}

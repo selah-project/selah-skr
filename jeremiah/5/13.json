@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے نبی ہوا بݨسن، تے ڳالھ اِنہاں وِچ کائنی — ایویں اِنہاں نال تھیسی۔",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بݨسن"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "تے ڳالھ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اِنہاں وِچ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِنہاں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:00:00.497522859Z",
+  "model": "glm-5.3"
+}

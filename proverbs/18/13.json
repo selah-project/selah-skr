@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "جیہڑا ڳالھ دا جواب سُݨݨ توں پہلے ݙے ݙیوے، ایہ اونڈے کیتے اَݨائی ہے تے شرم۔",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "جواب ݙیوݨ آلا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ دا"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨݨ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "اَݨائی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہ ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "تے شرم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.774962713Z",
+  "model": "glm-5.3"
+}

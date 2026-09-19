@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "جو طاقتور اُتے تباہی ⟨چمکا ݙیندے⟩، تے تباہی قلعے اُتے آندی ہے۔",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "جو ⟨چمکا ݙیندے⟩"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "تے تباہی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:18:07.884853156Z",
+  "model": "glm-5.3"
+}

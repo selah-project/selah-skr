@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "“ونڄ تے میݙے ٻانہے داوِد کوں آکھ: ایں طرح آہدا یاہوہ: تُساں میݙے کیتے رہݨ دا گھر نی بݨیسو۔”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میݙے ٻانہے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آہدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بݨیسو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رہݨ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:26.091885031Z",
+  "model": "glm-5.3"
+}

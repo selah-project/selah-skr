@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "بُکھے تے وی تریہوے، اُنہاں دی جان اُنہاں وِچ ہولی تھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "بُکھے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "تریہوے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اُنہاں دی جان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُنہاں وِچ"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ہولی تھی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:12.097282081Z",
+  "model": "glm-5.3"
+}

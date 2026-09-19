@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ہِک قوم وݙی تے اُچی، عَناق دے پُتر — جِیندا تُوں ڄاݨدیں، تے تُوں سُݨدا ایں: ”کُوں عَناق دے پُتراں اَڳوں اَڑ سڳدے؟“",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "تے اُچی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عَناقی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدیں"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُݨدا ایں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کُوں"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "اَڑ سڳدے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "عَناق"
+    }
+  ],
+  "timestamp": "2026-09-19T15:54:40.258589798Z",
+  "model": "glm-5.3"
+}

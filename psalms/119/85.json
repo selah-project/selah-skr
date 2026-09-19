@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "گھمنڈیاں میݙے کیتے گڑھے گھڑین، جو تیݙی تورات موجب کائنی۔",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "گھڑین"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "گھمنڈیاں"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "گڑھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "تیݙی تورات موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:14.146752767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے جو یعقوو آپݨے پیو دی ڳالھ منی تے آپݨی ماں دی، تے پدان اَرام ونڄݨ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "منی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آپݨے پیو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آپݨی ماں"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ونڄݨ ڳیا"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پدان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:58.902432184Z",
+  "model": "glm-5.3"
+}

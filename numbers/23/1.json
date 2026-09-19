@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "بِلعام بالاق کوں آکھیا: “میں کیتے اِتھاں ست مذبح بݨا، تے میں کیتے اِتھاں ست ڳائیں تے ست دنبے تیار کر۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں کیتے"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "تیار کر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں کیتے"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڳائیں"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "دنبے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:27.325088110Z",
+  "model": "glm-5.3"
+}

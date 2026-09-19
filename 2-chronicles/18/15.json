@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے بادشاہ اوں کوں آکھیا: ”کتنے واری میں تیکوں قسم ݙیواواں جو توں میکوں صرف سچ یاہوہ دے ناں تے آکھیں؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کتنے"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "تیکوں قسم ݙیواواں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ٻولیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں تے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:53:17.872963585Z",
+  "model": "glm-5.3"
+}

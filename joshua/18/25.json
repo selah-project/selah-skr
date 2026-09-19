@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "گِبعون تے ہرامہ تے بئیروت۔",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "گِبعون"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "تے ہرامہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "تے بئیروت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:03.851302748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "یافت دے پُتر: گومر، تے مگوج، تے مدای، تے یاوان، تے توبل، تے ماشِخ، تے تیراس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "تے مگوج"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "تے مدای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "تے یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "تے توبل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "تے ماشِخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "تے تیراس"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:20.520154088Z",
+  "model": "glm-5.3"
+}

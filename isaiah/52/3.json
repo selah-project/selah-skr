@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "کیوں جو اینج یاہوہ آکھیا: “تُساں مفت وکیؤ، تے چاندی نال نہ چھڑسیؤ۔”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اینج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "وکیؤ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "چاندی نال"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "چھڑسیؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:53:16.584437306Z",
+  "model": "glm-5.3"
+}

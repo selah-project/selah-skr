@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو قین دا بدلا ست واری گھدا ویسی، پر لمک دا ستّر تے ست واری۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ست واری"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "بدلا گھدا ویسی"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قین"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "تے لمک"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستّر"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے ست"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:37.800879982Z",
+  "model": "glm-5.3"
+}

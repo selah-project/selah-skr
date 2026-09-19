@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے مسکن دی ݙوجھی پاسے کیتے، اُترلی پاسے ول، ویہہ تختیاں۔",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "تے پاسے کیتے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دی"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ݙوجھی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے ول"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُترلی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تختیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:03:29.679859519Z",
+  "model": "glm-5.3"
+}

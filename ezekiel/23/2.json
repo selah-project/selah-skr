@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اِنسان دے پُتر، ݙو ذالیں ہن، ہِک ماء دیاں دھیاں۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دے"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:56.938787290Z",
+  "model": "glm-5.3"
+}

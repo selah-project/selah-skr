@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 38:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کس ہڑھ کیتے نہر وَنڈی، تے گرج دی بجلی کیتے واٹ بݨائی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کس"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "وَنڈی"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "ہڑھ کیتے"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے واٹ"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "بجلی کیتے"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "گرج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:19.206893327Z",
+  "model": "glm-5.3"
+}

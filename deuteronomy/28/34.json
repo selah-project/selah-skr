@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے تُساں اوں منظر توں جیہڑا تیݙیاں اکھیں ݙیکھسن پاڳل تھی ویسو۔",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "تُساں … تھی ویسو"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "پاڳل"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "منظر توں"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیݙیاں اکھیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ݙیکھسن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:27.191425666Z",
+  "model": "glm-5.3"
+}

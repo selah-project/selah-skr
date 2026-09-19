@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 12:13",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "اوندے نال حکمت تے طاقت ہے؛ اونکوں صلاح تے سمجھ ہے۔",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "تے طاقت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "تے سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:58.421054478Z",
+  "model": "glm-5.3"
+}

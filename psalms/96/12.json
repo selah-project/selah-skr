@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "کھیت اُچھلے تے اوندا سارا جُڑیا؛ تݙاں جنگل دے سارے رُکھ شوکھ گیت ڳاون۔",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "اُچھلے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اونڈے وِچ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "شوکھ گیت ڳاون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:24.573232399Z",
+  "model": "glm-5.3"
+}

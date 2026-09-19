@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے گیدور، تے اَخیو، تے زکریاہ، تے مِکلوث۔",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "تے گیدور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اَخیو"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "تے زکریاہ"
+    },
+    {
+      "surface": "وמקלות",
+      "gloss": "تے مِکلوث"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:52.672563909Z",
+  "model": "glm-5.3"
+}

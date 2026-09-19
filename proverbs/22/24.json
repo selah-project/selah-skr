@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "غصے آلے نال ⟨את⟩ یاری نہ کر، تے قہر آلے بندے ⟨את⟩ ول نہ ونڄ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "یاری کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غصے آلے کوں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "غصے آلا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قہر آلے بندے کوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "قہر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ونڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:22.467435540Z",
+  "model": "glm-5.3"
+}

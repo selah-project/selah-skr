@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ایہ ایساؤ دے پُتراں دے ناں ہن: الیفز، عادہ دا پُتر، جیہڑی ایساؤ دی ذال ہئی؛ رعوایل، بشمث دا پُتر، جیہڑی ایساؤ دی ذال ہئی۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساؤ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "الیفز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساؤ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمث"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:45.666582686Z",
+  "model": "glm-5.3"
+}

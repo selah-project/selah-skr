@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "پیر کپیندے تے ظلم پیندے، اوہ جو مورکھ دے ہتھ ڳالھیں بھیڄے۔",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "کپیندے"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "پیندے"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄے اوہ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:31.120284483Z",
+  "model": "glm-5.3"
+}

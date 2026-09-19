@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے توں ⟨אתה⟩ اینکوں خوشبو بݨاویں — ملاوݨ آلے دے کم وانگوں، نمکین، پاک — پاک شے۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "بݨاویں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ایں خوشبو کوں"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ملاوٹ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ملاوݨ آلے دے"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "نمکین"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک شے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:59:51.548168528Z",
+  "model": "glm-5.3"
+}

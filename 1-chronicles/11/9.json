@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے داوِد ودھدا تے وݙا تھیندا ڳیا، کیوں جو یاہوہ تصواوت اوندے نال ہا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ودھدا ڳیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "تھیندا"
+    },
+    {
+      "surface": "وגדול",
+      "gloss": "تے وݙا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:56.531261932Z",
+  "model": "glm-5.3"
+}

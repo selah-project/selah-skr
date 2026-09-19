@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تصدوق، اُوندا پُتر اخیماعص، اُوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اخیماعص"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:41.522443771Z",
+  "model": "glm-5.3"
+}

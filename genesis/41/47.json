@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے زمین انہاں ست بھرے سالاں وِچ مُٹھی بھر کے فصل ݙتی۔",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ست بھریاں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالاں وِچ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "بھراں"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "مُٹھی بھر کے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:19.956373037Z",
+  "model": "glm-5.3"
+}

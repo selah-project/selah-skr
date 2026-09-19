@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "انہاں دا شراب تاݨیناں دا زہر ہے، تے پِتھݨاں دا زہر بے رحم اے۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "تاݨیناں دا"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "انہاں دا شراب"
+    },
+    {
+      "surface": "وראש",
+      "gloss": "تے زہر"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "پِتھݨاں دا"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "بے رحم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:39.302770509Z",
+  "model": "glm-5.3"
+}

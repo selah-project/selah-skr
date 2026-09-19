@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "جیویں کُتا آپ دی الٹی تے ول ویندے، کم عقل آپ دی مورکھی تے ول ویندے۔",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "جیویں کُتا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ول ویندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "آپ دی الٹی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کم عقل"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ول ول کریندے"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "آپ دی مورکھی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.591858081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے گومر دے پُتر: اشکناز، تے ریفت، تے توگرماہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشکناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "تے ریفت"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "تے توگرماہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:20.520308730Z",
+  "model": "glm-5.3"
+}

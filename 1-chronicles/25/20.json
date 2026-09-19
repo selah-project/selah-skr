@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تیرھویں شکوایل، اوندے پُتر تے اوندے بھرا، باراں ہن۔",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "تیرھویں ⟨ترے⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ڏہ⟩"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "شکوایل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں ⟨ݙو⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ڏہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:50.494672478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "کیا تُساں اِیہ نہ ڄاݨدے قدیم توں، توں اِنسان دے زمین اُتے رکھیجݨ توں؟",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "نہ ڄاݨدے"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "قدیم"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھیجݨ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:15.988393946Z",
+  "model": "glm-5.3"
+}

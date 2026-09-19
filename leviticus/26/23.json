@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے جے انہاں ڳالھیں نال تُساں میݙی طرفوں تے ترسے نہ ہو، تے میݙے نال ٹیک لا کے ٹرو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "انہاں ڳالھیں نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "ترسے نہ ہو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی طرفوں"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "تے تُساں ٹرو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ٹیک لا کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:34.411453143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے پتھر تراشݨ وِچ جوڑݨ کیتے، تے لکڑی تراشݨ وِچ، ہر صنعت دا کم کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "تراشݨ وِچ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "جوڑݨ کیتے"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "تراشݨ وِچ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "صنعت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:00:28.578499306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے داوِد ہزاراں دے سرداراں تے سیکڑیاں ⟨دے سرداراں⟩ نال صلاح کیتی، ہر ہِک سردار نال۔",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "صلاح کیتی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ہزاراں"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "تے سیکڑیاں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:28.819779750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے یَرِد ݙو تے سِٹھ سال تے ہِک سو سال جییا، تے اوں ⟨את⟩ حَنوک کوں ڄݨایس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرِد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سِٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے ہِک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَنوک"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوک"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:35.927187884Z",
+  "model": "glm-5.3"
+}

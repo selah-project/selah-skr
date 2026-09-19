@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ موشے نال الایا، آکھدا ہویا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:15.932852627Z",
+  "model": "glm-5.3"
+}

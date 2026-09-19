@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے شاؤل ⟨את⟩ داوِد کوں اُوں ݙینہھ توں اڳوں تئیں اَکھیں نال ݙیکھدا ریہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עון",
+      "gloss": "اَکھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد کوں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "اُوں ݙینہھ توں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "اڳوں تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:43:23.169626702Z",
+  "model": "glm-5.3"
+}

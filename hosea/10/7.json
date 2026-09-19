@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "شومرون مُک ویسی — اوندا بادشاہ پاݨی دی سطح اُتے جھاگ وانگوں۔",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "مُک ویسی"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "اوندا بادشاہ"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "جھاگ وانگوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطح"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:51:48.179392862Z",
+  "model": "glm-5.3"
+}

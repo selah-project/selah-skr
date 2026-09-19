@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "پر جیہڑا رُکھ تُساں ڄاݨو جو او کھاوݨ دا رُکھ کائنی، ⟨אתו⟩ تُساں وِڳاڑو تے کپو، تے گھیراؤ بݨاؤ او شہر دے اُتے جیہڑا تیݙے نال جنگ کریندا ہے، جے تئیں او ڈھہہ پووے۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "پر کل"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاנو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "کھاوݨ دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "تُساں وِڳاڑو"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "وِڳاڑو"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "تے کپو"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "تے بݨاؤ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "گھیراؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا ہے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جے تئیں"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ڈھہہ پووے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:59:36.191608781Z",
+  "model": "glm-5.3"
+}

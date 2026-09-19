@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ساری زمین آرام کریندی ہے تے چُپ ہے؛ او خوشی دے ڳاوݨے اُچیڑ ݙتن۔",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "آرام کریندی ہے"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "چُپ ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "اُچیڑ ݙتن"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "خوشی دے ڳاوݨے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:21.324427172Z",
+  "model": "glm-5.3"
+}

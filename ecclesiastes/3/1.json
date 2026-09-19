@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ہر شے کیتے ہِک مقرر ویلہہ ⟨ہے⟩، تے ہر چاہ کیتے، جیہڑی اسماناں ہیٹھ ⟨ہے⟩، اُوندا ویلہہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ہر شے کیتے"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "مقرر ویلہہ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:29.047231571Z",
+  "model": "glm-5.3"
+}

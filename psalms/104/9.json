@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "تئیں ہِک حد رکھی جو ⟨او⟩ لنگھ نہ سن، نہ ولا کے زمین کوں ڈھکن۔",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تئیں رکھی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "لنگھ سن"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ولا سن"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ڈھکن کیتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:47.283919729Z",
+  "model": "glm-5.3"
+}

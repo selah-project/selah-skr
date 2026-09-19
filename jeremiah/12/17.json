@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے جے او نہ سُݨن، تاں میں ⟨את⟩ اوں قوم کوں جڑ توں پٹساں — پٹݨ تے برباد کرݨ — یاہوہ دا اعلان۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨسن"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "تاں میں پٹساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوں قوم"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اوں قوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "پٹݨ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "تے برباد کرݨ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:03:51.269604776Z",
+  "model": "glm-5.3"
+}

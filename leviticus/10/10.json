@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے تاں جو تُساں پاک تے عام وِچ فرق کرو، تے نجس تے صاف وِچ فرق کرو۔",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "تے تاں جو تُساں فرق کرو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "عام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "صاف"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:54.286310519Z",
+  "model": "glm-5.3"
+}

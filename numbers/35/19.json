@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "خون دا ولی آپ ⟨את⟩ قاتل کوں مریسی؛ جݙاں او اوں کوں ملسی، اوں کوں مریسی۔",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "ولی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "مریسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل کوں"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "جݙاں او ملسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "مریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:47.019949542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ہُݨ آ، اساں ݙوہیں ہِک عہد بَدھوں، میں تے تیں، تے او میݙے تے تیݙے وِچالے گواہ بݨے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "اساں عہد بَدھوں"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تیں"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے او بݨے"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میݙے"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تے تیݙے وِچالے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:32:08.393240213Z",
+  "model": "glm-5.3"
+}

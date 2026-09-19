@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "اَسا چنگا تے سِدھا کیتا، یاہوہ اوندے ایلوہیم دیاں اکھیں وِچ۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوندا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:08.898124046Z",
+  "model": "glm-5.3"
+}

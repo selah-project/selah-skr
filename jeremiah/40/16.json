@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اخیقم دے پُتر گدلیاہو یوخنان پُتر قارےخ کوں آکھیا: “ایہ کم ⟨את⟩ نہ کر، کیوں جو توں یِشماعیل بارے کوڑ ٻولیندا ایں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "اخیقم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوخنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قارےخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ کم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولیندا ایں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماعیل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:05.238167816Z",
+  "model": "glm-5.3"
+}

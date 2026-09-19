@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "خوش او بندہ جیندے کول یاہوہ عِلّت نہ ڳݨسی، تے اوندے رُوہ وِچ کوئی فریب کائنی۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ڳݨسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "جیندے کول"
+    },
+    {
+      "surface": "עון",
+      "gloss": "عِلّت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "اوندے رُوہ وِچ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:24.668525760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "خام دے پُتر: کُوش، مِتصرایم، پُوت تے کَنعان۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חם",
+      "gloss": "خام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "تے مِتصرایم"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "پُوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "تے کَنعان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:03.467106134Z",
+  "model": "glm-5.3"
+}

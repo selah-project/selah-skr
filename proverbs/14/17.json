@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "جلدی غصہ آلا بندہ مورکھی کریندے، تے مکراں آلا بندہ منیا ویندے نفرت کنوں۔",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "چھوٹا"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "نَکّ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریندے"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "مورکھی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "مکراں"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "نفرت کیتی ویندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:13.139041919Z",
+  "model": "glm-5.3"
+}

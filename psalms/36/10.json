@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "کیوں جو تیݙے کول جیوݨ دا چشمہ ⟨ہے⟩، تیݙے چانݨ وِچ اساں چانݨ ݙیکھسوں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے کول"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیوݨ دا"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "تیݙے چانݨ وِچ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "اساں ݙیکھسوں"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:39.731704801Z",
+  "model": "glm-5.3"
+}

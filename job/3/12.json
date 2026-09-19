@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ڳوڑھے کیوں میݙے اڳوے آئے؟ تے چھاتیاں کیا، جو میں چُوساں؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "میݙے اڳوے آئے"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ڳوڑھے"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "چھاتیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "چُوساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:11.420545861Z",
+  "model": "glm-5.3"
+}

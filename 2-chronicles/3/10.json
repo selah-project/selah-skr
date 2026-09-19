@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے پاک پاکاں دے گھر وِچ اوں تراش دے کم دے ݙو کروب بݨائے، تے اوہناں کوں ⟨אתם⟩ سونے نال ڈھکیا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکاں دے"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "تراش دا"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ڈھکیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "کروباں کوں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:21.172999501Z",
+  "model": "glm-5.3"
+}

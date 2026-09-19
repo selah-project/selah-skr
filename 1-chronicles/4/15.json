@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یفُنّہ دے پُتر کالِب دے پُتر: عیرو، ایلاہ تے ناعم؛ تے ایلاہ دے پُتر قناز ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفُنّہ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عیرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلاہ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "تے ناعم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلاہ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "تے قناز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:42.233823697Z",
+  "model": "glm-5.3"
+}

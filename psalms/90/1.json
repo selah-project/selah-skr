@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 90,
+  "translation": "دعا موشے کیتے، ایلوہیم دے بندے دی۔ ادونای، توں نسل در نسل ساݙا ٹکاݨاں ہِئیں۔",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشے کیتے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "مעון",
+      "gloss": "ٹکاݨاں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ہِئیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙا"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "نسل وِچ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے نسل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:02.499549428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "جݙاں تُساں آپݨے دشمناں اُتے مچان ٻدھ ٻاہر نکلو، تݙاں ہر بری شئے توں بچو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ٻاہر نکلو"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "مچان"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "آپݨے دشمناں"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "بچو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شئے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.198120062Z",
+  "model": "glm-5.3"
+}

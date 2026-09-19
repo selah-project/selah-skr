@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کاہناں وِچوں: یدعیاہ دے پُتر، یشوع دے گھر دے، نواب سو تے ترے ہن۔",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یدعیاہ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "دے گھر دے"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نواب"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:09.143342858Z",
+  "model": "glm-5.3"
+}

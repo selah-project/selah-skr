@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے میکا دے پُتر ہن: پیتون، تے مَلِک، تے تاعرع، تے آحاز۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا دے"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پیتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے مَلِک"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "تے تاعرع"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "تے آحاز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:26.483430463Z",
+  "model": "glm-5.3"
+}

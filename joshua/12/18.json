@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "افیق دا بادشاہ ہِک؛ لَشارون دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "افیق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "لَشارون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.397377735Z",
+  "model": "glm-5.3"
+}

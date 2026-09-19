@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 58,
+  "translation": "اندا زہر سانپ دے زہر وانگوں ہے، او بہرے افعی وانگوں جیڑھا آپݨا کن بند کر ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اندا"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "افعی"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "بہرا"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "بند کر ݙیندے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "آپݨا کن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:10.381997028Z",
+  "model": "glm-5.3"
+}

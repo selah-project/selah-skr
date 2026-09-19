@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے پہلا قرعہ یہویریب کیتے نِکھتا؛ ݙوجھا یِدعیاہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نِکھتا"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "یہویریب کیتے"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "یِدعیاہ کیتے"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:20.275064230Z",
+  "model": "glm-5.3"
+}

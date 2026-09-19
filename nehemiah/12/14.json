@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ملوخی دے وِچوں یونطن؛ شبنیہ دے وِچوں یوسف۔",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "ملوخی دے وِچوں"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یونطن"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "شبنیہ دے وِچوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:21.621735042Z",
+  "model": "glm-5.3"
+}

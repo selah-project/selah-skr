@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے جے اوہ اپݨے پُتر کیتے اونکوں منگے، دھیاں دے حکم موجب اونکوں کریسی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "اپݨے پُتر کیتے"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "منگے"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "حکم موجب"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "دھیاں دے"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:28.932868438Z",
+  "model": "glm-5.3"
+}

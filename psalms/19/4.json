@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "ڳالھ کائنی تے لفظ کائنی — اُنہاں دی آواز بغیر سُݨے پَمدی۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سُݨے"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "اُنہاں دی آواز"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:17.602897924Z",
+  "model": "glm-5.3"
+}

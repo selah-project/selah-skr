@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "میں ݙٹھا ⟨את⟩ سارے جیویندے جیہڑے سِجھ تلے ٹردے پئے ہن، ݙوجھے ٻال نال، جیہڑا اوندی جاہ تے کھڑسی۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے جیویندے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جیویندے"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ٹردے پئے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوندی جاہ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:53.634098303Z",
+  "model": "glm-5.3"
+}

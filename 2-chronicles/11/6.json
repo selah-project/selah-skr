@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اوں ⟨את⟩ بیت-لِخیم تے ⟨את⟩ عیتام تے ⟨את⟩ تِقوا بݨائے۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت-لِخیم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-لِخیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عیتام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عیتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تِقوا"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تِقوا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:39.179202878Z",
+  "model": "glm-5.3"
+}

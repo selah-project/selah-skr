@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے یعقوو اپݨے پیو دے پردیس آلی زمین وِچ، کنعان دی زمین وِچ، ٹِکݨ لڳا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے ٹِکݨ لڳا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دی زمین وِچ"
+    },
+    {
+      "surface": "مגורי",
+      "gloss": "پردیس آلی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپݨے پیو دے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:35:04.321097009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یوآب تصرویہ دا پُتر ڄاݨ گھدا جو بادشاہ دا دل اَوشالوم ⟨دو⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ڄاݨ گھدا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تصرویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "دو ⟨تے⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:56:16.054956214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تݙاں یِسرایل ⟨את⟩ ایہ ڳیت ڳایا: “اُٹھّ، کھوہے! تُساں اونکوں جواب ݙیو۔”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ڳایا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ ڳیت"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ڳیت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُٹھّ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کھوہے"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب ݙیو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:48.578280879Z",
+  "model": "glm-5.3"
+}

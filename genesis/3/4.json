@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے نانگ عورت نال آکھیا: “تُساں ہرگز نہ مرو۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "نانگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مر"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مرو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:56.656647404Z",
+  "model": "glm-5.3"
+}

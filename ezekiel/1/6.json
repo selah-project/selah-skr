@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ہر ہِک کوں چار مُہاندر تے ہر ہِک کوں چار پر ہن۔",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مُہاندر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ہر ہِک کوں"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ہر ہِک کوں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:06.144421562Z",
+  "model": "glm-5.3"
+}

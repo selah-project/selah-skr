@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے تصفار نعمتی آلا جواب ݙتا تے آکھیس —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تصفار"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نعمتی آلا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:16.483252722Z",
+  "model": "glm-5.3"
+}

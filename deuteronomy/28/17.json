@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ملعون ہوسی تیݙا ٹوکرا تے تیݙی عمان۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون ہوسی"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "تیݙا ٹوکرا"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "تیݙی عمان"
+    }
+  ],
+  "timestamp": "2026-09-19T16:04:24.918357511Z",
+  "model": "glm-5.3"
+}

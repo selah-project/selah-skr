@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "غریب دے سارے ݙینہہ برے ہوندن، پر چنگا دل ہمیشہ دا دسترخوان ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب دے"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "پر چنگا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "دسترخوان"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:01.856926746Z",
+  "model": "glm-5.3"
+}

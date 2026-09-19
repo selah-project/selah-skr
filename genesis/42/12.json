@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے اوں انہاں کوں آکھیا: “کائنی، تُساں ملک دا ننگ ݙیکھݨ آئے ہو۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک دا"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آئے ہو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ݙیکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:36.324363241Z",
+  "model": "glm-5.3"
+}

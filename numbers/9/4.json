@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے موشے اسرائیل دے پُتراں کوں آکھیا جو او پاسح کرن۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "کرن"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پاسح"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:09.889659851Z",
+  "model": "glm-5.3"
+}

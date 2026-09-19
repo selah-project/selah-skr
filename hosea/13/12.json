@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بَند ہے اَفرایم دا عصیان، لُکایا ہویا اوندا گناہ۔",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "بَند"
+    },
+    {
+      "surface": "עון",
+      "gloss": "عصیان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَفرایم"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "لُکایا ہویا"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "اوندا گناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:36.433121294Z",
+  "model": "glm-5.3"
+}

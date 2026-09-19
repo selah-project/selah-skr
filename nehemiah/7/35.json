@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "خارِم دے پُتر ترے سَو ویہہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارِم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:35.978754008Z",
+  "model": "glm-5.3"
+}

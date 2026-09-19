@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 3:20",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوندے پچھوں باروخ پُتر زبّی بھڑک کے کُنڈھ توں وݙے کاہن اِلیاشیب دے گھر دے دروازے تئیں ݙوجھی ولی مرمت کیتی۔",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "اوندے پچھوں"
+    },
+    {
+      "surface": "החרה",
+      "gloss": "بھڑک کے"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مرمت کیتی"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זבי",
+      "gloss": "زبّی"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھی ولی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "کُنڈھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اِلیاشیب"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:28.611972640Z",
+  "model": "glm-5.3"
+}

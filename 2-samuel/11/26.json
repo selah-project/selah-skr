@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اُوریہ دی ذال سُݨی جو اُوریہ اوندا پئے مر ڳیا، تے اوں آپݨے پئے اُتے سوگ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "سُݨی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریہ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "اوندا پئے"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "سوگ کیتا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "آپݨے پئے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:55:06.865437592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے جݙاں تیݙے قوم دے پُتر تَیں توں آکھسن: “کیا تُوں اساں کوں نہ ݙسسیں جو ایہ تیݙے کیتے کیا ہِن؟”",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "تے جݙاں"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھسن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تَیں توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے قوم دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ݙسسیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساں کوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:42:50.084426475Z",
+  "model": "glm-5.3"
+}

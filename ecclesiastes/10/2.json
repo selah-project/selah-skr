@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "دانا دا دل اوندے سڄے پاسے ہے، تے مورکھ دا دل کھٻے پاسے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "اوندے سڄے پاسے"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "تے دل"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "کھٻے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:17.091573516Z",
+  "model": "glm-5.3"
+}

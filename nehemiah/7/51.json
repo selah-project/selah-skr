@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "گَزّام دے پُتر، عُزّا دے پُتر، پَسیح دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پَسیح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:27.570957218Z",
+  "model": "glm-5.3"
+}

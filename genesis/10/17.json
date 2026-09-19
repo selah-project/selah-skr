@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ⟨את⟩ خِوی، تے ⟨את⟩ عَرقی، تے ⟨את⟩ سینی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خِوی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "خِوی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عَرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عَرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سینی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:44.338713836Z",
+  "model": "glm-5.3"
+}

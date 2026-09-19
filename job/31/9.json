@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 31:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "جے میݙا دل ذال دو جھکیا ہووے، تے میݙے سنگتی دے دروازے تے میں گھات لائی ہووے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "נפתה",
+      "gloss": "جھکیا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "میݙے سنگتی دے"
+    },
+    {
+      "surface": "ארבתי",
+      "gloss": "میں گھات لائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:58.369423180Z",
+  "model": "glm-5.3"
+}

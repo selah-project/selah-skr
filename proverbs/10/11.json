@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راستباز دا مُنہہ جِیوݨ دا چشمہ ہے، تے بدکاراں دا مُنہہ ظلم لُکیندے۔",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیوݨ دا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز دا"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "تے مُنہہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دا"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "لُکیندے"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:25.210684036Z",
+  "model": "glm-5.3"
+}

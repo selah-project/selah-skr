@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 111,
+  "translation": "وݙے ہِن یاہوہ دے کم، سبھ اوہناں دے چاہوݨ آلے ڳولیندِن۔",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ڳولیندے ویندن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "اوہناں دے چاہوݨ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:25.639865780Z",
+  "model": "glm-5.3"
+}

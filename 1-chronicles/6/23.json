@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یِتصہار دا پُتر، قہات دا پُتر، لِوی دا پُتر، یِسرائیل دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصہار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:15.403516870Z",
+  "model": "glm-5.3"
+}

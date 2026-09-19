@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "عزگاد دے پُتر، ہِک ہزار ݙو سو ویہہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:47.471089486Z",
+  "model": "glm-5.3"
+}

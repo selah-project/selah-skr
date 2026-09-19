@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اُٹھ چار سو پینتریہہ؛ کھوتے چھ ہزار ست سو ویہہ۔",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "کھوتے"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:47.649055287Z",
+  "model": "glm-5.3"
+}

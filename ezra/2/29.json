@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نَبو دے پُتراں دے ⟨⟩ پنجاہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:38.246053333Z",
+  "model": "glm-5.3"
+}

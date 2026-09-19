@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے داوِد اوں ݙینہہ یاہوہ ⟨את⟩ توں ݙریا، تے آکھیس: ”یاہوہ دا صندوق کیویں میݙے کول آسی؟“",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙریا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آسی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:52:51.791716025Z",
+  "model": "glm-5.3"
+}

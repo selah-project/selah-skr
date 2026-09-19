@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "جے توں راست باز تھیا، اوں کوں کیا ݙیندا ایں؟ یا تیݙے ہتھوں کیا گھندا ہے؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "راست باز تھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیندا ایں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیݙے ہتھوں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:05.296794780Z",
+  "model": "glm-5.3"
+}

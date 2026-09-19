@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دی کفچی، ݙاہ ⟨شیکل⟩ سونا، بھری ہوئی بخور نال۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کفچی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:22.239562575Z",
+  "model": "glm-5.3"
+}

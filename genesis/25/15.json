@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "خَدَد، تے تیما، یطور، نافیش، تے قیدمہ۔",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "خَدَد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "تے تیما"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "یطور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نافیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "تے قیدمہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:06.044549268Z",
+  "model": "glm-5.3"
+}

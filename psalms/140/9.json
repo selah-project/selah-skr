@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 140,
+  "translation": "یاہوہ، شریر دی خواہش پوری نہ کر، اون٘دی چال نہ چلݨ ݙے، جو او اُچے نہ تھیون۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پوری کر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "اون٘دی چال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "چلݨ ݙے"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "اُچے تھیون"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:21.875508263Z",
+  "model": "glm-5.3"
+}

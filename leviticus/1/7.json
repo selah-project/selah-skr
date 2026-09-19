@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اہرون دے پُتر، کاہن، قربان گاہ اُتے بھا رکھیسن، تے بھا اُتے لکڑیاں ترتیب ݙیسن۔",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "رکھیسن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ترتیب ݙیسن"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:40.284408782Z",
+  "model": "glm-5.3"
+}

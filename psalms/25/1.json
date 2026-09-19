@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "داوِد کیتے۔ تیݙے اُتے یاہوہ ⟨میں⟩ میݙی جان چاڑھیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کیتے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چاڑھیندا ہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:05.215169766Z",
+  "model": "glm-5.3"
+}

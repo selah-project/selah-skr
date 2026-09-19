@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یَردن دے اُروار، مُوآب دی زمین وِچ، موشے ایں ⟨את⟩ تورات کوں واضح کرݨ شروع کیتا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "اُروار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شروع کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "واضح کرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:40.058943258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ بنے-یعقان توں ٹُرے، تے خور-ہگِدگاد وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے اوہ ٹُرے"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "بنے-… توں"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یعقان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "خور-… وِچ"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "ہگِدگاد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:37.999046617Z",
+  "model": "glm-5.3"
+}

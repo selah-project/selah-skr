@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اپّایم دے پُتر یشعی ہن، تے یشعی دے پُتر شیشان، تے شیشان دے پُتر اَحلای۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اپّایم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یشعی"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یشعی"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شیشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شیشان"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَحلای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:42.432372436Z",
+  "model": "glm-5.3"
+}

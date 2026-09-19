@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اِستیر ہاتاخ نال ٻولی، تے اوندے کیتے مردخای دو حکم ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ٻولی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستیر"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ہاتاخ نال"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "حکم ݙتس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخای"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:55.083002058Z",
+  "model": "glm-5.3"
+}

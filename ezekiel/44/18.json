@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 44:18",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "کݨی دے سرپاوے اُنہاں دے سِر اُتے ہوسن، تے کݨی دے چڈھے اُنہاں دی کمر اُتے ہوسن؛ پسینے نال کمر نہ ٻدھسن۔",
+  "tokens": [
+    {
+      "surface": "פארי",
+      "gloss": "سرپاوے"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کݨی دے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "تے چڈھے"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کݨی دے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מתניהם",
+      "gloss": "کمر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחגרו",
+      "gloss": "ٻدھسن"
+    },
+    {
+      "surface": "ביזע",
+      "gloss": "پسینے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:54.383400108Z",
+  "model": "glm-5.3"
+}

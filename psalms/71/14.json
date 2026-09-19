@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 71,
+  "translation": "پر میں ہمیش اُمید رکھیساں، تے تیݙی ساری تعریف اُتے ودھیک کریساں۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "پر میں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "اُمید رکھیساں"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ودھیک کریساں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیݙی تعریف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:12.096622918Z",
+  "model": "glm-5.3"
+}

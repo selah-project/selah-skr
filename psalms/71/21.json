@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 71,
+  "translation": "توں میݙی وݙائی ودھیسی، تے ول تھی کے میکوں تسلی ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "ودھیسی"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "میݙی وݙائی"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "تے ول تھی کے"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "میکوں تسلی ݙیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:16.137045784Z",
+  "model": "glm-5.3"
+}

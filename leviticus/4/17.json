@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے کاہن آپݨی انڳل لہو وِچ ٻوڑیس، تے یاہوہ دے اڳوں ⟨את⟩ پردے دے اڳوں ست واری چھڑکسی۔",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "تے ٻوڑیس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "آپݨی انڳل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "تے چھڑکسی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردے دے اڳوں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:40.481349544Z",
+  "model": "glm-5.3"
+}

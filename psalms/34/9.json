@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "چکھو تے ݙیکھو جو یاہوہ چنڳا ⟨ہے⟩؛ خوش نصیب اوہ بندہ جیہڑا اوندے وِچ پناہ گھندے۔",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "چکھو"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصیب"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پناہ گھندے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:31.553242575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "پر اشیر، منشّے تے زبولون وِچوں کجھ بندیے جھُک آئے تے یروشلایم آ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "کجھ بندیے"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "اشیر وِچوں"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "تے منشّے"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "تے زبولون"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "جھُک آئے"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آ ڳئے"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:58:40.757372524Z",
+  "model": "glm-5.3"
+}

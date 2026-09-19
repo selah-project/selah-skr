@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندی بھیݨ پرے کھڑی رہی، تاں جو ڄاݨے جو اون٘دے نال کیا تھیسے۔",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "کھڑی رہی"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "اوندی بھیݨ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پرے"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ڄاݨنے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "تھیسے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اون٘دے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:25.976713936Z",
+  "model": "glm-5.3"
+}

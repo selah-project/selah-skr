@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "او وی اخآب دے گھر دے رستیاں تے ٹریا، کیوں جو اوندی ماء اوندی مشیر ہئی برائی کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹریا"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "رستیاں تے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخآب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوندی ماء"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "اوندی مشیر"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "برائی کرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:55:23.263165924Z",
+  "model": "glm-5.3"
+}

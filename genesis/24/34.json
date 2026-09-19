@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے اوں آکھیا: “میں اَوراہام دا نوکر ہاں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام ⟨دا⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:01.851883857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "عیلام پنجواں، یہوخانان چھیواں، اِلیہوعِینای ستواں۔",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجواں"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یہوخانان"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیواں"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "اِلیہوعِینای"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستواں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:52.663104368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "عزگد دے پُتر — ݙو ہزار، ترے سو، ویہہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگد"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ݙو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:36.003949660Z",
+  "model": "glm-5.3"
+}

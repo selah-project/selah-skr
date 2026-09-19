@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے گاد دے پُتراں دے قبیلے دے لشکر اُتے دِعُوایل دا پُتر اِلیاساف ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد دے"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعُوایل دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:46.914500283Z",
+  "model": "glm-5.3"
+}

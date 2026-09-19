@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے یاہوہ دا ہِک کوں آیا آکھݨ کیتے کہ میں تیکوں اے آکھساں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:07:19.827758147Z",
+  "model": "glm-5.3"
+}

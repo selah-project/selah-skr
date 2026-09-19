@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے بِرِکیاهو تے اِلقانہ صندوق کیتے دربان ہن۔",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "تے بِرِکیاهو"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "تے اِلقانہ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دربان ہن"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "صندوق کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:13.415408343Z",
+  "model": "glm-5.3"
+}

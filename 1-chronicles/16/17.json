@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اوں اُوکوں یعقوو کیتے قاعدہ تے یِسرایل کیتے ہمیشہ دی عہد بݨا کے کھڑی کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "کھڑی کیتی"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کیتے"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "قاعدہ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرایل کیتے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:35.715687229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے موشے بنی اِسرائیل دی ساری جماعت کوں آکھیا: “ایہ او ڳالھ ہے جیڑھی یاہوہ حکم کیتا، آکھݨ ایہو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:41.578203594Z",
+  "model": "glm-5.3"
+}

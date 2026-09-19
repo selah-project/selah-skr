@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے داوِد سُݨیا، تاں اوں ⟨את⟩ یُوآب کوں تے ⟨את⟩ سارے بہادراں دے لشکر کوں بھیڄیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یُوآب کوں"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بہادراں دے لشکر کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "بہادراں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:17.312590456Z",
+  "model": "glm-5.3"
+}

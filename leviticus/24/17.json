@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے جݙاں کوئی بندہ کہیں اِنسان دی جان کوں مارے، تاں او مرݨ مریسی۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے جݙاں کوئی بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کہیں وی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرݨ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:15.304379809Z",
+  "model": "glm-5.3"
+}

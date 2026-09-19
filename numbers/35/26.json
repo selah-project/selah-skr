@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے جے قاتل ⟨את⟩ اوندے پناہ دے شہر دی حد توں نِکل ونڄے جتھاں اوہ بھجیا ہا،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلے"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکل ونڄے"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "پناہ دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھجے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:03.810113647Z",
+  "model": "glm-5.3"
+}

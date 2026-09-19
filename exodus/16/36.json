@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے عومر ایفہ دا ݙاہواں حصہ ⟨ہو⟩۔",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "تے عومر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ݙاہواں حصہ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہو⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:37.434641349Z",
+  "model": "glm-5.3"
+}

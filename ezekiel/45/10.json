@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تُہاݙے کیتے راست ترازو، تے راست اِیپہ، تے راست بات ہووے۔",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ترازو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "تے اِیپہ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "تے بات"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:57.607561756Z",
+  "model": "glm-5.3"
+}

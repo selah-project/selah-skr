@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے شہر وِچ جِتنے لوک ہن سارے اُنہاں دا پچا کرݨ کیتے ہکل پئے، تے او یہوشوع دا پچا کیتا، تے شہر توں کھِنچ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ہکل پئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "پچا کرݨ کیتے"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "اُنہاں دا"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "پچا کیتا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "د acclaimedا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "کھِنچ ڳئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:10:54.419364381Z",
+  "model": "glm-5.3"
+}

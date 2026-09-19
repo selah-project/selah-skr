@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "غضب وِچ تُساں زمین تے پیر ٻدھیا، کروڈھ وِچ قومیں کوں کُٹ ݙِتا۔",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "غضب وِچ"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "پیر ٻدھیا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین تے"
+    },
+    {
+      "surface": "באף",
+      "gloss": "کروڈھ وِچ"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "کُٹ ݙِتا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:08.947727725Z",
+  "model": "glm-5.3"
+}

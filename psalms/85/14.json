@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "راستی اُوندے اڳوں ٹُرسی، تے اُوندے قدمیں کوں راہ بݨیس۔",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اُوندے اڳوں"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹُرسی"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے بݨیس"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "اُوندے قدمیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:33.469218450Z",
+  "model": "glm-5.3"
+}

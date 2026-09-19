@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "اپݨی مار میتُوں ہٹا؛ تیݙے ہتھ دے زور توں میں مُک ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میتُوں"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "اپݨی مار"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙے ہتھ دے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "مُک ڳیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:22.961140642Z",
+  "model": "glm-5.3"
+}

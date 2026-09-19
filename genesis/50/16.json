@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "تے او یوسف دو اِیں آکھ کے حکم بھیڄیا: تیݙے پیو اپݨی موت توں پہلے حکم ݙتا ہا، جو آکھو۔",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "حکم بھیڄیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "اپݨی موت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:30.174779183Z",
+  "model": "glm-5.3"
+}

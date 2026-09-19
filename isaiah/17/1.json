@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "دِمشق دا بار: ݙیکھو، دِمشق شہر ہووݨ توں ہٹ ویسی، تے او ڈھہہݨ دی بِھر بݨ ویسی۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دِمشق"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "دِمشق",
+      "gloss": "دِمشق"
+    },
+    {
+      "surface": "مוסר",
+      "gloss": "ہٹ ویسی"
+    },
+    {
+      "surface": "مעיר",
+      "gloss": "شہر ہووݨ توں"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے او بݨ ویسی"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "بِھر"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "ڈھہہݨ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:39:20.352212491Z",
+  "model": "glm-5.3"
+}

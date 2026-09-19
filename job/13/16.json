@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے او آپ میݙی نجات تھیسی، کیوں جو اوندے اڳوں کوئی منافق نہ آسی۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙی کیتے"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "نجت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:11.623073420Z",
+  "model": "glm-5.3"
+}

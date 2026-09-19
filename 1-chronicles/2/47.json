@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یہدائی دے پُتر: رگم، تے یوتام، تے گیشان، تے پیلت، تے عیفہ، تے شعف۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "یہدائی"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رگم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "تے یوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "تے گیشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "تے پیلت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "تے عیفہ"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "تے شعف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:43.624619896Z",
+  "model": "glm-5.3"
+}

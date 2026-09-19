@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "چکھیا جو اُوں دا سودا چنگا ہے؛ رات کوں اُوں دا دیوا نہ وِسمسی۔",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "چکھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "اُوں دا سودا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "وِسمسی"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "رات کوں"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "اُوں دا دیوا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:36.701518277Z",
+  "model": "glm-5.3"
+}

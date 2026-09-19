@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ہمِتصپہ تے ہکھِفیرہ تے ہموتصہ۔",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "تے ہمِتصپہ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "تے ہکھِفیرہ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "تے ہموتصہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:03.851991859Z",
+  "model": "glm-5.3"
+}

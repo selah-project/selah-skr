@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ایہ او ناں ہن جو اوندے یروشلایم وِچ ڄمے: شموع، تے شوُوَو، ناتان، تے شلومو۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "ڄمے ہوئے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شموع"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "تے شوُوَو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "تے شلومو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:42:35.687717984Z",
+  "model": "glm-5.3"
+}

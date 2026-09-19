@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "آپݨاں منہ کھول، راست انصاف کر، تے غریب تے محتاج دا دفاع کر۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙا منہ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "انصاف کر"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "تے داد"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:16.382876515Z",
+  "model": "glm-5.3"
+}

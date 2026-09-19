@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے پرعوہ یوسف کوں آکھیا: “ݙیکھ، میں تیکوں ⟨את⟩ سارے مُلک مِتصرایم اُتے رکھیا ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں رکھیا ہے"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیکوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "مُلک"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:47.002781234Z",
+  "model": "glm-5.3"
+}

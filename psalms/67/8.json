@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 67,
+  "translation": "ایلوہیم ساکوں برکت ݙیسی، تے زمین دے سبھے کونے اوں توں ݙرسن۔",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "برکت ݙیسی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "تے ݙرسن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "زمین دے سبھے کونے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:54.494506619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "گورل جھیڑے ختم کر ݙیندے، تے زور آلیاں وِچ وَنڈ کریندے۔",
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "جھیڑے"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "ختم کر ݙیندے"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "گورل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "زور آلیاں"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "وَنڈ کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:10.822028631Z",
+  "model": "glm-5.3"
+}

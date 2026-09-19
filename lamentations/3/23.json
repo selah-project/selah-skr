@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "او نویں ہن صبحاں وِچ — ٻہوں وݙی ہے تیݙی امانت۔",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "صبحاں وِچ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ٻہوں وݙی"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تیݙی امانت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:53.461780022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "موہری کیتے — ہِک مزمور، داوِد دا۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موہری کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:17.602313095Z",
+  "model": "glm-5.3"
+}

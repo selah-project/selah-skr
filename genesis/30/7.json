@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے بِلہاہ، راحِل دی ٻانہی، ولا حاملہ تھئی، تے یعقوو کوں ہِک ݙوجھا پُتر ڄنّیا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ تھئی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄنّیا"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہاہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ٻانہی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل دی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:16.238590173Z",
+  "model": "glm-5.3"
+}

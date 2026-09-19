@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک وَچھہ، ڳاں دا پُتر، ہِک دَنبا، ہِک بھیݙ دا وِرھا، ہِک سال دا پُتر، ساڑھی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "وَچھہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دَنبا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھیݙ دا وِرھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک سال دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڑھی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:12.669030212Z",
+  "model": "glm-5.3"
+}

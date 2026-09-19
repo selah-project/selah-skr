@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "صہیون وِچ بوق وڄاؤ، روزہ پاک کرو، جماعت سݙو۔",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "وڄاؤ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "بوق"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیون وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک کرو"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزہ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سݙو"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-09-19T18:53:34.074011063Z",
+  "model": "glm-5.3"
+}

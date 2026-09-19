@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یِسرائیل اَموریاں دی زمین وِچ وس ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے … وس ڳیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموریاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:24.852574040Z",
+  "model": "glm-5.3"
+}

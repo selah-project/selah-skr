@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ایں کیتے توں وَدھ بندہ نہ کھاسی، تے آپݨیاں قوماں کوں وَدھ نہ لُٹسی — ادونای یاہوہ دا اِعلان۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "کھاسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَدھ"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "تے آپݨیاں قوماں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "لُٹسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَدھ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اِعلان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:41:47.527079003Z",
+  "model": "glm-5.3"
+}

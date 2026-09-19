@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یا جے جِیندا گوشت ولا تے چٹا تھی ونڄے، تاں او کاہن کول آسی۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "تے اُلٹ تھی"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "چٹا تھی ونڄے"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "آسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:58.607319923Z",
+  "model": "glm-5.3"
+}

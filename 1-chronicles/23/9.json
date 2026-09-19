@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "شِمعی دے پُتر شِلوموت، خزیایل تے ہاران — ترے۔ اے لعدن دے آباء دے خانداناں دے مُکھی ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شِلوموت"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "خزیایل"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ہاران"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مُکھی"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "خانداناں"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "لعدن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:58.155732969Z",
+  "model": "glm-5.3"
+}

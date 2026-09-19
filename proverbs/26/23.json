@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ملاوٹی چاندی ٹھیکری اُتے چڑھی ہوئی — ایویں ہن ٻلدے ہوئے ہونٹھ تے خراب دل۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ملاوٹ دے"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "چڑھی ہوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ٹھیکری"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "ٻلدے ہوئے"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "تے دل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:41.285495195Z",
+  "model": "glm-5.3"
+}

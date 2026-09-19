@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "عزرا دے وِچوں مِشُلّم؛ امرِیاہ دے وِچوں یہوخانان۔",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "عزرا دے وِچوں"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّم"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "امرِیاہ دے وِچوں"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یہوخانان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:21.621469972Z",
+  "model": "glm-5.3"
+}

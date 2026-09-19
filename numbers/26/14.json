@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہے شِمعونی دے ٹبر ہن — ݙو تے ویہہ ہزار، ݙے ݙو سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "شِمعونی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے ݙو سو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:13.522718307Z",
+  "model": "glm-5.3"
+}

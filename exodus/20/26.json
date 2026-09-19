@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے میݙے مذبح اُتے پوڑیاں نال نہ چڑھیں، تاں جو اوندے اُتے تیݙی ننگ نہ کھُلے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "چڑھیں"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "پوڑیاں نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "میݙے مذبح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھُلے"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "تیݙی ننگ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:31.072093855Z",
+  "model": "glm-5.3"
+}

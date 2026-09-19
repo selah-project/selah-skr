@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے داوِد اَرنان کوں اُوں جاہ کیتے سونے دے شکل ݙتس، وزن چھی سوس۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "اَرنان کوں"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُوں جاہ کیتے"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:09.947233082Z",
+  "model": "glm-5.3"
+}

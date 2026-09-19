@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یاہوہ دا کلام میݙے کول آیا، ایہ آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہ آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:57.515835567Z",
+  "model": "glm-5.3"
+}

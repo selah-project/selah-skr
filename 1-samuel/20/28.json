@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یہونتن شاؤل ⟨את⟩ کوں جواب ݙتا: “داوِد میں توں ارداس ارداس کیتی کہ او بیت لحم ونڄے۔”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہونتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ارداس"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ارداس"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "میکوں توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:44:41.659956489Z",
+  "model": "glm-5.3"
+}

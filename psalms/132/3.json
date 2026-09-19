@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 132,
+  "translation": "جے میں اپݨے گھر دے ٹٻر وِچ وڑاں، جے میں اپݨے بسترے دی جھولی اُتے چڑھاں،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "وڑاں"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ٹٻر وِچ"
+    },
+    {
+      "surface": "بיתי",
+      "gloss": "اپݨے گھر دے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "چڑھاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "بسترے دی"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "جھولی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:14.926029955Z",
+  "model": "glm-5.3"
+}

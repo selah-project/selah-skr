@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے تُساں ⟨את⟩ کپوریت کوں گواہی دے صندوق اُتے رکھسو، پاکاں دے پاک وِچ۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "رکھسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کپوریت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کپوریت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکاں دے پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T21:03:39.980908362Z",
+  "model": "glm-5.3"
+}

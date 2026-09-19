@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے شلومو آکھیا جو یاہوہ دے ناں کیتے ہِک گھر تے آپݨی بادشاہت کیتے ہِک گھر بݨاوݨا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "لבנות",
+      "gloss": "بݨاوݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ناں کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے ہِک گھر"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "آپݨی بادشاہت کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:53.232642135Z",
+  "model": "glm-5.3"
+}

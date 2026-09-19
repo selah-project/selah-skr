@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے بندے ہِک ٻئے کوں آکھیا: “چلو ہِک سِر مقرر کروں تے مِتصرایم وَل ونڄوں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ہِک ٻئے"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "مقرر کروں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "تے وَل ونڄوں"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مِتصرایم (وَل)"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:59.289365672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ دا ہتھ وی انہاں اُتے ہا، انہاں کوں لشکر دے وچکار توں مکاوݨ کیتے، تئیں جو او مُک ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں اُتے"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "مکاوݨ کیتے"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وچکار توں"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکر دے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں جو"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "مُک ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:56.093657928Z",
+  "model": "glm-5.3"
+}

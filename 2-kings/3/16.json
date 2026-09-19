@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اوں آکھیا: “یاہوہ ایں طرح آکھیا: ایں وادی وِچ کھڈے کھڈے بݨاؤ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوں آکھیا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨاؤ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ایں وادی وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کھڈے"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کھڈے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:19:54.129218637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے تُوں اُتھاں ⟨את⟩ گواہی دا صندوق رکھیں، تے صندوق دے اُتے ⟨את⟩ پردہ نال ڈھکیں۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "تے رکھیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی دا صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہی دا"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "تے ڈھکیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:08:06.952554610Z",
+  "model": "glm-5.3"
+}

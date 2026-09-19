@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "موہری کیتے، گتّیتی ⟨ساز⟩ اُتے، ہِک ڳاوݨا، داوِد دی طرفوں۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موہری کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتّیتی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ڳاوݨا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی طرفوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:13.027048875Z",
+  "model": "glm-5.3"
+}

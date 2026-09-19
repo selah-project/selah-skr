@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ اوہ جیڑھا کہیں جانور نال سمدا ⟨ہووے⟩، تے سارے لوک آکھسن: آمن۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سمدا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:33.430947240Z",
+  "model": "glm-5.3"
+}

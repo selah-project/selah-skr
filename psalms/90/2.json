@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 90,
+  "translation": "پہاڑاں دے ڄمݨ توں پہلے، تے توں زمین تے دنیا کوں بݨایا، ازل توں ابد تئیں تُوں ایل ہِئیں۔",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ڄمݨ"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "تے بݨایا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "تے دنیا"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ازل توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:02.499809749Z",
+  "model": "glm-5.3"
+}

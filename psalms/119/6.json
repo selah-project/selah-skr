@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تݙاں میں شرمندہ نہ تھیساں، جݙاں میں تیݙے سارے حکماں دوائی ݙیکھساں۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شرمندہ تھیساں"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ݙیکھݨ وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیݙے حکماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:12.617807301Z",
+  "model": "glm-5.3"
+}

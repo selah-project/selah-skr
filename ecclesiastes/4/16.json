@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "سارے لوکاں کیتے کوئی انت کائنی — ساریں اڳوں جو کجھ ہا — تے پچھلے وی اوندے وِچ خوش نہ تھیسن، کیوں جو ایہ وی کِیمات ہے تے روح دا ستاوݨ ہے۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے کیتے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریں کیتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "پچھلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش تھیسن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "کِیمات"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "ستاوݨ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:53.636121564Z",
+  "model": "glm-5.3"
+}

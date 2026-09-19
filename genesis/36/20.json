@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ایہ سَعیر حوری دے پُتر ہن، زمین دے وسنیک: لوتان، تے شوبال، تے ضبعیون، تے عَنا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دے وسنیک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "تے شوبال"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "تے ضبعیون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "تے عَنا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:53.295815959Z",
+  "model": "glm-5.3"
+}

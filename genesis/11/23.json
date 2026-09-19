@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے سِروگ نَحور ⟨את⟩ کوں ڄݨݨ دے بعد ݙو سو ورہے جییا، تے پُتراں تے دھیاں کوں ڄݨیس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سِروگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَحور کوں"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نَحور"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورہے"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:39.050370664Z",
+  "model": "glm-5.3"
+}

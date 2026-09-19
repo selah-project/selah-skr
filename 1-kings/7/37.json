@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایں طرح اُوں ⟨את⟩ ݙہ ݙنڈے بݨائے — ہِک ڈھلائی، ہِک ناپ، ہِک شکل، ساریاں کیتے۔",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ݙہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙہ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ݙنڈے"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ڈھلائی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ساریاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:09.979452064Z",
+  "model": "glm-5.3"
+}

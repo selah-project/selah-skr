@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "یاہوہ تیکوں ہر برائی توں بچیسی، او تیݙی جان ⟨את⟩ دا رکھویں رہسی۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "تیکوں بچیسی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر … توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "رکھویں رہسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙی جان"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.945758495Z",
+  "model": "glm-5.3"
+}

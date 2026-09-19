@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میݙے دِل کوں اپݨیاں گواہیاں دو جُھکا، تے ناجائز فائدے دو نہ۔",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "جُھکا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙے دِل کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "اپݨیاں گواہیاں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ناجائز فائدے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:08.989799330Z",
+  "model": "glm-5.3"
+}

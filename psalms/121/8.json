@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "یاہوہ تیݙے نِکلݨ دا تے تیݙے آوݨ دا رکھویں رہسی، ہُݨ توں ہمیشہ تئیں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "رکھویں رہسی"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "تیݙے نِکلݨ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "تیݙے آوݨ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ہُݨ توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.945912298Z",
+  "model": "glm-5.3"
+}

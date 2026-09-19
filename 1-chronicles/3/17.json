@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یِکونیاہ ⟨قیدی⟩ دے پُتر: شاؤلتِیل ایل اُوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یِکونیاہ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "⟨قیدی⟩"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شاؤلتِیل ایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:13.266180539Z",
+  "model": "glm-5.3"
+}

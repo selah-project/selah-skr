@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 145,
+  "translation": "تیݙی وݙی نیکی دا ذکر او اُگھارسن، تے تیݙی راستی او ڳاہسن۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "دا ذکر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "تیݙی نیکی"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "او اُگھارسن"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "تے تیݙی راستی"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "او ڳاہسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:11.720080633Z",
+  "model": "glm-5.3"
+}

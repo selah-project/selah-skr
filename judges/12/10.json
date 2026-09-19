@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "اِبصان مر ڳیا تے بیت لَخم وِچ دفن تھیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دفن تھیا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَخم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:27:53.838462573Z",
+  "model": "glm-5.3"
+}

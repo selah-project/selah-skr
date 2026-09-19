@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 20:28",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے اوہ یروشلایم، ڈھولاں، تنبوراں تے بینسیں نال یاہوہ دے گھر ول آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "ڈھولاں نال"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "تے تنبوراں نال"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "تے بینسیں نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:12.089885801Z",
+  "model": "glm-5.3"
+}

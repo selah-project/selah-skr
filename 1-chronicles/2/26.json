@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یِرَخمیل کیتے ہِک ٻئی ذال ہئی، تے اُوندا ناں عتارہ ہا؛ او اونام دی ماء ہئی۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے … ہئی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻئی"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "یِرَخمیل کیتے"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اُوندا ناں"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "عتارہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.725264559Z",
+  "model": "glm-5.3"
+}

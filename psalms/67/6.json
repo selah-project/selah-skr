@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 67,
+  "translation": "قوماں تیݙی تعریف کرِن، ایلوہیم! قوماں سبھے تیݙی تعریف کرِن۔",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "تعریف کرِن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "تعریف کرِن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:54.494254612Z",
+  "model": "glm-5.3"
+}

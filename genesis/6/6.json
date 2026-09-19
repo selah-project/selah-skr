@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ کوں پچھتاوا تھیا جو اوں زمین وِچ ⟨את⟩ بندہ بݨایا ہا، تے اوندے دل کوں ݙکھ پُڄیا۔",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "پچھتاوا تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ݙکھ پُڄیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوندے دل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:07.954666411Z",
+  "model": "glm-5.3"
+}

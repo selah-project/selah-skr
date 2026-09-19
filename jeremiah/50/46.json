@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "بابل دے پکڑیجݨ دی آواز توں زمین ہلی، تے قومیں وِچ چیخ سݨیج ڳئی۔",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "آواز توں"
+    },
+    {
+      "surface": "نתפשה בבל",
+      "gloss": ""
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "ہلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "تے چیخ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سݨیج ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:23.236246877Z",
+  "model": "glm-5.3"
+}

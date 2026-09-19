@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اوں چربی ⟨את⟩ چھاتیاں اُتے رکھی، تے چربی قربان گاہ اُتے دھواں چاڑھی۔",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "چھاتیاں"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "دھواں چاڑھیا"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:04.978755303Z",
+  "model": "glm-5.3"
+}

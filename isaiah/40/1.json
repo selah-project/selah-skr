@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تسلی ݙیو، تسلی ݙیو میݙی قوم کوں، تہاݙا ایلوہیم آکھیا۔",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی ݙیو"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی ݙیو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    },
+    {
+      "surface": "י אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T17:48:24.543008502Z",
+  "model": "glm-5.3"
+}

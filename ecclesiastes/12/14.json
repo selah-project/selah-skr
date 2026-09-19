@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کیوں جو ایلوہیم ⟨את⟩ ہر ہِک کم کوں، ہر لُکے ہوئے کم نال، انصاف وِچ گھن آسی — بھلے چنگا ہووے، بھلے برا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر ہِک کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "گھن آسی"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "لُکے ہوئے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بھلے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "بھلے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:21.430148634Z",
+  "model": "glm-5.3"
+}

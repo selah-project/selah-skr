@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے ہر کھلا برتݨ جیندے اُتے کوئی ڳنڈھی ہوئی ڈھکن نہ ہووے، او گندہ ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتݨ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کھلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ ہووے"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ڳنڈھی ہوئی ڈھکن"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ڳنڈھ"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "گندہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:58.743067468Z",
+  "model": "glm-5.3"
+}

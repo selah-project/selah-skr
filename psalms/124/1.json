@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 124,
+  "translation": "عروج دا گیت، داوِد دا۔ جے یاہوہ ساݙے کیتے نہ ہوندا — اِسرائیل ہُݨ آکھے،",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "عروج دے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "جے … نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہوندا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے کیتے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:25.253931823Z",
+  "model": "glm-5.3"
+}

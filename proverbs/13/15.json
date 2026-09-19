@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "چنگی عقل مہربانی بخشیندی ہے، پر غداراں دا رستہ سخت ہے۔",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بخشیندی ہے"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "پر رستہ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "غداراں دا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:55.089758258Z",
+  "model": "glm-5.3"
+}

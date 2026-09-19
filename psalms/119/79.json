@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے ݙر والے میں ول آون، تے تیݙیاں گواہیاں ڄاݨن۔",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ول آون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "تیݙے ݙر والے"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "تے ڄاݨن"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "تیݙیاں گواہیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:35.323748188Z",
+  "model": "glm-5.3"
+}

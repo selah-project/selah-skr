@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اوندے پچھوں اوندی ذال ݙٹھا، تے او نمک دا ہِک کھمبا تھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "ݙٹھس"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "اوندے پچھوں توں"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تھی ڳئی"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "کھمبا"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "نمک دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:58.774760075Z",
+  "model": "glm-5.3"
+}

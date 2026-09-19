@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے رَبیت، قِشیون تے اَبِتص،",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "تے رَبیت"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "تے قِشیون"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "تے اَبِتص"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:09.420966153Z",
+  "model": "glm-5.3"
+}

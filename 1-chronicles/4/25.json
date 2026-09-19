@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "شلوم اوندا پُتر، مِبسام اوندا پُتر، مِشمَع اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مِبسام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مِشمَع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:50.460109999Z",
+  "model": "glm-5.3"
+}

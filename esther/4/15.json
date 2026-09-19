@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اِستر مردخی کوں جواب ولایا:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "جواب وَلاوݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:16:51.678161124Z",
+  "model": "glm-5.3"
+}

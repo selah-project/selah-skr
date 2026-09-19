@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "چند حق دی تھوڑی چنگی ہے، بُرے تھوں ودھ دولت توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگی ہے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑی"
+    },
+    {
+      "surface": "لצדיק",
+      "gloss": "چند حق دی"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "دولت توں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُرے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "تھوں ودھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:18.787526845Z",
+  "model": "glm-5.3"
+}

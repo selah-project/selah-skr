@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جے تیݙے ہمسائے دی چادر گروی گھنیں، سِجھ لہوَݨ توں پہلے اُوں کوں وَلا ݙیویں۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گروی"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "گھنیں"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "تیݙے ہمسائے دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "لہوَݨ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "وَلا ݙیویں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:49.674793833Z",
+  "model": "glm-5.3"
+}

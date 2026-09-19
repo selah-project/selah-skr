@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یوآش یاہوہ دیاں اکھیں وِچ جائز کم کیتا، یہویادع کاہن دے سارے ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "جائز کم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…دیاں اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویادع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:37.759376704Z",
+  "model": "glm-5.3"
+}

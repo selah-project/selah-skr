@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے یِشسکار دی سرحد دے نال، پوادھی پاسے توں پچادھی پاسے تئیں، زبولون کوں ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … دے نال"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِشسکار"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسے توں"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "پوادھی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچادھی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:40.143119221Z",
+  "model": "glm-5.3"
+}

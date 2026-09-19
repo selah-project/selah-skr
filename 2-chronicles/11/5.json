@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے رِحبعام یروشلایم وِچ رہ ڳیا، تے یہوداہ وِچ قلعہ بندی کیتے شہر بݨائے۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رہ ڳیا"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رِحبعام"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "قلعہ بندی کیتے"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:39.178893527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "گِبار ⟨دے پُتر⟩ — اَنہہ تے پنج۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "اَنہہ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:02.005424545Z",
+  "model": "glm-5.3"
+}

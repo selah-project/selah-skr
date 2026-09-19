@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "سُستی ڳوڑی نندر ڈہا ݙیندی ہے، تے سُست جان بُکھی رہندی ہے۔",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "سُستی"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ڈہا ݙیندی ہے"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ڳوڑی نندر"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "بُکھی رہندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:53.863146538Z",
+  "model": "glm-5.3"
+}

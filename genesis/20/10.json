@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے اَویمیلِکھ اَوراہام کوں آکھیا: “توں کیا ݙٹھا جو توں ⟨את⟩ ایہ کم کیتا؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویمیلِکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَوراہام کوں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ کم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:03.247541990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اَمیت دی ذال کوں نہ ݙیسیں اپݨی لتڑائی دا بیج، اوندے نال نجاست کیتے۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے … کوں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اَمیت دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیسیں"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "اپݨی لتڑائی"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "لטמאہ",
+      "gloss": "نجاست کیتے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:31.557807666Z",
+  "model": "glm-5.3"
+}

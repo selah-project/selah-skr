@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "چوکس رہ، اوپرے کم ⟨ول⟩ نہ ونج — کیوں جو تئیں مصیبت دی جاہ اِیہ چݨیا۔",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "چوکس رہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "ونج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "און",
+      "gloss": "اوپرے کم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "دی جاہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "چݨیا"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "مصیبت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:32.571968906Z",
+  "model": "glm-5.3"
+}

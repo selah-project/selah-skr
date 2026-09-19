@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے میں سیاݨپ نہ سکھی، تے پاک ہستیاں دا ڄاݨ میکوں کائنی۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے … نہ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "میں سکھی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک ہستیاں دا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "میکوں کائنی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:45.436258639Z",
+  "model": "glm-5.3"
+}

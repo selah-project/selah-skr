@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "«میں تیݙی دھرتی وِچوں لنگھاں، سِدھی راہ تے ٹُرساں، نہ سڄے پاسے مُڑساں نہ کھٻے پاسے۔",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "میں لنگھاں"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیݙی دھرتی وِچوں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "سِدھی راہ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ تے"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ٹُرساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "مُڑساں"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "سڄے پاسے"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "نہ کھٻے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:02.907927164Z",
+  "model": "glm-5.3"
+}

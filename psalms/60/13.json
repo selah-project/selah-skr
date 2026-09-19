@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 60,
+  "translation": "اساکوں دشمن توں مدد ݙے، کیوں جو بندے دی wrongway مدد وایا ہے۔",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساکوں"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "مצר",
+      "gloss": "دشمن توں"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "کیوں جو وایا"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:12.650075402Z",
+  "model": "glm-5.3"
+}

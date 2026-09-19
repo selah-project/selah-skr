@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "کیوں جو اوہو لمبائی کمریاں دی جیڑھے بیرونی ویہڑے پاسے ہن پنجاہ گز ہئی، تے ݙیکھ — ہیکل دے سامݨے سو گز۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "کمریاں دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ویہڑے پاسے"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "بیرونی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکل دے"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:48.994743668Z",
+  "model": "glm-5.3"
+}

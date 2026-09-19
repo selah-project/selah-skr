@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 36:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "او بدکار کوں نہ جِیویندا، تے غریباں دا انصاف ݙیندے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جِیویندا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "غریباں دا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:57.434288517Z",
+  "model": "glm-5.3"
+}

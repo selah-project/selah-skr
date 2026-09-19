@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے یِتصخاق گرار وِچ رہ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے رہ ڳیا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "گرار وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:23.018236988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 1:47",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "پر لیویاں کوں اپݨے پیوواں دے ٹبر موجب انہاں وِچ ڳݨیا نہ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "تے لیوی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ٹبر موجب"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اپݨے پیوواں دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ڳݨیے ڳئے"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "انہاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:48.143083405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بدکار دا ایلچی برائی وِچ پوندے، تے امانت والا سفیر شفا ہے۔",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ایلچی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "پوندے"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی وِچ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "تے سفیر"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "امانت والا"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:29.540305641Z",
+  "model": "glm-5.3"
+}

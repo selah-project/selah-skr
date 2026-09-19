@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے نُوح دے سارے ݙینہہ نَوں سو ورھے تے پنجاہ ورھے تھئے، تے او فوت تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے فوت تھی ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:18.337393779Z",
+  "model": "glm-5.3"
+}

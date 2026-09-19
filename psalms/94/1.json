@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "بدلے آلا ایل یاہوہ، بدلے آلا ایل، اُبھر کے چمک۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلے آلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلے آلا"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "اُبھر کے چمک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:57.717391283Z",
+  "model": "glm-5.3"
+}

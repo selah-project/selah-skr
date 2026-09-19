@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "عتلیہ ⟨את⟩ آواز سُنی رَٹّیاں دی، قوم دی، تے قوم کولہوں گھن آئی بیت یہوہ ⟨דے⟩ وِچ۔",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "عتلیہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "رَٹّیاں دی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دی"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولہوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:26:12.031559790Z",
+  "model": "glm-5.3"
+}

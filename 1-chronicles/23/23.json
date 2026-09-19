@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "موشی دے پُتر مَخلی، عیدر تے یِرموت — ترے ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخلی"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "تے عیدر"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "تے یِرموت"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:15.862627513Z",
+  "model": "glm-5.3"
+}

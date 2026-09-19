@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یونتان دے پُتر پیلت تے زازا ہن؛ ایہ یرحمایل دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یونتان دے"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پیلت"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "تے زازا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یرحمایل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.655619009Z",
+  "model": "glm-5.3"
+}

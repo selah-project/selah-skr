@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دا چمچاں ݙاہ شیکل دا، بخور نال بھریا ہویا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچاں"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریا ہویا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:25.246542770Z",
+  "model": "glm-5.3"
+}

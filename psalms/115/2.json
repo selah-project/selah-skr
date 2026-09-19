@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "قوماں کیوں آکھسن: “اُنہاں دا ایلوہیم ہُݨ کتھاں ہے؟”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھسن"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کتھاں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہُݨ⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اُنہاں دا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:22.892417493Z",
+  "model": "glm-5.3"
+}

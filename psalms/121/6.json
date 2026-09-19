@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 121,
+  "translation": "ݙینہہ کوں سِجھ تیکوں نہ مریسی، تے رات کوں چندر۔",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ݙینہہ کوں"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "مریسی"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "تے چندر"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:50.945567603Z",
+  "model": "glm-5.3"
+}

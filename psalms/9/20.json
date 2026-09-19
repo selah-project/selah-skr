@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "اُٹھ، اے یاہوہ! اِنسان کوں زور نہ ݙے؛ قوماں تیݙے اَڳوں فیصلے وِچ آون۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "زور ݙے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اِنسان کوں"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "فیصلے وِچ آون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:47.248645257Z",
+  "model": "glm-5.3"
+}

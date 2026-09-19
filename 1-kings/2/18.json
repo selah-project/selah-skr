@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "باث شِبعہ آکھیا: ”چنڳیں، میں تیݙے کیتے بادشاہ اُتے ڳالھ کریساں۔“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "باث"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبعہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳیں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالھ کریساں"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:14.030345403Z",
+  "model": "glm-5.3"
+}

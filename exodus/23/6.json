@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "آپݨے غریب دے فیصلے کوں اُوندے جھیڑے وِچ نہ ٹیڑھا کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ٹیڑھا کرو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "تُہاݙا غریب"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "اُوندے جھیڑے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:54:23.542709104Z",
+  "model": "glm-5.3"
+}

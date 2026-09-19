@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یاہوہ دا کلام یہوآ پُتر خَنانی کوں بَعشا دے خلاف آیا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھی ڳیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوآ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "خَنانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:15:03.379058051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 7:11",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "آپ کیتے یاہوہ، اپݨے ایلوہیم کنوں ہِک نشانی منگ؛ منگ کوں ڳہاڑی یا اُچی اُتے۔",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "منگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشانی"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپݨے ایلوہیم"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ڳہاڑی"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "منگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "اُچی"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:25.798988250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 148,
+  "translation": "پہاڑ تے سارے ٹٻے، پھل دار رُکھ تے سارے دیودار،",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹٻے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل دار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "دیودار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:41.173303289Z",
+  "model": "glm-5.3"
+}

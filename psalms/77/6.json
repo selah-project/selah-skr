@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 77,
+  "translation": "میں پہلے دے ݙینہہ ڳݨیے، پُراݨیاں عمراں دے سال۔",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "میں ڳݨیے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پہلے دے"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "پُراݨیاں عمراں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:23.496606381Z",
+  "model": "glm-5.3"
+}

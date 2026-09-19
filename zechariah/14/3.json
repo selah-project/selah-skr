@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یاہوہ نکلسی تے اوہناں قوماں نال جنگ کریسی، جیویں اوہ جنگ دے ݙینہہ لڑدا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکلسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "تے جنگ کریسی"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں نال"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اوہناں"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جیویں ݙینہہ"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "لڑدا ہا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "لڑائی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:32.685987712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے او ڄاݨسن جو میں یاہوہ ہاں؛ میں بے سود نہ آکھیا ہا جو میں انہاں نال ایہ برائی کریساں۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے او ڄاݨسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سود"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیا ہا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں نال"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ایہ برائی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:26:23.074552690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "بھلا او میݙے راہ نہ ݙیکھسی، تے میݙے سبھ قدم ڳݨسی؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "بھلا … نہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میݙے راہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھ"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "میݙے قدم"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "ڳݨسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:01:42.944362737Z",
+  "model": "glm-5.3"
+}

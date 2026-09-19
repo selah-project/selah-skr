@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "لَوی کی طرف توں خشبیاہ، قموایل دا پُتر؛ اہرون کی طرف توں تصدوق۔",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "لَوی کی طرف توں"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خشبیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "قموایل"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کی طرف توں"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوق"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:30.213173150Z",
+  "model": "glm-5.3"
+}

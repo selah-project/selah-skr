@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے نُوگہ، تے نِفگ، تے یافیع۔",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "تے نُوگہ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "تے نِفگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "تے یافیع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:24.072829382Z",
+  "model": "glm-5.3"
+}

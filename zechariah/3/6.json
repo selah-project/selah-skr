@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یاہوہ دے فرشتے یہوشوع کوں ⟨تاکید ݙتی⟩، آکھیُس:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "تاکید ݙتی"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "یہوشوع کوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیُس"
+    }
+  ],
+  "timestamp": "2026-09-19T21:18:09.763401918Z",
+  "model": "glm-5.3"
+}

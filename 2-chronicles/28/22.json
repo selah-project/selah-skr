@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے جݙاں اوکوں تنگی آئی، تاں اوں یاہوہ دے خلاف ودھیک بغاوت کیتی — اوہو بادشاہ اَخز۔",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "تے جݙاں"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "تنگی آئی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوکوں"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ودھیک کیتس"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "بغاوت کیتے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دے خلاف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:54.547402525Z",
+  "model": "glm-5.3"
+}

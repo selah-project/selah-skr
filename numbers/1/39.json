@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں دی ڳݨتی، دان دے ݙوہ دے، ݙو تے سٹھ ہزار تے ست سَو ۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اُنہاں دی ڳݨتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ݙوہ دے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:28.728991213Z",
+  "model": "glm-5.3"
+}

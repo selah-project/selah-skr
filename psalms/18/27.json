@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "صاف دل نال تُوں صاف ہِیں، تے ٹیڑھے نال تُوں ٹیڑھا بݨدیں۔",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "صاف دل"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "صاف ہِیں"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ٹیڑھا بݨدیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:25.657973866Z",
+  "model": "glm-5.3"
+}

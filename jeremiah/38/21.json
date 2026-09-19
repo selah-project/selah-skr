@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے جے توں ٻاہر نکلݨ توں انکاری ہیں، تاں ایہ او ڳالھ ہے جیڑھی یاہوہ میکوں ݙکھائی:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکاری"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ٻاہر نکلݨ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "میکوں ݙکھائی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:41.188379476Z",
+  "model": "glm-5.3"
+}

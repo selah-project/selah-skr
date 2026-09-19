@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یعقوو آکھیا: “اَڄ ای میکوں ⟨את⟩ تیݙی پہلوں دا حق ویچ ݙے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ویچ ݙے"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "اَڄ ای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙی پہلوں دا حق"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "تیݙی پہلوں دا حق"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:54.719717731Z",
+  "model": "glm-5.3"
+}

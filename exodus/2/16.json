@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے مِدیان دے ہِک کاہن دیاں ست دھیاں ہن؛ او آئیاں تے پاݨی کھچیا، تے اپݨے پیو دیاں ٻکریاں کوں پلاوݨ کیتے troughs ⟨את⟩ بھریے۔",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "کاہن دے"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیان"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "آئیاں"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "پاݨی کھچیا"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "بھریے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "troughs کوں"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "troughs"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "پلاوݨ کیتے"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻکریاں کوں"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "اپݨے پیو دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:56.192984125Z",
+  "model": "glm-5.3"
+}

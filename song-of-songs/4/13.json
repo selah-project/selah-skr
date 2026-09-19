@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تیݙیاں شاخاں اناراں دا ⟨ٻاغ⟩ ہن، چنگے پھلاں نال؛ مہندی نال نارد۔",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "تیݙیاں شاخاں"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "ٻاغ"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "اناراں دا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "مہندی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "نارد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:02.487224509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "لمبی اُمید دل کوں بیمار کر ݙیندی ہے، پر حیاتی دا رُکھ چاہت آ ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "لمبی"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بیمار کر ݙیندی ہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کوں"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "پر رُکھ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی دا"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "چاہت"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ ویندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:02.646304609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اِیں طرح ادونای یاہوہ تصواوت آکھیا: “ونڄ، اِیں منتظم دے کولھ ونڄ — شبنآ، جیڑھا گھر اُتے ہے۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِیں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ونڄ ⟨پُڄ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے کولھ"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "اِیں منتظم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "شبنآ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T17:40:08.570969765Z",
+  "model": "glm-5.3"
+}

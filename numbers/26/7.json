@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 26:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہے رَئوبینیاں دے ٹبر ہن، تے انہاں دی ڳنتری ترے ہزار چالیہہ ہئی — کوئی ست سو ترے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "رَئوبینیاں"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "انہاں دی ڳنتری"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:56.765910736Z",
+  "model": "glm-5.3"
+}

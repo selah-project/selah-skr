@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "داناواں دا دل ماتم دے گھر وِچ ہوندے، تے کم عقلاں دا دل خُشی دے گھر وِچ۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "داناواں دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "تے دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کم عقلاں دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خُشی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.309631431Z",
+  "model": "glm-5.3"
+}

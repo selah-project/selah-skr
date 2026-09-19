@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "مُک ڳیاں داوِد، یِشای دے پُتر دیاں دُعاواں۔",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "مُک ڳیاں"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "دُعاواں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:51.783087367Z",
+  "model": "glm-5.3"
+}

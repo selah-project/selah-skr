@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے یاہوہ موشے کوں آکھیا، آکھدا ہویا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:20:31.213920101Z",
+  "model": "glm-5.3"
+}

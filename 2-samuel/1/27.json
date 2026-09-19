@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کویں ڈھہہ ڳئے بہادر، تے لڑائی دے ہتھیار مُک ڳئے!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کویں"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈھہہ ڳئے"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "تے مُک ڳئے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہتھیار"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڑائی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:49:59.914141319Z",
+  "model": "glm-5.3"
+}

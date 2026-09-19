@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "نَفات دَور وِچ دور دا بادشاہ ہِک، گِلگال وَل گویم دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "نَفات … وَل"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گویم"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "گِلگال وَل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.446471190Z",
+  "model": "glm-5.3"
+}

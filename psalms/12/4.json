@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یاہوہ کَپّے سبھ چپلیاں ہوٹھ — تے او زبان جیہڑی وݙیاں ڳالھیں ٻولیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "کَپّے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہوٹھ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "چپلیاں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ٻولیندی ہے"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "وݙیاں ڳالھیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:54.257330649Z",
+  "model": "glm-5.3"
+}

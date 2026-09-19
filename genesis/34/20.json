@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے خَمور تے اوندا پُتر شِکم اپݨے شہر دے دروازے تے آئے، تے اپݨے شہر دے بندیاں نال الایا، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خَمور"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "تے شِکم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:35:30.931035136Z",
+  "model": "glm-5.3"
+}

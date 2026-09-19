@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "جے یاہوہ ساکوں چاہندا، تاں او ⟨את⟩ ساکوں ایں زمین وِچ گھن آئے تے اونکوں ساکوں ݙے — زمین جِہڑی دُدھ تے ماکھی نال وہندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہندا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ساکوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "تے گھن آئے"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ساکوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "تے ݙیس"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "وہندی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دُدھ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "تے ماکھی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:27.756673468Z",
+  "model": "glm-5.3"
+}

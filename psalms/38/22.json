@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "یاہوہ میکوں نہ چھوڑ، میݙے ایلوہیم، میں توں دور نہ تھی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "میکوں چھوڑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میݙے ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور نہ تھی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:11.798702233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "جیہڑا آپݨے سنگتی کوں ہٹکیندے او کم عقل ہے، تے سمجھ والا بندہ چپ رہندا ہے۔",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ہٹکیندے"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "آپݨے سنگتی کوں"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "عقل \/ دل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "سمجھ والا"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "چپ رہندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:14.811294607Z",
+  "model": "glm-5.3"
+}

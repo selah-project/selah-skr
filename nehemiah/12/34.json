@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یہوداہ تے بِنیامین تے شِمعیاہ تے یِرمیاہ۔",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بِنیامین"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "تے شِمعیاہ"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "تے یِرمیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:40.023540411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یاہوہ دا صندوق فلستیاں دے دیس وِچ ست مہینے رہ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:37:16.717057399Z",
+  "model": "glm-5.3"
+}

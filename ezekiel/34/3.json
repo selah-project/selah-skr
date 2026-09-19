@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "⟨את⟩ چربی کوں تُساں کھادا تے ⟨את⟩ اُن کوں پاتا، موٹی کوں ذبح کیتُس، ریوڑ کوں نہ چرایا۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی کوں"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھادا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُن کوں"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "پاتا"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "موٹی"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ذبح کیتُس"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ریوڑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "چرایا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:39:09.578974921Z",
+  "model": "glm-5.3"
+}

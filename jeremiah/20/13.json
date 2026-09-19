@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "یاہوہ کوں ڳاؤ، یاہوہ ⟨את⟩ دی تعریف کرو، کیوں جو اوں غریب دی جان بُریاں دے ہتھ توں چھڑائی۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "چھڑائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غریب دی جان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بُریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:06:48.069830348Z",
+  "model": "glm-5.3"
+}

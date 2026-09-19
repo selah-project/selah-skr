@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 88,
+  "translation": "کے قبر وِچ تیݙا خیسِد ݙسیسی؟ تیݙی سچائی ہلاکت وِچ؟",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "کے ݙسیسی"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "قبر وِچ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیݙا خیسِد"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تیݙی سچائی"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ہلاکت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:52.168674469Z",
+  "model": "glm-5.3"
+}

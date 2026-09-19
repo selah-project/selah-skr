@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اِیہے ترے بندے — شدرخ، میشخ تے عبد نگو — بھاہ دی ٻلدی بھٹی دے وِچکار ٻدھے ہوئے ڈھے پئے۔",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "تے بندے"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "اِیہے"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "شدرخ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "تے عبد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈھے پئے"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "بھٹی"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "ٻلدی"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "ٻدھے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:23:17.195900996Z",
+  "model": "glm-5.3"
+}

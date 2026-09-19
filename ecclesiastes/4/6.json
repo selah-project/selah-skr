@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ہِک ہتھ بھر آرام چنگی ہے، ݙو ہتھ بھر محنت تے ہوا نال جھیڑے توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگی ہے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ݙو ہتھ بھر"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "تے جھیڑا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:59.376452711Z",
+  "model": "glm-5.3"
+}

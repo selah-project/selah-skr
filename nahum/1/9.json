@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تُساں یاہوہ دے خلاف کیا سوچیندے او؟ او پوری مُکاوندا ہے — ݙوجھی واری مصیبت کائنی اُٹھسی۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "سوچیندے او"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پورا مُکاوݨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُٹھسی"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ݙو واری"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "مصیبت"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:00.556291342Z",
+  "model": "glm-5.3"
+}

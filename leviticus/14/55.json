@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کپڑے دے کوڑھ تے گھر ⟨دے کوڑھ⟩ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "تے کوڑھ کیتے"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "کپڑے دے"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "تے گھر ⟨دے کوڑھ⟩ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.379573599Z",
+  "model": "glm-5.3"
+}

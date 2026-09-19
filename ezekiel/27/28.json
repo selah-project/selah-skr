@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تیݙے ملاحاں دی چیخ دے آواز نال وسیبے ہلسن۔",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "آواز نال"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "چیخ"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "تیݙے ملاحاں دی"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ہلسن"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "وسیبے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:15.656051003Z",
+  "model": "glm-5.3"
+}

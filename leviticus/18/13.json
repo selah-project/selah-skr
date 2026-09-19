@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙی ماء دی بھیݨ دی برہنگی نہ کھولیں، کیوں جو او تیݙی ماء دا گوشت ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بھیݨ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیݙی ماء"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیݙی ماء"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:57.575074041Z",
+  "model": "glm-5.3"
+}

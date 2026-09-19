@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوندے رستے مِٹھاس دے رستے ہِن، تے اوندیاں ساریاں واٹاں سلامتی ہِن۔",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "اوندے رستے"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "مِٹھاس"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساریاں"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "اوندیاں واٹاں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.033470494Z",
+  "model": "glm-5.3"
+}

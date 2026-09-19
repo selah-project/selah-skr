@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بیوہ تے یتیم، پرایا تے غریب کوں ستام نہ کرو، تے آپݨے دل وِچ بھرا دے خلاف برائی نہ سوچو۔",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "تے بیوہ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "تے یتیم"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پرایا"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "ستام کرو"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "تے برائی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "بھرا دے خلاف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "سوچو"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "آپݨے دل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:17.136880103Z",
+  "model": "glm-5.3"
+}

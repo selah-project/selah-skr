@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اُو اُتھوں دبیر دے رہݨ آلیاں دوالے ڳیا — دبیر دا ناں پہلے قریت سفر ہا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رہݨ آلیاں"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:21:38.133451115Z",
+  "model": "glm-5.3"
+}

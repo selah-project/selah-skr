@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "او بے کار ہن، ٹھڳی دا کم، اوہناں دی پکڑ دے ویلے اوہ فنا تھی ویسن۔",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "بے کار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ٹھڳی دا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "دے ویلے"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "اوہناں دی پکڑ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "اوہ فنا تھی ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:02:01.450181050Z",
+  "model": "glm-5.3"
+}

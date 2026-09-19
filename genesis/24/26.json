@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے بندہ جھکیا تے یاہوہ کوں سجدہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "تے جھکیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "تے سجدہ کیتا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:11.820323078Z",
+  "model": "glm-5.3"
+}

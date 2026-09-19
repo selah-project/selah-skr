@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میݙا دِل تیݙیاں حکماں وِچ کھرا رہے، تاں جو میں شرم نہ کراں۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دِل"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کھرا"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "تیݙیاں حکماں وِچ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شرم کراں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:35.323884739Z",
+  "model": "glm-5.3"
+}

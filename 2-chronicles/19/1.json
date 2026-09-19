@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یہوشوع، یہودا دا بادشاہ، اپݨے گھر دو سلامتی نال یروشلایم کوں وَل ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَل ڳیا"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپݨے گھر"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتی نال"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:53:58.972220908Z",
+  "model": "glm-5.3"
+}

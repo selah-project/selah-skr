@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کلہا خون نہ کھاوو؛ اوہ زمین اُتے پاݨی وانگوں وہا ݙیسیں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "اوہ وہا ݙیسیں"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاݨی وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:20.968184385Z",
+  "model": "glm-5.3"
+}

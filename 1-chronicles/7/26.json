@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "لَعدن اوندا پُتر، عمیہود اوندا پُتر، اِلیشِمَع اوندا پُتر ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لَعدن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیہود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "اِلیشِمَع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:53.598060452Z",
+  "model": "glm-5.3"
+}

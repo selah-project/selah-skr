@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے میں مُڑیم تے پہاڑ توں لتھا، تے پہاڑ بھا وِچ ٻلدا پیا ہا، تے عہد دیاں ݙوں لوحاں میݙیاں ݙوں ہتھاں اُتے ہن۔",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "تے میں مُڑیم"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "تے میں لتھا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "تے پہاڑ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ٻلدا پیا ہا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے ݙوں"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحاں"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دیاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙوں"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میݙیاں ہتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:54:18.270412780Z",
+  "model": "glm-5.3"
+}

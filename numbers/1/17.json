@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے موشے تے اہرون ⟨את⟩ اوہے بندیے چِنتے جنہاں دے ناں نال ڳݨے ڳئے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چِنتے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہے بندیے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "اوہے بندیے"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اوہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ڳݨے ڳئے ہن"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ناں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:52.387742556Z",
+  "model": "glm-5.3"
+}

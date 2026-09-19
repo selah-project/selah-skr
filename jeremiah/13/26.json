@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے میں وی تیݙا دامن تیݙے مُہانڈے اُتے چا لہائے، تاں جو تیݙی بے عزتی ݙسے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "لہائے"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "تیݙا دامن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے مُہانڈے"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "تاں جو ݙسے"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "تیݙی بے عزتی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:20.888250056Z",
+  "model": "glm-5.3"
+}

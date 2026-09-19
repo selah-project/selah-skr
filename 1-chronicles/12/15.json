@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ایہ گاد دے پُتریں وِچوں لشکر دے سردار ہن — نِکا سَو دے برابر، تے وݙا ہِک ہزار دے برابر۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتریں وِچوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر دے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "سَو دے برابر"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "تے وݙا"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ہِک ہزار دے برابر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:29.651080055Z",
+  "model": "glm-5.3"
+}

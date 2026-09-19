@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اوں میکوں شراب دے گھر گھن ڳیا، تے اوندا جھنڈا میݙے اُتے محبت ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "اوں میکوں گھن ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب دے"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "تے اوندا جھنڈا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:20.352567387Z",
+  "model": "glm-5.3"
+}

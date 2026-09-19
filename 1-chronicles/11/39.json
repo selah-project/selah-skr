@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تصلک عمونی، نحرای برتی، یوآو پُتر تصرویہ دے ہتھیار چاوݨ آلا۔",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تصلک"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "عمونی"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نحرای"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "برتی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاوݨ آلا"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہتھیار"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصرویہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:24.308250094Z",
+  "model": "glm-5.3"
+}

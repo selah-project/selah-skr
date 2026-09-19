@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تئیں جو یاہوہ اسماناں توں جھات پا تے ݙیکھے۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تئیں جو"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "جھات پاوے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙیکھے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.376474778Z",
+  "model": "glm-5.3"
+}

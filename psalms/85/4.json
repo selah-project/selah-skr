@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "تُوں ساری تیݙی کاوڑ سمیٹ گھدی، تیݙے اَپݨے دے بھڑکن توں وَل ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "سمیٹ گھدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "تیݙی کاوڑ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "وَل ڳیاں"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "بھڑکن"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیݙے اَپݨے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:49.542321696Z",
+  "model": "glm-5.3"
+}

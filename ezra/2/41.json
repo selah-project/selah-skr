@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ڳاݙے، آساف دے پُتر، ہِک سو اِیہہ تے اَٹھ۔",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ڳاݙے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "اِیہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:49.644823556Z",
+  "model": "glm-5.3"
+}

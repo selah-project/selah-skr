@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "نکھار کُوڑ ہے تے حسن وہالت، پر یاہوہ توں ڈرݨ آلی تریمتیں اوہ ہے جیہڑی تعریف پاوے۔",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "החן",
+      "gloss": "نکھار"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "تے وہالت"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "حسن"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمتیں"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "تعریف پاوے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:37.650887264Z",
+  "model": "glm-5.3"
+}

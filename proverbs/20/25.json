@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "بندے کیتے پھندا ہے جو او ہٹکیں بولے ”پاک“، تے نذراں توں بعد پچھے۔",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "پھندا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے کیتے"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "ہٹکیں بولے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "”پاک“"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "نذراں"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "پچھے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:25.803151004Z",
+  "model": "glm-5.3"
+}

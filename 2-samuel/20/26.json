@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے عیرا یائیری وی داوِد دا کاہن ہا۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "یائیری"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:59:12.930981892Z",
+  "model": "glm-5.3"
+}

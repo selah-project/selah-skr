@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے او تھیا، وبا دے پچھوں —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے او تھیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "وبا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:36.505880930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے ⟨את⟩ مادی کوں چار گنا ولا ݙیسی، کیوں جو اوں ⟨את⟩ ایہ ڳالھ کیتی تے کیوں جو اوں رحم نہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مادی"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ولا ݙیسی"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "چار گنا"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوں کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "رحم کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:09:46.802581200Z",
+  "model": "glm-5.3"
+}

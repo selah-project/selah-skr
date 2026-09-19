@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اوں قوم کوں آکھیا: “ترے ݙینہہ تئیں تیار رہو، ذال دے نیڑے نہ ونڄو۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "رہو"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ترے … تئیں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "نیڑے ونڄو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے نیڑے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:53:11.201047145Z",
+  "model": "glm-5.3"
+}

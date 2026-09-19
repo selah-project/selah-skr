@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 14:48",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے جے کاہن آوݨ آوے تے ݙیکھے، تے ݙیکھو، گھر لِپݨ توں بعد داغ گھر وِچ نہ پھیلیا ہووے، تاں کاہن ⟨את⟩ گھر کوں پاک آکھسی، کیوں جو داغ ٹھیک تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلا"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הטח",
+      "gloss": "لِپݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "تے پاک آکھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ٹھیک تھیا"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:22.442700553Z",
+  "model": "glm-5.3"
+}

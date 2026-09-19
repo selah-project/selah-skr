@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "راستباز دا مُونہہ دانائی ٻولسی، تے اوندی زبان انصاف الٰہسی۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دا مُونہہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ٻولسی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "تے اوندی زبان"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "الٰہسی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:53.351015439Z",
+  "model": "glm-5.3"
+}

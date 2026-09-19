@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے موشے قورح نال آکھیا: «سُݨو ہݨ، لوی دے پُتر!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہݨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:15.272640019Z",
+  "model": "glm-5.3"
+}

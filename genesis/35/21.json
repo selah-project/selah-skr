@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے اِسرائیل ٹُر ڳیا، تے اُوں آپݨا خیمہ مِگدل-عیدر توں اَڳوں کھنڈایا۔",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "کھنڈایا"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "آپݨا خیمہ"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "توں اَڳوں"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "مِگدل"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "عیدر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:20.958329712Z",
+  "model": "glm-5.3"
+}

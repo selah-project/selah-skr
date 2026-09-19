@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے یِتصہار دے پُتر قورح، نَفگ تے زِکری ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصہار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "تے نَفگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "تے زِکری"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:49.436730304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "صلمون احوخی، مہرای نتوفاتی،",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "صلمون"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "احوخی"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مہرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نتوفاتی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:08.772391680Z",
+  "model": "glm-5.3"
+}

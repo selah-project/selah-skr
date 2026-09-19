@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "اندھے کیتے اَکھیں میں ہم، تے لنگڑے کیتے پیر میں ہم۔",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "اَکھیں"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "اندھے کیتے"
+    },
+    {
+      "surface": "وרגלים",
+      "gloss": "تے پیر"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "لنگڑے کیتے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:44.675165671Z",
+  "model": "glm-5.3"
+}

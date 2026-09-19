@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے بِنیامین ⟨את⟩ بیلع کوں جیݨایا، اپݨا پہلوڑا؛ اَشبیل ݙوجھا، تے اَحراح ترہاں۔",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بِنیامین"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جیݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیلع"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بیلع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "اپݨا پہلوڑا"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "اَشبیل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "تے اَحراح"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ترہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:44.404961357Z",
+  "model": "glm-5.3"
+}

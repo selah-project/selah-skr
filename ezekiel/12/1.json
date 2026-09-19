@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یاہوہ دا ڳالھ میݙے کولھ آیا، جو او آکھے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو او آکھے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:02.640939328Z",
+  "model": "glm-5.3"
+}

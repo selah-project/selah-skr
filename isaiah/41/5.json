@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "جزیرے ݙٹھے تے ݙریے، زمین دے کونے کپ ڳئے، او نیڑے آئے تے آ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ݙٹھے"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزیرے"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "تے ݙریے"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "کپ ڳئے"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "نیڑے آئے"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "تے آ ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:48:00.281586640Z",
+  "model": "glm-5.3"
+}

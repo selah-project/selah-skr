@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے روشنی مِٹھی ہے، تے اکھیں کیتے چنگی ہے ⟨את⟩ سِجھ ݙیکھݨ۔",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "تے مِٹھی"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "تے چنگی"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "اکھیں کیتے"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ݙیکھݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِجھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:54.292662644Z",
+  "model": "glm-5.3"
+}

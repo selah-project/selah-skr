@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یہوہ اَہرون اُتے ٻہوں غصے تھیا، اوکوں تباہ کرݨ کیتے، تے میں اوں ویلھے اَہرون کیتے وی دعا کیتی۔",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "تے اَہرون"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "غصے تھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "اوکوں تباہ کرݨ کیتے"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "دعا کیتی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہرون"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:38.917225175Z",
+  "model": "glm-5.3"
+}

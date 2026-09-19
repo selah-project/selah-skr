@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "جیہڑا نیکی دے بدلے برائی ݙیندے، برائی اوندے گھروں نہ ہٹسی۔",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ولیندا ݙیندے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "ہٹسی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "اوندے گھروں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:12.377695666Z",
+  "model": "glm-5.3"
+}

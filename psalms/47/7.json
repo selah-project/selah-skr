@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "ایلوہیم کوں ڳاؤ، ڳاؤ، ساݙے بادشاہ کوں ڳاؤ، ڳاؤ۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم کوں"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ساݙے بادشاہ کوں"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:20.423653145Z",
+  "model": "glm-5.3"
+}

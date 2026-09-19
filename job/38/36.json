@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "کئے حکمت اندر دے حصیاں وِچ رکھی، یا کئے مرغ کوں سمجھ ݙتی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کئے"
+    },
+    {
+      "surface": "שת",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "اندرونی حصیاں وِچ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کئے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "مرغ کوں"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:38.678749052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے پرعوہ اپݨے نوکراں کوں آکھیا: “کیا اِیہو جیہا بندہ ⟨ملسی⟩ جیندے وِچ ایلوہیم دی روح ہووے؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپݨے نوکراں"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ملسی"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "اِیہو جیہا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:38:44.294664007Z",
+  "model": "glm-5.3"
+}

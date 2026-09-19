@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یونہ کول یاہوہ دا لفظ ݙوجھی واری آیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ݙوجھی واری"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:56:50.720352094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "حصار دی کندھ دی چوڑائی وِچ، پوادھ پاسے، وکھری جاہ دے اَڳاڑے تے عمارت دے اَڳاڑے، کمرے ہن۔",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "چوڑائی وِچ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حصار دی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اَڳاڑے"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "وکھری جاہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اَڳاڑے"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "عمارت"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "کمرے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:13.948146495Z",
+  "model": "glm-5.3"
+}

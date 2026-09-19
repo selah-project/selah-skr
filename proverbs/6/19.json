@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کوڑیاں ڳالھیں پھُونکݨ آلا کوڑ دا گواہ، تے بھراواں وِچ پھوٹ پاوݨ آلا۔",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "پھُونکݨ آلا"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "کوڑیاں ڳالھیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ دا"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "تے پھوٹ پاوݨ آلا"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "پھوٹ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھراواں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:43.555199103Z",
+  "model": "glm-5.3"
+}

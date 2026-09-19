@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بےسر تے ہود تے شمّا تے شِلشا تے یِتران تے بیرا۔",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "بےسر"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "تے ہود"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "تے شمّا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے شِلشا"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "تے یِتران"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "تے بیرا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:00.358349367Z",
+  "model": "glm-5.3"
+}

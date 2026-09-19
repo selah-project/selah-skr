@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "حام دی زمین وِچ عجیب کرتوتاں، سُوف سمندر اُتے خوفناک کم۔",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب کرتوتاں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "خوفناک کم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:23.623998139Z",
+  "model": "glm-5.3"
+}

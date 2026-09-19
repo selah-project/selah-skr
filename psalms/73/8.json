@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 73,
+  "translation": "او ٹھٹھے مارِن تے ظلمانہ ڳالھیں کرِن، اُچوں ٻولیندن۔",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ٹھٹھے مارِن"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "تے … ڳالھیں کرِن"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ظلمانہ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "زبرِستی دی"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "اُچوں"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ٻولیندن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:22.128619959Z",
+  "model": "glm-5.3"
+}

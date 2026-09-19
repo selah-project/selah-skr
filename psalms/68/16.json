@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 68,
+  "translation": "ایلوہیم دا پہاڑ، بَشان دا پہاڑ؛ اُچیاں چوٹیاں دا پہاڑ، بَشان دا پہاڑ۔",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بَشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "اُچیاں چوٹیاں"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بَشان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:29.766033115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "میں پہاڑ ݙٹھے، تے ݙیکھو — او کانپدے پئے ہن، تے سارے ٹیلے ہل ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "کانپدے پئے ہن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹیلے"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "ہل ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:25.865558995Z",
+  "model": "glm-5.3"
+}

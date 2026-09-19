@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے میݙے ناں تے کوڑی قسم نہ چاؤ، تے آپݨے ایلوہیم دے ⟨את⟩ ناں دا بے-عزت نہ کرو — میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "قسم چاؤ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "میݙے ناں تے"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "بے-عزت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "آپݨے ایلوہیم دے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:27.037074285Z",
+  "model": "glm-5.3"
+}

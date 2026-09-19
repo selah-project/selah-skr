@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یِشمری، تے یِزلیاہ، تے یوواب — اِیلپَعَل دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "تے یِشمری"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "تے یِزلیاہ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "تے یوواب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِیلپَعَل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:43.067571365Z",
+  "model": "glm-5.3"
+}

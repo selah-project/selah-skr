@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "میں بادشاہ دے منہ دی رکھوالی کریندا ہاں، تے ایلوہیم دی قسم دے موجب۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکھوالی کریندا ہاں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:33.827863165Z",
+  "model": "glm-5.3"
+}

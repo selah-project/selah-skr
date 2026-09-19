@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "راستی دے رستے وِچ زندگی ہے، تے اوندے پندھ دے رستے وِچ موت کائنی۔",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی دے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستے"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "پندھ دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:30.272447923Z",
+  "model": "glm-5.3"
+}

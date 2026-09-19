@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "ساݙا دل پچھوں نہ ہٹیا، تے ساݙے قدم تیݙے رستے توں نہ ٹلے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ہٹیا"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ساݙا دل"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "تے ٹلے"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "ساݙے قدم"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "تیݙے رستے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:31.045969320Z",
+  "model": "glm-5.3"
+}

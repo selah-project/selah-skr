@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 15:20",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "ایہ یہوداہ دے پُتریاں دے ݙوج دا ورثہ ہے، آپݨیاں ٹبراں موجب۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورثہ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ݙوج"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "آپݨیاں ٹبراں موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:00.472176544Z",
+  "model": "glm-5.3"
+}

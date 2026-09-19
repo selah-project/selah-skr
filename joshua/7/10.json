@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ یہوشوع کوں آکھیا: “اُٹھ؛ ایہ کیوں اے جو تُساں آپݨے مُہاڑے اُتے ڈھیہ پیو؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨تُساں کیتے⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈھیہ پیو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "آپݨے مُہاڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:11:10.999768201Z",
+  "model": "glm-5.3"
+}

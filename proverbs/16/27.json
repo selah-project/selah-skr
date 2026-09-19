@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بےکار بندہ برائی پٹیندے، تے اوندے ہونٹھاں اُتے بھا وانگوں بھڑدا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بےکار"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "پٹیندے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "اوندے ہونٹھاں"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "بھا وانگوں"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "بھڑدا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:18.436901835Z",
+  "model": "glm-5.3"
+}

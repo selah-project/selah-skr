@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے تصرویہ دا پُتر یوآب لشکر اُتے ⟨ہا⟩، تے اخیلود دا پُتر یہوشفت یاد رکھݨ آلا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصرویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "یہوشفت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اخیلود"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "یاد رکھݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:01.970926889Z",
+  "model": "glm-5.3"
+}

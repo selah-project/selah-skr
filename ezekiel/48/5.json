@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے مَنَشّے دی سرحد اُتے، پوادھ دی طرف توں لَہندے پاسے تئیں، اَپھرایم کیتے ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّے"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "توں طرف"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لَہندے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَپھرایم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:29.530624592Z",
+  "model": "glm-5.3"
+}

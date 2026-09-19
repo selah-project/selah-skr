@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے پریتص دے پُتر ہن: خیتصون کیتے خیتصونی ٟبر، تے خامول کیتے خامولی ٟبر۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے … ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پریتص"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "خیتصون کیتے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "خیتصونی"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "خامول کیتے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "خامولی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:41.193090226Z",
+  "model": "glm-5.3"
+}

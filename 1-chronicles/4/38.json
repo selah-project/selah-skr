@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 4:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ایہ او ہن جیہڑے ناں نال آئے، آپ آپݨیاں mishpakhot وِچ سردار ہن، تے آپ آپݨے پیوواں دے گھر ٻہوں ودھے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آوݨ آلے"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "נשיאים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "במשפחותם",
+      "gloss": "آپݨیاں قبیلیاں وِچ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "آپݨے پیوواں دے"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ٻہوں ودھے"
+    },
+    {
+      "surface": "לרוב",
+      "gloss": "ٻہوں گنتی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:24.980867184Z",
+  "model": "glm-5.3"
+}

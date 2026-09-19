@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تُساں انصاف وِچ، ناپ وِچ، تول وِچ تے مَپ وِچ زیتی نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زیتی"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف وِچ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ناپ وِچ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "تول وِچ"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "تے مَپ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:02.736131829Z",
+  "model": "glm-5.3"
+}

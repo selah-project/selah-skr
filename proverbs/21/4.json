@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اُکّیاں اکھیاں تے کشادہ دل — شریر لوکاں دا ہل رڑھاوݨ — گناہ ہے۔",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "اُکّیاں"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھیاں"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے کشادہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ہل رڑھاوݨ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریر لوکاں دا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:59.606015234Z",
+  "model": "glm-5.3"
+}

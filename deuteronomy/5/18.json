@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے تُساں زنا نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:12.295847342Z",
+  "model": "glm-5.3"
+}

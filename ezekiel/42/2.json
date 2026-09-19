@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "سو ہتھ لمبائی دے اڳوں اُتر دا دروازہ ہا، تے چوڑائی پنجاہ ہتھ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامھݨے"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "اُتر دا"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:44:47.264925668Z",
+  "model": "glm-5.3"
+}

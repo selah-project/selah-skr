@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے جے اوہ غریب بندہ ہووے، اوندے گروی نال نہ سمے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سمے"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "اوندے گروی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:46.188345279Z",
+  "model": "glm-5.3"
+}

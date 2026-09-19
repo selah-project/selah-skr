@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "سݨو یاہوہ دی ڳالھ، یعقوو دے گھر والو، تے اِسرائیل دے گھر دیاں ساریاں گھراݨے۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "گھراݨے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:57:44.321978551Z",
+  "model": "glm-5.3"
+}

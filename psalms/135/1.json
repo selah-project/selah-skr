@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "ستائش کرو یاہ ⟨دا⟩، ستائش کرو یاہوہ دے ناں ⟨את⟩ کوں، ستائش کرو، یاہوہ دے ٻانہے۔",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستائش کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستائش کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں کوں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستائش کرو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "دے ٻانہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:46.435213682Z",
+  "model": "glm-5.3"
+}

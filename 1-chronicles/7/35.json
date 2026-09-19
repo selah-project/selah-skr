@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے اوندے بھرا ہیلَم دے پُتر تصوپخ، یِمنع، شیلش تے عمال ہن۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ہیلَم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندے بھرا"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "تصوپخ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "تے یِمنع"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے شیلش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "تے عمال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:39.968097470Z",
+  "model": "glm-5.3"
+}

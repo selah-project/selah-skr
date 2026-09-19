@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ست کوں حصہ ݙے، تے اَٹھ کوں وی، کیوں جو توں نہ ڄاݨسیں جو زمین اُتے کیڑھی بُرائی آویسی۔",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ست کوں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "اَٹھ کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاݨسیں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیڑھی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:36.296075907Z",
+  "model": "glm-5.3"
+}

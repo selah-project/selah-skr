@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "سُݨو، دور آلیو، جو میں کیتے؛ تے ڄاݨو، نیڑے آلیو، میݙی قوت۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "دور آلیو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتے"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "تے ڄاݨو"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "نیڑے آلیو"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "میݙی قوت"
+    }
+  ],
+  "timestamp": "2026-09-19T17:43:19.266234594Z",
+  "model": "glm-5.3"
+}

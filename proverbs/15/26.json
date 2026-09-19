@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "بری سوچاں یاہوہ کوں گھناؤنیاں ہن، تے مٹھے ٻول صاف ہن۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچاں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "تے صاف ہن"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "مٹھے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:42.127884803Z",
+  "model": "glm-5.3"
+}

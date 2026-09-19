@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تے صور دی دھی تحفے نال تیݙے مُکھ دی مہربانی منگسی، قوم دے امیر لوک۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "تے دھی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "تحفے نال"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے مُکھ"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "منگسن"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:23.833782660Z",
+  "model": "glm-5.3"
+}

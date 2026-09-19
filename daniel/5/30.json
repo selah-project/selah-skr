@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اُوں رات ہی وِچ بیلشَتصر، کسدیئاں دا بادشاہ، ماریا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "ماریا ڳیا"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "بیلشَتصر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "کسدیئاں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:29.801638143Z",
+  "model": "glm-5.3"
+}

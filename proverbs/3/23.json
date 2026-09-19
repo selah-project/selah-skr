@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تݙاں تُساں اپݨے رستے اُتے بھروسے نال ٹُرسوں، تے تیݙا پیر ٹکرسی نہ ۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ٹُرسوں"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تیݙے رستے اُتے"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "تے تیݙا پیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ٹکرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.784981474Z",
+  "model": "glm-5.3"
+}

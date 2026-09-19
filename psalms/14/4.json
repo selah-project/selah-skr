@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "کیا سب جبر دے کرݨ آلے ڄاݨدن؟ جیہڑے میݙی قوم کھاوݨ آلے ہن، روٹی کھادُؤس؛ او یاہوہ کوں سݙیا کائنی۔",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرݨ آلے"
+    },
+    {
+      "surface": "און",
+      "gloss": "جبر"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "کھاوݨ آلے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "کھادُؤس"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سݙیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:27.197922234Z",
+  "model": "glm-5.3"
+}

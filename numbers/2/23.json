@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر تے اُنہاں دی ڳݨتری پینتِریہہ ہزار تے چار سو ہن۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اُنہاں دی ڳݨتری"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:14.095105170Z",
+  "model": "glm-5.3"
+}

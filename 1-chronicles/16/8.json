@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "یاہوہ دا شکر کرو، اوندے ناں کوں پکارو، قوماں وِچ اوندے کم ݙساؤ۔",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شکر کرو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "پکارو"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "اوندے ناں کوں"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ݙساؤ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "اوندے کم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:42.960534819Z",
+  "model": "glm-5.3"
+}

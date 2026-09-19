@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بِیسے دے پُتر، مِعونیم دے پُتر، نِفوشسیٖم دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "بِیسے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "مِعونیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "نِفوشسیٖم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:27.572985438Z",
+  "model": "glm-5.3"
+}

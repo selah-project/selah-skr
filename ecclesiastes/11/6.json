@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "صبح کوں بو ⟨את⟩ آپݨاں بیج، تے شام کوں آپݨاں ہتھ نہ رکھیں، کیوں جو تُوں نہ ڄاݨدا کِہڑا کامیاب تھیسی، ایہ یا اوہ، یا ݙوہیں ہِکو جیہیں چنگے۔",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "صبح کوں"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨاں بیج"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "آپݨاں بیج"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "تے شام کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "رکھیں"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "آپݨاں ہتھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "تُوں نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کِہڑا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "کامیاب تھیسی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ݙوہیں"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ہِکو جیہیں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:54.290056929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ⟨את⟩ بنیادیں کوں بݨایا، تے ⟨את⟩ حوضاں کوں بݨایا بنیادیں اُتے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنیادیں"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنیادیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حوضاں"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنیادیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:26.652283159Z",
+  "model": "glm-5.3"
+}

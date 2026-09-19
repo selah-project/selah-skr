@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "انہاں توں نہ ݙرو، کیوں جو یاہوہ تُہاݙا ایلوہیم اوہو ہے جیہڑا تُہاݙے کیتے لڑدا ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "انہاں توں ݙرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙا ایلوہیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "لڑدا ہویا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:59.408894494Z",
+  "model": "glm-5.3"
+}

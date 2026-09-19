@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے اِلیہو جواب ݙتا تے آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیہو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:47.429465021Z",
+  "model": "glm-5.3"
+}

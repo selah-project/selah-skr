@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے شِمعون دے پُتراں دے قبیلے دے لشکر اُتے تصوریشدّای دا پُتر شِلُومِییل ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون دے"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شِلُومِییل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "تصوری"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:46.914336Z",
+  "model": "glm-5.3"
+}

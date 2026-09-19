@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے تھیا، کاہناں دے پاک جاہ توں نکلݨ ویلے، تے بدلی یاہوہ دے گھر ⟨את⟩ بھری ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "نکلݨ ویلے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک جاہ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "تے بدلی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھری ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:29.466688808Z",
+  "model": "glm-5.3"
+}

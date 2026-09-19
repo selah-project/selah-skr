@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے وݙی دھیے پُتر ڄایا، تے اوندا ناں مُوآب رکھیس؛ او مُوآب دا پیو ⟨ہے⟩ اَج تئیں۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "وݙی دھی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "رکھیس"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:37.616699263Z",
+  "model": "glm-5.3"
+}

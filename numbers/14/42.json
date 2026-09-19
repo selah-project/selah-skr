@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "نہ چڑھو، کیوں جو یاہوہ تُہاݙے وِچ کائنی، تے تُہاݙے دشمناں اَڳوں مارے نہ ونجو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "تُہاݙے وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "مارے ونجو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "تُہاݙے دشمناں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:54.452664468Z",
+  "model": "glm-5.3"
+}

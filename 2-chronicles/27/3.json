@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "اُوں یاہوہ دے گھر دا اُچا دروازہ ⟨את⟩ بݨایوس، تے عوفیل دیوار اُتے ٻہوں کجھ بݨایوس۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایوس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُچا دروازہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "تے دیوار اُتے"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عوفیل دی"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایوس"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:09.204111805Z",
+  "model": "glm-5.3"
+}

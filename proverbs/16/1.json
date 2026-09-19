@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "آدمی دے دل دیاں سوچاں ہوندیاں ہن، تے زبان دا جواب یاہوہ توں ہوندا ہے۔",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "آدمی دے"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "سوچاں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل دیاں"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "تے یاہوہ توں"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:26.706431829Z",
+  "model": "glm-5.3"
+}

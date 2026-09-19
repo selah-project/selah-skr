@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "میں آپ میݙے پیارے دی ہاں، تے اوندا چاہ میݙے اُتے ہے۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "میݙے پیارے دی"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "تے میݙے اُتے"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "اوندا چاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:34.711134789Z",
+  "model": "glm-5.3"
+}

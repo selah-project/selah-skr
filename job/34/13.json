@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "زمین اُتے اوندے نگرانی دا حکم کئیں ݙتا؟ تے ساری دنیا کئیں رکھی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کئیں"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "نگرانی دا حکم ݙتا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کئیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ساری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:24.672411900Z",
+  "model": "glm-5.3"
+}

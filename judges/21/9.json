@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 21:9",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے قوم ڳݨی ڳئی، تے ݙیکھو، یابیش گلعاد دے وسنیکاں وِچوں اُتھاں کوئی بندہ کائنی۔",
+  "tokens": [
+    {
+      "surface": "ויתפקד",
+      "gloss": "ڳݨی ڳئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מיושבי",
+      "gloss": "وسنیکاں وِچوں"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "یابیش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T16:34:23.004584013Z",
+  "model": "glm-5.3"
+}

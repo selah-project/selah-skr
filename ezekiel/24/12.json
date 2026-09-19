@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ظلماں نال او تھکا ڈتی ڳئی، تے اوندا وݙا زنگ اوندے وِچوں نہ نکلسی — بھا وِچ اوندا زنگ۔",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "ظلماں"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "تھکا ڈتی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلسی"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اوندے وِچوں"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "زنگ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "زنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:39.486636522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "اجڑ ونڄن اپݨی شرمندی دے بدلے، جیہڑے میکوں آہدن: “ہاہ! ہاہ!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "اجڑ ونڄن"
+    },
+    {
+      "surface": "על",
+      "gloss": "دی وجہ توں"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "اپݨی شرمندی"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "جیہڑے آہدن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہاہ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہاہ!"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:45.320428604Z",
+  "model": "glm-5.3"
+}

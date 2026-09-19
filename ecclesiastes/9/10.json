@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "جو کجھ تیݙا ہتھ کرݨ کیتے پا سڳے، اپݨی طاقت نال کر؛ کیوں جو شیول وِچ، جِتھاں توں ویندا پئےں، نہ کوئی کم ہِے، نہ حساب، نہ ڄاݨ، نہ سیانف۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پا سڳے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙا ہتھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "اپݨی طاقت نال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "حساب"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "سیانف"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "شیول وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھاں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ویندا پئےں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:52.054146123Z",
+  "model": "glm-5.3"
+}

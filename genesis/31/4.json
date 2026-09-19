@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یعقوو بھیڄیا تے راخیل تے لیعہ کوں اپݨے ڈھوراں دو کھیت وِچ سݙ ڳھدس۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙ ڳھدس"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راخیل کوں"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "تے لیعہ کوں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "اُوندے ڈھوراں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:04.194762864Z",
+  "model": "glm-5.3"
+}

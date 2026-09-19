@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "اُوں اپݨی کمر طاقت نال ٻدھی، تے اپݨے بازو مضبوط کیتُس۔",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "ٻدھیُس"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "طاقت نال"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "اپݨی کمر"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "مضبوط کیتُس"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "اپݨے بازو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:36.701105620Z",
+  "model": "glm-5.3"
+}

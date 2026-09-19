@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "عناتوت دے بندے، ہِک سو تے اٹھائی۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:30.892099190Z",
+  "model": "glm-5.3"
+}

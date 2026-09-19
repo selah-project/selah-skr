@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 21:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "بدکار کیوں جیندے ہن؟ او کھنڈر تھیندن، بلکہ طاقت وِچ ودھدن۔",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جیندے ہن"
+    },
+    {
+      "surface": "עתקו",
+      "gloss": "کھنڈر تھیندن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ودھدن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:07.645298407Z",
+  "model": "glm-5.3"
+}

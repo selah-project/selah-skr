@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "تے میں دمشق دی墙上 بھا ٻالیساں، تے او بِن ہدد دے قلعے بھنگ کر ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "تے میں ٻالیساں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "دی墙上"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "تے او بھنگ کر ݙیسی"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدد"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:11.746100236Z",
+  "model": "glm-5.3"
+}

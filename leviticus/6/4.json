@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "“تے او ⟨את⟩ اپݨے کپڑے لہیسی، تے ٻئے کپڑے پویسی، تے ⟨את⟩ خاک کوں چا کے پڑاؤ دے ٻاہر ہِک صاف جاہ تے گھن ویسی۔”",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "تے لہیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے کپڑے"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "اپݨے کپڑے"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "تے پویسی"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "تے ٻاہر گھن ویسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خاک کوں"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "خاک کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاؤ دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاہ تے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "صاف"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:30.844878435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "⟨את⟩ صندوق گواہی دا، تے ⟨את⟩ اوندے بانس، تے ⟨את⟩ کفارت کوں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق کوں"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے بانس"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "بانس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کفارت کوں"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفارت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:08.560056957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ماخیر کوں میں ⟨את⟩ گِلعاد ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "تے ماخیر کوں"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:40.452564886Z",
+  "model": "glm-5.3"
+}

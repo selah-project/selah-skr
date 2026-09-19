@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یواخ اوندا پُتر، عِدّو اوندا پُتر، زَرَخ اوندا پُتر، یَاتَرای اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "یواخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "یَاتَرای"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:05.411253708Z",
+  "model": "glm-5.3"
+}

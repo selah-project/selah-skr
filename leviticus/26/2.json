@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "⟨את⟩ میݙیاں شبّاتاں تُساں مانو، تے میݙے پاک گھر توں ݙرو؛ میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙیاں شبّاتاں"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "میݙیاں شبّاتاں"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "مانو"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "تے میݙا پاک گھر"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "توں ݙرو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:18.211099343Z",
+  "model": "glm-5.3"
+}

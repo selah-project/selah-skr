@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "چھیویں ݙینہہ اُتے گاد دے پُتریں دا سردار اِلیاساف بِن دِعو ایل ⟨ہئی⟩۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ اُتے"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھیویں"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتریں دا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعو ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:38.521093587Z",
+  "model": "glm-5.3"
+}

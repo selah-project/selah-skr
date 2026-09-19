@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ایویں تھیا، جݙاں جنگ آلے سارے بندے قوم دے وچکار توں مر کے مُک ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "مُک ڳئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ آلے"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مر کے"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وچکار توں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:56.093767867Z",
+  "model": "glm-5.3"
+}

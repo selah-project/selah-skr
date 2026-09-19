@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "جݙاں تُساں گِݨتی دے بندے ہاوے، ٻہوں تھوڑے، تے اُوندے وِچ پِرائے ہاوے،",
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "جݙاں تُساں ہاوے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "گِݨتی دے"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ٻہوں تھوڑے"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "تے پِرائے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:35.716167843Z",
+  "model": "glm-5.3"
+}

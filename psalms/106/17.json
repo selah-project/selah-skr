@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "زمین کھُل ڳئی تے داتان کوں نگل ڳئی، تے اَبیرام دی جماعت اُتے ڈھک ڳئی۔",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "کھُل ڳئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "نگل ڳئی"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ڈھک ڳئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "اَبیرام"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:12.677662203Z",
+  "model": "glm-5.3"
+}

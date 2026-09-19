@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "دان، یوسف، بِنیامین، نفتالی، گاد تے آشیر۔",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بِنیامین"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے آشیر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:57.992837359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے یاہوہ دا {|keyword|word|word} <|keyword|word|word> دا کلام یاہوہ ⟨مآت⟩ کنوں یِرمیاہو دو آیا، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "مאת",
+      "gloss": "⟨את⟩ کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:14:56.840190209Z",
+  "model": "glm-5.3"
+}

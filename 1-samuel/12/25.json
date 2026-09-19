@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے جے تُساں برائی کریسو، تاں تُساں وی تے تُہاݙا بادشاہ وی مِٹ پوسو۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "کریسو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "تُہاݙا بادشاہ"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "مِٹ پوسو"
+    }
+  ],
+  "timestamp": "2026-09-19T16:37:41.355580375Z",
+  "model": "glm-5.3"
+}

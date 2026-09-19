@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے مَل سارے کم کیتے — اوہنوں ⟨אתה⟩ بݨاوݨے — کافی ہئی، تے وادھو وی۔",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "تے مَل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "דים",
+      "gloss": "کافی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے … کیتے"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بݨاوݨے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "اوہنوں (کم کوں)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "تے وادھو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:06:10.467845351Z",
+  "model": "glm-5.3"
+}

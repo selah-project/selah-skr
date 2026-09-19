@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "منشہ کیتے تپوح دی زمین ہئی، تے تپوح منشہ دی سرحد تے افرایم دے پُتراں دا ہا۔",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "منشہ کیتے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپوح دی"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "تے تپوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ دی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:27.438253315Z",
+  "model": "glm-5.3"
+}

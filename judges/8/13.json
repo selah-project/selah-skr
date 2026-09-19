@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے گدعون، یوآش دا پُتر، جنگ توں خیریس دی چڑھی ⟨توں⟩ وَل آیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وَل آیا"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گدعون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "چڑھی"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "خیریس"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:45.579084528Z",
+  "model": "glm-5.3"
+}

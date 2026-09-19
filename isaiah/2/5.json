@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اے یعقوو دے گھر، آؤ، اساں یاہوہ دے چمݨ وِچ ٹُروں۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "اساں ٹُروں"
+    },
+    {
+      "surface": "באור",
+      "gloss": "چمݨ وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:32:23.773040689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے تِرح ستر سال جییا، تے ⟨את⟩ اَورام، ⟨את⟩ ناحور تے ⟨את⟩ ہاران کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِرح"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَورام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ہاران"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:04.477027841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 74,
+  "translation": "توں اپݨے زور نال سمندر کوں توڑیا، توں تنّیناں دے سر پاݨیاں اُتے توڑ سٹیئی۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "توڑیا"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "اپݨے زور نال"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر کوں"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "توڑ سٹیئی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سر"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "تنّیناں دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:14.046895172Z",
+  "model": "glm-5.3"
+}

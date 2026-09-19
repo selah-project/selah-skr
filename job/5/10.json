@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "جیہڑا زمین اُتے مینہہ ݙیندا ہے تے گلیاں اُتے پاݨی بھڄیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ݙیندا ہے"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨اُتے⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "تے بھڄیندا ہے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨اُتے⟩"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "گلیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:44.246370305Z",
+  "model": "glm-5.3"
+}

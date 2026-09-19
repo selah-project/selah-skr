@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "چاندی میݙی ہے تے سونا میݙا ہے — یاہوہ تصواوت دا اعلان۔",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "تے میݙے کیتے"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:39.343473173Z",
+  "model": "glm-5.3"
+}

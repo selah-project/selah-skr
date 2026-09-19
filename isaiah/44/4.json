@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے او گھاہ وِچکار اُڳسن، پاݨی دے نہراں کن بید دے ٻوٹیاں وانگوں۔",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "تے او اُڳسن"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "بید دے ٻوٹیاں وانگوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کن"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "نہراں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:49:17.027785823Z",
+  "model": "glm-5.3"
+}

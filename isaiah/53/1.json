@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 53,
+  "translation": "کئی ساݙی سُݨائی دا یقین کیتا؟ تے یاہوہ دی ٻانہہ کئی اُتے اُگھڑی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "یقین کیتا"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ساݙی سُݨائی"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "تے ٻانہہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "اُگھڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:53:36.807047018Z",
+  "model": "glm-5.3"
+}

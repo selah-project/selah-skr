@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ایہ کرو: قورح تے ساری اوندی جماعت، تُساں آپ کیتے بھاہ دے تھالے گھنو۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "گھنو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں آپ کیتے"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "بھاہ دے تھالے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "اوندی جماعت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:36:15.272344564Z",
+  "model": "glm-5.3"
+}

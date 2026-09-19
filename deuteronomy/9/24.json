@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تُساں یاہوہ نال باغی رہیوے، اوں ݙینہہ توں جِتھوں میں تُہاکوں ⟨אתכם⟩ ڄاݨیا۔",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "تُساں رہیوے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "اوں ݙینہہ توں"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "میں ڄاݨیا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "تُہاکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:19.399742788Z",
+  "model": "glm-5.3"
+}

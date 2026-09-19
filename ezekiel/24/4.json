@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "اُوندے ٹکڑے اُوندے وِچ کٹھے کر، ہر چنڳا ٹکڑا — رَنّڑ ہݙ تے مُڈھلی ہݙ، چنڳیں ہݙیاں نال بھر۔",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "کٹھے کر"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "اُوندے ٹکڑے"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ٹکڑا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رَنّڑ ہݙ"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "تے مُڈھلی ہݙ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "چن٘ڳیں"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "ہݙیاں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:18.031597962Z",
+  "model": "glm-5.3"
+}

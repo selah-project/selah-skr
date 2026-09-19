@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے داوِد یوآب کول بھیڄا: “میکوں اوریاہ حِتی کوں بھیج۔” تے یوآب ⟨את⟩ اوریاہ کوں داوِد کول بھیڄا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیج"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریاہ کوں"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریاہ کوں"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T16:54:23.585429639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اُنہاں دی سرحد ہئی: یزرعیل، خسُلوت تے شونم،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … ہئی"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "اُنہاں دی سرحد"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "یزرعیل ⟨تاں⟩"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "تے خسُلوت"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "تے شونم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:09.420727066Z",
+  "model": "glm-5.3"
+}

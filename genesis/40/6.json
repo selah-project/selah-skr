@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے یوسف صبح اِنہاں کول آیا، تے اوہناں کوں ⟨אתם⟩ ݙٹھس، تے اݙے اوہ رنجھے ہوئے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اِنہاں کول"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہاناں کوں"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "تے اݙے اوہ"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "رنجھے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:22.525852099Z",
+  "model": "glm-5.3"
+}

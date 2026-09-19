@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اَوراہام ⟨את⟩ سب کجھ جیڑھا اُوندا ہا یِتصخاق کوں ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندا"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:07.466884185Z",
+  "model": "glm-5.3"
+}

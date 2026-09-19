@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 51:41",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "کیویں پکڑی ڳئی شیشک! تے پکڑی ڳئی ساری زمین دی تعریف! کیویں بابل قومیں وِچ حیرت بݨ ڳیا!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "پکڑی ڳئی"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "شیشک"
+    },
+    {
+      "surface": "ותתפש",
+      "gloss": "تے پکڑی ڳئی"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "تعریف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بݨ ڳیا"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "حیرت"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:23:36.641180450Z",
+  "model": "glm-5.3"
+}

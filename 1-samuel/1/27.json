@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایں ٻال کیتے میں دعا منگی، تے یاہوہ میکوں ⟨את⟩ میݙی منگو ݙتی جیہڑی میں اوں توں منگی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "دعا منگی"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙی منگو"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "میݙی منگو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "اوں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:34:23.858448722Z",
+  "model": "glm-5.3"
+}

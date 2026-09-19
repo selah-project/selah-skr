@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ مِتکہ توں ٹُرے، تے خشмонہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے اوہ ٹُرے"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "مِتکہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "خشMONہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:37.998602877Z",
+  "model": "glm-5.3"
+}

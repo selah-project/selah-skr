@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "اہرون ⟨את⟩ کوں گھن، تے اوندے پُتر اِلعازر ⟨את⟩ کوں، تے انہاں ⟨אתם⟩ کوں ہور پہاڑ اُتے چا ونڄ۔",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اِلعازر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "چا ونڄ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "پہاڑ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:13.672308790Z",
+  "model": "glm-5.3"
+}

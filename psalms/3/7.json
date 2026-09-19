@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں ݙرساں کائنی، لکھاں لوکاں توں، جیہڑے چاروں پاسوں میݙے اُتے چڑھ آئن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "میں ݙرساں"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "لکھاں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسوں"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "چڑھ آئن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:30.503526925Z",
+  "model": "glm-5.3"
+}

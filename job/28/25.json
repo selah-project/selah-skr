@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ہوا کیتے وزن بݨاوݨ، تے پاݨیاں کوں ناپ نال تولݨ۔",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "بݨاوݨ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ہوا کیتے"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "تے پاݨیاں"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "تولیندے"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ناپ نال"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:06.587729858Z",
+  "model": "glm-5.3"
+}

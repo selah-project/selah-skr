@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے شلومو بادشاہ سارے یِسرایل اُتے بادشاہ ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:10:15.816095357Z",
+  "model": "glm-5.3"
+}

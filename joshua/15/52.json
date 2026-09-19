@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "joshua 15:52",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "اَرَب، تے رُومہ، تے اَشعن۔",
+  "tokens": [
+    {
+      "surface": "ארב",
+      "gloss": "اَرَب"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "تے رُومہ"
+    },
+    {
+      "surface": "ואשען",
+      "gloss": "تے اَشعن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.906446227Z",
+  "model": "glm-5.3"
+}

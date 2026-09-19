@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "چن وانگوں او ہمیشہ کیتے قائم رہسی، تے اَسمان وِچ ہِک پکا گواہ۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "چن وانگوں"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم رہسی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے گواہ"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "اَسمان وِچ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:04.052042165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 86,
+  "translation": "داوِد دی ہِک دعا۔ یاہوہ، آپݨا کن جھکا تے میکوں جواب ݙے، کیوں جو میں غریب تے محتاج ہاں۔",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "جھکا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "آپݨا کن"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "میکوں جواب ݙے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:46.874462451Z",
+  "model": "glm-5.3"
+}

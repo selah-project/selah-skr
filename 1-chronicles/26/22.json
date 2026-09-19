@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یخی ایلی دے پُتر: زیتام تے یوایل اوندا بھرا، یاہوہ دے گھر دے خزانیاں اُتے ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "یخی ایلی"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "زیتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "تے یوایل"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندا بھرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانیاں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:19.271968238Z",
+  "model": "glm-5.3"
+}

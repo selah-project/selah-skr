@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تیرھواں خُپّہ کوں، چوڈھواں یِشبآو کوں۔",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "خُپّہ کوں"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تِرھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "یِشبآو کوں"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوڈھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:02.810950066Z",
+  "model": "glm-5.3"
+}

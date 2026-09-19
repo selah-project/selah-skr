@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے توں ⟨את⟩ حکم تے ⟨את⟩ فرضے تے ⟨את⟩ میعادے رکھسیں جیڑھے میں تیکوں اَڄ حکم کریندا ⟨ہاں⟩ جو او کرو۔",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "تے توں رکھسیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فرضے"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرضے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میعادے"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "میعادے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "אנכی",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تیکوں حکم کریندا ⟨ہاں⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "جو او کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:50.885698226Z",
+  "model": "glm-5.3"
+}

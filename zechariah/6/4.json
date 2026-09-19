@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ول میں جواب ݙتا تے اوں فرشتے کوں آکھیا جیہڑا میݙے نال ٻولیندا ہا: “ایہ کیا ہن، میݙے سائیں؟”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ول میں جواب ݙتا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ٻولیندا ہا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میݙے سائیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:46.993569825Z",
+  "model": "glm-5.3"
+}

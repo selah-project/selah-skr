@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "راست باز غریباں دا حق ڄاݨدے، پر بدکار علم نہ سمجھدے۔",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    },
+    {
+      "surface": "דין",
+      "gloss": "حق"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "غریباں دا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھدے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:18.876691126Z",
+  "model": "glm-5.3"
+}

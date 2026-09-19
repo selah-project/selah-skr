@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "پہلے ݙینہہ پاک سݙ ہوسی؛ کوئی ہِک وی خدمت آلا کم نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "سݙ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی ہِک وی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت آلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:36.157157430Z",
+  "model": "glm-5.3"
+}

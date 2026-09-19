@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پُتر آ، ماکھیو کھا، کیوں جو اوہ چنگا ہے، تے شہد دا توٹا تیݙے تالو اُتے مِٹھا ہے۔",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر آ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ماکھیو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "تے شہد دا توٹا"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "مِٹھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "تیݙے تالو"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:26.566612830Z",
+  "model": "glm-5.3"
+}

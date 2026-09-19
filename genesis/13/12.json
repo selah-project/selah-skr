@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اَبرام کنعان دی زمین وِچ رہیا، تے لوٹ میدان دے شہراں وِچ رہیا، تے سدوم تئیں خیمہ ڄمائیس۔",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "اَبرام"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہیا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "تے لوٹ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہیا"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان دے"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "خیمہ ڄمائیس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:41.862668846Z",
+  "model": "glm-5.3"
+}

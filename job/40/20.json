@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "کیوں جو پہاڑ اوندے کیتے فصل چیندن، تے جنگل دے سارے جانور اُتھاں کھیݙدن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בול",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چیندن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "جنگل دے"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "کھیݙدن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:04:24.576105701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بِنّوی ⟨دے⟩ پُتراں دی ڳݨتری چھ سو اَٹھتالھی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بِنّوی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالھی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:24.071665938Z",
+  "model": "glm-5.3"
+}

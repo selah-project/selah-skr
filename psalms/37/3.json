@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "یاہوہ اُتے بھروسہ رکھ تے بھلائی کر؛ زمین وِچ رہو تے ایمان داری چرا۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ رکھ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "رہو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے چرا"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمان داری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:32.305048420Z",
+  "model": "glm-5.3"
+}

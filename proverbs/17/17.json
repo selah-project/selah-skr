@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ہر ویلے دوست پیار کریندا ہے، تے بھرا تنگی کیتے پیدا تھیندے۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کریندا ہے"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "تے بھرا"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "تنگی کیتے"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "پیدا تھیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:45.738298743Z",
+  "model": "glm-5.3"
+}

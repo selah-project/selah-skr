@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "چوویہواں روممتِی-عِزِر ⟨کیتے⟩، اوندے پُتر تے اوندے بھرا بارہ ہن۔",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "چوویہواں"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "روممتِی"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عِزِر ⟨کیتے⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨—⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:01.522084771Z",
+  "model": "glm-5.3"
+}

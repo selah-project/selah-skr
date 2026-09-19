@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "جتھاں کالے گھوڑے ہن، او اُبھے دیس تائیں نکلدے ہن؛ تے چِٹے اوندے پچھوں نکلے؛ تے داغدار لمے دیس تائیں نکلے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "کالے"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "نکلدے ہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُبھے"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "تے چِٹے"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "اوندے پچھوں"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "تے داغدار"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "لمے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:41.520610182Z",
+  "model": "glm-5.3"
+}

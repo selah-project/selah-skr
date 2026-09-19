@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 84,
+  "translation": "ایلوہیم، ساݙی ڈھال ݙیکھ، تے اپݨے ماشیاخ دے منہ دو ݙیکھ۔",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ساݙی ڈھال"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ\/چہرہ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "اپݨے ماشیاخ (دا)"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:01.779681911Z",
+  "model": "glm-5.3"
+}

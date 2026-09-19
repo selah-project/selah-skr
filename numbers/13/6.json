@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یہوداہ دے قبیلے توں کالِب، یِپُنّہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے توں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِپُنّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:14.930109902Z",
+  "model": "glm-5.3"
+}

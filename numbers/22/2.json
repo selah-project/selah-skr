@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے بالاق صِفور دے پُتر ݙٹھا جو ⟨את⟩ سارے کجھ یِسرایل ایموریاں نال کیتا ہئی۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِفور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا ہئی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ایموریاں نال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:57.775291655Z",
+  "model": "glm-5.3"
+}

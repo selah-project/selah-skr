@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے پاݨی ایں ݙینہہ تئیں شفا تھی ڳئے، الیشع دے آکھے آوݨ آلی ڳل موجب۔",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "شفا تھی ڳئے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ڳل موجب"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:19:30.812253522Z",
+  "model": "glm-5.3"
+}

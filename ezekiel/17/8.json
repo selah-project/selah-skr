@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "چنگے کھیتر وِچ، ٻہوں پاݨیاں نال اوہ لائی ڳئی ہئی، تاں جو ٹہنیاں کرے تے پھل چاوے، تے شاندار بیل بݨے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیتر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨیاں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "لائی ڳئی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "ٹہنیاں"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "تے چاوݨ کیتے"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بݨݨ کیتے"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "شاندار"
+    }
+  ],
+  "timestamp": "2026-09-19T18:32:03.838490645Z",
+  "model": "glm-5.3"
+}

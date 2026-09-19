@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے ہارایل چار ہاتھ، تے ارایل توں اُتے چار سِنگ۔",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "تے ہارایل"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "تے ارایل توں"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "چار سِنگ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:46.320462926Z",
+  "model": "glm-5.3"
+}

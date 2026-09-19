@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ملکہ شِبا ݙٹھا ⟨את⟩ شلومو دی ساری سیاݨپ، تے او گھر جیڑھا اوں بݨایا ہا۔",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلومو دی ساری سیاݨپ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "تے او گھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨایا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:57.962132398Z",
+  "model": "glm-5.3"
+}

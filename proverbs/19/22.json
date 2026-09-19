@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "بندے دی تانگھ اوندا خیسِد ⟨ہے⟩، تے کانٹے بندہ کوڑے بندے توں چنگا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تانگھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوندا خیسِد"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "تے چنگا"
+    },
+    {
+      "surface": "רש",
+      "gloss": "کانٹے بندہ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "بندے توں"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "کوڑا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.538175226Z",
+  "model": "glm-5.3"
+}

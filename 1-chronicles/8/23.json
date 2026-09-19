@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے عَبدون، تے زِکری، تے خانان،",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "عَبدون"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "زِکری"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "خانان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:02.538381173Z",
+  "model": "glm-5.3"
+}

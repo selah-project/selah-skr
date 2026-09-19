@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے شیم ⟨את⟩ اَرفکشد کوں ڄݨاوݨ توں بعد پنج سو سال جِیا، تے پُتر تے دھیاں ڄنائیاں۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨاوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرفکشد کوں"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفکشد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄنائیاں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:11.734967317Z",
+  "model": "glm-5.3"
+}

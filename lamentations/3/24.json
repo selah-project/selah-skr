@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "“یاہوہ میݙا حصہ ہے”، میݙی نفَس آکھیا؛ ایں کیتے میں اوندا انتظار کریساں۔",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "میݙا حصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی نفَس"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "انتظار کریساں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:53.463268883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یاہوہ دے فرشتے اوندے کوں پاݨی دے چشمے کول، برد وِچ، چشمے دے کول، شور دے رستے اُتے، لبھ گھدا۔",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "لبھ گھدا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی دے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "برد وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمے دے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے اُتے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور"
+    }
+  ],
+  "timestamp": "2026-09-19T14:21:49.889668513Z",
+  "model": "glm-5.3"
+}

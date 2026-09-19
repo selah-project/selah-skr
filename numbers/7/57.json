@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ڳآں، ڳآنیاں دا پُتر، ہِک دَنبہ، ہِک بھاݨاں، ہِک سال دا پُتر، سوخت قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڳآں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳآنیاں دے"
+    },
+    {
+      "surface": "איל",
+      "gloss": "دَنبہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھاݨاں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوخت قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:19.830686905Z",
+  "model": "glm-5.3"
+}

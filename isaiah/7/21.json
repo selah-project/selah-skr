@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے اوں ݙینہہ تھیسے جو ہِک بندہ ہِک وَشِّی تے ݙو ٻکریاں جِیوائی رکھسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تھیسے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جِیوائی رکھسی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندہ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "وَشِّی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئوں"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻکریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:50.959930095Z",
+  "model": "glm-5.3"
+}

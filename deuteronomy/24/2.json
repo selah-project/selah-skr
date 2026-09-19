@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے او اوندے گھروں نکل ونجے، ونڄے تے کہیں ٻئے بندے دی ذال بݨ ونجے۔",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "نکل ونجے"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "اوندے گھروں"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ونڄے"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "بݨ ونجے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ہِک بندے دی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:13.939908732Z",
+  "model": "glm-5.3"
+}

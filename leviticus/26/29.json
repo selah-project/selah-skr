@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے تُساں اپݨے پُتراں دا گوشت کھاسو، تے اپݨیاں دھیاں دا گوشت کھا گھنسو۔",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "کھاسو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "اپݨے پُتراں دا"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "تے گوشت"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "اپݨیاں دھیاں دا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھا گھنسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:14.024649047Z",
+  "model": "glm-5.3"
+}

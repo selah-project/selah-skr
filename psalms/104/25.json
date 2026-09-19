@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "ایہ سمندر وݙا تے کھلا ہے، اُتھاں رینگݨ آلے جیو بے ڳݨت ہن — نِکّے جیو وݙے جیواں نال۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے کھلا"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رینگݨ آلے جیو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "جیو"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "نِکّے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "وݙے جیواں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:30.550352408Z",
+  "model": "glm-5.3"
+}

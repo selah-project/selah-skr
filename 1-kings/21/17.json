@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یاہوہ دا وَکے اِلیاہو تسّبی کنے آیا، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وَکے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کنے"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "تسّبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:17:52.326924234Z",
+  "model": "glm-5.3"
+}

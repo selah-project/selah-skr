@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 68,
+  "translation": "موڳیاں دے اڳواݨ کیتے — داوِد دا زبور، ہِک ڳاوݨ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڳیاں دے اڳواݨ کیتے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ہِک ڳاوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:35.863314050Z",
+  "model": "glm-5.3"
+}

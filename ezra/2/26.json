@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہارامہ تے گِبع دے پُتر، چھ سو ویہہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ہارامہ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "تے گِبع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:43.714166342Z",
+  "model": "glm-5.3"
+}

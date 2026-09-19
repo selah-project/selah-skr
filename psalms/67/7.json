@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 67,
+  "translation": "زمین اپݨی فصل ݙتی، ایلوہیم ساکوں برکت ݙیسی — ساݙا ایلوہیم۔",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "اپݨی فصل"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "برکت ݙیسی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:54.494369161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے قحط زمین وِچ ٻہوں سخت ہا۔",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "تے قحط"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ٻہوں سخت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:51.847056332Z",
+  "model": "glm-5.3"
+}

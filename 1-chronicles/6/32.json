@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "محلی دا پُتر، موشی دا پُتر، مِراری دا پُتر، لاوی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:17.752440580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے پتھراں اُتے ⟨את⟩ ایں تورات دے سارے لفظاں کوں چنگی طرحے واضح لکھیں۔",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "لکھیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے لفظاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "באר",
+      "gloss": "واضح"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "چنگی طرحے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:45.330637389Z",
+  "model": "glm-5.3"
+}

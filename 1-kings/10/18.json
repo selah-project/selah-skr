@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے شاہ ہاتھی دے ݙند دا ہِک وݙا تخت بݨوایا، تے اونکوں چکنا سونے نال مڑویا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨوایا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ہاتھی دے ݙند"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "مڑویا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "چکنا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:10:11.443335218Z",
+  "model": "glm-5.3"
+}

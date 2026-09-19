@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "دولت ٻہوں سارے یار ودھیندی ہے، تے غریب اپݨے یار توں وکھرا تھی ویندے۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ودھیندی ہے"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "یار"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اپݨے یار توں"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "وکھرا تھی ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:45.627718567Z",
+  "model": "glm-5.3"
+}

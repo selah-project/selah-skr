@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو غیرت بندے دی کاوڑ ہے، تے او بدلے دے ݙینہہ رحم نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "غیرت"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "کاوڑ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "رحم کریسی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:26.410924524Z",
+  "model": "glm-5.3"
+}

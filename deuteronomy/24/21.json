@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "جݙاں تُساں آپݨی وَڳی کٹسیو، پچھوں نہ مرو؛ جو بچسی اوہ پردیسی، یتیم تے بیوہ کیتے ہوسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "کٹسیو"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "آپݨی وَڳی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "پچھوں مرو"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "آپݨے پچھوں"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "پردیسی کیتے"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "یتیم کیتے"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "تے بیوہ کیتے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.225086850Z",
+  "model": "glm-5.3"
+}

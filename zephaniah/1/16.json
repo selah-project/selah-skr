@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "شوپھار تے ہنگامے دا ݙینہہ — بلدے شہراں اُتے تے اُچیاں کونقلمیاں اُتے۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوپھار"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "تے ہنگامے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "بلدے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "کونقلمیاں"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "اُچیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:43.677999212Z",
+  "model": "glm-5.3"
+}

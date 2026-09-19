@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:48.143181051Z",
+  "model": "glm-5.3"
+}

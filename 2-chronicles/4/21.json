@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے پھُل، تے چراغ تے چمٹیاں سونے دے — او سارا ⟨خالص⟩ سونا ہا۔",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "تے پھُل"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "تے چراغ"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "تے چمٹیاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "سارا خالص"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:50.630701903Z",
+  "model": "glm-5.3"
+}

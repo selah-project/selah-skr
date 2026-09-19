@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 53,
+  "translation": "موڳی کیتے، ⟨مچلت⟩ اُتے — ہِک سکھاون آلی نظم، داوِد دی۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڳی کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "⟨مچلت⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سکھاون آلی نظم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:29.665368282Z",
+  "model": "glm-5.3"
+}

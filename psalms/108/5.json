@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 108,
+  "translation": "کیوں جو اسماناں توں اُتے وݙا ہے تیݙا خیسِد، تے بدلاں تئیں تیݙی سچائی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں اُتے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیݙا خیسِد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تئیں"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بدلاں"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیݙی سچائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:53.967164906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "یاہوہ دی روح میں وِچ ٻولی، تے اوندا لفظ میݙی زبان اُتے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں وِچ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "تے اوندا لفظ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میݙی زبان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:37.402572864Z",
+  "model": "glm-5.3"
+}

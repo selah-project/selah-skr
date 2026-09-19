@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 37:14",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "ایہ سُݨ، اِیّوب! کھڑ تھی تے ایل دے کرشمیاں اُتے غور کر۔",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیّوب"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑ تھی"
+    },
+    {
+      "surface": "והתבונן",
+      "gloss": "غور کر"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "کرشمے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:29.164987805Z",
+  "model": "glm-5.3"
+}

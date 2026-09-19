@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "لِبنان، آپݨے دروازے کھُل لَے، تے بھا تیݙیاں دیوداراں کوں کھا ویندی۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کھُل لَے"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لِبنان"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "آپݨے دروازے"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "تے کھا ویندی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "تیݙیاں دیوداراں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:26.973414934Z",
+  "model": "glm-5.3"
+}

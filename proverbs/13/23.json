@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "غریباں دی وہائی وِچ ٻہوں خوراک ⟨ہوندی ہے⟩، پر کجھ بغیر انصاف دے مِٹ ویندے۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "وہائی"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "غریباں"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "پر کجھ"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "مِٹ ویندے"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:25.143686684Z",
+  "model": "glm-5.3"
+}

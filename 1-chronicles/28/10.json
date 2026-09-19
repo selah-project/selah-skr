@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ݙیکھ ہُݨ، کیوں جو یاہوہ تُہاکوں چُݨیا ہے جو مُقدس گھر کیتے ہِک گھر بݨاوݨ — ہمت رکھو تے کرو۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چُݨیا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بݨاوݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "مُقدس گھر کیتے"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ہمت رکھو"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:56.472882667Z",
+  "model": "glm-5.3"
+}

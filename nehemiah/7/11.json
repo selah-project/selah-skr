@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "پَخت موآب دے پُتراں — یِشوع تے یوآب دے پُتراں وِچوں — دی ڳݨتری ترے ہزار نہ سو اٹھارہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَخت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "تے یوآب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ترے ہزار"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ارہ (اٹھارہ)"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:07.798116352Z",
+  "model": "glm-5.3"
+}

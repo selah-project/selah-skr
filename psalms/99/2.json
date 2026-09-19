@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 99,
+  "translation": "یاہوہ صہیون وِچ وݙا ہے، تے او ساریاں قوماں توں اُچا ہے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیون وِچ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:45.990797054Z",
+  "model": "glm-5.3"
+}

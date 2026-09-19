@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے حصر شوعال، تے بالہ، تے عصم۔",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "تے حصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "تے بالہ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے عصم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:58.764178665Z",
+  "model": "glm-5.3"
+}

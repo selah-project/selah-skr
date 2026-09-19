@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے تیݙی ساری جانچ پاک شیقل دے موجب ہوسی؛ ویہہ گیراہ ہوسی ⟨ء⟩ شیقل۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیݙی جانچ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شیقل وِچ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیراہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "او شیقل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:26.501747846Z",
+  "model": "glm-5.3"
+}

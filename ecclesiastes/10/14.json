@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے بےعقل لفظ ودھیندے — اِنسان نہ ڄاݨدا جو کیا تھیسی، تے جو اوندے پچھوں تھیسی، اوہو اونکوں کِن ݙسیسی؟",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "تے بےعقل"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھیندے"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "اوندے پچھوں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِن"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ݙسیسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:52.753584221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو حکمت دا چھاں ہے تے چاندی دا چھاں ہے؛ تے علم دا ودھارہ ایہ ہے جو حکمت اپݨے مالکاں کوں جِویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "دا چھاں"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "دا چھاں"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "تے ودھارہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم دا"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "جِویندی ہے"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "اپݨے مالکاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.343861805Z",
+  "model": "glm-5.3"
+}

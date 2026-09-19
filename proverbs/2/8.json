@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "راستی دے رستیاں دی راکھی کیتے، تے اُوندے وفاداریاں دا رستہ بچیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "راکھی کیتے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "اُوندے وفاداریاں دا"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "بچیندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.164372820Z",
+  "model": "glm-5.3"
+}

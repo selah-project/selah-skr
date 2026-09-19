@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ڳاوݨ آلے: آساف دے پُتر ہِک سو اڑتالی۔",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ڳاوݨ آلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:40.377659884Z",
+  "model": "glm-5.3"
+}

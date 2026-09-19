@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دا چمچا، داہ شیکل دا، بھریئے ہوئے خوشبوِ سُوں۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "داہ"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریئے ہوئے"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:12.096331827Z",
+  "model": "glm-5.3"
+}

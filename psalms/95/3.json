@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 95,
+  "translation": "کیوں جو یاہوہ وݙا ایل ہے، تے سارے ایلوہیماں اُتے وݙا بادشاہ ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیماں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:54.787322625Z",
+  "model": "glm-5.3"
+}

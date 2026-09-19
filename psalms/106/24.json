@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے اُنہاں چنڳی زمین کوں رد کیتا، اوندی ڳالھ تے یقین نہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "تے رد کیتا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "چنڳی ⟨پیاری⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "یقین کیتا"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "اوندی ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:23.624842663Z",
+  "model": "glm-5.3"
+}

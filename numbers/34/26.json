@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے یِساکار پُتریاں دے ٹبر کِیتے سردار پلتیایل، عزّان دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے … ٹبر کِیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دے"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "پلتیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "عزّان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:51.225323791Z",
+  "model": "glm-5.3"
+}

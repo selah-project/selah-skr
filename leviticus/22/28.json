@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے ڳاں یا بھیݙ — ⟨את⟩ اوندی جُوں تے ⟨את⟩ اوندا پُتر، ہِکے ݙینہہ نہ ذبح کرو۔",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بھیݙ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوندی جُوں (ڳاں\/بھیݙ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا پُتر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ذبح کرو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِکے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:44.938347045Z",
+  "model": "glm-5.3"
+}

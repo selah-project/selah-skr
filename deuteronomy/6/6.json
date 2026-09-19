@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایہے ڳالھیں جِہڑیاں میں تیݙے توں اَڄ حکم کریندا ہاں، او تیݙے دل اُتے رہِن۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "تے او ہوِن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑیاں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تیݙے توں حکم کریندا ہاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیݙے دل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:31.671564416Z",
+  "model": "glm-5.3"
+}

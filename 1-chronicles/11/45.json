@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "یِدیعایل شِمری دا پُتر، تے یوخا اُوندا بھرا، ہَتِیصی۔",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "یِدیعایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمری"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "تے یوخا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اُوندا بھرا"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ہَتِیصی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:39.355613011Z",
+  "model": "glm-5.3"
+}

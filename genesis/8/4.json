@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے کشتی ستویں مہینے وِچ، مہینے دے ستارھویں ݙینہہ، اَرارات دے پہاڑاں اُتے ٹِک ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ٹِک ڳئی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ارھویں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "لחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "اَرارات"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:10.464681382Z",
+  "model": "glm-5.3"
+}

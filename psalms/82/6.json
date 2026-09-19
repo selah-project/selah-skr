@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 82,
+  "translation": "میں آکھیا: “تُساں ایلوہیم او، تے تُساں سبھ ایل عِلیون دے پُتر او۔”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ایل عِلیون"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "تُساں سبھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:33.047068981Z",
+  "model": "glm-5.3"
+}

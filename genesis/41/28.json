@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "ایہاوے او ڳالھ ہے جیڑھی میں پرعوہ کوں آکھی ہے: جو ایلوہیم کرݨ لڳا ہے، اوں ⟨את⟩ پرعوہ کوں ݙکھا ݙتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ایہاوے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "آکھی ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ لڳا"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ݙکھا ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرعوہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:42.237203708Z",
+  "model": "glm-5.3"
+}

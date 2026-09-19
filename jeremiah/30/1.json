@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "او ڳالھ جیہڑی یِرمِیاهو کوں یاہوہ ⟨מאת⟩ کنوں آئی، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "او ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:18.632260364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او رِتمہ توں روانہ تھئے، تے رِمّون پَرِتص وِچ ٹھہرے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "رِتمہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ٹھہرے"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "رِمّون وِچ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِتص"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.392108122Z",
+  "model": "glm-5.3"
+}

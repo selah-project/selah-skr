@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہُݨ تاں گندم تے جو، تیل تے شراب جیڑھے میݙے سائیں ذکر کیتن، او آپݨے ٻانہیاں کیتے بھیڄے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ہُݨ تاں"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "گندم"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ذکر کیتا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سائیں"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "بھیڄے"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "آپݨے ٻانہیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:15.611129367Z",
+  "model": "glm-5.3"
+}

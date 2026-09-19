@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "یوایل سردار، تے شافام ݙوجھا، تے یعنای تے شافط باشان وِچ۔",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "تے شافام"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "تے یعنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "تے شافط"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "باشان وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:24.940184732Z",
+  "model": "glm-5.3"
+}

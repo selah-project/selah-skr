@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شمع ⟨את⟩ رحام کوں ڄنڑیا — یرقِم دا پیو — تے رقیم ⟨את⟩ شمی کوں ڄنڑیا۔",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "تے شمع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄنڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رحام"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "یرقِم"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "تے رقیم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄنڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمی"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:01.584812878Z",
+  "model": "glm-5.3"
+}

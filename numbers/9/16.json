@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ایویں ہمیش ہوندا ہا — بادل اوندے اُتے چھایا رہندا ہا، تے رات کوں بھا دی شکل۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوندا ہا"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "اوندے اُتے چھایا رہندا ہا"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "تے شکل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:30.147655149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اُنہاں دے چالھی چاندی دے نظرے ہوسن، ہِک تختے تلے ݙو نظرے تے ݙوجھے تختے تلے ݙو نظرے۔",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "اُنہاں دے نظرے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی دے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "نظرے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "نظرے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ݙوجھے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:28.352774240Z",
+  "model": "glm-5.3"
+}

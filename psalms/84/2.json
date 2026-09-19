@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 84,
+  "translation": "کتلے پیارے ہِن تیݙے مسکن، یاہوہ تصواوت!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کتلے"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "پیارے"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "تیݙے مسکن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:54.088243482Z",
+  "model": "glm-5.3"
+}

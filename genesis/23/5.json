@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ایت دے پتراں ⟨את⟩ اَوراہام کوں ولدا ݙتا، اونکوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ولدا ݙتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ایت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اونکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:25:05.339983057Z",
+  "model": "glm-5.3"
+}

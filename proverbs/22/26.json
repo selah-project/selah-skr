@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "ہتھ مارݨ آلیاں وِچوں نہ ہوویں، تے قرضاں دے ضامناں وِچوں نہ ہوویں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ہوویں"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "مارݨ آلیاں وِچوں"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ضامناں وِچوں"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "قرضاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:18.616527938Z",
+  "model": "glm-5.3"
+}

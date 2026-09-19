@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "شفا ݙیوݨ آلی زبان حیات دا رُکھ ہے، پر اوندا کجھیپا روح وِچ شتر پیندے۔",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "شفا ݙیوݨ آلی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیات دا"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "پر کجھیپا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شتر"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "روح وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:21.934350849Z",
+  "model": "glm-5.3"
+}

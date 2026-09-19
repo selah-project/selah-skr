@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے چالیہہ ݙینہہ تے چالیہہ راتاں دے مُکݨ اُتے یاہوہ میکوں ⟨את⟩ پتھراں دے ݙو لوح ݙتے — عہد دے لوح۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مُکݨ اُتے"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالیہہ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "راتاں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پتھراں دے ݙو لوح"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھراں دے"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:59.563418650Z",
+  "model": "glm-5.3"
+}

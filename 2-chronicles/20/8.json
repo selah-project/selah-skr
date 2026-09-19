@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے اوہ اُتھے رہ ڳئے، تے اُتھے تیݙے کیتے ہِک مقدس جاہ بݨایا، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "رہ ڳئے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھے"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھے"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدس جاہ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تیݙے ناں کیتے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:25.652096020Z",
+  "model": "glm-5.3"
+}

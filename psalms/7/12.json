@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایلوہیم ہِک راست باز فیصلہ ݙیوݨ ہارا ہے، تے ایل ہر ݙینہہ غضب کریندے۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "فیصلہ ݙیوݨ ہارا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ایل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غضب کریندے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:11.134465837Z",
+  "model": "glm-5.3"
+}

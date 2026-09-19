@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اساں اُوں ویلے ⟨את⟩ زمین ݙوہیں اموری بادشاہاں دے ہتھ توں گھدی، جیہڑے یردن دے پار ہن — نہل اَرنون توں پہاڑ خرمون تئیں۔",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "تے گھدی"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اُوں ویلے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙوہیں"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہاں"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "نہل توں"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "خرمون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:07.523519757Z",
+  "model": "glm-5.3"
+}

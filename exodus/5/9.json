@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کم بندیاں اُتے بھاری تھیوے، تے اوہ اوندی وِچ کرن، تے جھوٹیاں ڳالھیں دو نہ ݙیکھن۔",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "بھاری تھیوے"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کرن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندی وِچ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ݙیکھن"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ڳالھیں دو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:44:59.510198456Z",
+  "model": "glm-5.3"
+}

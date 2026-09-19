@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایویں تھیس، جے ہِک گھر وِچ ݙاہ جوان بچے ہوون، تاں او مر ویسن۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیس"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "بچسن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "تے مر ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:55:13.365613503Z",
+  "model": "glm-5.3"
+}

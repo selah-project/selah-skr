@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے جیہڑے بچسن او سُݨسن تے ݙرسن، تے وَلا نہ کریسن ایہو جہی برائی تیݙے وِچ۔",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "تے جیہڑے بچسن"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨسن"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "تے ݙرسن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "ولا کریسن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ایہو جہی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:38.467123779Z",
+  "model": "glm-5.3"
+}

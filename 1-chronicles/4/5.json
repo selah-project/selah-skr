@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اَشخُور، تِکوآ دا پیو، ݙو ذالیں نال ہا — خِلہ تے نَعرہ۔",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "تے اَشخُور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تِکوآ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "خِلہ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "تے نَعرہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.712779843Z",
+  "model": "glm-5.3"
+}

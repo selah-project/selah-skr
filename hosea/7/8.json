@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اِفرایم قوماں وِچ رل ڳیا؛ اِفرایم ہِک اُوں روٹی بݨ ڳیا جیہڑی پلی نہ ڳئی ہووے۔",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "بעמים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "رل ڳیا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بݨ ڳیا"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "پلٹی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:51:24.114067277Z",
+  "model": "glm-5.3"
+}

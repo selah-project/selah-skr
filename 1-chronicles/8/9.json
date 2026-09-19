@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں خودش اُوندی ذال کنوں ⟨את⟩ یوواب کوں، تے ⟨ואת⟩ تصبیا کوں، تے ⟨ואת⟩ میشا کوں، تے ⟨ואת⟩ مَلکام کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "خودش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اُوندی ذال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوواب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "تصبیا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "تصبیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "میشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "میشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "مَلکام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مَلکام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:23.993214666Z",
+  "model": "glm-5.3"
+}

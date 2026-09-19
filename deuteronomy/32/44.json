@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے موشے آیا، تے ایں ڳانے دے ⟨את⟩ سارے لفظ لوکاں دے کنّیں ٻولیے — او آپ تے ہوشِع، نون دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "تے ٻولیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ایں ڳانے دے"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کنّیں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "تے ہوشِع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-09-19T21:07:32.618759466Z",
+  "model": "glm-5.3"
+}

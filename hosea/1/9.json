@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اوں آکھیس: “اوندا ناں لو عمی ⟨نہ میݙی قوم⟩ رکھو، کیوں جو تُساں میݙی قوم کائنی، تے میں تُہاݙا نہ ہوساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لو عمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہوساں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:00.836009986Z",
+  "model": "glm-5.3"
+}

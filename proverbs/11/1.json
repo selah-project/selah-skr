@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کُوڑ دے تَرازو یاہوہ کیتے چِڑھاوت ہِن، تے پُوری پَٹھی اُوندی رضا ہے۔",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "تَرازو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "چِڑھاوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "تے پَٹھی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "پُوری"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "اُوندی رضا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:50.397357454Z",
+  "model": "glm-5.3"
+}

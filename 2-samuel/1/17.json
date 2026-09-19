@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے داوِد شاؤل تے اوندے پُتر یہوںناتن اُتے ایہ ⟨את⟩ مرثیہ ڳایا۔",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "مرثیہ ڳایا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ مرثیہ"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "مرثیہ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوںناتن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:49:57.076283973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر تے انہاں دے ڳݨے ہوئے — ݙو تے سٹھ ہزار تے ست سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے انہاں دے ڳݨے ہوئے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:39.896647128Z",
+  "model": "glm-5.3"
+}

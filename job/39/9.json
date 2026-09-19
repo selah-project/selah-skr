@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "کیا ریم تیݙی خدمت کرݨ چاہسی، یا تیݙی بیلی کول رات گزاریسی؟",
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "کیا … چاہسی"
+    },
+    {
+      "surface": "רים",
+      "gloss": "ریم"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙی خدمت کرݨ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات گزاریسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "تیݙی بیلی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:53.150513220Z",
+  "model": "glm-5.3"
+}

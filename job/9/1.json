@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ایوب جواب ݙتا تے آکھیس —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:47.993083065Z",
+  "model": "glm-5.3"
+}

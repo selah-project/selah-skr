@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں ⟨את⟩ کاں کوں بھیج ݙتا، تے او نکلدا ولا نکلدا ریہا ایتھے تئیں جو پاݨی زمین توں سُک ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیج ݙتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "کاں کوں"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکلیا"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "نکلدا"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "سُکݨ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:18.563256269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے یِرمیاہو کول یاہوہ دا کلام تھیا، جݙاں او مہتر دے صحن وِچ قید ہا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے … کول"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "جݙاں او ہا"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "قید"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "صحن وِچ"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "مہتر دا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:15:50.915334840Z",
+  "model": "glm-5.3"
+}

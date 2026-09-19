@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ⟨ہرآہ⟩ ⟨دا-ٻل⟩، تے ⟨את⟩ اَیّاہ، تے ⟨دَیّاہ⟩ اپݨی جنس دے موجب۔",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ہرآہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَیّاہ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "اَیّاہ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "دَیّاہ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "اپݨی جنس دے موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:21.445023884Z",
+  "model": "glm-5.3"
+}

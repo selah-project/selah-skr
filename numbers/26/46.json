@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے آشر دی دھی دا ناں سِرَخ ہا۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "تے … دا ناں"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سِرَخ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:07.366731107Z",
+  "model": "glm-5.3"
+}

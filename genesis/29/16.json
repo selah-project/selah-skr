@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے لابن دیاں ݙو دھیاں ہن؛ وݙی دا ناں لِیا ہا، تے نِکی دا ناں راخِل ہا۔",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "تے لابن دیاں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیا"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "نِکی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخِل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:00.039307627Z",
+  "model": "glm-5.3"
+}

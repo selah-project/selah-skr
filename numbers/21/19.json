@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے مَتانہ توں نَحَلیایل، تے نَحَلیایل توں باموت۔",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "تے مَتانہ توں"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "نَحَلیایل"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "تے نَحَلیایل توں"
+    },
+    {
+      "surface": "بמות",
+      "gloss": "باموت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:48.578680616Z",
+  "model": "glm-5.3"
+}

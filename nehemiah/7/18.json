@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اَدونیکام دے پُتر — چھی سو، سٹھ تے سَت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "اَدونیکام"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے سَت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:36.004434958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے سارا اسرائیل سُݨسی تے ݙرسی، تے تیݙے وِچ ایہوجئیں بُری ڳالھ جئیں کوں ول نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "تے ݙرسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ول"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "جئیں ڳالھ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بُری"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہوجئیں"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.666090358Z",
+  "model": "glm-5.3"
+}

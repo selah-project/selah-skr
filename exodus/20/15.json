@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "چوری نہ کریں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגנب",
+      "gloss": "چوری کریں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:54.154379234Z",
+  "model": "glm-5.3"
+}

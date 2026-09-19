@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں لیٹا تے سُتا، ولا جاڳیم، کیوں جو یاہوہ میکوں تھمبوے ہوئے ہے۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "لیٹا"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "تے سُتا"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "جاڳیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "میکوں تھمبوے ہوئے ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:30.503374100Z",
+  "model": "glm-5.3"
+}

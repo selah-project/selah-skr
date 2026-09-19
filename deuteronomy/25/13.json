@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تھیلی وِچ پتھر تے پتھر، وݙا تے نِکا، تیکوں نہ ہووے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "تھیلی وِچ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "تے پتھر"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "تے نِکا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:36.963491241Z",
+  "model": "glm-5.3"
+}

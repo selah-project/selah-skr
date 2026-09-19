@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ساری زمین یاہوہ کوں ڳاؤ، اُوندی نجات کوں ݙینہہ توں ݙینہہ تک پکاریا کرو۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "پکاریا کرو"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ݙینہہ توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "اُوندی نجات"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:04.751553279Z",
+  "model": "glm-5.3"
+}

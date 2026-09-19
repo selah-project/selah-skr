@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "جݙاں تُساں آپݨے ہمسائے کوں کوئی شے قرض ݙیوو، اوندے گھر نہ ونجو اوندا گروی گھنݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "قرض ݙیوو"
+    },
+    {
+      "surface": "بרעך",
+      "gloss": "آپݨے ہمسائے کوں"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "قرض"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کوئی شے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ونجو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوندا گھر"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "گروی گھنݨ کیتے"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "اوندا گروی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:46.187990945Z",
+  "model": "glm-5.3"
+}

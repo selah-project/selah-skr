@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "عُوتای، پُتر عَمیہود، پُتر عُمری، پُتر اِمری، پُتر بانی — پیرتص دے پُتراں وِچوں، پُتر یہوداہ دے۔",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "عُوتای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عَمیہود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عُمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "اِمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پیرتص"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:20.773925302Z",
+  "model": "glm-5.3"
+}

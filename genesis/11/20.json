@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے رِعو ݙو تے تریہہ سال جِیا، تے سِروگ ⟨את⟩ کوں ڄݨایُس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِروگ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سِروگ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:41.613214978Z",
+  "model": "glm-5.3"
+}

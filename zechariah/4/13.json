@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "اوں میکوں آکھ کے آکھیس: “کیا تیکوں ایہ نہ ڄاتے جو ایہ کیا ہن؟” تے میں آکھیا: “کائنی، میݙا ادونای۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاتے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-09-19T19:02:56.639525087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اوندے کیتے ⟨את⟩ زمران تے ⟨את⟩ یقشان تے ⟨את⟩ مدان تے ⟨את⟩ مدیان تے ⟨את⟩ یشباک تے ⟨את⟩ شوح ڄݙائیس۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄݙائیس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمران"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یقشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یقشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یشباک"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "یشباک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شوح"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شوح"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:49.336228244Z",
+  "model": "glm-5.3"
+}

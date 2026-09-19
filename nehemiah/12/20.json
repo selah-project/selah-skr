@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "سَلّای دے گھر توں قَلّای، عاموک دے گھر توں عِیبِر۔",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "سَلّای دے گھر توں"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "قَلّای"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "عاموک دے گھر توں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبِر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:37.540549974Z",
+  "model": "glm-5.3"
+}

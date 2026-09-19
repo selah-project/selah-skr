@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے تُساں پراݨا اناج کھاسو، ٻہوں پراݨا، تے نویں دے اڳوں پراݨا ٻاہر کڈھیسو۔",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "کھاسو"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "پراݨا اناج"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "ٻہوں پراݨا"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "تے پراݨا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ٻاہر کڈھیسو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:09.526070698Z",
+  "model": "glm-5.3"
+}

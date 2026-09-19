@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "بابل توں ہِک چیخ دِی صدا ہے، تے کسدیاں دی زمین توں وݙا تِرٹ پھٹ۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صدا"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "چیخ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "بابل توں"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "تے تِرٹ پھٹ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدیاں دِی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:21.675970866Z",
+  "model": "glm-5.3"
+}

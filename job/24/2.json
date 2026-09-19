@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "سرحداں ہٹا ݙیندن، ڈھور کھس گھندن تے چریندن۔",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "سرحداں"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ہٹا ݙیندن"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "ڈھور"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "کھس گھندن"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "تے چریندن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:46.759898153Z",
+  "model": "glm-5.3"
+}

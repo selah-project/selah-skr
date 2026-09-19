@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "پر ہُݨ، اِیوب، میݙی ڳالھ سُݨ، تے میݙے سارے لفظاں کوں کَن دھر۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر ہُݨ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "پرس"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیوب"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میݙی ڳالھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَن دھر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:03.867276040Z",
+  "model": "glm-5.3"
+}

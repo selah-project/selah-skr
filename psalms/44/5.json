@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تُساں اِی اوہ میݙا بادشاہ ہیں، ایلوہیم؛ یعقوو کیتے فتحاں حکم کریں۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِی اوہ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "میݙا بادشاہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کریں"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "فتحاں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:07.160974935Z",
+  "model": "glm-5.3"
+}

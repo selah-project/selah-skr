@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یاہوہ کوہ سِنای اُتے موشے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہ اُتے"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سِنای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:52.694872247Z",
+  "model": "glm-5.3"
+}

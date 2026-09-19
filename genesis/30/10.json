@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے زلپہ، لیاہ دی نوکرانی، یعقوو کوں ہِک پُتر ڄمیس۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄمیس"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلپہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "نوکرانی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ دی"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ہِک پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:55.926433595Z",
+  "model": "glm-5.3"
+}

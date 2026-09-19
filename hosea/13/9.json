@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اِسرائیل، تباہی تیݙی آپ دی ہے، پر میں وِچ ہے تیݙی مدد۔",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "تباہی تیݙی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں وِچ"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "تیݙی مدد"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:36.432614623Z",
+  "model": "glm-5.3"
+}

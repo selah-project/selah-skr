@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے میں ݙٹھا جو اوہ میلی تھی ڳئی، ݙوہیں کوں ہِکو رستہ ملدا ہا۔",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "تے میں ݙٹھا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "میلی تھی ڳئی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِکو"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "ݙوہیں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:41.246465110Z",
+  "model": "glm-5.3"
+}

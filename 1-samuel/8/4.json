@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یِسرائل دے سارے ٻڈھے کٹھے تھئے، تے شموایل کول راماتہ وِچ آئے۔",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "کٹھے تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ٻڈھے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "راماتہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:36:05.173715624Z",
+  "model": "glm-5.3"
+}

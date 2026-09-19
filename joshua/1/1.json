@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے موشے، یاہوہ دے خادم، دی موت توں بعد تھیا، جو یاہوہ موشے دے خادم یہوشوع، نون دے پُتر، کوں آکھیا، آکھݨ لڳا،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:09:40.087835787Z",
+  "model": "glm-5.3"
+}

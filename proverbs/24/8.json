@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "جیہڑا بندہ برائی کرݨ دی تدبیر بݨیندے، اوں کوں شریر تدبیراں دا مالک سݙسِن۔",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "تدبیر بݨیندے"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "برائی کرݨ دی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "شریر تدبیراں"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سݙسِن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:39.039202354Z",
+  "model": "glm-5.3"
+}

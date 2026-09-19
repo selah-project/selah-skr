@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں میکوں وݙیاں اندھاریاں وِچ ٻلہایا، جیویں پراݨے زمانے دے مُردے۔",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "وݙیاں اندھاریاں وِچ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "اوں میکوں ٻلہایا"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "جیویں مُردے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پراݨے زمانے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:49.319455253Z",
+  "model": "glm-5.3"
+}

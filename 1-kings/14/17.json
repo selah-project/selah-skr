@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے یرووعام دی ذال اُٹھی، ٹُری، تے تِرتصا آئی؛ جیویں او گھر دے اَݙ تے آئی، ٻال مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "دی ذال"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یرووعام"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ٹُری"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "تِرتصا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "اَݙ تے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:14:02.216258331Z",
+  "model": "glm-5.3"
+}

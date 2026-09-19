@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "بند باغ ہے میݙی بھیݨ دلبر؛ بند کرِیا ہویا چشمہ، مہر لاتا ہویا جھرنا۔",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "بند"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "میݙی بھیݨ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "دلبر"
+    },
+    {
+      "surface": "גל",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "بند کرِیا ہویا"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "جھرنا"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مہر لاتا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:13.862223475Z",
+  "model": "glm-5.3"
+}

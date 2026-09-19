@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "ڳاوݨ، ہِک زبور، اَساف کیتے۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:46.620412540Z",
+  "model": "glm-5.3"
+}

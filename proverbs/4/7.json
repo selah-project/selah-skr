@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "سیاݨپ دا مُنڈھ ⟨ایہہ ہے⟩: سیاݨپ حاصل کر، تے اپݨی ہر ہِک شے وِچوں سمجھ حاصل کر۔",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ دا"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "تیݙی ملکیت وِچوں"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:28.827594294Z",
+  "model": "glm-5.3"
+}

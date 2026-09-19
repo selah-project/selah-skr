@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے قتل تھئے تُہاݙے وِچ ڈھسسن، تے تُساں ڄاݨ گھنسو جو میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "تے ڈھسسن"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "قتل تھئے"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "تُہاݙے وِچ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "تے تُساں ڄاݨ گھنسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:26:26.073505340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "مریوت ⟨את⟩ امرایہ کوں پیدا کیتا، تے امرایہ ⟨את⟩ اخیطوب کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مریوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرایہ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرایہ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "تے امرایہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیطوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیطوب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:37.650749762Z",
+  "model": "glm-5.3"
+}

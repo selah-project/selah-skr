@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے شمعون دی سرحد دے نال، پوادھی پاسے توں پچادھی پاسے تئیں، یِشسکار کوں ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … دے نال"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسے توں"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "پوادھی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچادھی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِشسکار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:40.142897806Z",
+  "model": "glm-5.3"
+}

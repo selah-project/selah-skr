@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے اُولام دے پُتر: بِدان۔ ایہ گِلعاد دے پُتر ہن — گِلعاد ماکیر دا پُتر، ماکیر مَنَشّہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اُولام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بِدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:58.158998563Z",
+  "model": "glm-5.3"
+}

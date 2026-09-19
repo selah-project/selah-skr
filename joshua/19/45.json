@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یِہود، تے بنِی-بِرق، تے گت رِمّون۔",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "تے یِہود"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے بنِی"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بِرق"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "تے گت"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمّون"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:34.682857442Z",
+  "model": "glm-5.3"
+}

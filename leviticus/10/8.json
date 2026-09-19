@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاہوہ اہرون نال ڳالھ کیتی، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:22.781444500Z",
+  "model": "glm-5.3"
+}

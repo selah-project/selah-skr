@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے وت گت وِچ جنگ تھئی، تے اُتھاں ہِک قد آلا بندہ ہا، تے اوندیاں انڳلین چھی چھی، ویہہ تے چار، تے او وی رافا توں ڄمیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "وت تھئی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گت وِچ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "قد"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "تے اوندیاں انڳلین"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ڄمیا"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "رافا توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:04.332755798Z",
+  "model": "glm-5.3"
+}

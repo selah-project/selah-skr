@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے کُوش ⟨את⟩ نمرود کوں ڄایا؛ او زمین اُتے بہادر بݨݨ دا مُنڈھ ٻدھا۔",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "تے کُوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "החל",
+      "gloss": "مُنڈھ ٻدھا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بݨݨ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:02.493792213Z",
+  "model": "glm-5.3"
+}

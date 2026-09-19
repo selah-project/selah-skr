@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے رئوبین دی سرحد اُتے، پوادھ دی طرف توں لَہندے پاسے تئیں، یہوداہ کیتے ہِک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبین"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "توں طرف"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لَہندے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک ⟨حصہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:29.531001068Z",
+  "model": "glm-5.3"
+}

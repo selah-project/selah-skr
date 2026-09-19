@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ایں طرح یاہوہ میکوں آکھیا: “آپ کیتے ٻدھݨ دے پٹے تے جُوئے بݨا، تے او اپݨی گردن اُتے پا۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "ٻدھݨ دے پٹے"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "تے جُوئے"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "تے پا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "اپݨی گردن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:07.362600651Z",
+  "model": "glm-5.3"
+}

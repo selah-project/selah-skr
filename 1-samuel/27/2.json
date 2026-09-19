@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے داوِد اُٹھیا تے لنگھ ڳیا — او تے چھی سو بندے جیہڑے اوندے نال ہن — اَکیش پُتر مَعوک، گت دے بادشاہ، کول۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "تے اُٹھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "تے لنگھ ڳیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او آپ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اَکیش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "مَعوک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:49:01.177891148Z",
+  "model": "glm-5.3"
+}

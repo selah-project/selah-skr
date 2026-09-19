@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "سچّے ہونٹھ ہمیشہ کیتے کھڑے رہسن، پر کُوڑی زبان ⟨ہِک لحظہ⟩۔",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچّے"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "کھڑے رہسن"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ہِک لحظہ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:22.250406103Z",
+  "model": "glm-5.3"
+}

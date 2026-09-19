@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 128,
+  "translation": "تے ݙیکھ اپݨے پُتراں دے پُتر! یسرایل اُتے سلامتی!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "اپݨے پُتراں دے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:52.660406399Z",
+  "model": "glm-5.3"
+}

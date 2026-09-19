@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "تے ایندے بعد تݙاں میں بنی عمون دی قید ⟨את⟩ واپس گھن آساں، یاہوہ دا آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "تے ایندے بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "واپس گھن آساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قید"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "قید"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:21:51.869839385Z",
+  "model": "glm-5.3"
+}

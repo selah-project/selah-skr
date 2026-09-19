@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ہامن ݙٹھا جو موردخائی نہ جھکدا، نہ اوں کوں سِر نواندا، تے ہامن غضب نال بھر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "موردخائی"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "جھکدا"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "سِر نواندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "بھر ڳیا"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامن"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غضب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:16:46.408569721Z",
+  "model": "glm-5.3"
+}

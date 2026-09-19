@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "بنی اِسرائیل نال آکھ، تے انہاں کوں آکھ: جݙاں تُساں ⟨את⟩ یاردن کوں پار کریسو کنعان دی زمین دو،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھسیں"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار کریسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاردن کوں"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "کنען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:51.965051589Z",
+  "model": "glm-5.3"
+}

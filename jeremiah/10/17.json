@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "زمین توں تیݙا سامان کٹھا کر گھن، اَے محاصرے وِچ وسیندی ہِیں۔",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "کٹھا کر گھن"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "تیݙا سامان"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "وسیندی ہِیں"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "محاصرے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:02:01.431746196Z",
+  "model": "glm-5.3"
+}

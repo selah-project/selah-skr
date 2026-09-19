@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے قناز دے پُتر عتنیایل تے شرایاہ ہن؛ تے عتنیایل دے پُتر حتت ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قناز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عتنیایل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "تے شرایاہ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عتنیایل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حتت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:42.233343224Z",
+  "model": "glm-5.3"
+}

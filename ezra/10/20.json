@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اِمّیر دے پُتراں وِچوں خنانی تے زبدیاہ۔",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "تے پُتراں وِچوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمّیر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "خنانی"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "تے زبدیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:44.835611319Z",
+  "model": "glm-5.3"
+}

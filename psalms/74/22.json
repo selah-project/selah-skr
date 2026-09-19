@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 74,
+  "translation": "اُٹھ، ایلوہیم، اپݨا مقدمہ لڑ؛ یاد کر تیݙی بے عزتی بدکار توں سارا ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "مقدمہ لڑ"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "اپݨا دعویا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "تیݙی بے عزتی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:44.798310805Z",
+  "model": "glm-5.3"
+}

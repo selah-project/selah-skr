@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "بےکار ہن، دھوکے دا کم، انہاں دی سزا دے ݙینہہ او برباد تھی ویسن۔",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "بےکار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "دھوکے"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "انہاں دی سزا"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "برباد تھیسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:24:13.593310149Z",
+  "model": "glm-5.3"
+}

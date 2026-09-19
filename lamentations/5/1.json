@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "یاہوہ، یاد رکھ جو ساݙے نال تھیا ہے؛ ݙیکھ تے ⟨את⟩ ساݙی بے عزتی ڄاݨ۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا ہے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙے نال"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساݙی بے عزتی"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ساݙی بے عزتی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:57.172918441Z",
+  "model": "glm-5.3"
+}

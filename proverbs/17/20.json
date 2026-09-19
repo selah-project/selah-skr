@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ٹیڑھا دل رکھݨ آلا بھلائی نہ لبھدے، تے اپݨی زبان نال وَل وَل وٹاوݨ آلا برائی وِچ ڈھہندے۔",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبھدے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "تے وٹاوݨ آلا"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "اپݨی زبان نال"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈھہندے"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:45.738911721Z",
+  "model": "glm-5.3"
+}

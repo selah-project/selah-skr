@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 147,
+  "translation": "اوہ برف ݙیندے اُنّ وانگوں، تے پالے کوں سواہ وانگوں کھنڈیندے۔",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "اوہ ݙیندے"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "اُنّ وانگوں"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "پالا"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "سواہ وانگوں"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "کھنڈیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:20.308277855Z",
+  "model": "glm-5.3"
+}

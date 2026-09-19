@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یِساکار دے پُتراں وِچوں: تُولاع، تے پُوآہ، یَشوو تے شِمرُون — چار۔",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "تے … دے پُتراں وِچوں"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تُولاع"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "تے پُوآہ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "یَشوو"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "تے شِمرُون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:02.800122904Z",
+  "model": "glm-5.3"
+}

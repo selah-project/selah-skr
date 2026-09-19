@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بنیاد قیمتی پتھراں دی، وݙیاں پتھراں دی — پتھر ݙاہ گز دے، تے پتھر اَٹھ گز دے۔",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "تے بنیاد"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "وݙیاں"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "گز"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "تے پتھر"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "گز"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:43.225996885Z",
+  "model": "glm-5.3"
+}

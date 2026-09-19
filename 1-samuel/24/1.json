@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے داوِد اُتھوں چڑھ ڳیا، تے عِین گدی ⟨عِین گدی⟩ دیاں مضاوتیں وِچ ٹِک ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے ٹِک ڳیا"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "مضاوتیں وِچ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عِین"
+    },
+    {
+      "surface": "گדי",
+      "gloss": "گدی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:46:12.717073811Z",
+  "model": "glm-5.3"
+}

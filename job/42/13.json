@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "اَور اُوندے ست پُتر تے ترے دھیاں تھیاں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندے"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:57.379813753Z",
+  "model": "glm-5.3"
+}

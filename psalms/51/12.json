@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "ایلوہیم، میݙے کیتے پاک دل بݨا، تے میݙے اندر پکا رُوح نواں کر۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "بݨا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے رُوح"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں کر"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میݙے اندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:07.650124107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ٻئے عِیلام دے پُتراں دے ⟨⟩ ہِک ہزار ݙو سو پنجاہ تے چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:38.250242551Z",
+  "model": "glm-5.3"
+}

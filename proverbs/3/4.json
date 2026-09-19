@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ایلوہیم تے بندے دیاں اکھیں وِچ تیکوں مہربانی تے چن٘ڳی سمجھ ملسی۔",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "تے ملسی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "تے سمجھ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چن٘ڳی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "دیاں اکھیں وِچ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:48.846946579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اوندے ہتھ یہوزاباد، تے اوندے نال اِک سو اَسی ہزار لشکر کیتے تیار فوجی۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "یہوزاباد"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوندے نال"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "تے اَسی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر کیتے فوجی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:51:41.301625385Z",
+  "model": "glm-5.3"
+}

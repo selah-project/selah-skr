@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "اسماناں توں تُساں فیصلہ سُݨایا، زمین ݙری تے چُپ تھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "تُساں سُݨایا"
+    },
+    {
+      "surface": "דין",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙری"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "تے چُپ تھی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:28.336957541Z",
+  "model": "glm-5.3"
+}

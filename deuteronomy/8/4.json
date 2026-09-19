@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تیݙا کپڑا تیݙے اُتے توں نہ پُرانی تھیا، تے تیݙا پیر نہ سُڄا — ایہ چالیہہ سال۔",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "تیݙا کپڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "پُرانی تھئی"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "تیݙے اُتے توں"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "تے تیݙا پیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "سُڄ ڳیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:00.814221874Z",
+  "model": "glm-5.3"
+}

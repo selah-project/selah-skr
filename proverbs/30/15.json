@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "عَلُوق ⟨جُوں⟩ کیتے ݙو دھیاں ہِن: “ݙے، ݙے۔” ترے شئیں سیر نہ تھیندیاں، چار آکھدیاں کائنی: “بس۔”",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "عَلُوق کیتے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں ہِن"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "شئیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "سیر تھیندیاں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھدیاں"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:46.997386297Z",
+  "model": "glm-5.3"
+}

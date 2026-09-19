@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے لوویاں دی ڳݨتری یِتصخاق دے پُتراں وِچ نہ کیتی ڳئی، جیویں یاہوہ ⟨את⟩ موشے کوں حکم ݙتا ہا۔",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "تے لووی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ڳݨے ڳئے"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:11.926128457Z",
+  "model": "glm-5.3"
+}

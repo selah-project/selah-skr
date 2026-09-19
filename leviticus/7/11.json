@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے اے ⟨ہے⟩ تورات ⟨دی⟩ سلامتی دی قربانی دی، جیڑھی کوئی یاہوہ کوں پیش کرے۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "تے اے"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتی دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "پیش کرے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:48.414683645Z",
+  "model": "glm-5.3"
+}

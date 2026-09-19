@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "بندہ بلیعال ⟨بےعمل⟩، برائی دا آدمی، ٹیڑھے مُنہہ نال ٹُردا۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعال ⟨بےعمل⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی دا"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ٹُردا"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "פה",
+      "gloss": "مُنہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:25.889005434Z",
+  "model": "glm-5.3"
+}

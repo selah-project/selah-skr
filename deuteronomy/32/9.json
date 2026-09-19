@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو یاہوہ دا حصہ اوندی قوم ہے؛ یعقوو اوندی وراثت دا ناپ ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندی قوم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ناپ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "اوندی وراثت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:33.407692646Z",
+  "model": "glm-5.3"
+}

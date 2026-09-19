@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "بِلع مر ڳیا، تے اوندی جاہ اُتے یوباب بادشاہ بݨیا — زرَح دا پُتر، مِبَتصرہ توں۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلع"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ بݨیا"
+    },
+    {
+      "surface": "תחתיو",
+      "gloss": "اوندی جاہ اُتے"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرَح"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "مِبَتصرہ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:08.523865466Z",
+  "model": "glm-5.3"
+}

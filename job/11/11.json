@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 11:11",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کیوں جو او کُوڑے بندیاں کوں ڄاݨدا ہے، تے برائی ݙیکھ تے غور نہ کریسی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "بندیاں کوں"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "کُوڑے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙیکھ تے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתבונן",
+      "gloss": "غور کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:31.289418597Z",
+  "model": "glm-5.3"
+}

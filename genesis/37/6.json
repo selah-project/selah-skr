@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے اوہ اوہناں کوں آکھیا: “سݨو نا ایہ خواب جو میں خاب ݙٹھا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں کوں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "خاب ݙٹھا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:35:18.398805895Z",
+  "model": "glm-5.3"
+}

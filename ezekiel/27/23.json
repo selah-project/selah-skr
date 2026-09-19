@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "خاران، کنّہ تے عدن، شِبعا دے وپاری؛ اشّور تے کِلماد — او تیݙے وپاری ہن۔",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "خاران"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "تے کنّہ"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "تے عدن"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "وپاری"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبعا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشّور"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "کِلماد"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "تیݙے وپاری ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:37:04.875095286Z",
+  "model": "glm-5.3"
+}

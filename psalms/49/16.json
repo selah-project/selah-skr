@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "پر ایلوہیم میݙی جان شیول دے ہتھ توں چھڑویسی، کیوں جو او میکوں گھنسی۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "چھڑویسی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "مיד",
+      "gloss": "دے ہتھ توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "میکوں گھنسی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:15.595660932Z",
+  "model": "glm-5.3"
+}

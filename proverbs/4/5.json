@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "سیاݨپ حاصل کر، سمجھ حاصل کر؛ نہ بھُل، تے میݙے مُنہ دے اَکھریاں توں نہ وَلّ۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیاݨپ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھُل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "وَلّ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "توں، اَکھریاں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙے مُنہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:28.826839177Z",
+  "model": "glm-5.3"
+}

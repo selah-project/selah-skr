@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 130,
+  "translation": "جے توں گناہیاں کوں نگہبانی کریندا، یاہ، اَدونای، کوں کھڑ سڳسی؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "گناہیاں کوں"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "نگہبانی کریندا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھڑ سڳسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:24.535547305Z",
+  "model": "glm-5.3"
+}

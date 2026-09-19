@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے نوگہ، تے نِفِگ، تے یاپِیع۔",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "تے نوگہ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "تے نِفِگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "تے یاپِیع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:55.982737765Z",
+  "model": "glm-5.3"
+}

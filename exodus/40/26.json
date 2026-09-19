@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اوں سونے دے مذبح کوں ⟨את⟩ خیمۂ اجتماع وِچ پردے دے سامݨے رکھیا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونے دے مذبح کوں"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:01.317323266Z",
+  "model": "glm-5.3"
+}

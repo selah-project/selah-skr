@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "بنی یِسرایل نال ٻولو تے انہاں کوں آکھو: جݙاں کہیں بندے دے بدن توں وہاونج ہووے، او اوندے وہاونج نال نجس ہے۔",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ٻولو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "تے آکھو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "זב",
+      "gloss": "وہاونج"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "اوندے بدن توں"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "اوندا وہاونج"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:07.600877147Z",
+  "model": "glm-5.3"
+}

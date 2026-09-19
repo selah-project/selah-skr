@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "پریں ہے یاہوہ شریراں کنوں، تے راستبازاں دی دُعا سُݨسی۔",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "پریں ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "شریراں کنوں"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "تے دُعا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازاں دی"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:42.387909054Z",
+  "model": "glm-5.3"
+}

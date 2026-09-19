@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "کیا ہُݨ تھوڑے جہے ویلے وِچ لُبنان باغ بݨ ویسی، تے باغ جنگل ڳݨیا ویسی؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑے جہے ویلے وِچ"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ٻہوں تھوڑا"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "بݨ ویسی"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لُبنان"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "تے باغ"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ڳݨیا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:42:54.982643054Z",
+  "model": "glm-5.3"
+}

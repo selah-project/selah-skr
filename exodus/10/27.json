@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاہوہ پرعوہ دے دل ⟨את⟩ کوں پکا کیتا، تے اوں انہاں کوں ونڄݨ نہ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "تے پکا کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "راضی تھیا"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "انہاں کوں ونڄݨ ݙیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:44.201290867Z",
+  "model": "glm-5.3"
+}

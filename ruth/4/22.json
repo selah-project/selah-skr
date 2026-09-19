@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے عوِید ⟨את⟩ یِشّای کوں جنم ݙتا، تے یِشّای ⟨את⟩ داوِد کوں جنم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "تے عوِید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشّای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشّای"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "تے یِشّای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:07:12.315384630Z",
+  "model": "glm-5.3"
+}

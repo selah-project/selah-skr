@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "نیکےآں دے خیال انصاف ہوندن، تے بدکاراں دیاں چالاں دھوکہ۔",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "خیال"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکےآں دے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "چالاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دیاں"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:17.118230808Z",
+  "model": "glm-5.3"
+}

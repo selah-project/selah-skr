@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوندے نال ݙو زیتوناں دے رُکھ — ہِک پیالے دے سڄے پاسے تے ہِک اوندے کچھے پاسے۔",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زیتوناں دے رُکھ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "سڄے پاسے"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "پیالے دے"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "تے ہِک"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "کچھے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:54.701128235Z",
+  "model": "glm-5.3"
+}

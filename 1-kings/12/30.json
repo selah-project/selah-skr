@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے ایہ ڳالھ پاپ بݨ ڳی، تے قوم ہِک دے اڳوں ونڄݨ لڳی، دان تئیں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "پاپ بݨ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ونڄݨ لڳی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-09-19T17:12:42.542055683Z",
+  "model": "glm-5.3"
+}

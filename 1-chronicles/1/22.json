@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ عِیبال، تے ⟨את⟩ اَبیماعیل، تے ⟨את⟩ شِبا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عِیبال"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عِیبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اَبیماعیل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "اَبیماعیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "شِبا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:47.590375875Z",
+  "model": "glm-5.3"
+}

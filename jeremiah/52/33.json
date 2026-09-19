@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "تے ⟨את⟩ قید دے کپڑے وٹائے ڳئے، تے اوں اوندے اڳوں ہمیشہ روٹی کھادی، اپݨی زندگی دے سارے ݙینہہ۔",
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "وٹائے ڳئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قید دے کپڑے"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "قید دے"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "کھادی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "زندگی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:25:04.574944840Z",
+  "model": "glm-5.3"
+}

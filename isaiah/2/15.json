@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ہر اُچے برج اُتے، تے ہر مضبوط کندھ اُتے —",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "مضبوط"
+    }
+  ],
+  "timestamp": "2026-09-19T17:31:46.781324751Z",
+  "model": "glm-5.3"
+}

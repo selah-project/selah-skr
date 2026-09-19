@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "گِدیل دے پُتر، گَخَر دے پُتر، رِعایہ دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گَخَر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:23.142151194Z",
+  "model": "glm-5.3"
+}

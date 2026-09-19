@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے جے پنج سالاں توں ویہہ سالاں تئیں ہووے، تاں تیݙا اندازہ نر کیتے ویہہ شکلاں ہوسی، تے مادی کیتے ݙاہ شکلاں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "سالاں دی عمر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تاں ہوسی"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیݙا اندازہ"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "نر کیتے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکلاں"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "تے مادی کیتے"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکلاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:40.408516905Z",
+  "model": "glm-5.3"
+}

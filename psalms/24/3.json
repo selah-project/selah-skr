@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "کوݨ چڑھسی یاہوہ دے پہاڑ تے، تے کوݨ کھڑسی اوندے پاک تھاں وِچ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھسی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ تے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کوݨ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "تھاں وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اوندها پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:29.637338623Z",
+  "model": "glm-5.3"
+}

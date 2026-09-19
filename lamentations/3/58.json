@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں، ادونای، میݙی جان دے دعوے لڑے؛ توں میݙی جان چھڑائی۔",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "توں لڑے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "دعوے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان دے"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "توں چھڑایا"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میݙی جان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:57.452717128Z",
+  "model": "glm-5.3"
+}

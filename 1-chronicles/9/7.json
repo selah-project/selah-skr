@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے بنیامین دے پُتریں وِچوں سلّو، مشُلّام دا پُتر، ہودَوَیاہ دا پُتر، ہَسُنُواہ دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں"
+    },
+    {
+      "surface": "بنימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سلّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشُلّام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "ہودَوَیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ہَسُنُواہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:37.475470044Z",
+  "model": "glm-5.3"
+}

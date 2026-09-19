@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "راستبازاں دی اُمید خوشی ہے، پر رشعات دیاں اُمیداں مک ویسن۔",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "امید"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازاں دی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "پر امید"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشعات دیاں"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "مک ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:37.601892335Z",
+  "model": "glm-5.3"
+}

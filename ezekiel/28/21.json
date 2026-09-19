@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "اِبن آدم، اپݨا مُکھڑا صیدون دو کر، تے اوندے خلاف نبوت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "اِبن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپݨا مُکھڑا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "تے نبوت کر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوندے خلاف"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:37.632264644Z",
+  "model": "glm-5.3"
+}

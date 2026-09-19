@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "کیوں جو اے ݙو سال ہِن قحط زمین دے وِچ ہے، تے ہَر وی پنج سال رہندن جِنہاں وِچ نہ وہائی ہوسی نہ فصل۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ݙو سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "دے وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "تے ہَر وی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں وِچ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "وہائی"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "تے فصل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:09.166499077Z",
+  "model": "glm-5.3"
+}

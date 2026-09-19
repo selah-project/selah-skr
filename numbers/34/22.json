@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے دان دے پُتراں دے ٹبر دا سردار بُکی، یوگلی دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے ٹبر دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "یوگلی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:07.506957369Z",
+  "model": "glm-5.3"
+}

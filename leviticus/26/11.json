@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے میں آپݨا مسکن تُہاݙے وچالے رکھیساں، تے میݙی جان تُہاکوں ⟨את⟩ نہ جھلکسی۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "رکھیساں"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "آپݪا مسکن"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "تُہاݙے وچالے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "جھلکسی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:09.526218704Z",
+  "model": "glm-5.3"
+}

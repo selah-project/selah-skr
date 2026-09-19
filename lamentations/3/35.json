@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ہِک بندے دا انصاف سبھ توں اُچے دے اَمݨے توں وَٹاوݨ ⟨نہ چاہندا⟩۔",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "وَٹاوݨ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اَمݨے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ\/اَکھیں اُتے"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سبھ توں اُچے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:51.043650823Z",
+  "model": "glm-5.3"
+}

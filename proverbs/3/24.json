@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "جے تُساں سمائو تاں ݙرساں نہ، بلکہ سم تے تیݙی نندر مِٹھی تھیسی ۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سمائو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ݙرساں"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "تے سم تے"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "مِٹھی تھیسی"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "تیݙی نندر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.785106570Z",
+  "model": "glm-5.3"
+}

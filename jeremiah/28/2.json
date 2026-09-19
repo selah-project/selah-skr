@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ایویں آکھیا یاہوہ تصواوت، اسرائیل دا ایلوہیم: میں بابل دے بادشاہ دا ⟨את⟩ جوا تُوٹیا۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل دا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "تُوٹیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "جوا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:25.233756610Z",
+  "model": "glm-5.3"
+}

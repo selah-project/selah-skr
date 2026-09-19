@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے او بیت ایل کنوں لُوز دو نکلیا، تے ہَرخِی دی سرحد کنوں لنگھیا، عطاروت تک۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکلیا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بیت ایل کنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لُوز دو"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "لنگھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ہَرخِی دی"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عطاروت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:13.673292976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تورات موشے ساکوں حکم کیتی، یعقوو دی جماعت دی مِلک۔",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "مِلک"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:49.499052159Z",
+  "model": "glm-5.3"
+}

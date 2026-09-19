@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں کلہا ٻہوے تے چُپ رکھے، کیوں جو ⟨اوں⟩ جوآ اوندے اُتے رکھیا ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ٻہوے"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "چُپ رکھے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "رکھیا ڳئے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:55.303713203Z",
+  "model": "glm-5.3"
+}

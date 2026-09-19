@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اوہ ڳالھ جیہڑی یِرمِیاہو کوں یاہوہ ⟨את⟩ کنوں تھئی، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "کنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:07:36.339940181Z",
+  "model": "glm-5.3"
+}

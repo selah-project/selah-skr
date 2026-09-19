@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "یاہوہ کوں شکریہ ݙیوو، کیوں جو او ⟨ہے⟩ چنگا، کیوں جو اُوندا خیسِد ہمیشہ کیتے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شکریہ ݙیوو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اُوندا خیسِد"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:05.668036282Z",
+  "model": "glm-5.3"
+}

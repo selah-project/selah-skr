@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کہیں جانور دی شکل دی، جیڑھا زمین اُتے ہووے، کہیں پراں آلے پرندے دی شکل دی، جیڑھا اسماناں وِچ اُݙدا ہووے،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پرندہ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پَرّ آلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "اُݙدا ہے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:01.853019319Z",
+  "model": "glm-5.3"
+}

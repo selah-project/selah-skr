@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اخیطوب دا پُتر تصدوک تے عبیتر دا پُتر عویملک کاہن ہن، تے شوشا منشی ہا۔",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "تصدوک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیطوب"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "عویملک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "عبیتر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہن ہن"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "شوشا"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "منشی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:01.971087745Z",
+  "model": "glm-5.3"
+}

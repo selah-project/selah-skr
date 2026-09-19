@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "انہاں ݙینہاں وِچ میں دانیایل ترے ہفتے، ݙینہاں دے، سوڳ کریندا ریہا۔",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "انہاں ݙینہاں وِچ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اوہے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیایل"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ریہا"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "سوڳ کریندا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہفتے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:23:37.285741734Z",
+  "model": "glm-5.3"
+}

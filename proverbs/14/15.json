@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "سادہ لوح ہر ڳالھ تے یقین رکھیندے، پر ہوشیار آپݨے قدم بارے سوچیندے۔",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "سادہ لوح"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "یقین رکھیندے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ تے"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "پر ہوشیار"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سوچیندے"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "آپݨے قدم بارے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:49.397812813Z",
+  "model": "glm-5.3"
+}

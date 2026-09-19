@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے اوں ترے ݙینہہ دا پندھ آپ تے یعقوو دے وچالے رکھیا؛ تے یعقوو لابن دی باقی بھیڈ ⟨את⟩ رہیندا ہا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "پندھ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ دا"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "آپ تے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … دے وچالے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "تے یعقوو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رہیندا ہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بھیڈ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڈ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن دی"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "باقی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:30:24.927307549Z",
+  "model": "glm-5.3"
+}

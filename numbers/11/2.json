@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے لوکاں موشے دے اڳوں چیکا ماریا، تے موشے یاہوہ دے اڳوں دعا کیتی، تے بھاہ دب ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "تے چیکا ماریا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "تے دعا کیتی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "تے دب ڳئی"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:03.130955170Z",
+  "model": "glm-5.3"
+}

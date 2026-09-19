@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "جے ڈھہسی وی تاں سٹیا نہ ویسی، کیوں جو یاہوہ اوندا ہتھ تھنبھیندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھہسی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "سٹیا ویسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "تھنبھیندے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:02.022848813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 126,
+  "translation": "یاہوہ ساݙے نال وݙے کم کیتے، اَساں خُش تھیاں ہاسے۔",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "وݙے کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ساݙے نال"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ہاسے"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "خُش"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:53.128917912Z",
+  "model": "glm-5.3"
+}

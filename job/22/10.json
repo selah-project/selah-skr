@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "ایں کیتے تیݙے دوالے جال ہن، تے اچانک ݙر تیکوں ہلا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "تیݙے دوالے"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "جال"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "تے ہلا ݙیندے"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:27.827460037Z",
+  "model": "glm-5.3"
+}

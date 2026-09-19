@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "کیوں جو اوندے مارݨ تُوں اِی اوندے مارݨ دی تیݙی ہتھ پہلے ہووے، تے سارے لوکاں دا ہتھ پچھے ہووے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "مارݨ"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "اوندے مارݨ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙی ہتھ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "اوندے مارݨ کیتے"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دا"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "پچھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.665722054Z",
+  "model": "glm-5.3"
+}

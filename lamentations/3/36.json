@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے بندے کوں اوندے جھیڑے وِچ زیادتی کرݨ — ادونای ایندا نظارہ نہ کریندا۔",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "زیادتی کرݨ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے کوں"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "اوندے جھیڑے وِچ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "نظارہ کریندا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:51.045854569Z",
+  "model": "glm-5.3"
+}

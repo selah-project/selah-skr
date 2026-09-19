@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے کاہن یاہوہ دے گھر وِچ نہ وچ سڳدے ہن، کیوں جو یاہوہ دے جلال یاہوہ دے ⟨את⟩ گھر کوں بھر ݙتا ہا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "وچ سڳدے ہن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ونڄݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر ݙتا ہا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:24:26.893452624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے رحبوام اپݨے کیتے ذال چاتی، ⟨את⟩ مَخَلت، یریموت دی دھی — داوِد دا پُتر — تے اَویہیل، الیآو دی دھی، یِشای دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چاتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپݨے کیتے"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبوام"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَخَلت"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مَخَلت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "یریموت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "اَویہیل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "الیآو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:28.820432995Z",
+  "model": "glm-5.3"
+}

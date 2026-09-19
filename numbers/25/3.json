@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اسرائیل بعل فغور نال جُڑ ڳیا، تے یاہوہ دا غصہ اسرائیل اُتے بھڑک اُٹھیا۔",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "جُڑ ڳیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فغور"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "بھڑک اُٹھیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیل اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:46.239090354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "اوہ یاہوہ دے کم ݙٹھے، تے اوندیاں عجیب گھٹائیاں وِچ گہرائی وِچ۔",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ݙٹھے"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "دے کم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "تے اوندیاں عجیب"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "گہرائی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:49.186861867Z",
+  "model": "glm-5.3"
+}

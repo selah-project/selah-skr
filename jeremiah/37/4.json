@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "تے یرمیاہو لوکاں وِچ آوندا ویندا ہا، کیوں جو اوندے ⟨את⟩ قید خانے وِچ نہ پایا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "تے یرمیاہو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آوندا"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ویندا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "پایا ڳیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "قید خانہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "قید خانہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:50.764922431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 74,
+  "translation": "ݙینہہ تیݙا ہے، رات وی تیݙی ہے، توں اُجالے ⟨چن⟩ تے سِجھ کوں تیار کیتا۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیݙا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "اُجالے ⟨چن⟩ کوں"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "تے سِجھ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:14.047464564Z",
+  "model": "glm-5.3"
+}

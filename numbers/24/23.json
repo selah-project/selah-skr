@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے اوں آپݨا مثل چاتا تے آکھیا: ہائے، کون جیسی جݙاں ایل ایہ رکھسی!",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "آپݨا مثل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیسی"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "رکھسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:53.465332812Z",
+  "model": "glm-5.3"
+}

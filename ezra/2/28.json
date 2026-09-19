@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بیت ایل تے ہعای دے بندے، ݙو سو ویہہ تے ترے۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "تے ہعای"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:43.716430225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "عدینا شیزا دا پُتر، راؤبینی، راؤبینیاں دا سردار، تے اوندے نال تریہہ ⟨ہن⟩،",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "عدینا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "شیزا"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "راؤبینی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "راؤبینیاں دا"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "تے اوندے نال"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "تریہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:27.743891126Z",
+  "model": "glm-5.3"
+}

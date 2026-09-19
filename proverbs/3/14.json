@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو اوندا نفع چاندی دی تجارت توں چنگا ہے، تے سونے توں اوندا حاصل۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "اوندا نفع"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "تجارت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اوندا حاصل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:27.086898178Z",
+  "model": "glm-5.3"
+}

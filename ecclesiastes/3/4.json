@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ویلہہ رووݨ دا، تے ویلہہ ہسݨ دا؛ ویلہہ سوگ کرݨ دا، تے ویلہہ نچݨ دا۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "رووݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ہسݨ دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہہ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "سوگ کرݨ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہہ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "نچݨ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:29.052621810Z",
+  "model": "glm-5.3"
+}

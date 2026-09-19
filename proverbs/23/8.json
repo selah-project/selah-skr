@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "جیڑھا ٹُکر توں کھادا، او اُڳسیں، تے اَپݨیاں مِٹھیاں ڳالھیں وٹا ݙیسیں۔",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "ٹُکر"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "کھادا"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "اُڳسیں"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "تے وٹا ݙیسیں"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "اَپݨیاں ڳالھیں"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "مِٹھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:56.979047738Z",
+  "model": "glm-5.3"
+}

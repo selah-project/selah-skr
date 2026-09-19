@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 58,
+  "translation": "موڑݨ والے کیتے ⟨مٹاؤ نہ⟩، داوِد کیتے، ہِک مِکتام۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڑݨ والے کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "مٹاؤ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کیتے"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مِکتام"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:05.595642488Z",
+  "model": "glm-5.3"
+}

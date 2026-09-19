@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے کھیت دی کمائی کرݨ آلیاں، زمین دیservice کیتے، اُتے عزری، کلُوب دا پُتر، ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کرݨ آلیاں"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کمائی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت دی"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "service کیتے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین دی"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عزری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "کلُوب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:18.374656437Z",
+  "model": "glm-5.3"
+}

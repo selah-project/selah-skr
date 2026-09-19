@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "جیڑھی کن سُݨدی ہے حیاتی دی تنبیہ، او حکیماں وِچ رہسی۔",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُݨدی ہے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تنبیہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی دی"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیماں"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رہسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:42.388253121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوندا وݙا پُتر عبدون، تے تصور، تے قیش، تے بععل تے ندب۔",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "تے اوندا پُتر"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "تے تصور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "تے قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "تے بععل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "تے ندب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:13.775977101Z",
+  "model": "glm-5.3"
+}

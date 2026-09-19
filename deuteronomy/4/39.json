@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 4:39",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے تُساں اَج ڄاݨو، تے اپݨے دل وِچ ولا سموو، جو یاہوہ اوہو ایلوہیم ہے — اسماناں وِچ اُتے، تے زمین اُتے تلے — ⟨کوئی⟩ ٻیا کائنی۔",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "تے تُساں ڄاݨو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "تے ولا سموو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "اپݨے دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:26.318171419Z",
+  "model": "glm-5.3"
+}

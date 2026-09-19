@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے یاہوہ ݙٹھا جو لایا بے پیار ہئی، تے ⟨את⟩ اوندا پیٹ کھولیُس؛ تے راخل بانجھ ہئی۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "بے پیار ہئی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کھولیُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا پیٹ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "اوندا پیٹ"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "تے راخل"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانجھ ہئی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:25.451049221Z",
+  "model": "glm-5.3"
+}

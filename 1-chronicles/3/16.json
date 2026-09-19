@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یہویاقیم دے پُتر: یکنیہ اُوندا پُتر، تصدقیہ اُوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یہویاقیم"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یکنیہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "تصدقیہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.153998718Z",
+  "model": "glm-5.3"
+}

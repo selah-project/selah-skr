@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ڳاݨے نال او شراب نہ پیون، نشیلی شراب پیندیاں کیتے کوڑی تھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ڳاݨے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پیون"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "کوڑی تھی ڳئی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "نشیلی شراب"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "پیندیاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:11.278742914Z",
+  "model": "glm-5.3"
+}

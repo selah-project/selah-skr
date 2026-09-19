@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اِیہ دِشان دے پُتر ہَن: عُوص تے اَران۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دِشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "تے اَران"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:11.388641361Z",
+  "model": "glm-5.3"
+}

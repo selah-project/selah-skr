@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 18:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ آلا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ آلا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:21.951328493Z",
+  "model": "glm-5.3"
+}

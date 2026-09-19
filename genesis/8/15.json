@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ایلوہیم نوح نال ڳالھ کیتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:44.493431490Z",
+  "model": "glm-5.3"
+}

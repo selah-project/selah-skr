@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "نہ آکھ: “ایہ کیوں تھیا جو پہلے ݙینہہ اِنہاں توں چنگے ہن؟” کیوں جو اِیں ڳالھ بارے پچھݨ تُوں حکمت کائنی تھیا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "جو پہلے ݙینہہ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پہلے آلے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "اِنہاں توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "تُوں حکمت"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پچھݨ تھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.341540507Z",
+  "model": "glm-5.3"
+}

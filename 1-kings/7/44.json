@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ⟨את⟩ ہِک سمندر، تے ⟨את⟩ ݙاند ݙاہ ݙو سمندر تلے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ݙاند"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙاہ ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "﴾"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:48.042723350Z",
+  "model": "glm-5.3"
+}

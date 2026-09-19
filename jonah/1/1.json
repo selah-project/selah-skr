@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاہوہ دی ڳالھ یوناہ، اَمِتّای دے پُتر، ⟨کوں⟩ تھئی، آکھݨ ⟨جو⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "اَمِتّای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:43.056765599Z",
+  "model": "glm-5.3"
+}

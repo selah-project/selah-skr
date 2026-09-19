@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے بِریعہ دے پُتر: خِبِر تے مَلکِیایل؛ اوہ بِرزوت دا پیو ہا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بِریعہ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "خِبِر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "مَلکِیایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دے پیو"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "بِرزوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:09.974046625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "جے میں آپݨے دل وِچ اَوَن ⟨بُرائی⟩ ݙٹھا ہوواں، تاں ادونای سُݨسی نہ۔",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "اَوَن ⟨بُرائی⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ݙٹھا ہوواں"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "آپݨے دل وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:57.719998426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اُوں ویلھے میں تُہاکوں ⟨את⟩ ساریاں ڳالھیں حکم کیتیاں، جہڑیاں تُساں کرݨیاں ہن۔",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "تے حکم کیتیاں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "تُہاکوں"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں ڳالھیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑیاں"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرݨیاں ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:52.043402329Z",
+  "model": "glm-5.3"
+}

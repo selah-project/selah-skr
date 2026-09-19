@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے بارہ شیر اُتھاں چھیں پوڑیاں اُتے کھڑے ہن، اِیں پاسے تے اُوں پاسے؛ کہیں مملکت وِچ ایویں نہ بݨایا ڳیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھڑے ہن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھیں"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "پوڑیاں"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "اِیں پاسے"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "تے اُوں پاسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بݨایا ڳیا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "مملکت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:37.119851675Z",
+  "model": "glm-5.3"
+}

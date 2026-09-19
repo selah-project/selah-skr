@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 41:14",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے سارا او لوک جیہڑا یشماعیل مِتصفا توں قیدی بݨا گھدا ہا، وَل آیا تے واپس تھی یوخنان قورح دے پُتر دو ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "وَل آیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "قیدی بݨا گھدا"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یشماعیل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِتصفا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "واپس تھیا"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوخنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-09-19T18:16:16.585988061Z",
+  "model": "glm-5.3"
+}

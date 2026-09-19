@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یہوآ مٹا ݙتا ⟨את⟩ باعل کوں اسرائیل توں۔",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "تے مٹا ݙتا"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوآ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باعل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "باعل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائیل توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:23:02.934468908Z",
+  "model": "glm-5.3"
+}

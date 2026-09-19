@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 113,
+  "translation": "تعریف کرو یاہ دے ناں دی! تعریف کرو، یاہوہ دے ٻانھیاں، یاہوہ دے ناں دی تعریف کرو۔",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "دے ٻانھیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הללو",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:38.009146432Z",
+  "model": "glm-5.3"
+}

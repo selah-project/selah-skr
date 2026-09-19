@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اوہ عولہ قربانی دی کھل لہیسی، تے اوندے ٹُکڑے ٹُکڑے کرسی۔",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "کھل لہیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عولہ قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عولہ قربانی"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ٹُکڑے کرسی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے ٹُکڑے"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "اوندے ٹُکڑیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:40.284260288Z",
+  "model": "glm-5.3"
+}

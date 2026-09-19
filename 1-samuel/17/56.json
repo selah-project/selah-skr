@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے بادشاہ آکھیا: “تُوں پُچھ، اے جوان کہڑے دا پُتر ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کہڑے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "جوان"
+    }
+  ],
+  "timestamp": "2026-09-19T16:42:50.915180553Z",
+  "model": "glm-5.3"
+}

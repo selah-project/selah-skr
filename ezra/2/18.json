@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "یورہ ⟨دے پُتر⟩ — ہِک سو تے ٻارہاں۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "یورہ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ٻارہاں دا ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ݙو⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:02.002143968Z",
+  "model": "glm-5.3"
+}

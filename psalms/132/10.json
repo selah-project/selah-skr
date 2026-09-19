@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 132,
+  "translation": "داوِد تیݙے ٻانہے دے صدقے، تیݙے ماشیاخ دا مُکھ نہ ہٹا۔",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "دے صدقے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙے ٻانہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "تیݙے ماشیاخ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:03.557776743Z",
+  "model": "glm-5.3"
+}

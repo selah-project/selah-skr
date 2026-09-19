@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے زیرح دے پُتر: زِمری، ایتان، ہیمان، کلکول تے دارع؛ سارے پنج ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زیرح"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمری"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "تے ایتان"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "تے ہیمان"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "تے کلکول"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "تے دارع"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:07.234643965Z",
+  "model": "glm-5.3"
+}

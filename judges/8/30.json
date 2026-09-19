@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے گدعون کیتے ستر پُتر ہن، اوندی ڄَنگھ توں نکلے، کیوں جو اوندیاں ٻہوں ذالیں ہن۔",
+  "tokens": [
+    {
+      "surface": "ולגדעון",
+      "gloss": "تے گدعون کیتے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "اوندی ڄَنگھ توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:09.011364373Z",
+  "model": "glm-5.3"
+}

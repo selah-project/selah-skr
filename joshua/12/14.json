@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "خورماہ دا بادشاہ، ہِک؛ عاراد دا بادشاہ، ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "خورماہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "عاراد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:19.941311281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے راحیل اوندے نوکرانی ⟨את⟩ بلہاہ کوں ذال بݨا کے ݙتی، تے یعقوو اوندے کول ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلہاہ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلہاہ کوں"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "اوندی نوکرانی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ذال بݨا کے"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوندے کول"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:23.796802545Z",
+  "model": "glm-5.3"
+}

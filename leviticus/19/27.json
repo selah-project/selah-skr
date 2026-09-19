@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "آپݨے سر دے پاسے دے وال نہ کٹو، تے آپݨی داڑھی دے پاسے کوں نہ بگاڑو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "تُساں گول کٹو"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "تُہاݙے سر دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "بگاڑو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داڑھی دا پاسہ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "تیݙی داڑھی دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:18:54.567903477Z",
+  "model": "glm-5.3"
+}

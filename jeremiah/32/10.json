@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے میں کتاب وِچ لکھیا، تے مہر لائی، تے گواہ کیتے، تے چاندی ترازو نال تولی۔",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "لکھیا"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "مہر لائی"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "گواہ کیتے"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "تولی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ترازو نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:14:11.095794260Z",
+  "model": "glm-5.3"
+}

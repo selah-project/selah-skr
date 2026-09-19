@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اُوریاہ کاہن سارے اوہو کیتا جیہڑا بادشاہ اَخاز حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتس"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریاہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سارے اوہو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    }
+  ],
+  "timestamp": "2026-09-19T17:29:10.545653232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 130,
+  "translation": "کیوں جو معافی تیݙے نال ہے، ایں کیتے جو تیکوں ݙریا ونڄے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "معافی"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ایں کیتے جو"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ݙریا ونڄے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:24.535694194Z",
+  "model": "glm-5.3"
+}

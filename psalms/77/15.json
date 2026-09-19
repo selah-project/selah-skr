@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 77,
+  "translation": "توں او ایل ہِیں جیہڑا کرتب کریندا ہے؛ توں قوماں وِچ آپݨی طاقت ڄاݨڑائی ہے۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האל",
+      "gloss": "او ایل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندا ہے"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "کرتب"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ڄاݨڑائی ہے"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "آپݨی طاقت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:48.422328657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے تُساں ڄاݨدیاں ہو جو میں آپݨے سارے زور نال تُہاݙے پیو دی ⟨את⟩ خدمت کیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "تے تُساں"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ڄاݨدیاں ہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زور"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خدمت کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاݙے پیو کوں"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "تُہاݙے پیو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:33.833753382Z",
+  "model": "glm-5.3"
+}

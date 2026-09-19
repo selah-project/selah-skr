@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "اسمان، اسمان یاہوہ دے ہِن، تے زمین اوں آدم دے پُتراں کوں ݙتی ہے۔",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:37.916406343Z",
+  "model": "glm-5.3"
+}

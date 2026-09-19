@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ایہ او سردار ہَن جیہڑے اوندے ہَن: عزریاہو بن تصادُق، کاہن۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عزریاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصادُق"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T21:10:15.816399261Z",
+  "model": "glm-5.3"
+}

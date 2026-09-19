@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایہ وی شلومو دیاں اَمثال ہن، جیہڑیاں خِزقیاہو بادشاہ یہوداہ دے بندیاں نقل کیتیاں۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "اَمثال"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "نقل کیتیاں"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:27.677166203Z",
+  "model": "glm-5.3"
+}

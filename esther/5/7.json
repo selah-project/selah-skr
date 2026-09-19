@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ایستر ولدی ݙتی تے آکھیس: “میݙی منگ تے میݙی عرض —”",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "ولدی ݙتی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستر"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "میݙی منگ"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "تے میݙی عرض"
+    }
+  ],
+  "timestamp": "2026-09-19T20:16:36.086752239Z",
+  "model": "glm-5.3"
+}

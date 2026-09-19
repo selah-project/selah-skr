@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے لڑاکے جوان ⟨את⟩ قیدیاں تے ⟨את⟩ مالِ غنیمت کوں سرداراں تے سارے کٹھ دے اڳوں چھوڑ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "چھوڑ ݙتا"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "لڑاکے جوان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قیدیاں"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "قیدیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مالِ غنیمت"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "مالِ غنیمت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:57:26.995150587Z",
+  "model": "glm-5.3"
+}

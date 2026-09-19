@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "جیہڑے رستے او آیا ہا، اُوہے رستے ولسی، تے ایں شہر وِچ نہ ویسی — یاہوہ دا فرمان۔",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "جیہڑے رستے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ولسی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے وِچ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ویسی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:45:23.688919240Z",
+  "model": "glm-5.3"
+}

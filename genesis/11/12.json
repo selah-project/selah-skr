@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اَرفکشد پینتری سال جِیا، تے ⟨את⟩ شیلخ کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "تے اَرفکشد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شیلخ کوں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شیلخ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:11.735092692Z",
+  "model": "glm-5.3"
+}

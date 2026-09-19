@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "مُنڈھ آلے کیتے، ہِک سمجھاؤݨ آلی صفت، داوِد کیتی۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنڈھ آلے کیتے"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ہِک سمجھاؤݨ آلی صفت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کیتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:53.470460414Z",
+  "model": "glm-5.3"
+}

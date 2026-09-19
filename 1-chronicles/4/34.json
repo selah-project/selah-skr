@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے مِشوباب، تے یَملیک، تے یوشاہ بن اَمتسیاہ۔",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "تے مِشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "تے یَملیک"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "تے یوشاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمتسیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:20.181139450Z",
+  "model": "glm-5.3"
+}

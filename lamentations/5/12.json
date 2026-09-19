@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "سرداراں کوں انہاں دے ہتھ نال لٹکا ݙتا ڳیا، بزرگاں دے مُکھ دا ادب نہ کیتا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سرداراں کوں"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "انہاں دے ہتھ نال"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "لٹکا ݙتا ڳیا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بزرگاں دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ادب کیتا ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:46.106607027Z",
+  "model": "glm-5.3"
+}

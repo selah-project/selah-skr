@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے سگُوب ⟨את⟩ یعِیر کوں ڄݨایا، تے اُوندے کیتے گِلعاد دی بھوئیں وِچ ترے تے ویہہ شہر ہن۔",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "تے سگُوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعِیر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یعِیر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندے کیتے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "بھوئیں وِچ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:54.890986089Z",
+  "model": "glm-5.3"
+}

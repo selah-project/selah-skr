@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "بادشاہ دے اڳوں توں شریر کوں ہٹاؤ، تے اوندا تخت راستی وِچ قائم تھیسی۔",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ہٹاؤ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں توں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "تے قائم تھیسی"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "راستی وِچ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اوندا تخت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:20.085158083Z",
+  "model": "glm-5.3"
+}

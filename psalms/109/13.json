@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اوں دی اخیر کُٹائی کیتے ونڄے، تے ٻئی نسل وِچ اوں دا ناں مٹ ونڄے۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "تھیووے"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "اوں دی اخیر"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "کُٹائی کیتے"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "نسل وِچ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئی"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "مٹ ونڄے"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "اوں دا ناں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:15.732504035Z",
+  "model": "glm-5.3"
+}

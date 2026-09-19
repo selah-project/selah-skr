@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "اوریاہ حِٹی، زاباد احلای دا پُتر،",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِٹی"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "احلای"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:27.743654835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ہُݨ سچ ہے، جو میں گوایل ہاں، پر ہِک گوایل ہے جیہڑا میں توں وی نیڑے ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوایل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "پر ہِک"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوایل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:08:21.933039812Z",
+  "model": "glm-5.3"
+}

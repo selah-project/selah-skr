@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "وَت رُکھاں انگُور کوں آکھیا: “آ، تُساں اساں اُتے راج کر۔”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "رُکھاں"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "انگُور کوں"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "راج کر"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اساں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:41.208367204Z",
+  "model": "glm-5.3"
+}

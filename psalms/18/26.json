@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "خیسِد نال تُوں خیسِد ہِیں، تے کامل بندے نال تُوں کامل ہِیں۔",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "خیسِد ہِیں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "کامل بندے"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "کامل ہِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:25.657842344Z",
+  "model": "glm-5.3"
+}

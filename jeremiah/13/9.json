@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ایویں یاہوہ آکھیا: اِیویں میں یہوداہ دا ⟨את⟩ گھمنڈ تے ⟨את⟩ یروشلایم دا وݙا گھمنڈ بِگاڑ ݙیساں۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "بِگاڑ ݙیساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھمنڑ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گھمنڑ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:37.331241830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 97,
+  "translation": "اوندیاں بجلیاں دنیا کوں سوجھلا ݙتس؛ زمین ݙٹھی تے کپ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "سوجھلا ݙتس"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "اوندیاں بجلیاں"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا کوں"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ݙٹھی"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "کپ ڳئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:43.814717350Z",
+  "model": "glm-5.3"
+}

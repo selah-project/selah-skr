@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "وِڄّو، کیوں جو یاہوہ دا ݙینہہ نیڑے ہے؛ شدّای توں تباہی آلی کار او آویسی۔",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "وِڄّو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "تباہی آلی کار"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "شدّای توں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "او آویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:07.499377607Z",
+  "model": "glm-5.3"
+}

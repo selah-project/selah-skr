@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ ہکوس کوں، تے ⟨את⟩ ہشلاخ کوں، تے ⟨את⟩ ہینشوف کوں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہکوس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ہکوس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہشلاخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ہشلاخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہینشوف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ہینشوف"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:26.986648020Z",
+  "model": "glm-5.3"
+}

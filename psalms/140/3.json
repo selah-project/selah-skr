@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 140,
+  "translation": "جنہاں دل وِچ بُرائیاں گُھڑیاں، ہر ݙینہہ او جنگاں کیتے اکٹھے تھیندن۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "گُھڑیاں"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بُرائیاں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "اکٹھے تھیندن"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگاں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:30.231238325Z",
+  "model": "glm-5.3"
+}

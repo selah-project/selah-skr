@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ڈانگ، ڳائوں دا پُتر؛ ہِک اَیل؛ ہِک بھِیڈ دا پُتر، اوندے ہِک ورھے دا، ساڑݨ آلی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڈانگ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳائوں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "اَیل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھِیڈ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "اوندے ہِک ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڑݨ آلی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:17.335730817Z",
+  "model": "glm-5.3"
+}

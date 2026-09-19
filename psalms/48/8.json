@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "پووھ آلی ہوا نال تُوں ترشِیش دے جہاز تراڑ سٹیے۔",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ہوا نال"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "پووھ آلی"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "تراڑ سٹیے"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "جہاز"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشِیش"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:03.248183965Z",
+  "model": "glm-5.3"
+}

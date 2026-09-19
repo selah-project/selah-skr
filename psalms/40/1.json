@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "مُن٘ڳی کیتے، داوِد دا، ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُن٘ڳی کیتے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:39.634397640Z",
+  "model": "glm-5.3"
+}

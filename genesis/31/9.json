@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ایلوہیم تُہاݙے پیو دا مال مویشی ⟨את⟩ کھس گھدا تے او میکوں ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "کھس گھدا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مال مویشی"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال مویشی"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "تُہاݙے پیو دا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:31:43.826748258Z",
+  "model": "glm-5.3"
+}

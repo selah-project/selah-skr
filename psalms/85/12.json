@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "سچ زمین توں ڳھمنڈسی، تے راستی اسماناں توں جھاتی پیسِ۔",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ڳھمنڈسی"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "جھاتی پیسِ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:47.194904507Z",
+  "model": "glm-5.3"
+}

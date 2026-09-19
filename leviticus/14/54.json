@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہ تورات ہے ہر کوڑھ دے داغ تے نیتق کیتے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "کوڑھ دے"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "تے نیتق کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.379423218Z",
+  "model": "glm-5.3"
+}

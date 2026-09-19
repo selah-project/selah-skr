@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اَساݙے کیتے ہراس تے وَٹ بݨ ڳیا — تباہی تے بربادی۔",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ہراس"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "تے وَٹ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بݨ ڳیا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اَساݙے کیتے"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "تے بربادی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:01.897860456Z",
+  "model": "glm-5.3"
+}

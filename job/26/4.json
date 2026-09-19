@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "⟨את⟩ کیندے نال ڳالھیں کیتن؟ تے کیندے ساہ تیݙے وِچوں نِکتھیا؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کیندے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیندے"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ڳالھیں کیتن"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیندے"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نِکتھیا"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیݙے وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:23.942044974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 26:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "پوادھ دو لاوی چھی ہن، اُتر دو ہِک ݙینہہ چار، لہند دو ہِک ݙینہہ چار، تے اَسُپّیم دو ݙو ݙو۔",
+  "tokens": [
+    {
+      "surface": "למזרח",
+      "gloss": "پوادھ دو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "לצפונה",
+      "gloss": "اُتر دو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ہِک ݙینہہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לנגבה",
+      "gloss": "لہند دو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ہِک ݙینہہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ולאספים",
+      "gloss": "تے اَسُپّیم دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:18.164736102Z",
+  "model": "glm-5.3"
+}

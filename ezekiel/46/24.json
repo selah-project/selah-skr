@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے اوں میکوں آکھیا: “ایہ پکاوݨ دے گھر ہن، جتھاں گھر دے خادم اُتھاں قوم دی قربانی ⟨את⟩ پکائسن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "پکاوݨ آلے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "پکائسن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانی"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:29.213758251Z",
+  "model": "glm-5.3"
+}

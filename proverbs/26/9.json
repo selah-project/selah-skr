@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "کانڈا نشئے دے ہتھ وِچ چڑھ ویندے، تے اِیہو کہاوت کم عقلاں دے مُنہہ وِچ۔",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "کانڈا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ ویندے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ وِچ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "نشئے"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے اِیہو کہاوت"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "دے مُنہہ وِچ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کم عقلاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.591338629Z",
+  "model": "glm-5.3"
+}

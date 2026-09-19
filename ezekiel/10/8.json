@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اتے کروباں وِچ اِنسان دے ہتھ دی شکل ݙکھائی ݙتی، اُنہاں دے پراں تلے۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اتے ݙکھائی ݙتی"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "کروباں وِچ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ دی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان دے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "اُنہاں دے پراں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:33.073992098Z",
+  "model": "glm-5.3"
+}

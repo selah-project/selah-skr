@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 68,
+  "translation": "تیݙے ہیکل توں، یروشلایم اُتے، بادشاہ تیݙے کول تحفے گھن آسن۔",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "تیݙے ہیکل توں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کول"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "گھن آسن"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שי",
+      "gloss": "تحفے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:57.242205815Z",
+  "model": "glm-5.3"
+}

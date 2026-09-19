@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تِنہاں وِچوں ݙوہاں کنوں ودھ او عزیز تھیا، تے او انہاں دا سردار بݨیا؛ پر تِنہاں تئیں او نہ آیا۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "تِنہاں"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "ݙوہاں کنوں"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "عزیز تھیا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے بݨیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دا"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر تئیں"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "تِنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:50.974088175Z",
+  "model": "glm-5.3"
+}

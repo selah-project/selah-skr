@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "سردار مگدِییل، سردار عِیرام۔ ایہ ادوم دے سردار ہن۔",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مگدِییل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عِیرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "دے سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:05.231042776Z",
+  "model": "glm-5.3"
+}

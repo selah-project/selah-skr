@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "لٹکنیاں، تے چوڑیاں، تے مُندھݨیاں۔",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "لٹکنیاں"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "تے چوڑیاں"
+    },
+    {
+      "surface": "وהרעלות",
+      "gloss": "تے مُندھݨیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:26.452813920Z",
+  "model": "glm-5.3"
+}

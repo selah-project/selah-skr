@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے جو اوں کیتا او یاہوہ دیاں اکھیں وِچ برا لڳا، تے اوں ⟨את⟩ اوندے ⟨اوندے⟩ نال وی مار ݙتس۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برا لڳا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوں کیتا"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مار ݙتس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اونان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:09.114280883Z",
+  "model": "glm-5.3"
+}

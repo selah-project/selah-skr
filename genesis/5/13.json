@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے قینن مہلالایل ⟨את⟩ کوں ڄمائݨ دے بعد چالی سال تے اَٹھ سو سال جِیا، تے اوں پُتر تے دھیاں ڄمایاں۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قینن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄمائݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مہلالایل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:32.758332585Z",
+  "model": "glm-5.3"
+}

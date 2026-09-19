@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے عِبیر پیلگ ⟨את⟩ کوں ڄݨاوݨ دے بعد تریہہ سال تے چار سو سال جِیا، تے پُتر تے دھیاں ڄݨایُس۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ڄݨاوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیلگ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پیلگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨایُس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:41.612678134Z",
+  "model": "glm-5.3"
+}

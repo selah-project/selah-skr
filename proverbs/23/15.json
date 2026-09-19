@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "مِٹھا پُتر، جے تیݙا دل سیاݨا تھیسی، تاں میݙا دل خوش تھیسی، میں وی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "مِٹھا پُتر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا تھیسی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش تھیسی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میݙا دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:01.590052151Z",
+  "model": "glm-5.3"
+}

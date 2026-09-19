@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 46:6",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے مہینے دے ݙینہہ ہِک وچھا، ڳئے دا وچھا، بے عیب، تے چھ مینھے تے ہِک نر بھیݙ — بے عیب ہوسن۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے ݙینہہ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مہینے دے ⟨نویں⟩"
+    },
+    {
+      "surface": "פר",
+      "gloss": "وچھا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "وچھا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئے دا"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "כבשם",
+      "gloss": "مینھے"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "تے نر بھیݙ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:12.285766222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے یاہوہ موشے نال آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:40.219542258Z",
+  "model": "glm-5.3"
+}

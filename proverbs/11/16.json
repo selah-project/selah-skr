@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "خوش اخلاق ذال عزت پاس رکھیندی ہے، تے ظالم دولت پاس رکھیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خوش اخلاقی"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "پاس رکھیندی ہے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "تے ظالم"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "پاس رکھیندے ہن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:41.237009559Z",
+  "model": "glm-5.3"
+}

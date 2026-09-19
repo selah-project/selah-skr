@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تے تُہاݙی اکھ آپݨیاں شئیں اُتے ترس نہ کرے، کیوں جو مِتصرایم دی ساری زمین دی بھلائی تُہاݙی ہے۔",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "تے تُہاݙی اکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ترس کرے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "آپݨیاں شئیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:19.871792402Z",
+  "model": "glm-5.3"
+}

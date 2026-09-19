@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے خِزقیاہو اپݨا منہ دیوار دو موڑیاا، تے یاہوہ کوں دعا کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "موڑیا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپݨا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "دعا کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:45:45.554955336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "مِراری دے پُتراں وِچوں عَسیاہ سردار ہا، تے اوندے بھرا ݙو سو تے ویہہ۔",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عَسیاہ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "اوندے بھرا"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:18.875447657Z",
+  "model": "glm-5.3"
+}

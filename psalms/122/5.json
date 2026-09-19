@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 122,
+  "translation": "کیوں جو اُتھاں انصاف کیتے تخت ٻدھے ہِن، داوِد دے گھر دے تخت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ٻدھے ہِن"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "انصاف کیتے"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:44.725671334Z",
+  "model": "glm-5.3"
+}

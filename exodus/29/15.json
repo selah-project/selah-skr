@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے توں ⟨את⟩ ہِک دنبہ گھنی، تے اہرون تے اوندے پُتر ⟨את⟩ اَپݨے ہتھ دنبے دے سر اُتے رکھسن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک دنبہ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گھنی"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "رکھسن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوندے پُتر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَپݨے ہتھ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "دنبے دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:58.734869447Z",
+  "model": "glm-5.3"
+}

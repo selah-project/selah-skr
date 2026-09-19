@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے یاہوہ دا جلال شہر وچوں اُٹھ ڳیا، تے اوں پہاڑ اُتے کھڑا تھیا جیڑھا شہر دے پوادھ پاسے ہے۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اُٹھ ڳیا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…توں"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھڑا تھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پوادھ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:27:56.770554292Z",
+  "model": "glm-5.3"
+}

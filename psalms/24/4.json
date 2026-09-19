@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "صاف ہتھاں آلا تے پاک دل آلا، جئیں اپݨی جان شوخئی دو نہ چاتی، تے فریب تے قسم نہ کھادی۔",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ہتھاں آلا"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "تے پاک"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل آلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جئیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاتی"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "شوخئی دو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "فریب تے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:29.637515685Z",
+  "model": "glm-5.3"
+}

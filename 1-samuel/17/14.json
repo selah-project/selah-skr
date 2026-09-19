@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے داوِد او نِکا ہا، تے ترے وݙے شاؤل پچھوں ٹُر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ٹُر ڳئے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:09:17.120373215Z",
+  "model": "glm-5.3"
+}

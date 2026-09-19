@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے ݙوجھی قطار: نوپخ ⟨گارنیٹ⟩، سفیر ⟨نیلم⟩ تے یہلوم ⟨ہیرا⟩۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "تے قطار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھی"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نوپخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سفیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "تے یہلوم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:12.042125386Z",
+  "model": "glm-5.3"
+}

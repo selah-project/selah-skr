@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "دِبیز دا بادشاہ، ہِک؛ گِیدِیز دا بادشاہ، ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبیز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گِیدِیز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:19.941035803Z",
+  "model": "glm-5.3"
+}

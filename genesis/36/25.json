@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اِنہاں دے پُتر ہَن دِشون تے اُہولیبامہ، عَنہ دی دھی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے اِنہاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَنہ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دِشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "تے اُہولیبامہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَنہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:11.388029713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے عَدایاہ، تے بِرایاہ، تے شِمرات — شِمعی دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "عَدایاہ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "بِرایاہ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "شِمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:02.537913692Z",
+  "model": "glm-5.3"
+}

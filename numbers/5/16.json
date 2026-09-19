@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کاہن ⟨אתה⟩ ذال (او) کوں نزدیک کرے، تے یاہوہ دے سامݨے اوندے کھڑی کرے۔",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "نزدیک کرے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ذال (او)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "کھڑی کرے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:07.957465653Z",
+  "model": "glm-5.3"
+}

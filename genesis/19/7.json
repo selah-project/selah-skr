@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے آکھیوس: “ٻدھن، میݙے بھراوو، اِیہ برائی نہ کرو۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیوس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ٻدھن"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میݙے بھراوو"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "اِیہ برائی کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:21:57.304189107Z",
+  "model": "glm-5.3"
+}

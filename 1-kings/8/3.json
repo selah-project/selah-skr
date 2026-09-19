@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یسرائیل دے سارے ٻڈھے آئے، تے کاہناں صندوق کوں ⟨את⟩ چاتا۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ٻڈھے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل دے"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق کوں"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:29.444842880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے پرعوہ ول ڳیا، تے اپݨے گھر ڳیا، تے ایں ڳالھ تے وی دل نہ لایا۔",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "تے ول ڳیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپݨے گھر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ایں ڳالھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:45:13.976046955Z",
+  "model": "glm-5.3"
+}

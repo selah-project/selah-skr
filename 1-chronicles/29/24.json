@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے سارے سردار تے سورمے، تے وی بادشاہ داوِد دے سارے پُتر، بادشاہ شلومو ہیٹھ ہتھ ݙتے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "تے سورمے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دے"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ݙتے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:19.136289393Z",
+  "model": "glm-5.3"
+}

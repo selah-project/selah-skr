@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "تے او ڄاݨن جو اے تیݙا ہتھ ⟨ہے⟩؛ تُساں، یاہوہ، اے کیتا۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے او ڄاݨن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙا ہتھ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "اے کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:00.211438965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے وراثت اوندے کیتے اوندے بھرانواں وِچ نہ ہوسی؛ یاہوہ آپ اوندی وراثت ہے، جیویں اوں اوں کوں آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "تے وراثت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندے بھرانواں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "اوندی وراثت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:59:55.810671024Z",
+  "model": "glm-5.3"
+}

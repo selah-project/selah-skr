@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اُوندے اُتے ہِک بدکار مقرر کر، تے شطن ⟨על⟩ اُوندے سڄے پاسوں ہکے۔",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "مقرر کر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "تے شطن"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ہکے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پاسوں"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "اُوندے سڄے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:51.091173364Z",
+  "model": "glm-5.3"
+}

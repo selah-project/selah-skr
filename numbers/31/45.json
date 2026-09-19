@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے کَھوہاں ترِیہہ ہزار پنج سَو،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "تے کَھوہاں"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ترِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:53.356914881Z",
+  "model": "glm-5.3"
+}

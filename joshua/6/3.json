@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے تُساں سارے جنگجو بندے ⟨את⟩ شہر کوں گھیرسو، شہر دا ہِک وار چکر لاؤ؛ ایویں تُساں چھی ݙینہہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "تے تُساں … گھیرسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر کوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "چکر لاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر دا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُساں … کریسو"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:09:43.592295492Z",
+  "model": "glm-5.3"
+}

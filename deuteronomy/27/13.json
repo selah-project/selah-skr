@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ایہ پہاڑ عِیبال اُتے لعنت کیتے کھڑے رہسن: رائووبین، گاد، تے آشیر، تے زبوولون، دان، تے نفتالی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "کھڑے رہسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت کیتے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عِیبال"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائووبین"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے آشیر"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "تے زبوولون"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "تے نفتالی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:08.124659518Z",
+  "model": "glm-5.3"
+}

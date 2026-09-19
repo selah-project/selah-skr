@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہر پاک پَکھی تُساں کھا سڳدے او۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پَکھی"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُساں کھا سڳدے او"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.557164851Z",
+  "model": "glm-5.3"
+}

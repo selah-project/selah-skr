@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے اوں ⟨את⟩ ایفود دا چولا بݨایا، اُݨے ہوئے کم دا، سارا تکلت دا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولا"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولا"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایفود"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "اُݨا ہویا"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تکلت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:17.784502894Z",
+  "model": "glm-5.3"
+}

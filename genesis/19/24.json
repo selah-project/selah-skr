@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یاہوہ سدوم اُتے تے عمورہ اُتے گندھک تے بھا وسائی، ⟨את⟩ یاہوہ کنوں، اسماناں توں۔",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "وسائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "وעל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عمورہ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "گندھک"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "تے بھا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:28.188268723Z",
+  "model": "glm-5.3"
+}

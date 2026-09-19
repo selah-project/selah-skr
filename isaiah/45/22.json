@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "میݙے پاس رُخ کرو تے بچ ون٘جو، زمین دے سارے کنڊاں والو؛ کیوں جو میں ایل ہاں تے ٻیا کوئی کائنی۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "رُخ کرو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے پاس"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "تے بچ ون٘جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کنڊاں والو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:51:01.766179588Z",
+  "model": "glm-5.3"
+}

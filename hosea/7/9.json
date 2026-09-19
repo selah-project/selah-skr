@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اوپرے اوندا زور کھا ڳئے، تے او نہ ڄاݨدا؛ اے تاں بُڈھیپا وی اوندے اُتے چھڑکیا ڳیا، تے او نہ ڄاݨدا۔",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "کھا ڳئے"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "اوندا زور"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "اے تاں"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "بُڈھیپا"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "چھڑکیا ڳیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:13.723201200Z",
+  "model": "glm-5.3"
+}

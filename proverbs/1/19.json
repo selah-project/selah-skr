@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایہو ہر لُٹ مار کرݨ آلے دے رستے ہن؛ ناجائز فائدہ ⟨את⟩ اُوندے مالک دی جان گھن ویندے۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "لُٹ مار کرݨ آلے"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ناجائز فائدہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "اُوندے مالک"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گھن ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:46.861494807Z",
+  "model": "glm-5.3"
+}

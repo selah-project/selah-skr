@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "کیوں جو نہ چڑھدے توں تے نہ لہندے توں، تے نہ پہاڑاں دی ریتی توں ⟨اُچائی⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "چڑھدے توں"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "تے لہندے توں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ریتی توں"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:13.310452351Z",
+  "model": "glm-5.3"
+}

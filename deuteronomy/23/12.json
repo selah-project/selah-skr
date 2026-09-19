@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے تھیسی جو شام آوݨ اُتے او پاݨی نال دھوسی، تے سِجھ ڈھلݨ تے مچان دے وچکار وڑسی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے تھیسی"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "آوݨ اُتے"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "دھوسی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی نال"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "ڈھلݨ تے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "وڑسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨کی طرف⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مچان دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.198492557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اَبیاتھار داوِد کوں ݙسایا جو شاؤل ⟨את⟩ یاہوہ دے کاہناں کوں ماریا۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسایا"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "اَبیاتھار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے کاہن"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:45:16.119488688Z",
+  "model": "glm-5.3"
+}

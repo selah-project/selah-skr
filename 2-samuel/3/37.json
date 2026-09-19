@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے سارے لوک تے سارے یِسرایل ہوں ݙینہہ ایہ ڄاݨ گھدا جو بادشاہ اَبنیر پُتر نیر ⟨את⟩ کوں نہ مروایا ہا۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ڄاݨ گھدا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ہوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "مرواوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبنیر کوں"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نیر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:50:04.972268112Z",
+  "model": "glm-5.3"
+}

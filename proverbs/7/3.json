@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اِنہاں کوں آپݨیاں انڳلیں اُتے ٻدھ، اِنہاں کوں آپݨے دل دی تختی اُتے لِکھ۔",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "اِنہاں کوں ٻدھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "آپݨیاں انڳلیں"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "اِنہاں کوں لِکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "آپݨے دل دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:18.047093024Z",
+  "model": "glm-5.3"
+}

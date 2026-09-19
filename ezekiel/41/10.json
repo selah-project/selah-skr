@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے کمریاں دے وچکار ویہہ ہتھ دی چوڑائی ہئی، گھر دے دوالے ہر پاسوں۔",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "تے … دے وچکار"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "کمریاں"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ہر پاسوں"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوݙھوں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:16:39.659854339Z",
+  "model": "glm-5.3"
+}

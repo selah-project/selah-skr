@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے آکخاز آکھیا: “میں نہ منگساں، تے یاہوہ ⟨את⟩ کوں نہ آزمیساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکخاز آکھیا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آکخاز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "منگساں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "آزمیساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:25.799132485Z",
+  "model": "glm-5.3"
+}

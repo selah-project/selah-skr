@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوں ݙینہہ یاہوہ ساری زمین اُتے بادشاہ ہوسی؛ اوں ݙینہہ یاہوہ ہِک ہوسی تے اوندا ناں ہِک۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ بݨ کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوندا ناں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:27.179338106Z",
+  "model": "glm-5.3"
+}

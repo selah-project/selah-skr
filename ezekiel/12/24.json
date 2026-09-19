@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "کیوں جو یِسرائل دے گھر وِچ ہور کوئی کُوڑی دید نہ ہوسی، تے نہ کوئی نرم زبان آلی فال۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دید"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "کُوڑی"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "تے فال"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم زبان آلی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:04.687801621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "شیول تے بند رِیم، زمین جیہڑی پاݨی توں سیر نہ تھیندی، تے بھا جیہڑی آکھدی کائنی “بس۔”",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "تے بند"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رِیم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سیر تھیندی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݥی توں"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "تے بھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "آکھدی"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:46.997568458Z",
+  "model": "glm-5.3"
+}

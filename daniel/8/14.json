@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں میکوں آکھیا: “ݙو ہزار ترے سو شاماں تے سویرے تئیں؛ وَل پاک جاہ منصف تھیسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوں آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شاماں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ݙو ہزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "منصف تھیسی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک جاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:22:55.196752655Z",
+  "model": "glm-5.3"
+}

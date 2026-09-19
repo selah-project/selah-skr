@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے اِنسانی نفساں توں سولہاں ہزار،",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "تے نفساں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "سولہاں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-اں⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:53.357178763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے اوں دروازے دے برآمدے کوں ⟨את⟩ بیت دو ہِک قنہ ناپیا۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ناپیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برآمدے کوں"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "برآمدے"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے دے"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "بیت دو"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ہِک قنہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:13.740633300Z",
+  "model": "glm-5.3"
+}

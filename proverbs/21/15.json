@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "انصاف کرݨ راست باز کیتے خُشی اے، پر برائی دے کرݨ آلیاں کیتے بربادی۔",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خُشی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راست باز کیتے"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "تے بربادی"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "کرݨ آلیاں کیتے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:15.864653925Z",
+  "model": "glm-5.3"
+}

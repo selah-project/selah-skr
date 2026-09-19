@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "آپ توں خبردار رہ، کتھائیں ⟨את⟩ لاوی کوں نہ چھوڑیں سارے اپݨے ݙینہہ، اپݨی دھرتی اُتے ۔",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "خبردار رہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ توں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کتھائیں نہ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "چھوڑیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوی کوں"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "اپݨے ݙینہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "اپݨی دھرتی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:46.957735706Z",
+  "model": "glm-5.3"
+}

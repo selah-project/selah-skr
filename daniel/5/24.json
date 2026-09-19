@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اِیں ویلھے اوندے اڳوں توں ہتھھلی بھیجی ڳئی، تے اِیہہ لکھائی لکھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "اِیں ویلھے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "بھیجی ڳئی"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ہتھھلی"
+    },
+    {
+      "surface": "די",
+      "gloss": "دِی"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "تے لکھائی"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اِیہہ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "لکھی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:12.618299125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "طاقت آلی تریمت کون لبھسی؟ تے اوندا مُل موتیاں کنوں ٻہوں اُچا ہے۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبھسی"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "تے ٻہوں اُچا"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "موتیاں کنوں"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "اوندا مُل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:16.384431311Z",
+  "model": "glm-5.3"
+}

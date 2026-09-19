@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 130,
+  "translation": "چڑھائی دا گیت۔ گہرائیاں توں میں تیکوں سݙیا، یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھائی دا"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "گہرائیاں توں"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "میں تیکوں سݙیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:24.535053765Z",
+  "model": "glm-5.3"
+}

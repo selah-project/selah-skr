@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو سیاݨے کوں کم عقل توں کیا ودھیک؟ غریب کوں کیا، جیہڑا جیوݨ آلیاں اڳوں ٹُرݨ ڄاݨدے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ودھیک"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "سیاݨے کوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "کم عقل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "غریب کوں"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ٹُرݨ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جیوݨ آلیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:26.793713959Z",
+  "model": "glm-5.3"
+}

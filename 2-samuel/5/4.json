@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "داوِد تریہہ سال دا ہا ڄݙاں او بادشاہ بݨیا، تے چالی سال بادشاہی کیتی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر ⟨اُمر⟩"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تریہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "بادشاہ بݨݨ وِچ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کیتی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:08.547754081Z",
+  "model": "glm-5.3"
+}

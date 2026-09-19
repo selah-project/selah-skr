@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اوندا یاد زمین توں مِٹ ویسی، تے سڑکاں اُتے اوندا ناں کوئنی ہوسی۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "اوندا یاد"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "مِٹ ویسی"
+    },
+    {
+      "surface": "مני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے کوئنی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطح"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "سڑک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:18.216087134Z",
+  "model": "glm-5.3"
+}

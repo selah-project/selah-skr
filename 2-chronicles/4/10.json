@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ⟨את⟩ سمندر اوں رکھیا سڄے موڈھے توں، پوادھ دو، لمے دے اُݙ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "موڈھے توں"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "سڄی"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "پوادھ دو"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "اُݙ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "لمے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:14.537756792Z",
+  "model": "glm-5.3"
+}

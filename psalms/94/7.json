@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "تے اوہ آہدن: “یاہ نہ ݙیکھسی، تے یعقوو دا ایلوہیم نہ سمجھسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہ آہدن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھسی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "… دا ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:19.815976216Z",
+  "model": "glm-5.3"
+}

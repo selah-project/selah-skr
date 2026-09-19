@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "زَتّوآ دے پُتر، نَو سو پنتالی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتّوآ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "پنتالی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "⟨پنتالی⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:17.035960743Z",
+  "model": "glm-5.3"
+}

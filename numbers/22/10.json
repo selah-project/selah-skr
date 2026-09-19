@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے بِلعام ایلوہیم کوں آکھیا: “بالاق، تسیپور دا پُتر، موآب دا بادشاہ، میݙے کول بھیڄے،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تسیپور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:49.207693095Z",
+  "model": "glm-5.3"
+}

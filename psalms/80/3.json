@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 80,
+  "translation": "افرایم تے بنیامین تے منسی دے اڳوں اپݨی ⟨את⟩ طاقت کوں جڳا، تے ساݙی نجات کیتے آ۔",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیامین"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "تے منسی"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "جڳا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طاقت"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "اپݨی طاقت"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "تے آ"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "نجات کیتے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:13.047968263Z",
+  "model": "glm-5.3"
+}

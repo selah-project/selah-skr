@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہُݨ اُٹھو تے اپݨے کیتے ⟨את⟩ وادی زارد پار کرو، تے اساں ⟨את⟩ وادی زارد پار کیتی۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "تے پار کرو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپݨے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادی زارد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "تے اساں پار کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادی زارد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:56.093206296Z",
+  "model": "glm-5.3"
+}

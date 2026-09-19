@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے عورت نانگ نال آکھیا: “اساں باغ دے رُکھاں دا پھل کھاندے ہیں۔”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "نانگ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "پھل توں"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھاں"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ دے"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "کھاندے ہیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:56.656384430Z",
+  "model": "glm-5.3"
+}

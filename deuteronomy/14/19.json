@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ہر رین٘دݨ آلی چیز پرندیاں وِچوں — ناپاک او تُہاݙے کیتے، نہ او کھائے ونڄن۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رین٘دݨ آلی چیز"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندیاں وِچوں"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھائے ونڄن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.924748172Z",
+  "model": "glm-5.3"
+}

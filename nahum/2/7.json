@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "نہراں دے دروازے کھل ڳئے، تے ہیکل ڳل ڳیا۔",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "نہراں دے"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "کھل ڳئے"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "تے ہیکل"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ڳل ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:58:52.540274339Z",
+  "model": "glm-5.3"
+}

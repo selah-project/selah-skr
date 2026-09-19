@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "دھوکھا ݙیوݨ آلا دل سبھ توں ودھ ⟨ہے⟩، تے اوہ بے-علاج ⟨ہے⟩ — کون اوندے ڄاݨ سی؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "دھوکھا ݙیوݨ آلا"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ توں ودھ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "تے بے-علاج"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "اوندے ڄاݨ سی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:20.331995283Z",
+  "model": "glm-5.3"
+}

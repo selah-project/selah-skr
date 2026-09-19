@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ݙیکھو، میں تُہاݙے اڳوں اَڄ برکت تے لعنت رکھینداں۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھینداں"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "تُہاݙے اڳوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "تے لعنت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:53:17.220545532Z",
+  "model": "glm-5.3"
+}

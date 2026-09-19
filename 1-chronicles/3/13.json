@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "آخاز اُوندا پُتر، خِزقیاہو اُوندا پُتر، منشہ اُوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "آخاز"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "اُوندا پُتر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.153317089Z",
+  "model": "glm-5.3"
+}

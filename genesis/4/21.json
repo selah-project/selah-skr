@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوندے بھرا دا ناں یوبل ہا — او ہر کِنّور تے اوٗگاب وڄاوݨ آلے دا پیو ہا۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوندے بھرا دا"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "وڄاوݨ آلے"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کِنّور"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "تے اوٗگاب"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:37.799992087Z",
+  "model": "glm-5.3"
+}

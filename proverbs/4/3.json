@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کیوں جو میں اپݨے پیو کیتے پُتر ہم، نِolv تے اُوں دی اَکھ وِچ اِکلوتا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "اپݨے پیو کیتے"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نِولھا"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "تے اِکلوتا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دی اَکھ وِچ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "اپݨی ماء"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:01.332083588Z",
+  "model": "glm-5.3"
+}

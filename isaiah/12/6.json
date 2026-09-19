@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "صیون دی وسائو، ٹھاہر مار تے ڳاؤ، کیوں جو اِسرائیل دا پاک تیݙے وِچ وݙا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "ٹھاہر مار"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "تے ڳاؤ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "وسائو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:04.551044077Z",
+  "model": "glm-5.3"
+}

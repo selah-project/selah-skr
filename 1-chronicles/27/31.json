@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ڳیہیاں اُتے یزیز ہاگری ہا — ایہ سبھ بادشاہ داوِد دے مال-رکھت دے سردار ہن۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ڳیہیاں"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "یزیز"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "ہاگری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "مال-رکھت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:49.138202374Z",
+  "model": "glm-5.3"
+}

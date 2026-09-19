@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ہِک وچھرا ⟨את⟩ سویرے کریندا، تے ݙوجھا وچھرا ⟨את⟩ ݙوپہراں دے وچکار کریندا۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وچھرا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "وچھرا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ݙوجھا وچھرا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "وچھرا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریندا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ݙوپہراں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:24.008943096Z",
+  "model": "glm-5.3"
+}

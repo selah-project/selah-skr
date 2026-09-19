@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "او یاہوہ کنوں ⟨מאת⟩ برکت چیندا، تے اپݨی نجات دے ایلوہیم کنوں راستی۔",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "چیندا"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ کنوں"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ایلوہیم کنوں"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "اپݨی نجات"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:33.611354281Z",
+  "model": "glm-5.3"
+}

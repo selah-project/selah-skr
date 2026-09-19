@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اِلیاب اُوں دا پُتر، یِروخام اُوں دا پُتر، اَلکانہ اُوں دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیاب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوں دا پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یِروخام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوں دا پُتر"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوں دا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:56.033771690Z",
+  "model": "glm-5.3"
+}

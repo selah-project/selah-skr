@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کَیں اوہ ہے جئیں آکھیا تے اوہ تھی ڳیا، جݙاں ادونای حکم نہ ݙتا؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کَیں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے اوہ تھی ڳیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:36.837588986Z",
+  "model": "glm-5.3"
+}

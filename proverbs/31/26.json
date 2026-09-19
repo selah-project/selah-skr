@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "او اپݨا مُنہ حکمت نال کھولھدِی ہِے، تے خیسِد دی تورات اوندی زبان اُتے ہِے۔",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "اوندا مُنہ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "کھولھدی ہے"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت نال"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "تے تورات"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد دی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "اوندی زبان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:03.946095088Z",
+  "model": "glm-5.3"
+}

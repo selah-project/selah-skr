@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے لِوی تے بنیامین کوں اُنہاں وِچ نہ ڳݨیُس، کیوں جو بادشاہ دی ڳالھ یوآب ⟨את⟩ کیتے مکروہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "تے لِوی"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیامین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ڳݨیُس"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "اُنہاں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:39.912042196Z",
+  "model": "glm-5.3"
+}

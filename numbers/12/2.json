@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے او آکھیے: “کیا یاہوہ صرف موشے نال ٻولیا ہے؟ کیا اساں نال وی نہ ٻولیا؟” تے یاہوہ سُݨ گھدا۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے او آکھیے"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "کیا صرف"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "موشے نال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا … نہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اساں نال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُݨ گھدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:59.573934501Z",
+  "model": "glm-5.3"
+}

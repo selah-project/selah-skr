@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے مینہہ زمین اُتے چالھی ݙینہہ تے چالھی رات پیا پھوہیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالھی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "لילה",
+      "gloss": "رات"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:11.067133594Z",
+  "model": "glm-5.3"
+}

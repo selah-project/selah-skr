@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ایہ مَنَشّہ دے ٹبر ہن، تے اُنہاں دی ڳݨتری ݙو تے پنجاہ ہزار تے ست سو ہئی۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّہ دے"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اُنہاں دی ڳݨتری"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "وחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:12.979662774Z",
+  "model": "glm-5.3"
+}

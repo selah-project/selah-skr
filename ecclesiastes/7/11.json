@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "حکمت وراثت نال چنگی ہے، تے سِجھ ݙیکھݨ آلیاں کیتے فائدہ ہے۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "تے فائدہ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ݙیکھݨ آلیاں کیتے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:39.342703322Z",
+  "model": "glm-5.3"
+}

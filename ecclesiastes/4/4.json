@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے میں ݙٹھا ⟨את⟩ سارا محنت، تے ⟨ואת⟩ سارے کم دی کامیابی، کیوں جو او بندے دی اپݨے سنگتی نال ضد ہے؛ ایہ وی ہوا ہے تے ساہ دی تکلیف۔",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "تے میں ݙٹھا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا محنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "سارے کم دی کامیابی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "کم دی کامیابی"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ضد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اپݨے سنگتی نال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "تے تکلیف"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:05.938724223Z",
+  "model": "glm-5.3"
+}

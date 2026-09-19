@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "nehemiah 7:43",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "لاوی: ییشوع دے پُتر، قدمیایل دے، ہودیوہ دے پُتریاں دیاں، چوہتر۔",
+  "tokens": [
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ییشوع"
+    },
+    {
+      "surface": "לקדמיאל",
+      "gloss": "قدمیایل دے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتریاں دیاں"
+    },
+    {
+      "surface": "להודוה",
+      "gloss": "ہودیوہ دے"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستّر"
+    },
+    {
+      "surface": "וארבעا",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:40.375941018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙیاں گواہیاں وی میݙی خوشی ہن، او میݙے صلاح ݙیوݨ آلے ہن۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "تیݙیاں گواہیاں"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "میݙی خوشی"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…دے لوک"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "میݙی صلاح"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:22.577994034Z",
+  "model": "glm-5.3"
+}

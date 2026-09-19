@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 61,
+  "translation": "ایلوہیم، میݙی ہاکڑا سُݨ، میݙی دعا دو کن ڈھا۔",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "میݙی ہاکڑا"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "کن ڈھا"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دعا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:12.955705107Z",
+  "model": "glm-5.3"
+}

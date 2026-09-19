@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "گیتاں دا گیت، جیہڑا شلومو دا ہے۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "گیتاں دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:28.305557944Z",
+  "model": "glm-5.3"
+}

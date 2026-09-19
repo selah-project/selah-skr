@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یِسرائیل ایلچی بھیجے سِیحون دوں، ایموریاں دے بادشاہ دوں، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ایلچی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سِیحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ایموریاں دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:04.365317581Z",
+  "model": "glm-5.3"
+}

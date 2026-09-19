@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "چھت دے ہِک کونے وِچ ٻہوݨ چنڳا ہے، جھیڑیل ذال تے سانجھے گھر کنوں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ٻہوݨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "גג",
+      "gloss": "چھت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ذال کنوں"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھیڑیل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "سانجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:09.999447261Z",
+  "model": "glm-5.3"
+}

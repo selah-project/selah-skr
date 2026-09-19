@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "اوں کیتے نواں گیت ڳاؤ، سوہݨا وڄاؤ، اُچی خُشی آواز نال۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کیتے"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "سوہݨا"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "وڄاؤ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "اُچی خُشی آواز نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:10.724517113Z",
+  "model": "glm-5.3"
+}

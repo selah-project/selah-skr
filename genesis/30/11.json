@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے لیاہ آکھیا: “بَخت آ ڳیا!” تے اوں اوندا ناں ⟨את⟩ گاد رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بَخت آ ڳیا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ناں رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:55.926578877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میݙے پُتر، ایہ ⟨او⟩ تیݙیاں اکھیں توں نہ ہٹن، تُسیّہ تے سمجھ دی رکھوالی کر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "ہٹن"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "تیݙیاں اکھیں توں"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "رکھوالی کر"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "تُسیّہ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "تے سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.784615195Z",
+  "model": "glm-5.3"
+}

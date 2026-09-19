@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے او اپݨے لہو کیتے گھات لیندن، اپݨیاں جاناں کیتے لُک ویندن۔",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "اپݨے لہو کیتے"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "گھات لیندن"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "لُک ویندن"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "اپݨیاں جاناں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:46.861293229Z",
+  "model": "glm-5.3"
+}

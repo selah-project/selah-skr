@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اَصل وِچ اوہ میݙے اُتے وَل وَل آندے، سارا ݙینہہ اپݨا ہتھ پھیر تے بدلیندے۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "اَصل وِچ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وَل آندے"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "پھیر تے بدلیندے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݙا ہتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:00.169074275Z",
+  "model": "glm-5.3"
+}

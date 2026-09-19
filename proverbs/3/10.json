@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے بھر ڄلسن تیݙے کوٹھے لتھے، تے تازہ شراب توں تیݙے حوض ٻاہر وہیسن۔",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "تے بھر ڄلسن"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "تیݙے کوٹھے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "لتھے"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "تے تازہ شراب"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "تیݙے حوض"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ٻاہر وہیسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:16.456575778Z",
+  "model": "glm-5.3"
+}

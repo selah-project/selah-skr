@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے چوتھے ورھے اون٘دا سارا پھل پاک ہوسی — تعریفاں دی سوغات — یاہوہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "تے … ورھے"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "اون٘دا پھل"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "تعریفاں دی سوغات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:23.740987542Z",
+  "model": "glm-5.3"
+}

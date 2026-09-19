@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ خشMONہ توں ٹُرے، تے مُصیروت وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے اوہ ٹُرے"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "خشMONہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "مُصیروت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:37.998801732Z",
+  "model": "glm-5.3"
+}

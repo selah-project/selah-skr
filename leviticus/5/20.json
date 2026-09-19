@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھیس:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:11.145588736Z",
+  "model": "glm-5.3"
+}

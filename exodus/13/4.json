@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ایں ݙینہہ تُساں نکلدے پئے ہو، اَبیو مہینے وِچ۔",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ایں ݙینہہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "نکلدے پئے ہو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "اَبیو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:29.898125850Z",
+  "model": "glm-5.3"
+}

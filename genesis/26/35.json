@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے او یِتصخاق تے رِبکہ کیتے روح دی کُڑیلائی ہَن۔",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "تے او … ہَن"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "کُڑیلائی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح دی"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق کیتے"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "تے رِبکہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:47.726119046Z",
+  "model": "glm-5.3"
+}

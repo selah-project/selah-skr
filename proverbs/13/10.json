@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اَکڑ نال صرف جھیڑا ݙتا ویندا ہے، پر ⟨את⟩ مشورے کرݨ آلے کول سمجھ ہوندی ہے۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "اَکڑ نال"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙتا ویندا ہے"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مشورے کرݨ آلے"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "مشورے کرݨ آلے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:02.646015931Z",
+  "model": "glm-5.3"
+}

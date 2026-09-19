@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بیت عزماوَت دے مرد چالیھ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزماوَت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیھ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:28.097080362Z",
+  "model": "glm-5.3"
+}

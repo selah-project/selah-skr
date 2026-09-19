@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "حورای گاعش دے نہراں دا، اَبیایل ہعَرباتی۔",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "حورای"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "نہراں دا"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گاعش"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَبیایل"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ہعَرباتی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:03.801614600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "جیہڑے رستے او آیا، اُوہے رستے او وَلسی، تے ایں شہر اُتے نہ آسی — یاہوہ دا فرمان۔",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "وَلسی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آسی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:30:00.651317223Z",
+  "model": "glm-5.3"
+}

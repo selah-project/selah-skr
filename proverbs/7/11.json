@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "او شور مچاوݨ آلی تے سرکش ہئی؛ اُپݨے گھر وِچ اُوندے پیر ٹک نہ سڳدے ہن۔",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "شور مچاوݨ آلی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او ہئی"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "تے سرکش"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "اُپݨے گھر وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ٹک سڳدے ہن"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "اُوندے پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:47.798900974Z",
+  "model": "glm-5.3"
+}

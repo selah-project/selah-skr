@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "میں حکمت ہاں، چالاکی دے نال رہندی ہاں، تے دانائی دیاں مِنتاں کوں لبھ گھندی ہاں۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "رہندی ہاں"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "چالاکی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے دانائی"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "مِنتاں"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لبھ گھندی ہاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:38.929012063Z",
+  "model": "glm-5.3"
+}

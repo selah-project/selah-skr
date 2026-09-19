@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "بے کار تے جھوٹی ڳالھ میں توں دور کر؛ میکوں نہ غریبی ݙے نہ دھن؛ میکوں میݙے حصے دا کھاݨاں کھوا۔",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "بے کار"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے ڳالھ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور کر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "غریبی"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے دھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "הטרی־פני",
+      "gloss": "میکوں کھوا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھاݨاں"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "میݙے حصے دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:39.373175144Z",
+  "model": "glm-5.3"
+}

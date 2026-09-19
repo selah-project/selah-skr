@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے عیسو ݙٹھا جو کنعان دیاں دھیاں یِتصخاق اوندے پیو دیاں اکھیں وِچ بریاں ہن۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بریاں"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوندے پیو"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:58.902569503Z",
+  "model": "glm-5.3"
+}

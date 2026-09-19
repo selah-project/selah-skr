@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے رَئوُبین دے پُتر: خَنوخ تے پَلُّو تے خَتصون تے کَرمی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رَئوُبین"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خَنوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "تے پَلُّو"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "تے خَتصون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "تے کَرمی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:34.520344594Z",
+  "model": "glm-5.3"
+}

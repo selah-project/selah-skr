@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙے بھرا دی ذال دی برہنگی نہ کھولیں؛ او تیݙے بھرا دی برہنگی ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیݙے بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیݙے بھرا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:57.575608649Z",
+  "model": "glm-5.3"
+}

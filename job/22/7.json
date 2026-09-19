@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تُساں تھکے ہوئے کوں پاݨی نہ پلایا، تے بُکھے کنوں روٹی روک گھدی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "تھکے ہوئے"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "پلایا"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "تے بُکھے کنوں"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روک گھدی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:14.618775578Z",
+  "model": "glm-5.3"
+}

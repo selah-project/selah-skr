@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "میکوں رحم توں توں اُتے سٹیا ڳیا؛ میݙی ماء دے پیٹ توں میݙا ایل توں ہِیں۔",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "توں اُتے"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "سٹیا ڳیا"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "رحم توں"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پیٹ توں"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میݙی ماء"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙا ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں ہِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:10:45.908049350Z",
+  "model": "glm-5.3"
+}

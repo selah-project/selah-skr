@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ماتم دے گھر ونڄݨ چنڳا ہے، ضیافت دے گھر ونڄݨ توں، کیوں جو اوہ سبھ بندیاں دا انت ہے، تے جِیوندا اوکوں اپݨے دل وِچ رکھیندے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ونڄݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ونڄݨ توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافت"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "انت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندیاں دا"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "تے جِیوندا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "رکھیندے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.306211998Z",
+  "model": "glm-5.3"
+}

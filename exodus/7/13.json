@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے پرعوہ دا دل سخت تھی ڳیا، تے اوں انہاں دی ڳالھ نہ سُݨی، جیویں یاہوہ آکھیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "سخت تھی ڳیا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨی"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں دی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا ہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:13.858353337Z",
+  "model": "glm-5.3"
+}

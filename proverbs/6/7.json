@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "جیندا کوئی سردار کائنی، نہ نگران، نہ حاکم —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیندا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "نہ حاکم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:20.354860612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے یاہوہ موشے نال ڳالھ کیتی، آکھݨ کیتے جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:35.159275911Z",
+  "model": "glm-5.3"
+}

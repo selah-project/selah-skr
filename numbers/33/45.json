@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او ⟨مُنڈھ⟩ עِیِّیم توں روانہ تھئے، تے دیبون-گاد وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانہ تھئے"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "עِیِّیم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "دیبون وِچ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:34.706510837Z",
+  "model": "glm-5.3"
+}

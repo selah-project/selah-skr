@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کیوں جو ایویں آکھیا یاہوہ: آواز کانپݨ دی سُݨی ہے — ݙر، تے سلامتی کائنی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "کانپݨ دی"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "سُݨی ہے"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:56.212554926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "ٻہوں آہدن: “کوݨ اساکوں بھلائی ݙکھاوے؟” یاہوہ، آپݨے مُکھ دا چانݨ ساݙے اُتے چا سٹ۔",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آہدن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "اساکوں ݙکھاوے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "چا سٹ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساݙے اُتے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "آپݨے مُکھ دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:13.999000305Z",
+  "model": "glm-5.3"
+}

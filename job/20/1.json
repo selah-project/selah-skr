@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے تصُوفر نِعماتی جواب ݙتا تے آکھیس،",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب ݙتا"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تصُوفر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نِعماتی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:15.987290502Z",
+  "model": "glm-5.3"
+}

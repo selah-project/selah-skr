@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے قہاتی ٹبراں دے گھر دے بزرگ اِلیتصفان ہوسی — عُزّیایل دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ٹبراں کیتے"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "قہاتی"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اِلیتصفان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزّیایل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:02.432808623Z",
+  "model": "glm-5.3"
+}

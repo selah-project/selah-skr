@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے مِتصرایم اُتے ہِک نویں بادشاہ اُٹھیا، جیہڑا یوسف ⟨את⟩ کوں نہ ڄاݨدا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:03.703010612Z",
+  "model": "glm-5.3"
+}

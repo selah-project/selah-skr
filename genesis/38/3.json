@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "او بان٘جھ تھی تے ہِک پُتر ڄایا، تے اوں ⟨את⟩ اوندا ناں عِر رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "بان٘جھ تھی تے"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اون٘دا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اون٘دا ناں"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عِر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:40.235503535Z",
+  "model": "glm-5.3"
+}

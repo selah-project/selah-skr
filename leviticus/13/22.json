@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جے او چمڑے وِچ ٻہوں پھیل ونڄے، تاں کاہن ⟨אתו⟩ اوں کوں نجس قرار ݙیسی — داغ ہے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلݨ"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "پھیلسی"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڑے وِچ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "نجس قرار ݙیسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "داغ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:44.219281266Z",
+  "model": "glm-5.3"
+}

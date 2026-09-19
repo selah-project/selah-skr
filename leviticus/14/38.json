@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن گھر توں نکل تے گھر دے بوہے دو ویسن، تے گھر کوں ست ݙینہہ کیتے بند کر ڈیسی۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے کاہن نکلسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بوہے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "تے بند کر ڈیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر کوں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:13.649310671Z",
+  "model": "glm-5.3"
+}

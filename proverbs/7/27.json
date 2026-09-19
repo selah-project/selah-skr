@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "شیول دے دھر اُوندا گھر ہِن، موت دے کمرے دو لہندے ہوئے۔",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "دھر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اوندا گھر"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "لہندے ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "کمرے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:36.296400076Z",
+  "model": "glm-5.3"
+}

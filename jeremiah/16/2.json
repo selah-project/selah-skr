@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تُو آپݨے کیتے ذال نہ گھنیں، تے تیݙے پُتر تے دھیاں ایں جاہ اُتے نہ تھیون۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گھنیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپݨے کیتے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "تھیون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ایں جاہ اُتے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:07.214303505Z",
+  "model": "glm-5.3"
+}

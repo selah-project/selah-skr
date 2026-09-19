@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ݙاہ ہتھ ہا ݙوجھے کروب دا ⟨the⟩، ہِک ناپ تے ہِک شکل ݙوہیں کروباں کیتے۔",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "تے ݙاہ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "تے شکل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ݙوہیں"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروباں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:25.116632555Z",
+  "model": "glm-5.3"
+}

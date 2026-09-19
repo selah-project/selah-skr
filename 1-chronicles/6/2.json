@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایہ گیرشوم دے پُتریں دے ناں ہن: لِبنی تے شِمعی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں دے"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "تے شِمعی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:00.256950662Z",
+  "model": "glm-5.3"
+}

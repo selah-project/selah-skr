@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اَرپکشد ⟨את⟩ شَلح کوں ڄایا، تے شَلح ⟨את⟩ عِیبِر کوں ڄایا۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "تے اَرپکشد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "تے شَلح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبِر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:34.194856496Z",
+  "model": "glm-5.3"
+}

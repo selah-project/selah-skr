@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ایتان دے پُتر: عزریاہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایتان"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:07.234969732Z",
+  "model": "glm-5.3"
+}

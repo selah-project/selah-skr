@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "میں نہ ڄاݨدا ہا — میݙی نفس میکوں میݙی قوم دے سردار دیاں رتھاں اُتے چا ٻلھایا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨدا ہا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی نفس"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "میکوں چا ٻلھایا"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "رتھاں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میݙی قوم"
+    },
+    {
+      "surface": "نדיב",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:17.375874063Z",
+  "model": "glm-5.3"
+}

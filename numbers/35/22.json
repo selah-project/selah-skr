@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے جے اچاچیت، دشمنی دے بغیر، اوندے اُتے دھکا ݙتس، یا اوندے اُتے کوئی شے سُٹیس، چال دے بغیر،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "اچاچیت"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "دشمنی"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "دھکا ݙتس اوندے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "سُٹیس"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "شے"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "چال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:48.326794205Z",
+  "model": "glm-5.3"
+}

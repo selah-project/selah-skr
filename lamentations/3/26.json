@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "چنڳی ڳالھ ہے جو بندہ اُمید رکھے تے چُپ چپیتا راوے یاہوہ دی نجات دا۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳی ڳالھ ہے"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "اُمید رکھے"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "چُپ چپیتا راوے"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "نجات دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:55.299995452Z",
+  "model": "glm-5.3"
+}

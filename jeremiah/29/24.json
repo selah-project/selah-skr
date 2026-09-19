@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے شمعیاہو نحلامی بارے تُوں آکھسیں، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے بارے"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شمعیاہو"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "نحلامی"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تُوں آکھسیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:27.950325746Z",
+  "model": "glm-5.3"
+}

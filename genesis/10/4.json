@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یاوان دے پُتر: الیشاہ، تے ترشیش، کِتّیم تے دودانیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "الیشاہ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "تے ترشیش"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کِتّیم"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "تے دودانیم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:20.520458551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "بُرے بندے دے گناہ وِچ جال ⟨ہوندا ہے⟩، پر راست باز ڳاوݨ ڳاوے تے خوش تھیندے۔",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "گناہ وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرے"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "جال"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "پر راست باز"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ڳاوݨ ڳاوے"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "تے خوش تھیندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:18.876553806Z",
+  "model": "glm-5.3"
+}

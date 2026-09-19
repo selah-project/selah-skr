@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "لکڑیاں ٻہوں گھتو، بھا ٻالو، گوشت مُکا، تے مسالا رلا، تے ہݙیاں سڑسن۔",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "ٻہوں گھتو"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "ٻالو"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "התם",
+      "gloss": "مُکا"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "تے رلا"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "مسالا"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "تے ہݙیاں"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "سڑسن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:35:39.486323258Z",
+  "model": "glm-5.3"
+}

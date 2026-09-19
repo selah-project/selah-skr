@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "کیوں جو ݙیکھو، بادشاہ کٹھے تھئے، او سبھ رل کے لنگھ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "کٹھے تھئے"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگھ ڳئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رل کے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:03.247661719Z",
+  "model": "glm-5.3"
+}

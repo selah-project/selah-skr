@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بکریاں دی ونڈ دا ہِک بکرا گناہ دی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریاں دی ونڈ دا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ دی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:28.546441788Z",
+  "model": "glm-5.3"
+}

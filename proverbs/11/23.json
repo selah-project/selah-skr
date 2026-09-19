@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "نیکاں دی چاہت چنڳائی توں سوا کجھ کائنی، پر بدکاراں دی اُمید قہر ہے۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "چاہت"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکاں دی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "توں سوا کجھ کائنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳائی"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دی"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "قہر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:47.993391460Z",
+  "model": "glm-5.3"
+}

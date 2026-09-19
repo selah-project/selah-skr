@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہائے اوں جیہڑا شہر خوناں نال وسردے، تے قصبہ زیادتی نال کھڑا کریندے!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "وسرݨ آلا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "خوناں نال"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "تے کھڑا کریندے"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "قصبہ"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "زیادتی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:23.672837789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے یاہوہ دا فرشتہ ولا مَنوح تے اوندی ذال کوں ݙکھائی نہ ݙتا؛ تݙاں مَنوح ڄاݨ گھدا جو او یاہوہ دا فرشتہ ہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ودھیک"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "ݙکھݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوندی ذال"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨ گھدا"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنوح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:11.484329660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کیوں جو یاہوہ دی آواز توں اَشّور جُھک ویسی؛ سوٹی نال اوندے ماریسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "آواز توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "جُھک ویسی"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "سوٹی نال"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ماریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:44:13.459256874Z",
+  "model": "glm-5.3"
+}

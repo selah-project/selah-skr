@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "قرعے دے مُنہہ موجب اوندی وراثت ونڈی ویسی، وݙے تے نِکے وِچالے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہہ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعے دے"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ونڈی ویسی"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "اوندی وراثت"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچالے"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "تے نِکے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:06.885342006Z",
+  "model": "glm-5.3"
+}

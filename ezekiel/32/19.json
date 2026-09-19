@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "توں کن توں سوہݨی ہیں؟ لہہ ونڄ، تے ختنہ نہ تھیاں نال سمائی ونڄ۔",
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "کن توں"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "سوہݨی ہیں"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "لہہ ونڄ"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "تے سمائی ونڄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ختنہ نہ تھئے"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ختنہ نہ تھئے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:39:55.905400961Z",
+  "model": "glm-5.3"
+}

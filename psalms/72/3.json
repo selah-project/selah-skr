@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "پہاڑ قوم کیتے سلامتی چاسن، تے ٹِٻے راستی نال۔",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "چاسن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم کیتے"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "تے ٹِٻے"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "راستی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:57.368024183Z",
+  "model": "glm-5.3"
+}

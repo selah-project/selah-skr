@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "آپݨے ہونٹھاں نال میں تیݙے مُنہ دے سارے حکم ڳݨ سُنویے ہن۔",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "آپݨے ہونٹھاں نال"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ڳݨ سُنویا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙے مُنہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:11.661494361Z",
+  "model": "glm-5.3"
+}

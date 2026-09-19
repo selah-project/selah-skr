@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ترے واری سال وِچ تیݙے سارے نَر آقا یاہوہ دے اَڳوں ظاہر تھیسن۔",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ظاہر تھیسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "تیݙے نَر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے اَڳوں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:29.021821386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "لود، تے اونو، کاریگراں دی وادی۔",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "تے اونو"
+    },
+    {
+      "surface": "גי",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "کاریگراں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:34:48.222992004Z",
+  "model": "glm-5.3"
+}

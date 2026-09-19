@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اوہ جیہڑے شراب دے اڳوں لَمے رہندن، جیہڑے رلی ملی شراب ڳولݨ ویندن۔",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "جیہڑے لَمے رہندن"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "جیہڑے ویندن"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "ڳولݨ"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "رلی ملی شراب"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:11.411853565Z",
+  "model": "glm-5.3"
+}

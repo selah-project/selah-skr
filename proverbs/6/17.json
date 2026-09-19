@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اُچِّیاں اَکّھیں، کوڑ دی زبان، تے بے قصور لہو دے ≤מ≥ نہ — ∈",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "اَکّھیں"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "اُچِّیاں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ دی"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "وہاؤݨ آلے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بے قصور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:43.554814316Z",
+  "model": "glm-5.3"
+}

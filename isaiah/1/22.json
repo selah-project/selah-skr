@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تیݙا چاندی دا کُڑ بھت تھی ڳئی ہے، تیݙی شراب پاݨی نال رلی ہوئی ہے۔",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "تیݙا چاندی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی ڳئی ہے"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "کُڑ بھت"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "تیݙی شراب"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "رلی ہوئی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T17:31:54.816014890Z",
+  "model": "glm-5.3"
+}

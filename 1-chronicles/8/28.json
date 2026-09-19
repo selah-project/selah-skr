@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 8:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "ایہ اپݨیاں نسلاں موجب گھراں دے وݙے، سردار ہن — ایہ یروشلایم وِچ رہندے ہن۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "گھراں دے"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "اپݨیاں نسلاں موجب"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہندے ہن"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:52.676467174Z",
+  "model": "glm-5.3"
+}

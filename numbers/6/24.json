@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یاہوہ تیکوں برکت ݙیوے، تے تیکوں راکھی کرے۔",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تیکوں برکت ݙیوے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "تے تیکوں راکھی کرے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:15.933154580Z",
+  "model": "glm-5.3"
+}

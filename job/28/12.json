@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "پر حکمت کتھوں ملسی؟ تے سمجھ دی جاہ کتھاں ہے؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "پر حکمت"
+    },
+    {
+      "surface": "مאין",
+      "gloss": "کتھوں"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملسی"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "تے کتھاں"
+    },
+    {
+      "surface": "زה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "مקום",
+      "gloss": "جاہ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:45.484462331Z",
+  "model": "glm-5.3"
+}

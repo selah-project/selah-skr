@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "جیہڑا تربیت پسند کرے، او ڄاݨݨ پسند کرے؛ پر جیہڑا تنبیہ کنوں نفرت کرے، او بے سمجھ ہے۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پسند کرے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پسند کرے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨݨ"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "تے نفرت کرے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تنبیہ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بے سمجھ ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:44.541468304Z",
+  "model": "glm-5.3"
+}

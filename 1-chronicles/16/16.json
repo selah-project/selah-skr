@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "جیہڑا اوں ⟨את⟩ اَوراہام نال کٹیا، تے اوندی قسم یِتصخاق کوں۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کٹیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "تے اوندی قسم"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:53.753121262Z",
+  "model": "glm-5.3"
+}

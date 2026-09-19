@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے قورخ دے پُتر نہ مرے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مرے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:42:09.905849275Z",
+  "model": "glm-5.3"
+}

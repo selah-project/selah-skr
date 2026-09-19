@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے ہِک ݙہائی ہر ہِک مُندھے کیتے، ست مُندھیاں وِچوں۔",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "تے ہِک ݙہائی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "مُندھے کیتے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہر ہِک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ست وِچوں"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مُندھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:44:16.395642549Z",
+  "model": "glm-5.3"
+}

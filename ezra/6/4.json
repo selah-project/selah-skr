@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ترے قطاراں وݙے پتھراں دیاں، تے ہِک قطار نویں لکڑ دی؛ تے خرچ بادشاہ دے گھروں ݙتا ویسی۔",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "قطاراں"
+    },
+    {
+      "surface": "די",
+      "gloss": "دیاں"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "تے ہِک قطار"
+    },
+    {
+      "surface": "די",
+      "gloss": "دی"
+    },
+    {
+      "surface": "אע",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "تے خرچ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "ݙتا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:13.255250858Z",
+  "model": "glm-5.3"
+}

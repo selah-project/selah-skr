@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پندھرواں بِلگاہ کوں، سولھواں اِمّیر کوں۔",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بِلگاہ کوں"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پندھر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "اِمّیر کوں"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "سولھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:02.811191945Z",
+  "model": "glm-5.3"
+}

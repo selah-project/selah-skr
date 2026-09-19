@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے مکمل تھی ڳئے اسمان تے زمین تے سارا انہاں دا لشکر۔",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "مکمل تھی ڳئے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "انہاں دا لشکر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:09.916275624Z",
+  "model": "glm-5.3"
+}

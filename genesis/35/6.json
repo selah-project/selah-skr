@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے یعقوو لوُز آ ڳیا، جیڑھا کنعان دی زمین وِچ ہے — اوہو بیت ایل ہے — اوہ تے سارے لوک جیڑھے اوندے نال ہن۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لوُز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:31.745653719Z",
+  "model": "glm-5.3"
+}

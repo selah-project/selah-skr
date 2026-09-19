@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے زمین ایلوہیم دے اڳوں خراب تھی ڳئی، تے زمین زیادتی نال بھر ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "خراب تھی ڳئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "بھر ڳئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زیادتی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:47.778240593Z",
+  "model": "glm-5.3"
+}

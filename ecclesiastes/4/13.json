@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "چن٘گا ہے غریب تے سیاݨا ٻال، بوڑھے تے ناسمجھ بادشاہ توں، جیہڑا ہُݨ ٻئی مت نہ گھنݨ ڄاݨدا۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چن٘گا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "بادشاہ کنوں"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بوڑھا"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ناسمجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "مت گھنݨ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻئی واری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:53.630197623Z",
+  "model": "glm-5.3"
+}

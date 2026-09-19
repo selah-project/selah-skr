@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اساں مِتصرایم ⟨ کوں⟩ ہتھ ݙتا، اَشُّور کوں، روٹی ترٹھے تئیں کھاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "اساں ݙتا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشُّور"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ترٹھے تئیں کھاوݨ کیتے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:45.314071167Z",
+  "model": "glm-5.3"
+}

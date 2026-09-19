@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اِشتون ⟨את⟩ بیت رافا کوں، تے ⟨את⟩ پاسِیح کوں، تے ⟨את⟩ تَخِنّہ کوں ڄݨایا — عیر نَخَش دا پیو؛ ایہ رِکَہ دے بندے ہن۔",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "تے اِشتون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت رافا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "رافا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "پاسِیح"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پاسِیح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تَخِنّہ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "تَخِنّہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَخَش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "رِکَہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:56.680821884Z",
+  "model": "glm-5.3"
+}

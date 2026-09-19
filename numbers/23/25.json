@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے بلاک بِلعام کوں آکھیا: “نہ تاں کہیں طرح لعنت کر، نہ کہیں طرح برکت ݙے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلاک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "کہیں طرح"
+    },
+    {
+      "surface": "קב",
+      "gloss": "لعنت کر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "اِیں کوں لعنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "کہیں طرح"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت ݙے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "اِیں کوں برکت"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:23.007267460Z",
+  "model": "glm-5.3"
+}

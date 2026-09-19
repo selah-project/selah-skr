@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "تیݙی نجات دا خوشی میکوں واپس ݙے، تے چاہتی روح میکوں سہارا ݙیوے۔",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "واپس ݙے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "یשעך",
+      "gloss": "تیݙی نجات دا"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "چاہتی"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "میکوں سہارا ݙیوے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:03.539674328Z",
+  "model": "glm-5.3"
+}

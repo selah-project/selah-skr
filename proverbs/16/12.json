@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "برائی کرݨ بادشاہاں کیتے گھناؤنی ہے، کیوں جو راستی نال تخت قائم تھیندے۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنی"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہاں کیتے"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "راستی نال"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم تھیندے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:17.531184186Z",
+  "model": "glm-5.3"
+}

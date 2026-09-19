@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 110,
+  "translation": "یاہوہ قسم چاتی ہے تے اوہ نہ مُرسیسی: “تُساں ہمیشاں کیتے کاہن ہو، مَلکی صدیق دی ریت موجب۔”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "قسم چاتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "مُرسیسی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشاں کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ریت"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "مَلکی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صدیق"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:22.637656727Z",
+  "model": "glm-5.3"
+}

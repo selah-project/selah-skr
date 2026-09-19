@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے یاہوہ خِزقیاہو دی ڳالھ سُنی، تے ⟨את⟩ قوم کوں شفا ݙتس۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "شفا ݙتس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:59:14.935039326Z",
+  "model": "glm-5.3"
+}

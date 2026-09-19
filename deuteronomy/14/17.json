@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے قاات، تے ⟨את⟩ رخامہ، تے ⟨את⟩ شالخ۔",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "تے قاات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رخامہ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "رخامہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شالخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شالخ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:26.924331115Z",
+  "model": "glm-5.3"
+}

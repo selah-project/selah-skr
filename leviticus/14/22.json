@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے ݙو ککڑ ٻچے یا ݙو فاختے، جیہڑے اوندا ہتھ پُج سڳے؛ تے ہِک ہوسی بُت قربانی تے ہِک ہوسی سوختہ قربانی۔",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "تے ݙو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "فاختے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻچے"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ککڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "پُج سڳے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہوسی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "بُت قربانی"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "تے ہِک"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوختہ قربانی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:02.345068974Z",
+  "model": "glm-5.3"
+}

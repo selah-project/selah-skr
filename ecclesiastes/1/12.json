@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "میں قوہلت یروشلایم وِچ یِسرایل اُتے بادشاہ ہا۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوہلت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:19.688906919Z",
+  "model": "glm-5.3"
+}

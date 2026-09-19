@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تݙاں تُساں یاہوہ دا ݙر سمجھسو، تے ایلوہیم دا ڄاݨ پیسو۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجھسو"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے ڄاݨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پیسو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.163918814Z",
+  "model": "glm-5.3"
+}

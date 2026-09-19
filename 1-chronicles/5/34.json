@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے اخیطوب ⟨את⟩ تصدوک کوں پیدا کیتا، تے تصدوک ⟨את⟩ اخیمعتص کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "تے اخیطوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تصدوک"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوک"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "تے تصدوک"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیمعتص"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اخیمعتص"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:37.650991012Z",
+  "model": "glm-5.3"
+}

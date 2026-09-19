@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "عُزیایل دے پُتر: مِیخا مُکھیا تے یِشیاہ ݙوجھا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزیایل"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھیا"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "تے یِشیاہ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:25.926275435Z",
+  "model": "glm-5.3"
+}

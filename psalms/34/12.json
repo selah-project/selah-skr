@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "آؤ پُتر، میکوں سݨو، میں تُہاکوں یاہوہ دا ݙر سکھیساں۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "سکھیساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:13:31.553806520Z",
+  "model": "glm-5.3"
+}

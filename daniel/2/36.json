@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایہ خواب ہے، تے اوندا مطلب اساں بادشاہ دے اڳوں آکھسوں۔",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "تے اوندا مطلب"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "آکھسوں"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:39.005719684Z",
+  "model": "glm-5.3"
+}

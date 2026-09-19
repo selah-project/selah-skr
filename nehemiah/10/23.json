@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "پلطیاہ، حنان، عنیاہ۔",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "پلطیاہ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "عنیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:52.013735414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے شاؤل کوں ݙسیا ڳیا جو داوِد گت ول بھڄ ڳیا ہے، تے اوں ولا اوکوں ڳولݨ دا وادھا نہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "تے ݙسیا ڳیا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھڄ ڳیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "وادھا کیتا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "اوکوں ڳولݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:49:01.178178359Z",
+  "model": "glm-5.3"
+}

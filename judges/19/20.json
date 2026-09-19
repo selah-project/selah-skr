@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اوہ بوڑھا بندہ آکھیا: “تیکوں سلامتی ہووے؛ بس تیݙی ساری کمی میݙے اُتے ہے — بس چوک وِچ رات کٹیں نہ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "بوڑھا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "تیݙی کمی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "چوک وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "رات کٹیں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:32:26.332282019Z",
+  "model": "glm-5.3"
+}

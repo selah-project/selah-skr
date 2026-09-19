@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ترٹ ڳیا ویرانہ شہر ⟨ہے⟩، ہر گھر وڑھݨ توں بند تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ترٹ ڳیا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند تھی ڳیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "وڑھݨ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:11.278973410Z",
+  "model": "glm-5.3"
+}

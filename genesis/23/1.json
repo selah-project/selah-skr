@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے شارہ دا جیوݨ ہِک سو سال تے ویہہ سال تے ست سال تھیا — ایہ شارہ دے جیوݨ دے سال ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جیوݨ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "شارہ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جیوݨ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "شارہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:32.457465049Z",
+  "model": "glm-5.3"
+}

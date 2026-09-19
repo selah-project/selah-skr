@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "اِمر دے پُتر، ہِک ہزار پنجاہ ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:43.723453928Z",
+  "model": "glm-5.3"
+}

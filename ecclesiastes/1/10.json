@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کوئی اینجھی شے ہے جو کوئی آکھے: “ݙیکھو، ایہ نویں ہے”؟ اوہ ٻہوں اڳوں، ہمیشاں دیاں عمراں وِچ، جو اساں توں پہلے ہئی۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شے"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "جو کوئی آکھے"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ٻہوں اڳوں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ہمیشاں دیاں عمراں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "اساں توں پہلے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:19.684968870Z",
+  "model": "glm-5.3"
+}

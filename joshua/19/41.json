@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اُنہاں دی وراثت دا سرحد تصرعہ، وَاشتاؤل تے عیر شمش ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "اُنہاں دی وراثت دا"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "تصرعہ"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "وَاشتاؤل"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمش"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:57.156417981Z",
+  "model": "glm-5.3"
+}

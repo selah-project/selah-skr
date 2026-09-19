@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "یِتصخاق اوندے پیو اوندے نال آکھیا: “میݙے پُتر، ہُݨ نیڑے آ تے میکوں چُم گھن۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوندے پیو"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "نیڑے آ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "تے چُم گھن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:39.535935176Z",
+  "model": "glm-5.3"
+}

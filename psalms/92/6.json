@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "کتنے وݙے ہن تیݙے کم، یاہوہ! ٻہوں اُوڑھیاں ہن تیݙیاں سوچاں۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کتنے"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "وݙے ہن"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "تیݙے کم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "اُوڑھیاں ہن"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "تیݙیاں سوچاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:01.820548661Z",
+  "model": "glm-5.3"
+}

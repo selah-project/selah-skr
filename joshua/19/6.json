@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے بیت لباؤت تے شروخن — تیرھاں شہر تے انہاں دیاں وستیاں۔",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "لباؤت"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "تے شروخن"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تیرھاں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "تیرھاں"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے انہاں دیاں وستیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:54.580060249Z",
+  "model": "glm-5.3"
+}

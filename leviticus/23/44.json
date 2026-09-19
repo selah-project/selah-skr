@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے موشے یاہوہ دے مقرر تہواراں بارے ⟨את⟩ اِسرائیل دے پُتراں کوں ݙسیا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ݙسیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقرر تہوار"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مقرر تہوار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:39.471115806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ہوا ہوا دی دھن گھٹ تھیندی ہے، پر جیہڑا ہتھ اُتے کٹھا کریندے او ودھیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دھن"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ہوا ہوا دی"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "گھٹ تھیندی ہے"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "پر کٹھا کریندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھیندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:02.646179163Z",
+  "model": "glm-5.3"
+}

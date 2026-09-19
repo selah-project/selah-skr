@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "تیݙی جھڑکی توں، یعقوو دے ایلوہیم، رَٹھ تے گھوڑا ݙونہیں مُرُد پئے۔",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "تیݙی جھڑکی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "مُرُد پئے"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "رَٹھ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "گھوڑا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:56.112216861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے ݙو سالاں دے ݙینہہ مُکݨ تے پرعوہ خواب ݙٹھا، تے ݙیکھو، او یِعور اُتے کھڑا ⟨ہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مُکݨ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ݙو سالاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "تے پرعوہ"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خواب ݙٹھا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "یِعور"
+    }
+  ],
+  "timestamp": "2026-09-19T14:37:58.884910248Z",
+  "model": "glm-5.3"
+}

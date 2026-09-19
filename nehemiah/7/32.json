@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بیت-ایل تے ہعای دے بندے، ہِک سو تریہہ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ایل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "تے ہعای"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے تریہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:32.635309968Z",
+  "model": "glm-5.3"
+}

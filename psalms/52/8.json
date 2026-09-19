@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "تے راست لوک ݙیکھسن تے ݙرسن، تے اوندے اُتے کِھلسن۔",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "تے ݙیکھسن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راست لوک"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "تے ݙرسن"
+    },
+    {
+      "surface": "ועליو",
+      "gloss": "تے اوندے اُتے"
+    },
+    {
+      "surface": "ישחקو",
+      "gloss": "کِھلسن"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:46.722033690Z",
+  "model": "glm-5.3"
+}

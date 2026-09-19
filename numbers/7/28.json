@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ٻکریاں وِچوں ہِک ٻکرا، خطا وچوں قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں وِچوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "خطا وچوں قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:40.213903269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 80,
+  "translation": "مُقابلے کیتے، شُوشَنّیم اُتے ⟨عِدُوت⟩، آساف کیتے ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُقابلے کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "شُوشَنّیم"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "⟨عِدُوت⟩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:13.047471997Z",
+  "model": "glm-5.3"
+}

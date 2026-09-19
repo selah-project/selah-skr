@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "رِلتا چشمہ تے گندا زریں ⟨وانگوں⟩ راست آدمی ⟨ہے⟩ جہڑا شریر اڳوں ٹُر ویندے۔",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "رِلتا"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "تے زریں"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "گندا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "מט",
+      "gloss": "ٹُر ویندے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:13.694466031Z",
+  "model": "glm-5.3"
+}

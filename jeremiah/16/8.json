@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے ضیافت دے گھر وِچ نہ ونج، اُنہاں نال ٻہݨ کیتے، ⟨את⟩ کھاوݨ تے پیوݨ۔",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافت دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ونج"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ٻہݨ کیتے"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں نال"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھاوݨ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "تے پیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:45.116242115Z",
+  "model": "glm-5.3"
+}

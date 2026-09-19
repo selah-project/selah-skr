@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او رِسّہ توں ٹُرے، تے قہیلاتہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "رِسّہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "قہیلاتہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:52.535238290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 73,
+  "translation": "ول وی میں ہمیش تیݙے نال ہاں؛ تیݙے میݙے سجّے ہتھ کوں پکڑیا ہویا ہے۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ول وی میں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "پکڑیا ہویا ہے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "میݙے سجّے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:19.207282452Z",
+  "model": "glm-5.3"
+}

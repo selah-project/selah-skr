@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "صرف اوہو میݙا چٹان ⟨ہے⟩ تے میݙی مُکتی، میݙا اُچا قلعہ؛ میں نہ ہلیساں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "میݙا چٹان"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "تے میݙی مُکتی"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "میݙا اُچا قلعہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ہلیساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:50.037076552Z",
+  "model": "glm-5.3"
+}

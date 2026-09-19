@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یاہوہ موشے نال ٻولیا ⟨آکھݨ کیتے⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨آکھݨ کیتے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:18.517535318Z",
+  "model": "glm-5.3"
+}

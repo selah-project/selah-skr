@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "کیوں جو جیہڑا سارے جِیوندیاں نال جُڑیا ہووے، اُوکوں اُمید ہے، کیوں جو جِیتا کُتی مُئے شیر توں چنگا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "جُڑیا ہووے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جِیوندیاں"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "בטחون",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کُتی کیتے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیتا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مُئیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:13.714381152Z",
+  "model": "glm-5.3"
+}

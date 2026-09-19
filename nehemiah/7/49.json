@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "خِنان دے پُتر، گِدیل دے پُتر، گِخر دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خِنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گِخر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:27.360153334Z",
+  "model": "glm-5.3"
+}

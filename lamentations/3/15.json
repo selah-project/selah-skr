@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اوں میکوں کڑیاں نال رجھا ݙتا، افسنتین ⟨تلخ بوٹی⟩ نال رجھایس۔",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "رجھا ݙتس"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "کڑیاں نال"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "رجھایس"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "افسنتین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.012957862Z",
+  "model": "glm-5.3"
+}

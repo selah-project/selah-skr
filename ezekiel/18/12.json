@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 18:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "غریب تے محتاج کوں ستایس، لُٹ لُٹ گھدس، گروی واپس نہ کیتیس، تے بتاں دو اکھ چاتی، نگھرا کم کیتس۔",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "ستایس"
+    },
+    {
+      "surface": "גזלות",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "لُٹ گھدس"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گروی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "واپس کیتیس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "הגלולים",
+      "gloss": "بتاں"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاتی"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "نگھرا کم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتس"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:41.974342640Z",
+  "model": "glm-5.3"
+}

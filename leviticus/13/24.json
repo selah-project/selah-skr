@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یا گوشت، جݙاں اوندے چمڑے وِچ بھا دی ساڑ ہووے، تے ساڑ دا زندہ گوشت چٹا داغ بݨ ونڄے — سرخی مائل چٹا یا کلہا چٹا۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "اوندے چمڑے وِچ"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "ساڑ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا دی"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے بݨسی"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "زندہ گوشت"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "ساڑ دا"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "چٹا داغ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "چٹا"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "سرخی مائل"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "چٹا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:44.219689801Z",
+  "model": "glm-5.3"
+}

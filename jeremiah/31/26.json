@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "ایں ڳالھ تے میں جاڳ پیوم تے ݙٹھم، تے میݙی نندر میکوں مِٹھی لڳی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "جاڳ پیوم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "تے ݙٹھم"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "تے میݙی نندر"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "مِٹھی لڳی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:17.280579267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "بندہ جیہڑا ولا ولا ٹوکیا ویندا ہووے تے ڳچی سخت رکھے، او اچݨ چیت ترٹ پوسی، تے کوئی شفا کائنی۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ٹوکیاں"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "سخت رکھے"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ڳچی"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "اچݨ چیت"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ترٹ پوسی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:59.945755865Z",
+  "model": "glm-5.3"
+}

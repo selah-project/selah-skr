@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "یوشیہو دی بادشاہت دی اَٹھارھویں سال وِچ ایہ پیسح منایا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "اَٹھارھویں…وِچ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…ویں سال دے حصے کیتے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "بادشاہت دی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یوشیہو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "منایا ڳیا"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:00:25.429614572Z",
+  "model": "glm-5.3"
+}

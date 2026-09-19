@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 149,
+  "translation": "قوماں وِچ بدلہ گھنݨ کیتے، تے لوکاں دے ڳٹھاں وِچ تنبیہ کرݨ کیتے،",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ کیتے"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تنبیہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لوکاں دے ڳٹھاں وِچ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "لوک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:02.664446388Z",
+  "model": "glm-5.3"
+}

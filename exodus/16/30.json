@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے قوم ستویں ݙینہہ آرام کیتا۔",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "تے آرام کیتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:32.577681361Z",
+  "model": "glm-5.3"
+}

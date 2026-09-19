@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے منشّہ دے پُتراں دے قبیلے دی فوج اُتے پِداہتصُور دا پُتر گملیایل ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّہ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گملیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پِداہ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تصُور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:21.394988917Z",
+  "model": "glm-5.3"
+}

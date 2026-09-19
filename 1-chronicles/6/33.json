@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اُنہاں دے بھرا لاوی مُقدس خیمے، ایلوہیم دے گھر، دی ساری خدمت کیتے مقرر ہن۔",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "تے اُنہاں دے بھرا"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "مقرر ہن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مُقدس خیمے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:30.384180673Z",
+  "model": "glm-5.3"
+}

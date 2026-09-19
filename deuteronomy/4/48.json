@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "عاروعیر توں، جیہڑا وادی ارنون دی ہٹھی تے ہے، پہاڑ سعیون تئیں — اوہو حرمون ہے۔",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "عاروعیر توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ہٹھی"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ارنون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ہר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "سعیون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:51.594791257Z",
+  "model": "glm-5.3"
+}

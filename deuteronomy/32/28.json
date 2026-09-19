@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "کیوں جو او ہِک ایجھی قوم ہن جِنہاں توں صلاح ویندی رہ ڳئی ہے، تے انہاں وِچ کوئی سمجھ کائنی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "وندی رہ ڳئی ہے"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انہاں وِچ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:19.244612163Z",
+  "model": "glm-5.3"
+}

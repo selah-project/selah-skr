@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اُٹھ یاہوہ! اے ایل، آپݪاں ہتھ اُچا کر؛ مظلوماں کوں نہ بُھل۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اُچا کر"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "آپݪاں ہتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بُھل"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "مظلوماں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:44.491360579Z",
+  "model": "glm-5.3"
+}

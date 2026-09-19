@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے یاد کریسی جو تُساں مِتصرایم دے ملک وِچ غلام ہاویں؛ ایں کیتے میں تیکوں حکم ݙینداں جو ⟨את⟩ ایہ کم کریسیں۔",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "تے یاد کریسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ہاویں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تیکوں حکم ݙینداں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ کم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:20.225375947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "اوندے ماء اوں کوں آکھیا: “میݙے پُتر، تیݙی لعنت می اُتے — پر میݙی آواز سُݨ، تے ونڄ، می کیتے ⟨گھن آ⟩۔”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوندے ماء"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "می اُتے"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "تیݙی لعنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "میݙی آواز"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "تے ونڄ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "می کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:06.886991325Z",
+  "model": "glm-5.3"
+}

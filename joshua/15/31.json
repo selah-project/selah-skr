@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے تصِقلاگ تے مدمَنّاہ تے سنسَنّاہ،",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "تے تصِقلاگ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "تے مدمَنّاہ"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "تے سنسَنّاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:27.434143700Z",
+  "model": "glm-5.3"
+}

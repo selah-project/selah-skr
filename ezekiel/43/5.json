@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے روح میکوں چا گھِن ڳئی تے اندرونی وسیbolے وچ میکوں گھن آئی، تے ݙیکھو، یاہوہ دے جلال نے گھر بھر ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "میکوں چا گھِن ڳئی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "میکوں گھن آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "وسیbolے"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "اندرونی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر ݙتا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:51.590912945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ موشے نال تے اہرون نال الایا، آکھیس:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:08.663004117Z",
+  "model": "glm-5.3"
+}

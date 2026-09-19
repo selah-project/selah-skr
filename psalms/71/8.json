@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 71,
+  "translation": "بھریج ونڄے میݙا مُونہہ تیݙی تعریف نال، سارا ݙینہہ تیݙی شان نال۔",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "بھریج ونڄے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙا مُونہہ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیݙی تعریف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "تیݙی شان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:49.928160218Z",
+  "model": "glm-5.3"
+}

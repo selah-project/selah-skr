@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ایں کیتے آکھ: ݙیکھ، میں اوندے کوں ⟨את⟩ میݙی عہد، سلامتی، ݙیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ݙیکھ، میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندا ہاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میݙی عہد سلامتی"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میݙی عہد"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:35.159705542Z",
+  "model": "glm-5.3"
+}

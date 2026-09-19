@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "امیر دا مال اوندے زور دا شہر ہے، تے اُچی دیوار وانگوں اوندے خیال وِچ۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "اوندے زور دا"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "تے دیوار وانگوں"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "اُچی"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "اوندے خیال وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:46.592831708Z",
+  "model": "glm-5.3"
+}

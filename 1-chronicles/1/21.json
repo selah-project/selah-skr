@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ ہَدورام، تے ⟨את⟩ اُوزال، تے ⟨את⟩ دِقلہ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ہَدورام"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ہَدورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُوزال"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "اُوزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "دِقلہ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دِقلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:47.590018607Z",
+  "model": "glm-5.3"
+}

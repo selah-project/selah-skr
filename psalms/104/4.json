@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "جیہڑا اپݨے فرشتے ہوائاں بݨیندے، اپݨے خدمت گار بھڑکدی بھا۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بݨیندے"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "اپݨے فرشتے"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ہوائاں"
+    },
+    {
+      "surface": "משרתיو",
+      "gloss": "اپݨے خدمت گار"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "להט",
+      "gloss": "بھڑکدی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:34.480709312Z",
+  "model": "glm-5.3"
+}

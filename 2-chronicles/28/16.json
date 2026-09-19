@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "اُوں ویلھے بادشاہ اَخز اَشور دے بادشاہاں دو اُوندی مدد کیتے ⟨سفیر⟩ بھیڄا۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخز"
+    },
+    {
+      "surface": "על",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہاں"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشور"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد کیتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:57:26.995592508Z",
+  "model": "glm-5.3"
+}

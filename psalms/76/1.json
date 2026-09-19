@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "مُہری کیتے، تاراں دے سازاں نال — اَساف دا مزمور، ہِک ڳاناں۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُہری کیتے"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تاراں دے سازاں نال"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف دا"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاناں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:47.839990282Z",
+  "model": "glm-5.3"
+}

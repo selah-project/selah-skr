@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے او حوشن اُتے زنجیراں بݨایاں — مُڑیئے دُھریے کم دیاں، خالص سونے دیاں۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "تے بݨایاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "حوشن"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "زنجیراں"
+    },
+    {
+      "surface": "גבלت",
+      "gloss": "مُڑیئے ہوئے"
+    },
+    {
+      "surface": "مעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "دُھریاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:54.018948347Z",
+  "model": "glm-5.3"
+}

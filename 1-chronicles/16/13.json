@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اَے یِسراائل دی نسل، اوندا ٻانہا، یعقوو دے پُتر، اوندے چُݨے ہوئے!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراائل"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اوندا ٻانہا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "اوندے چُݨے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:53.752581976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ݙاند، ڳاں دا پُتر؛ ہِک ہِک ٻکرا؛ ہِک مینہہ، ہِک ورھے دا پُتر، سڑواں قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ݙاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳاں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ٻکرا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ہِک ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڑواں قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:02.638693004Z",
+  "model": "glm-5.3"
+}

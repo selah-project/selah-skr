@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "میں — ݙیکھ، میݙا عہد تیݙے نال ⟨את⟩ ہے، تے توں قومیں دے ہجوم دا پیو تھیسیں۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میݙا عہد"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے نال"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "تھیسیں"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ہجوم"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:13.294739408Z",
+  "model": "glm-5.3"
+}

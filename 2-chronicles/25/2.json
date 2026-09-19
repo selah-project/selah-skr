@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "اُوں یاہوہ دیاں اکھیں وِچ جو سِدھا ہا اوہ کیتا، پر پورے دل نال نہ۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اُوں کیتا"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:57:35.670811864Z",
+  "model": "glm-5.3"
+}

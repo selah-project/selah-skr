@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اوں ⟨את⟩ ساڑی قربانی پیش کیتی، تے اوندا حکم موجب کیتُس۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "پیش کیتُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڑی قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ساڑی قربانی"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "کیتُس"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "حکم موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:43.395197892Z",
+  "model": "glm-5.3"
+}

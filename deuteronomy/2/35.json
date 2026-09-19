@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "صرف ڈھور ݙنگر اساں آپ کیتے لُٹ گھدے، تے انہاں نگریاں دا مالِ غنیمت جیہڑیاں اساں پکڑیاں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڈھور ݙنگر"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "لُٹ گھدے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "تے مالِ غنیمت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "نگریاں دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "پکڑیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:10.222161286Z",
+  "model": "glm-5.3"
+}

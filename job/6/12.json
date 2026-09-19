@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "بھلا پتھراں دا زور میݙا زور ہے؟ بھلا میݙا گوشت کانسی دا ہے؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں دا"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میݙا زور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "میݙا گوشت"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "کانسی دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:53:57.135455361Z",
+  "model": "glm-5.3"
+}

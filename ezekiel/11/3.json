@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "جیہڑے آہدن: “ویلا ⟨کائنی⟩ نیڑے — گھر بݨاؤں؛ ایہ دیگچی ہے تے اساں گوشت ہیسے۔”",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "آہدن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بݨاؤں"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ ہے"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگچی"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "تے اساں"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-19T18:29:03.174806291Z",
+  "model": "glm-5.3"
+}

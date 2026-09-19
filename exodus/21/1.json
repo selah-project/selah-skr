@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے اِیہے ⟨ہِن⟩ اُوہ مِسافتاں جو تُساں اُنہاں دے اَڳوں رکھسی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے اِیہے"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "مِسافتاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "رکھسی"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اُنہاں دے اَڳوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:54.658459514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میݙی اکھ میݙی جان کیتے ارمان کریندی ہے، میݙے شہر دیاں سبھ دھیاں ⟨دی وجہ توں⟩۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "میݙی اکھ"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "ارمان کریندی ہے"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "میݙی جان کیتے"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "میݙے شہر دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:38.378023219Z",
+  "model": "glm-5.3"
+}

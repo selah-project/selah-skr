@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے عُلا دے پُتر: اَرخ تے خنِیایل تے رِتصیا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "عُلا"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "اَرخ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "تے خنِیایل"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "تے رِتصیا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:00.358881178Z",
+  "model": "glm-5.3"
+}

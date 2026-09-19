@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "یاد کر، اَی، کون بےقصور مُک ڳیا، تے کتھاں سِدھے مِٹائے ڳئے؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےقصور"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "مُک ڳیا"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "تے کتھاں"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "נכחדو",
+      "gloss": "مِٹائے ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:32.902625472Z",
+  "model": "glm-5.3"
+}

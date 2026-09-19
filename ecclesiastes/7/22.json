@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو ٻہوں واریاں تیݙا دل ڄاݨدا ہے جو تُوں وی ٻئیاں کوں مندے ماریے ہن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واریاں"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "مندے ماریے ہن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئیاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:19.277236237Z",
+  "model": "glm-5.3"
+}

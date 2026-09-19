@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو اوں دل توں دُکھ نہ ݙیندا، تے بندے دے پُتراں کوں غم نہ ݙیندا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "دُکھ ݙیندا"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "دل توں"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "تے غم ݙیندا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:51.039977704Z",
+  "model": "glm-5.3"
+}

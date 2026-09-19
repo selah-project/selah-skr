@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے سیسِرا کوں ݙس ݙتا ڳیا جو اَبینوعم دا پُتر باراک تابور پہاڑ اُتے چڑھ ڳیا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ݙس ݙتا ڳیا"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "سیسِرا کوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "باراک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "اَبینوعم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تابور"
+    }
+  ],
+  "timestamp": "2026-09-19T16:24:00.459007572Z",
+  "model": "glm-5.3"
+}

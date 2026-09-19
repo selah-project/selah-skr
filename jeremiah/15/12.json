@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "کیا کوئی لوہا توڑ سڳدا ہے — اُبھے دا لوہا تے تانبا؟",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "کیا توڑ سڳدا ہے"
+    },
+    {
+      "surface": "بרזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُبھے دا"
+    },
+    {
+      "surface": "وנחשת",
+      "gloss": "تے تانبا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:21.179661834Z",
+  "model": "glm-5.3"
+}

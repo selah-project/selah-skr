@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ہامن ہمدتا دے پُتر، یہودیاں دے دشمن، دے ݙاہ پُتر مارے ڳئے، پر لُٹ وِچ اُنہاں ⟨את⟩ آپݨا ہتھ نہ چاتا۔",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ہمدتا"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودی"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "لُٹ وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨا ہتھ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:37.212692631Z",
+  "model": "glm-5.3"
+}

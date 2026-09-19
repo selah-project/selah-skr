@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "بھڄ ڳئی مَدمینہ؛ گِبیم دے وَسݨ والے پناہ گھِن ڳئے۔",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "بھڄ ڳئی"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مَدمینہ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وَسݨ والے"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "گِبیم دے"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "پناہ گھِن ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:36.812442902Z",
+  "model": "glm-5.3"
+}

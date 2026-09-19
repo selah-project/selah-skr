@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "سارا مجمع ہِکو جِہا ⟨ہا⟩ چالی ہزار ترے سو سٹھ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "مجمع"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ہِکو جِہا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "چالی ہزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ترے سو سٹھ توں پہلے دے ݙو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "سٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:47.648049768Z",
+  "model": "glm-5.3"
+}

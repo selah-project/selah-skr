@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے کاہن حکم ݙیسی، تے مِٹی دے برتݨ وِچ، زندہ پاݨی اُتے، ⟨את⟩ ہِک چِڑی ذبح کیتی ویسے۔",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "حکم ݙیسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ذبح کریسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک چِڑی"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "چِڑی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتݨ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مِٹی دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:54.097382559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "حورێب توں سعیر پہاڑ دے رستے قادیش بارنێع تئیں یارھاں ݙینہہ دا پندھ ہے۔",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "یارھاں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "حورێب توں"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادیش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بارنێع"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:51.588196234Z",
+  "model": "glm-5.3"
+}

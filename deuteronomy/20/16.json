@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "پر انہاں قوماں دے شہریں وچوں، جیہڑے یاہوہ تیݙا ایلوہیم تیکوں وراثت ݙیندے، کوئی ساہ جِیندا نہ رکھیسو۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "شہریں وچوں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انہاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "جِیندا رکھیسو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:50.649967621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے تُساں چوری نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "چوری کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:50:12.295953579Z",
+  "model": "glm-5.3"
+}

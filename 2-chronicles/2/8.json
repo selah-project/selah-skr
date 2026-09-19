@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میݙے کیتے وݙی ڳݨتی وِچ لکڑ تیار کرو، کیوں جو گھر جیہڑا میں بݨیندا پیاں وݙا تے حیران کن ہے۔",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "تے تیار کرݨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "وݙی ڳݨتی کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر ⟨دی⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "بݨیندا پیاں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "تے حیران کن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:07.092435865Z",
+  "model": "glm-5.3"
+}

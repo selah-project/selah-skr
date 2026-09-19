@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کیوں جو یاہوہ تیݙا بھروسہ ہوسی، تے تیݙا پیر پھنسݨ توں راکھی کریسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "تیݙا بھروسہ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "تے راکھی کریسی"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیݙا پیر"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "پھنسݨ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:50.127904116Z",
+  "model": "glm-5.3"
+}

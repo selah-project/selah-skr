@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے صدقیاہو یرمیاہو کوں آکھیا: “کوئی بندہ انہاں ڳالھیں نہ ڄاݨے، تے توں نہ مرسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨے"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انہاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:17:41.189148352Z",
+  "model": "glm-5.3"
+}

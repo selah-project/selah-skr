@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "کیوں جو قومیں دے سارے معبود ٻٹ ہِن، پر یاہوہ ⟨את⟩ اسماناں بݨائن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "معبود"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومیں دے"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ٻٹ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "پر یاہوہ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨائن"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:36.044787367Z",
+  "model": "glm-5.3"
+}

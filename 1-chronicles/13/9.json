@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے او کِیدوں دی جوڑی تئیں پُنّے، تے عُزّا ⟨את⟩ اپݨا ہتھ صندوق کوں پکڑݨ کیتے دراڑیا، کیوں جو ݙاند ٹھوہریے۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "پُنّے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "جوڑی"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "کِیدوں"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "دراڑیا"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپݪا ہتھ"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "پکڑݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ٹھوہریے"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ݙاند"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:43.879784880Z",
+  "model": "glm-5.3"
+}

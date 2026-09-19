@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "ezra 2:57",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "شیفتیاہ دے پُتر، حطّیل دے پُتر، پوخرت تصوایم دے پُتر، آمی دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شیفتیاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حطّیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوخرت"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "تصوایم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "آمی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:44.319207681Z",
+  "model": "glm-5.3"
+}

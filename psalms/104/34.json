@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "میݙی سوچ اوں اُتے مِٹھی لڳے؛ میں آپ یاہوہ وِچ خوش تھیساں۔",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "مِٹھی لڳے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں اُتے"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "میݙی سوچ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "خوش تھیساں"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:17.843897835Z",
+  "model": "glm-5.3"
+}

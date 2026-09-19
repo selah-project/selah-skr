@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "جُوائی عورت دے درد اوندے اُتے آسن؛ او ہِک پُتر ہے، نہ سمجھ دار، کیوں جو او ٻالاں دے ڄمݨ دے ویلھے ٹکسی نہ۔",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "درد"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "جُوائی عورت"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آسن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سمجھ دار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ٹکسی"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "ڄمݨ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ٻالاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:50:52.216771032Z",
+  "model": "glm-5.3"
+}

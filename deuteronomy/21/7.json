@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ولدیہ ݙیسن تے آکھسن: “ساݙے ہتھاں ⟨את⟩ ایہ لہو نہ وہایا، تے ساݙیاں اکھیں نہ ݙٹھا۔”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "تے ولدیہ ݙیسن"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ساݙے ہتھاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "وہایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ لہو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "تے ساݙیاں اکھیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ݙٹھا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:12.598544340Z",
+  "model": "glm-5.3"
+}

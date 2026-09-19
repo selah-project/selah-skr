@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ⟨את⟩ بعلت تے ⟨את⟩ تامور کوں بیابان وِچ، اُوں زمین وِچ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بعلت"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بعلت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تامور"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامور"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:09:55.841150051Z",
+  "model": "glm-5.3"
+}

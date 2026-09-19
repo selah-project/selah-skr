@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے یسرائل یوسف دے پُتراں کوں ⟨את⟩ ݙٹھا، تے آکھیس: “ایہ کیرھے ہن؟”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف دے پُتراں کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف دے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیرھے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:38.210342093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "تے اُوں اندر ڳیا، تے دروازے دی تھمب ݙو ہتھ ماپی، تے دروازہ چھی ہتھ، تے دروازے دی چوڑائی ست ہتھ۔",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "تے اُوں ڳیا"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "اُوں ماپی"
+    },
+    {
+      "surface": "איל",
+      "gloss": "تھمب"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دروازے دی"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "تے دروازہ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دروازے دی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:02.615255762Z",
+  "model": "glm-5.3"
+}

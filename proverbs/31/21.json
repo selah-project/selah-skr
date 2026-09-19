@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "او اوندے گھر کیتے برف توں نہ ڈردی ہے، کیوں جو اوندا سارا گھر شنی ⟨سرخ رنگ دے کپڑے⟩ وِچ ملبوس ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈردی ہے"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "اوندے گھر کیتے"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "برف توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ملبوس ہے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "شنی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:09.282721795Z",
+  "model": "glm-5.3"
+}

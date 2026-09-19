@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "کیوں جو لکنت آلیاں ہونٹھاں نال تے ٻئی زبان نال اوں ایں قوم نال ڳالھ کیتی،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "لکنت آلیاں"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ہونٹھاں نال"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "تے ٻئی زبان نال"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻئی"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ڳالھ کریسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:44.120638857Z",
+  "model": "glm-5.3"
+}

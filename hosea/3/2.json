@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے میں اوندے کوں میݙے کیتے پندرہ ⟨سکے⟩ چاندی دے تے ہِک ہومر جو تے ہِک لیتیکھ جو نال گھن گھدا۔",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "گھن گھدا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "ہومر"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "لیتیکھ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:49:24.779107302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "اوہ اُتلوں اسماناں کوں سݙسی، تے زمین کوں، آپݨی قوم دا انصاف کرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "سݙسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "اُتلوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "انصاف کرݨ کیتے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آپݨی قوم دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:36.405953570Z",
+  "model": "glm-5.3"
+}

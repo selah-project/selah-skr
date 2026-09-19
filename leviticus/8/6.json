@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے موشے ⟨את⟩ اہرون تے ⟨את⟩ اوندے پُتراں کوں پیش کیتا، تے ⟨את⟩ اوہناں کوں پاݨی نال دھوتا۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "پیش کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے پُتراں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "دھوتا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں کوں"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاݨی نال"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:13.416120242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ⟨את⟩ اوندے پُتراں کوں رحم نہ کریساں، کیوں جو او بدکاری دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے پُتراں کوں"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "اوندے پُتراں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "رحم کریساں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "بدکاری دے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T18:48:56.938820161Z",
+  "model": "glm-5.3"
+}

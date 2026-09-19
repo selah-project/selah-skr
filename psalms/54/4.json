@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 54,
+  "translation": "ایلوہیم، میݙی دعا سُݨ، میݙے مونہہ دے لفظاں دو کَن لڳ۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دعا"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَن لڳ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "لفظاں دو"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میݙے مونہہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:23.538311938Z",
+  "model": "glm-5.3"
+}

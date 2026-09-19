@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کیوں جو تو بُرائی چاہݨ آلا ایل کائنی، کوئی بُرا تیݙے نال رہس نہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہݨ آلا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "تیݙے نال رہسی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "کوئی بُرا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:22.538630009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "چار جیو زمین اُتے نِکے ہن، پر او سیانے وِچوں سیانے ہن۔",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "نِکے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "پر او"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "سیانے"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "سیانے وِچوں سیانے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:19.284153911Z",
+  "model": "glm-5.3"
+}

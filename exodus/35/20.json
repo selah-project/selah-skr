@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "تے یِسرایل دے پُتریں ساری جماعت موشے دے اَڳوں توں نِکلی۔",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "نِکلی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل دے"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے اَڳوں توں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:00:59.035563945Z",
+  "model": "glm-5.3"
+}

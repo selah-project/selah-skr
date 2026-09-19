@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "یا تاناں وِچ یا بناں وِچ، کَنّھ دی یا اُنّ دی، یا چمڑے وِچ، یا چمڑے دی کہیں وی شے وِچ۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تاناں وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "بناں وِچ"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "کَنّھ دی"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "یا اُنّ دی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڑے وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کہیں وی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "شے"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:09.196638867Z",
+  "model": "glm-5.3"
+}

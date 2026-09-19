@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ݙینہہاں بعد تھیا، تے عَمّون دے پُتراں یِسرایل نال جنگ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ݙینہہاں بعد"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "تے جنگ کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون دے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:28:47.118226713Z",
+  "model": "glm-5.3"
+}

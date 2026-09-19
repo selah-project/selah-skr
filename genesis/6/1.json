@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے تھیا، جو اِنسان زمین دی سطح اُتے ودھو ودھ کرݨ لڳ ڳیا، تے اُنہاں کوں دھیاں پیدا تھیاں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "החל",
+      "gloss": "لڳ ڳیا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ودھو ودھ کرݨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "پیدا تھیاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:18.548745382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "کیا ایل اوندا چیخ سُݨسی، جݙاں اوں اُتے تنگی آوے؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "اوندا چیخ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں اُتے"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:00:01.009028132Z",
+  "model": "glm-5.3"
+}

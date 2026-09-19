@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "او تیکوں سِجھ ⟨دے نال⟩ ڈرسن، تے چندر دے اڳوں، پیڑھیاں پیڑھیاں تئیں۔",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "او تیکوں ڈرسن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے دے اڳوں"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چندر"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیڑھیاں"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "پیڑھیاں تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:56.805430790Z",
+  "model": "glm-5.3"
+}

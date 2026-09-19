@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے میں اپݨا مُنہ کھولیا، تے اوں میکوں ⟨את⟩ ایہ لپھ کھوائی۔",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "کھولیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا مُنہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "کھوائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ لپھ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "لپھ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:27:15.080921555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُنہاں دی ڳݨتری قبیلہ اَفرایم وِچ چالی ہزار پنج سَو ہئی۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اُنہاں دی ڳݨتری"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ وِچ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اَفرایم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:53.803874258Z",
+  "model": "glm-5.3"
+}

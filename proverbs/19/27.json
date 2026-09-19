@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "میݙے پُتر، او تربیت سُݨݨ چھوڑ جیہڑی توکوں علم دیاں ڳالھیں توں رَہوا ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "سُݨݨ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "رَہوݨ کیتے"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ڳالھیں توں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:53.855036429Z",
+  "model": "glm-5.3"
+}

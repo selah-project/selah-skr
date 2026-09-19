@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "لَوی دے پُتر: گیرشوم، قہات تے مراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لَوی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "تے مراری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:00.256703057Z",
+  "model": "glm-5.3"
+}

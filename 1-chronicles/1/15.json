@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ خوی کوں، تے ⟨את⟩ عرقی کوں، تے ⟨את⟩ سینی کوں ⟨ڄݨیا⟩۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "خوی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "خوی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سینی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:36.195780952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے اخیطوب ⟨את⟩ تصدوق کوں پیدا کیتا، تے تصدوق ⟨את⟩ شلوم کوں پیدا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "تے اخیطوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تصدوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تصدوق"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "تے تصدوق"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:59.815220446Z",
+  "model": "glm-5.3"
+}

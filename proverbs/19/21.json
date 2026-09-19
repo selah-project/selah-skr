@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "ہِک بندے دے دل وِچ ٻہوں ساریاں سوچاں ہوندیاں ہن، پر یاہوہ دی صلاح ہی قائم رہسی۔",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ٻہوں ساریاں"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچاں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "پر … دی صلاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہی"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم رہسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.537932367Z",
+  "model": "glm-5.3"
+}

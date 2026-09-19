@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "چنڳی ڳالھ ہے جو ایہو پکڑ گھنّیں، تے ایں توں وی اپݨا ⟨את⟩ ہتھ نہ چھوڑیں، کیوں جو ایلوہیم توں ݙرݨ آلا اِنہاں سبھے وِچوں نکلسی۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳی ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "پکڑ گھنّیں"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ایں توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "چھوڑیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ݙرݨ آلا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھے"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اِنہاں سبھے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:04.966106429Z",
+  "model": "glm-5.3"
+}

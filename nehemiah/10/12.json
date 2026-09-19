@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "مِیکا، رِخوو، خشبِیہ۔",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "مِیکا"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "رِخوو"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خشبِیہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:56.127149780Z",
+  "model": "glm-5.3"
+}

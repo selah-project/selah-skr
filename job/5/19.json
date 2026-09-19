@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "چھ مصیبتاں وِچ اوہ تیکوں بچاوسی، تے ست وِچ تیکوں برائی نہ لڳسی۔",
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "مصیبتاں وِچ"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "بچاوسی تیکوں"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "تے ست وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "لڳسی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:45.809338541Z",
+  "model": "glm-5.3"
+}

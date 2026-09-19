@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کُٹیاں وِچ تُساں ست ݙینہہ رہسو؛ سارے جیہڑے اِسرائیل وِچ ڄمئیے، کُٹیاں وِچ رہسن۔",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "کُٹیاں وِچ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "رہسو"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ڄمئیے"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیل وِچ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہسن"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "کُٹیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:23:39.470786758Z",
+  "model": "glm-5.3"
+}

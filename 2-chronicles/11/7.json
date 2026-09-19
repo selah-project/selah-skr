@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے ⟨את⟩ بیت-تصور تے ⟨את⟩ سوخو تے ⟨את⟩ عدُلام۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بیت-تصور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-تصور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سوخو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوخو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عدُلام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدُلام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:39.179336146Z",
+  "model": "glm-5.3"
+}

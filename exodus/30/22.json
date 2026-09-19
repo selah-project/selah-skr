@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے یاہوہ موشے نال آکھیا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھے:"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:53.913502436Z",
+  "model": "glm-5.3"
+}

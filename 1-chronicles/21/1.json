@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے شطان اِسرائیل دے اُتے کھڑا تھیا، تے داوِد کوں اُکسایا جو او اِسرائیل کوں ڳݨے۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھیا"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "شطان"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "اُکسایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد کوں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ڳݨݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیل کوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:53.615078926Z",
+  "model": "glm-5.3"
+}

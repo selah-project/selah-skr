@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ⟨את⟩ نِگب، تے ⟨את⟩ میدان، یریحو دی وادی، کھجیاں دا شہر، صُعار تئیں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نِگب"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نِگب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میدان"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "کھجیاں دا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "צער",
+      "gloss": "صُعار"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:34.425031602Z",
+  "model": "glm-5.3"
+}

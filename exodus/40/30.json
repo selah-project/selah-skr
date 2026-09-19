@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے ⟨اوں⟩ ⟨את⟩ حوض ملاقات دے خیمے تے مذبح دے وچکار رکھیا، تے اُتھاہیں دھووݨ کیتے پاݨی پاتس۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "پاتس"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاہیں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "دھووݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:03:48.215503929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 106,
+  "translation": "تے او صحرا وِچ خواہش کیتونے، تے اُڄاڑ وِچ ایل کوں آزمایا۔",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "خواہش کیتونے"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "صحرا وِچ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "آزمایا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "اُڄاڑ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:37.743557561Z",
+  "model": "glm-5.3"
+}

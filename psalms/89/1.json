@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "تعلیمی زبور، اَیتان اِزراحی کیتے۔",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "تعلیمی زبور"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "اَیتان کیتے"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "اِزراحی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:23.472788935Z",
+  "model": "glm-5.3"
+}

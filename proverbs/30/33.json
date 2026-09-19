@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "کیوں جو دودھ دا رڳڑݨ مکھن کڈھیندے، تے نَک دا رڳڑݨ لہو کڈھیندے، تے اَپھیم دا رڳڑݨ جھیڑا کڈھیندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "رڳڑݨ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دودھ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھیندے"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "مکھن"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "تے رڳڑݨ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَک"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھیندے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "تے رڳڑݨ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اَپھیم"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھیندے"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھیڑا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:49.481965658Z",
+  "model": "glm-5.3"
+}

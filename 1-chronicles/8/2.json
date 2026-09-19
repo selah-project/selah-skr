@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "نوحہ چوہٹھا، تے رافا پنجواں۔",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "نوحہ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوہٹھا"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "تے رافا"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجواں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:44.405194714Z",
+  "model": "glm-5.3"
+}

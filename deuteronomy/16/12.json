@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے تُساں یاد رکھو جو تُساں مِتصرایم وِچ غلام ہاوے، تے ⟨את⟩ ایہہ حکماں کوں منو تے کرو۔",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ہاوے"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "منو"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ حکماں کوں"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:45.359861277Z",
+  "model": "glm-5.3"
+}

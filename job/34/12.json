@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "ہاں، سچ ایہو ہے جو ایل بدی نہ کریندا، تے شدّای انصاف نہ وٹیندا۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ہاں"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ ایہو ہے جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "بدی کریندا"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "تے شدّای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "وٹیندا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-19T20:03:17.180470092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوہ کچھوآں وِچوں یا کبوتراں دے وچھیراں وِچوں ہِک ⟨את⟩ قربانی کرسی، جیندے تے اوندا ہتھ پُڄ سڳے۔",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے اوہ کرسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "کچھوآں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "وچھیراں"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتراں دے"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "جیندے توں"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "پُڄ سڳے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:42.053090668Z",
+  "model": "glm-5.3"
+}

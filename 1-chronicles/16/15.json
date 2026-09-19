@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اوندے عہد کوں ہمیشہ یاد رکھو — اوں ڳالھ کوں جیہڑی اوں ہزار پیڑھیاں تئیں حکم کیتی۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "اوندا عہد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتی"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیڑھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:53.752976889Z",
+  "model": "glm-5.3"
+}

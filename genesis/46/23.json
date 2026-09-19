@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے دان دے پُتر: خُشیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "خُشیم"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:20.326973340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "گد قبیلے کیتے انہاں دی ڳݨتی پنج تے چالھی ہزار، چھ سوا تے پنجاہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "انہاں دی ڳݨتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کیتے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوا"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:55.368176759Z",
+  "model": "glm-5.3"
+}

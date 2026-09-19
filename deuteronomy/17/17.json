@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اوہ آپ کیتے ذالیں کوں ودھ نہ کرے، تے اوندا دل ہٹ نہ ونڄے، تے چانڈی تے سونا آپ کیتے ٻہوں ودھ نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھ کرے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ہٹ ونڄے"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "اوندا دل"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چانڈی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھ کرے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:59:24.411154532Z",
+  "model": "glm-5.3"
+}

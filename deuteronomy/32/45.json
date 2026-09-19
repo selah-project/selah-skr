@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے موشے ایہے ⟨את⟩ سبھے لفظ سارے اِسرائیل کوں آکھڻ مُکا چکے۔",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "مُکا چکے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "آکھڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:43.307909999Z",
+  "model": "glm-5.3"
+}

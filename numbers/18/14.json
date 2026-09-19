@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اسرائیل وِچ سبھ خیرم ⟨حرم کیتا ہویا⟩ تیݙا ہوسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خیرم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیل وِچ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "او ہوسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:37:33.595889152Z",
+  "model": "glm-5.3"
+}

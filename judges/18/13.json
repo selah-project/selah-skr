@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اتھوں او افرایم دی پہاڑی دوں لنگھ ڳئے، تے مِیخا دے گھر آئے۔",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "لنگھ ڳئے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتھوں"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:08:39.448242904Z",
+  "model": "glm-5.3"
+}

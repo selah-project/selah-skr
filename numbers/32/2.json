@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے گاد دے پُتر تے رعوون دے پُتر آئے، تے موشے، کاہن اِلعازار تے جماعت دے سرداراں کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رعوون"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کوں"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:29.604428169Z",
+  "model": "glm-5.3"
+}

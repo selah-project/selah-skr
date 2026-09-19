@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "خوش دل شفا ⟨ݙیندے⟩، تے مارا ہویا روح ہݙیاں کوں سکا ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چنڳائی ݙیندے"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "شفا"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "مارا ہویا"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سکا ݙیندے"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ہݙیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:16.305341644Z",
+  "model": "glm-5.3"
+}

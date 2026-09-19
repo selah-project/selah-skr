@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "تے اُوں مُلک اُتے قحط سݙ ماریس، تے روٹی دا سارا سہارا توڑ ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے سݙ ماریس"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "مُلک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سہارا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی دا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "توڑ ݙتس"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:46.262562868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ اوہ جیڑھا اپݨی سَس نال سمدا ⟨ہووے⟩، تے سارے لوک آکھسن: آمن۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سمدا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "اپݨی سَس"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمن"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:33.431338524Z",
+  "model": "glm-5.3"
+}

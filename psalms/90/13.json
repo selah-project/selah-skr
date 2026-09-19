@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 90,
+  "translation": "ولٹ آ یاہوہ، کݙاں تئیں؟ تے آپݨے ٹھیہاریاں اُتے ترس کھا۔",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "ولٹ آ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کݙاں"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "تے ترس کھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "آپݨے ٹھیہاریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:48.276630892Z",
+  "model": "glm-5.3"
+}

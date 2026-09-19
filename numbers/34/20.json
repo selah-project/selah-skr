@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے بنی شمعون دے قبیلے توں شموایل پُتر عمیہود دا۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "تے قبیلے توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون دے"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیہود دا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:43.115818508Z",
+  "model": "glm-5.3"
+}

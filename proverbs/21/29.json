@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 21:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "شریر بندہ اپݨے مُکھ کوں سخت کریندے، پر سیدھا او اپݨے راہ کوں تیار کریندے۔",
+  "tokens": [
+    {
+      "surface": "העז",
+      "gloss": "سخت کریندے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "اپݨے مُکھ کوں"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "پر سیدھا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "تیار کریندے"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اپݨے راہ کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:55.506089394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 50,
+  "translation": "ایہ او ڳالھ ہے جیڑھی یاہوہ بابل دے بارے وِچ، کسدیاں دی زمین دے بارے وِچ، نبی یرمیاہو دے ہتھوں آکھی۔",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے بارے وِچ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے بارے وِچ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدیاں دی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:24.406756246Z",
+  "model": "glm-5.3"
+}

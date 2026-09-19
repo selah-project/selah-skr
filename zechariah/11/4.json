@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ایں طرحاں یاہوہ میݙا ایلوہیم آکھیا: “⟨את⟩ ذبح تھیوݨ آلی مَنڈھی چَرا۔”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایں طرحاں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میݙا ایلوہیم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چَرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذبح تھیوݨ آلی مَنڈھی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مَنڈھی"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ذبح تھیوݨ آلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:05:26.973951428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کوئی معادل نہ منسی، تے راضی نہ تھیسی، بھاویں تُوں رشوت ٻہوں ودھاویں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "منسی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨خیال⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "معادل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "راضی تھیسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بھاویں"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ودھاویں"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:26.411054789Z",
+  "model": "glm-5.3"
+}

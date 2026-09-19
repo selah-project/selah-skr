@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "ہائے بان٘ہواں دی سرسراہٹ آلی دھرتی، جیہڑی کُوش دیاں نہراں توں پرے ہے۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "سرسراہٹ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "بان٘ہواں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پرے"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "نہراں توں"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    }
+  ],
+  "timestamp": "2026-09-19T17:40:15.784185573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے بنیامین دے پُتراں دے قبیلے دی فوج اُتے گدعونی دا پُتر ابیدان ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ابیدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "گدعونی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:21.395133222Z",
+  "model": "glm-5.3"
+}

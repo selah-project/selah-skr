@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اَدُنیکام دے پُتر، چھ سو چھیہہ تے چھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "اَدُنیکام"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "چھیہہ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "تے چھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:30.969041844Z",
+  "model": "glm-5.3"
+}

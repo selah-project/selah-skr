@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کیوں جو نیوہیں وی ڈھہہ ویندیاں ہن — صالح کیا کریسی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "نیوہیں"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ڈھہہ ویندیاں ہن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:55.484440019Z",
+  "model": "glm-5.3"
+}

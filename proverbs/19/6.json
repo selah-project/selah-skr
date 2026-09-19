@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "ٻہوں سارے سخی آدمی دے اڳوں ٻانہہ ٻدھیندن، تے ہر کوئی تحفہ ݙیوݨ آلے دا دوست ہوندے۔",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ٻہوں سارے"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ٻانہہ ٻدھیندن"
+    },
+    {
+      "surface": "فני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سخی آدمی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر کوئی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آلے دا"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "تحفہ ݙیوݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:53.990704893Z",
+  "model": "glm-5.3"
+}

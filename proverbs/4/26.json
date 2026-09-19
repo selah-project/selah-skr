@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "توں تیݙے پیراں دے رستے دا پلڑ مُکا، تے تیݙے سارے رستے پکے تھیسن۔",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "پلڑ مُکا"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "رستے دا"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیݙے پیراں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "تیݙے رستے"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "پکے تھیسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:25.228155019Z",
+  "model": "glm-5.3"
+}

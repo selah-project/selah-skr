@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "تے شہر گھیرے وِچ رہ ڳیا، صِدقیاہو بادشاہ دے یارھویں سال تئیں۔",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "گھیرے وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یارھویں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ویں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:23:44.264034334Z",
+  "model": "glm-5.3"
+}

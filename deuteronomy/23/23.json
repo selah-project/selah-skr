@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے جے تُو نذر کرݨ توں رہ ویندیں، تیکوں وِچ پاپ نہ ہوسی۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "رہ ویندیں"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "نذر کرݨ توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیکوں وِچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:34.292858225Z",
+  "model": "glm-5.3"
+}

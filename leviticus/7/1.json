@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ایہا آشام ⟨قربانی⟩ دی تورات ہے — او پاکاں دا پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "تے ایہا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "آشام قربانی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:50.162868504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 65,
+  "translation": "موہر کیتے، داوِد دی ہِک مزمور، ہِک گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موہر کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:34.898992361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "کہیں بندے نال بے سبب جھیڑا نہ لا، جے اُوں تیکوں برائی نہ کیتی ہووے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "جھیڑا نہ لا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سبب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "تیکوں کیتی ہووے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:56.884160056Z",
+  "model": "glm-5.3"
+}

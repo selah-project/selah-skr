@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 72,
+  "translation": "سندے اڳوں ٻیابانی جھکسن، تے اوندے دشمن مٹی چٹسن۔",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "سندے اڳوں"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "جھکسن"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ٻیابانی"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "تے اوندے دشمن"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "چٹسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:05.756127471Z",
+  "model": "glm-5.3"
+}

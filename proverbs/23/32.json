@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اوندا اخیر نانگ وانگوں ݙنگسی، تے افعی وانگوں زہر کھڑکیسی۔",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "اوندا اخیر"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "نانگ وانگوں"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ݙنگسی"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "تے افعی وانگوں"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "زہر کھڑکیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:11.412158937Z",
+  "model": "glm-5.3"
+}

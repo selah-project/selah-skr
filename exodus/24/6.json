@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "موشے ⟨⟨ نہ ⟩⟩ رت دا ادھ گھن کے پیالیاں وِچ رکھیا، تے رت دے ادھ کوں قربانگاہ اُتے چھِڑکا۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گھن کے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت دا"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "پیالیاں وِچ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے … ادھ کوں"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت دے"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "چھِڑکا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:03.153891138Z",
+  "model": "glm-5.3"
+}

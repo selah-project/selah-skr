@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوں ولا ست ٻئے ݙینہہ انتظار کیتا، تے کبوتر ⟨את⟩ کوں کشتی توں ولا بھیڄیُس۔",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "تے انتظار کیتُس"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "تے وادھا کیتُس"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیڄݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوتر کوں"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:09.395700617Z",
+  "model": "glm-5.3"
+}

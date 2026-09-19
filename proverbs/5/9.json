@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "کہ نہ تُساں اوپریاں کوں آپݨی شان ݙیوو، تے آپݨے ݙینہہ بے رحماں کوں۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "اوپریاں کوں"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "آپݨی شان"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "تے آپݨے ݙینہہ"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "بے رحماں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:11.640403887Z",
+  "model": "glm-5.3"
+}

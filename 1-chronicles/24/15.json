@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "سترھواں خِزیر کوں، اٹھارھواں ہَپّیتصِص کوں۔",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "خِزیر کوں"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ہَپّیتصِص کوں"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:02.811340859Z",
+  "model": "glm-5.3"
+}

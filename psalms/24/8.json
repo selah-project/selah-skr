@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "او کون ہے، ایہ جلال دا بادشاہ؟ یاہوہ — زبردست تے بہادر، یاہوہ جنگ وِچ بہادر۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "تے بہادر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:33.611796622Z",
+  "model": "glm-5.3"
+}

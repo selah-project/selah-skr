@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے نبی خننیاہ اوں سال وِچ، ستویں مہینے وِچ مر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "تے مر ڳیا"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "خننیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:11:10.077155760Z",
+  "model": "glm-5.3"
+}

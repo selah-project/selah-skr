@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ݙیکھ، میں تُہاݙے اڳوں اَڄ ⟨את⟩ جِیوَݨ تے ⟨את⟩ بھلائی، تے ⟨את⟩ موت تے ⟨את⟩ برائی رکھی ہے۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں رکھی ہے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تُہاݙے اڳوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جِیوَݨ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جِیوَݨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بھلائی"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "موت"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "برائی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:55.762697620Z",
+  "model": "glm-5.3"
+}

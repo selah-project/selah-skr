@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 91,
+  "translation": "بس اپݨیاں اکھیں نال ݙیکھسیں، تے بُرے لوکاں دی سزا ݙٹھیسی۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "اپݨیاں اکھیں نال"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ݙیکھسیں"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "تے سزا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُرے لوکاں دی"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ݙٹھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:56.565013726Z",
+  "model": "glm-5.3"
+}

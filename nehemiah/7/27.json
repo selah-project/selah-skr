@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "عناتوت دے مرد ہِک سو ویہہ تے اَٹھ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:28.095796084Z",
+  "model": "glm-5.3"
+}

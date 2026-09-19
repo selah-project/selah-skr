@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اُٹھو، تے رات وِچ چڑھوں، تے اوندے قلعے برباد کروں۔",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "چڑھوں"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "برباد کروں"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "اوندے قلعے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:59:56.500163735Z",
+  "model": "glm-5.3"
+}

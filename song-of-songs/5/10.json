@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "میݙا سڄݨ چمکدا تے رَتا ہے، دس ہزاراں وِچ جھنڈے آ کار اُچیرا۔",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میݙا سڄݨ"
+    },
+    {
+      "surface": "צח",
+      "gloss": "چمکدا"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "تے رَتا"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "جھنڈے آ کار اُچیرا"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "دس ہزاراں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:43.916464608Z",
+  "model": "glm-5.3"
+}

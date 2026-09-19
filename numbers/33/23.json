@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او قہیلاتہ توں ٹُرے، تے ہار شاپھر وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "قہیلاتہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ہار وِچ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شاپھر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:52.535400895Z",
+  "model": "glm-5.3"
+}

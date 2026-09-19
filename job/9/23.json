@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "جے کوڑی اچاچیت مار ݙیوے، تاں بےݙوہاں دی آزمائش اتے اوہ ہسسی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "مار ݙیوے"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچاچیت"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "آزمائش اتے"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "بےݙوہاں دی"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ہسسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:25.493962712Z",
+  "model": "glm-5.3"
+}

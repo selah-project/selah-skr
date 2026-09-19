@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اوہناں دے بھرا: شِبنِیہ، ہودیّا، قلِیتا، فِلایا، خنان۔",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "تے اوہناں دے بھرا"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "شِبنِیہ"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "ہودیّا"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "قلِیتا"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "فِلایا"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خنان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:56.126987665Z",
+  "model": "glm-5.3"
+}

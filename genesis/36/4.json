@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے عادا عِیسو کِیتے ⟨את⟩ اَلیفز کوں ڄَݨیا، تے بَسمت ⟨את⟩ رَعوایل کوں ڄَݨیا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "تے ڄَݨیا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادا"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عِیسو کِیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَلیفز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اَلیفز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "تے بَسمت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄَݨیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعوایل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعوایل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:33:43.518760978Z",
+  "model": "glm-5.3"
+}

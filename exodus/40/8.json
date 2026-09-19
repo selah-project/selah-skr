@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے تُساں چوڳھے دی وار ⟨את⟩ چاڑسیں، تے چوڳھے دے گیٹ دا پردہ ⟨את⟩ لسیں۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "تے تُساں لسیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوڳھے دی وار"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوڳھے دی وار"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاردھوں"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "تے تُساں لسیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "گیٹ دا"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوڳھے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:38.384018402Z",
+  "model": "glm-5.3"
+}

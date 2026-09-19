@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 76,
+  "translation": "چمکدا ⟨ہِیں⟩ توں، مہان ⟨ہِیں⟩ توں شکار آلے پہاڑاں کنوں۔",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "چمکدا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "مہان"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:22:56.111854215Z",
+  "model": "glm-5.3"
+}

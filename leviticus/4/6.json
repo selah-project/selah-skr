@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے کاہن ⟨את⟩ آپݨی انگلی لہو وِچ بُڑیس، تے لہو وِچوں ست واری یاہوہ دے اڳوں، ⟨את⟩ پاک پردے دے اڳوں چھڑکیسی۔",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "بُڑیس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی انگلی"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "آپݨی انگلی"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "چھڑکیسی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاک پردے دے اڳوں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:10:02.703077739Z",
+  "model": "glm-5.3"
+}

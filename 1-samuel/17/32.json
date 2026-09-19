@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے داوِد شاؤل کوں آکھیا: “کہیں بندے دا دِل اُوں اُتے نہ ڈھہے؛ تیݙا نوکر ویسی تے اِیں فلستی نال لڑسی۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوں اُتے"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙا نوکر"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ویسی"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "لڑسی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:42:47.079488701Z",
+  "model": "glm-5.3"
+}

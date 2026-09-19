@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اوندے مُکھ توں نہ جلدی کر کے ونڄو، بری ڳالھ وِچ نہ کھڑو، کیوں جو جو کجھ اوہ چاہسی، اوہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوندے مُکھ توں"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ونڄو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "کھڑو"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ڳالھ وِچ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہسی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:33.830020742Z",
+  "model": "glm-5.3"
+}

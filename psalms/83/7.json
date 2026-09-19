@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 83,
+  "translation": "اِدوم دے ٹبّر، تے یِشماعیلی، موآب تے ہاگری۔",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "دے ٹبّر"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "تے یِشماعیلی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "تے ہاگری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:49.523839409Z",
+  "model": "glm-5.3"
+}

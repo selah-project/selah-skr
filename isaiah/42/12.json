@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "او یاہوہ کوں جلال ݙیون، تے جزیریاں وِچ اُوندی تعریف ݙسن۔",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "ݙیون"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "تے اُوندی تعریف"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "جزیریاں وِچ"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ݙسن"
+    }
+  ],
+  "timestamp": "2026-09-19T17:47:34.348114981Z",
+  "model": "glm-5.3"
+}

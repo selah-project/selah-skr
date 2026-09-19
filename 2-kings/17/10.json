@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے انہاں اپݨے کیتے ستون تے اشریم کھڑے کیتے، ہر اُچی پہاڑی اُتے تے ہر سرسبز رُکھ ہیٹھ۔",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "کھڑے کیتے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اپݨے کیتے"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "تے اشریم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "پہاڑی"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "اُچی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے ہیٹھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سرسبز"
+    }
+  ],
+  "timestamp": "2026-09-19T17:28:02.359254569Z",
+  "model": "glm-5.3"
+}

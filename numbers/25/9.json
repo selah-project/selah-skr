@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے مرݨ آلے اوں وبا وِچ چار تے ویہہ ہزار تھئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرݨ آلے"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "اوں وبا وِچ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:35.159070560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 94,
+  "translation": "اُچا تھی، زمین دا فیصلہ کرݨ آلا، فخر کرݨ آلیاں کوں اُنہاں دا بدلہ واپس ݙے۔",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "اُچا تھی"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فیصلہ کرݨ آلا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "השב",
+      "gloss": "واپس ݙے"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "فخر کرݨ آلیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:57.717618148Z",
+  "model": "glm-5.3"
+}

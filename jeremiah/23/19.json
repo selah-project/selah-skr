@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 23:19",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ݙیکھو، یاہوہ دی ہِک آندھی — غضب نکھتا ہے، تے گھمدی ہوئی آندھی؛ برے لوکاں دے سر اُتے او گھمسی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "آندھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکھتا ہے"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "تے آندھی"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "گھمدی ہوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "برے لوکاں دے"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "گھمسی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:09:20.379860431Z",
+  "model": "glm-5.3"
+}

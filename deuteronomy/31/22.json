@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے موشے اُوں ݙینہہ ⟨את⟩ اے ڳاوݨ لکھیا تے ⟨את⟩ یِسرائیل دے پُتراں کوں سکھایس۔",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "لکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے ڳاوݨ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "اے ڳاوݨ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "سکھایس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:06:30.508266696Z",
+  "model": "glm-5.3"
+}

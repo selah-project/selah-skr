@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "مشورے دے بغیر منصوبے مُک ویندن، تے ٻہوں مشیراں نال او قائم تھی ویندن۔",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "مُک ویندن"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "منصوبے"
+    },
+    {
+      "surface": "באין",
+      "gloss": "دے بغیر"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مشورے"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "تے ٻہوں"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "مشیراں"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم تھی ویندن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:57.755327189Z",
+  "model": "glm-5.3"
+}

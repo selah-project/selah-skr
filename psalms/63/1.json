@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 63,
+  "translation": "داوِد دا مزمور، ڄݙاں او یہوداہ دے بیابان وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ڄݙاں او ہا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:29.685238755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے لامک آپ کیتے ݙو ذالیں گھن گھدیاں؛ ہِک دا ناں عدہ ہئی، تے ݙوجھی دا ناں ضلہ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گھن گھدیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ کیتے"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامک"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ذالیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک دا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عدہ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ݙوجھی دا"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ضلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:13.121638256Z",
+  "model": "glm-5.3"
+}

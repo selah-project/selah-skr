@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "خانداناں دے سارے مُنیاں دی ڳݨتی — تاکڑے جنگاں آلیاں دی — ݙو ہزار تے چھی سَو ہئی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مُنیاں"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "خانداناں دے"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "تاکڑے جنگاں آلیاں دی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ݙو ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:45.056383196Z",
+  "model": "glm-5.3"
+}

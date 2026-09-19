@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "قتل نہ کریں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "قتل کریں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:51:54.154049766Z",
+  "model": "glm-5.3"
+}

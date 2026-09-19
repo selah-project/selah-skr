@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "گیرشونیاں وِچوں: لعدن تے شمعی۔",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "گیرشونیاں وِچوں"
+    },
+    {
+      "surface": "لעדן",
+      "gloss": "لعدن"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "تے شمعی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:46.236237459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے نِعریاہ دے پُتر ⟨ہن⟩: اِلیُوعینای، خِزقیاہ تے عَزرِیقام — ترے۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "نِعریاہ"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "اِلیُوعینای"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "تے خِزقیاہ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "تے عَزرِیقام"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:10.632244167Z",
+  "model": "glm-5.3"
+}

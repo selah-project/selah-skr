@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "اَرود دا ٹبر اَرودی؛ اَرایلی دا ٹبر اَرایلی۔",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "اَرود دا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "اَرودی"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "اَرایلی دا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "اَرایلی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:51.566883950Z",
+  "model": "glm-5.3"
+}

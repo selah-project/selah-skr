@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 40,
+  "translation": "تے یوسف جواب ݙتا تے آکھیا: “ایہ اُوندا حل ہے — ترے ٹوکریاں ترے ݙینہہ ہن۔”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "حل"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "ٹوکریاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہن"
+    }
+  ],
+  "timestamp": "2026-09-19T14:36:17.406448048Z",
+  "model": "glm-5.3"
+}

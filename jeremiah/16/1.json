@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے یاہوہ دی ڳالھ میݙے کولھ تھی، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:07.214090193Z",
+  "model": "glm-5.3"
+}

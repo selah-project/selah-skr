@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "بھیݙاں تے ڳائیں، سبھ کجھ، تے وی کھیتاں دے ڈھور۔",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "بھیݙاں"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "تے ڳائیں"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ڈھور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کھیتاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:39.813782094Z",
+  "model": "glm-5.3"
+}

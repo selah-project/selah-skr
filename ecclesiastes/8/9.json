@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "⟨את⟩ ایہ سب میں ݙٹھا، تے میں ⟨את⟩ اپݨا دل ہر اُوں کم وِچ لایا جیہڑا سِجھ تھلے کیتا ڳیا — اُو ویلھا جو بندہ بندے اُتے اوندی برائی کیتے راج کریندے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ سب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھا"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "تے لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨا دل"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اپݨا دل"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیتا ڳیا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "راج کریندے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے اُتے"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "برائی کیتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:20.246784843Z",
+  "model": "glm-5.3"
+}

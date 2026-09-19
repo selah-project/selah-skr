@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے ٻانہے کیتے ⟨او⟩ ڳالھ یاد رکھ، جیندے اُتے توں میکوں اُمید ݙتی۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "تیݙے ٻانہے کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "میکوں اُمید ݙتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:29.817354504Z",
+  "model": "glm-5.3"
+}

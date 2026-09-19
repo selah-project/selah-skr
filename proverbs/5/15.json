@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "آپݨے تلے توں پاݨی پی، تے آپݨی کوہی وچوں وہندے دھارے۔",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "پی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "آپݨے تلے توں"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "تے وہندے دھارے"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "وچوں"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "آپݨی کوہی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:47.965394907Z",
+  "model": "glm-5.3"
+}

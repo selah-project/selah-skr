@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "رامہ تے گَبَع دے بندے، چھ سو اکیہہ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامہ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "تے گَبَع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשرים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "تے ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:32.634694755Z",
+  "model": "glm-5.3"
+}

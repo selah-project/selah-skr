@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے اوں تھاں دا ناں اوں تبعیرہ ⟨بھڑکݨ⟩ رکھیس، کیوں جو یاہوہ دی بھاہ انہاں وِچ بھڑکی ہئی۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے رکھیس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "تھاں دا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "تبعیرہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "بھڑکی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انہاں وِچ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:03.131094656Z",
+  "model": "glm-5.3"
+}

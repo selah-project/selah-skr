@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ایلیعینای، تے تصِلتھی، تے ایلیایل۔",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "تے ایلیعینای"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "تے تصِلتھی"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "تے ایلیایل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:43.067777411Z",
+  "model": "glm-5.3"
+}

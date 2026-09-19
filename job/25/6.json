@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "کِتناں ودھ بندہ، جو ہِک کیڑا ہے، تے آدم دا پُتر، جو ہِک پوت ہے!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "کِتناں ودھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ ⟨فانی⟩"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "کیڑا"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "پوت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:35.936171552Z",
+  "model": "glm-5.3"
+}

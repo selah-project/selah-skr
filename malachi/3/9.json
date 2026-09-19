@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "نفرت نال تُساں ملعون ہیوے، تے میکوں تُساں ⟨ואתי⟩ ٹھڳیندے پئے ہو — اے ساری قوم۔",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "نفرت نال"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "ملعون ہیوے"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨ואתי⟩",
+      "marks": "تُساں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ٹھڳیندے پئے ہو"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ساری"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:03.177168359Z",
+  "model": "glm-5.3"
+}

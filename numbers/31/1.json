@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یاہوہ موشے کوں ٻولیا، آکھدا ہویا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:16.859016821Z",
+  "model": "glm-5.3"
+}

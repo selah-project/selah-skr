@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو جے تُساں سیانت کوں سݙو، تے سمجھ کیتے اپݨی آواز بلند کرو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "سیانت کوں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "سݙو"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ کیتے"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "اپݨی آواز"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:02.933102384Z",
+  "model": "glm-5.3"
+}

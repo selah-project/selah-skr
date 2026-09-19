@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 129,
+  "translation": "یاہوہ راستکار ہے، اوں بے slightly—بدکاراں دیاں رسیاں کپ ݙتن۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستکار"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "کپ ݙتن"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسیاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:05.012932887Z",
+  "model": "glm-5.3"
+}

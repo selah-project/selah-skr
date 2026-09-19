@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 48:8",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے لُٹݨ ہار ہر شہر اُتے آویسی، تے کوئی شہر نہ بچسی؛ تے وادی برباد تھیسی تے میدان تباہ، جیویں یاہوہ آکھیا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے آویسی"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "لُٹݨ ہار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "تے کوئی شہر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "بچسی"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "تے برباد تھیسی"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "تے تباہ تھیسی"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:20:39.195260716Z",
+  "model": "glm-5.3"
+}

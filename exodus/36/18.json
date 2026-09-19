@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "اُوں پیتل دے پنجاہ قلابے بݨائے، ⟨את⟩ مسکن کوں جوڑݨ کیتے، تاں جو او ہِک بݨے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "قلابے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "پیتل دے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "جوڑݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "להית",
+      "gloss": "تاں جو بݨے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:02.515191344Z",
+  "model": "glm-5.3"
+}

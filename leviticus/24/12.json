@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے اوہکوں قید وِچ رکھیا، تاں جو یاہوہ دے فرمݨ موجب انہاں کیتے ⟨واضح⟩ تھیوے۔",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "⟨واضح⟩ تھیوݨ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فرمݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:03.567392254Z",
+  "model": "glm-5.3"
+}

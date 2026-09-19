@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے شَلح ٹِلہی سال جِیا، تے اونہہ ⟨את⟩ عِیبَر کوں ڄݨیا۔",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "تے شَلح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٹِلہی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄݨیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیبَر کوں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبَر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:19:09.465553124Z",
+  "model": "glm-5.3"
+}

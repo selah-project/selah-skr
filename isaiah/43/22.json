@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 43,
+  "translation": "تے تُساں میکوں ⟨את⟩ سݙیا نہ، یعقوو؛ کیوں جو تُساں میں توں تھک ڳیو، یِسرائیل۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "میکوں"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "تھک ڳیو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:14:27.049019673Z",
+  "model": "glm-5.3"
+}

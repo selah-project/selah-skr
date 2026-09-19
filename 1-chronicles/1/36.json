@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اِلیفاز دے پُتر: تیمان، اومر، تصفی، غعتام، قناز، تمنع تے عمالیک۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "تے اومر"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "تصفی"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "تے غعتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "تے تمنع"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "تے عمالیک"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:28.785230098Z",
+  "model": "glm-5.3"
+}

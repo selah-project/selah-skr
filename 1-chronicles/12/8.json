@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یوعیلہ تے زبدیاہ، یروخام دے پُتر، گدور توں۔",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "تے یوعیلہ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "تے زبدیاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروخام"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "گدور"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:17.012772430Z",
+  "model": "glm-5.3"
+}

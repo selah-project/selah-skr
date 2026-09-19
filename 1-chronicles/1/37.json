@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "رِعوایل دے پُتر: ناحت، زارح، شمّہ تے مِزّہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رِعوایل"
+    },
+    {
+      "surface": "نחת",
+      "gloss": "ناحت"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّہ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "تے مِزّہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:55.437440977Z",
+  "model": "glm-5.3"
+}

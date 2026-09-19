@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے میں تُساں اُتے ہمیشہ دی بے عزتی تے ہمیشہ دی شرم رکھیساں، جیہڑی کݙاہیں نہ بھُلسے۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے میں رکھیساں"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُساں اُتے"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بے عزتی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دی"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "تے شرم"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھُلسے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:09:13.064376339Z",
+  "model": "glm-5.3"
+}

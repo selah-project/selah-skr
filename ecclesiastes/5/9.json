@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پیسے دا پیار کرݨ آلا پیسے نال رجدا کائنی، تے جیہڑا مال دی محبت کریندے، اوندا آمدنی کائنی — ایہ وی ہوا ہے۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرݨ آلا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "پیسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "رجدا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "پیسے نال"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے جیہڑا"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محبت کریندے"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "مال دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "آمدنی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:24.365310191Z",
+  "model": "glm-5.3"
+}

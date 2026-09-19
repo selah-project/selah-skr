@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے اَرفکشد ⟨את⟩ شِلاخ کوں ڄمایا، تے شِلاخ ⟨את⟩ عِیویر کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "تے اَرفکشد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِلاخ کوں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شِلاخ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "تے شِلاخ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیویر کوں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیویر"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:49.266869178Z",
+  "model": "glm-5.3"
+}

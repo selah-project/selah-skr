@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 110,
+  "translation": "تیݙی طاقت دا عصا یاہوہ صیہون توں بھیسی: “تیݙے دشمناں دے وچکار راج کر۔”",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "تیݙی طاقت"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "بھیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "صیہون توں"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "راج کر"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیݙے دشمناں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:22.637256572Z",
+  "model": "glm-5.3"
+}

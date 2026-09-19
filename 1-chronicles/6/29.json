@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے مِراری دے پُتراں دے بھرا کھٻے پاسے ⟨ہن⟩: ایتان، کیشی دا پُتر، عبدی دا پُتر، ملوک دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتراں دے"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "کھٻے پاسے"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "کیشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ملوک"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:17.751929374Z",
+  "model": "glm-5.3"
+}

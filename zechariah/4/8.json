@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یہووہ دا قول میݙے کول آیا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا \/ آیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہووہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:45.519761103Z",
+  "model": "glm-5.3"
+}

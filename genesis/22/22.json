@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے ⟨את⟩ کِسِد، تے ⟨את⟩ حَزو، تے ⟨את⟩ پِلدَش، تے ⟨את⟩ یِدلاف، تے ⟨את⟩ بِتُوایل۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "کِسِد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "کِسِد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حَزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حَزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "پِلدَش"
+    },
+    {
+      "surface": "پלדש",
+      "gloss": "پِلدَش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یِدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "یِدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بِتُوایل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بِتُوایل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:38.020881447Z",
+  "model": "glm-5.3"
+}

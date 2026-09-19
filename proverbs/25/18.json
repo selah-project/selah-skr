@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ہتھوڑا تے تلوار تے تِکھا تیر — او بندہ جیہڑا یار دے خلاف کوڑی گواہی ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "ہتھوڑا"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "تے تلوار"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "تے تیر"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "تِکھا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب ݙیندے"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "یار دے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:08.880812619Z",
+  "model": "glm-5.3"
+}

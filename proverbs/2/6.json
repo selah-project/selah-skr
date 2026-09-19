@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو یاہوہ حکمت ݙیندا ہے، اُوندے مُوں توں ڄاݨ تے سمجھ ⟨اَمدی⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیندا ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اُوندے مُوں توں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاݨ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "تے سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:04.164128775Z",
+  "model": "glm-5.3"
+}

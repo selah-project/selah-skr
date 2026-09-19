@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ⟨اوں⟩ ذبح کیتُس، تے موشے ⟨את⟩ لہو کوں قربانی گاہ اُتے چاروں پاسے چھڑکس۔",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح کیتُس"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "چھڑکس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لہو کوں"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:08.753585964Z",
+  "model": "glm-5.3"
+}

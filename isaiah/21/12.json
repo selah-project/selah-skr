@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "چوکیدار آکھیا: ”صبح آندی ہے، تے رات وی؛ جے پُچھݨ چاہو تاں پُچھو — وَل آؤ، وَل آؤ۔“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "چوکیدار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آندی ہے"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "پُچھݨ چاہو"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "پُچھو"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "وَل آؤ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "وَل آؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:38:49.621466522Z",
+  "model": "glm-5.3"
+}

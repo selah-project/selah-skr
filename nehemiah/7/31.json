@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "مِکماس دے بندے، ہِک سو تے ویہہ، ݙو۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "دے بندے"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مِکماس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:32.635018985Z",
+  "model": "glm-5.3"
+}

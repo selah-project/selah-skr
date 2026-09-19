@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ݙیکھ، تُوں سوہݨاں ہیں میݙے محبوب، تے مِٹھا وی! تے ساݙا بسترہ سرسبز ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨاں"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میݙے محبوب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تے"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "مِٹھا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "ساݙا بسترہ"
+    },
+    {
+      "surface": "רעنנה",
+      "gloss": "سرسبز"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:53.439017749Z",
+  "model": "glm-5.3"
+}

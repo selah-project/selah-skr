@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "شیر بہAWAں وِچ طاقتور ہے، تے کہیں دے مُہاں توں ولا نہ تھیندا،",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "بہAWAں وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ولیندا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مُہاں توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:36.470950606Z",
+  "model": "glm-5.3"
+}

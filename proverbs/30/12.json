@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "ہِک نسل اے جیہڑی آپݨیاں اکھیں وِچ چِکڑی ہے، پر آپݨی میل توں دھوئی نیں ڳئی۔",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "چِکڑی"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آپݨیاں اکھیں وِچ"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "پر آپݨی میل توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "دھوئی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:07.918371208Z",
+  "model": "glm-5.3"
+}

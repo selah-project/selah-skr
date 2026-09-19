@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اوہ تُساں ⟨את⟩ کوں پکا پکڑیسی، جے تُساں لُک تے منہ چا تے ٹریسو۔",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "پکڑیسی"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لُک تے"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "چا تے ٹریسو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:52.841376098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے گاد دے پُتر — تصیفون، تے خی، شونی تے اتصبون، عری تے ارودی تے ارالی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "تصیفون"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "تے خی"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "شونی"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "تے اتصبون"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "عری"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "تے ارودی"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "تے ارالی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:55.202604495Z",
+  "model": "glm-5.3"
+}

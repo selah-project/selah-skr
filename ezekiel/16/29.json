@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 16:29",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "توں آپݨی بدکاری کنعان دی زمین توں کلدیاں تئیں ودھائی، تے ایندے نال وی تسے نہ تھئی۔",
+  "tokens": [
+    {
+      "surface": "ותרבי",
+      "gloss": "ودھائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙی بدکاری"
+    },
+    {
+      "surface": "תזנותך",
+      "gloss": "تیݙی بدکاری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دی زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "کلدیاں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ایندے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "تسے تھئی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:30:31.960907996Z",
+  "model": "glm-5.3"
+}

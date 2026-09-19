@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ایہ او نسل ہے جیہڑی طالب ہے، تیݙے چہرے دی تلاش وِچ — یعقوو۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "طالب ہے"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "تلاش وِچ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے چہرے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:33.611565708Z",
+  "model": "glm-5.3"
+}

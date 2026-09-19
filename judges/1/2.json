@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے یاہوہ آکھیا: “یہودہ چڑھسی؛ ݙیکھ، میں ⟨את⟩ زمین اون٘دے ہتھ وِچ ݙتی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھسی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں ݙتی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اون٘دے ہتھ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:20:06.760956928Z",
+  "model": "glm-5.3"
+}

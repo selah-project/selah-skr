@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "سیاݨا بہادراں دی شہر اُتے چڑھ ڳیا، تے اوندے بھروسے دی طاقت گھِن ڈتیس۔",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بہادراں دی"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "تے گھِن ڈتیس"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "اوندے بھروسے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:33.187932304Z",
+  "model": "glm-5.3"
+}

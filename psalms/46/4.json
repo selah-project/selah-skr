@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "اوندے پاݨی گرجِن، اُملن، اوندی موج نال پہاڑ ہل ویندن۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "گرجن"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "اُملن"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "اوندے پاݨی"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ہل ویندن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "اوندی موج نال"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:14.091577313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ دِلّے دا ٻلہہ بݨسی، تنگ ویلھیاں وِچ ٻلہہ بݨسی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے بݨسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ٻلہہ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "دِلّے دا"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ٻلہہ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ویلھیاں وِچ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "تنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:31.437656429Z",
+  "model": "glm-5.3"
+}

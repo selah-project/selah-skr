@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "کیوں جو میں ⟨⟩میݙی بغاوت کوں ڄاݨداں، تے میݙا گناہ ہمیشہ میݙے اڳوں ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "میݙی بغاوت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ڄاݨداں"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "تے میݙا گناہ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "میݙے اڳوں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:17.087607301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو کون کھاوسی، تے کون چاہسی — میں توں وکھرا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "چاہسی"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "وکھرا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:43.075639850Z",
+  "model": "glm-5.3"
+}

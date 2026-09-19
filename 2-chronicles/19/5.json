@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے اوں ملک وِچ، یہوداہ دیاں ساریاں مضبوط شہراں وِچ، شہر شہر انصاف کرݨ آلے کھڑے کیتُونے۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑے کیتُونے"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "انصاف کرݨ آلے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک وِچ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:54:57.261900491Z",
+  "model": "glm-5.3"
+}

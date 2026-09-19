@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "بادشاہ دے ہونٹھیاں اُتے فال ⟨ہے⟩؛ انصاف وِچ اوندا منہ خیانت نہ کرسی۔",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "فال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھیاں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "خیانت کرسی"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "اوندا منہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:17.530886219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "سارا کجھ لکھت وِچ یاہوہ دے ہتھ توں میݙے اُتے ⟨آیا⟩ — اوں میکوں نقشے دی ساری خدمت دا فہم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سارا کجھ"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "لکھت وِچ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "فہم ݙتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "نقشے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:31.585172709Z",
+  "model": "glm-5.3"
+}

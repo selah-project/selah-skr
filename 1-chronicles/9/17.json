@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے دروان ہن: شلوم، عقب، طلمون تے احیمان، تے اُنہاں دے بھرا؛ شلوم ⟨ہا⟩ سردار۔",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "تے دروان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "عقب"
+    },
+    {
+      "surface": "וטלמן",
+      "gloss": "طلمون"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "احیمان"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "اُنہاں دے بھرا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:22.537969914Z",
+  "model": "glm-5.3"
+}

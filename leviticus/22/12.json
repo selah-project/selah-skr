@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے کاہن دی دھی جے کہیں اوپرے بندے نال پرنیج ونڄے، او مقدس شیواں دے چڑھاوے وِچوں نہ کھاوے۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "تے دھی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تھیوے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کہیں بندے نال"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "چڑھاوے وِچوں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدس شیواں دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاوے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:56.383854560Z",
+  "model": "glm-5.3"
+}

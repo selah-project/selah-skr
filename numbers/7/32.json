@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دا چمچہ، دہ شیکل، بھریا ہویا کتورت ⟨خوشبو⟩ نال۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچہ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریا ہویا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "کتورت"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:28.752610155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "⟨את⟩ میز کوں، ⟨את⟩ اوندے سارے برتن، تے ⟨את⟩ روٹی حضور دی کوں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز کوں"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "روٹی حضور دی کوں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حضور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:07:08.560199514Z",
+  "model": "glm-5.3"
+}

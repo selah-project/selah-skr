@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "زمین دے حاکم کیتے کَر سِلع توں، مارو دی طرفوں، بھیجو — دھی صیون دے پہاڑ تائیں۔",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "بھیجو"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کَر"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "سِلع"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "مارو دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    }
+  ],
+  "timestamp": "2026-09-19T17:40:02.498803452Z",
+  "model": "glm-5.3"
+}

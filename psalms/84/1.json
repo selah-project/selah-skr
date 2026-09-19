@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 84,
+  "translation": "موسیقی دے اڳواݨ کیتے، گِتّی ⟨دا ساز⟩ اُتے؛ قورح دے پُتراں دا مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موسیقی دے اڳواݨ کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گِتّی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:54.088056500Z",
+  "model": "glm-5.3"
+}

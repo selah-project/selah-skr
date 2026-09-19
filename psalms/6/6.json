@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو موت وِچ تیݙی یاد کائنی؛ شیول وِچ تیکوں کَیں شکریہ ݙیسی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "במות",
+      "gloss": "موت وِچ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "تیݙی یاد"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "شیول وِچ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کَیں"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "شکریہ ݙیسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:13.404200102Z",
+  "model": "glm-5.3"
+}

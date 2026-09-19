@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے بادشاہ شلومو دھرتی دے سارے بادشاہاں توں دولت تے سیاناں وِچ وݙا تھی ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وݙا تھی ڳیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے … توں"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "دولت وِچ"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "تے سیاناں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:49:58.960122014Z",
+  "model": "glm-5.3"
+}

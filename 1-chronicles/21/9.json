@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یاہوہ گاد نال ڳالھ کیتی، داوِد دے ݙہاکے ⟨نال⟩، آکھے جو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙہاکا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھے جو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:17.406276194Z",
+  "model": "glm-5.3"
+}

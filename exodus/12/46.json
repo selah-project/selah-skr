@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "ہِک گھر وِچ او کھایا ویسی؛ گھر توں گوشت دا کجھ ٻاہر نہ کڈھسو، تے ہِک ہݙی وی اِیندے وِچ نہ توڑسو۔",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "ہِک گھر وِچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا ویسی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "کڈھسو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے ہِک ہݙی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "توڑسو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اِیندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:52.103234156Z",
+  "model": "glm-5.3"
+}

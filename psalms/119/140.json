@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "ٻہوں خالص ہے تیݙا آکھیا، تے تیݙے غلام اِیندے نال پیار کیتے۔",
+  "tokens": [
+    {
+      "surface": "צרوufה",
+      "gloss": "ٻہوں خالص"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیݙا آکھیا"
+    },
+    {
+      "surface": "مאד",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "تے تیݙے غلام"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "پیار کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:11.890293939Z",
+  "model": "glm-5.3"
+}

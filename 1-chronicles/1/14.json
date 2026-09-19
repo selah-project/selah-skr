@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے ⟨את⟩ یبوسی کوں، تے ⟨את⟩ اموری کوں، تے ⟨את⟩ گرگشی کوں ⟨ڄݨیا⟩۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یبوسی"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یبوسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اموری"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "گرگشی"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گرگشی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:36.195502406Z",
+  "model": "glm-5.3"
+}

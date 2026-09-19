@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے داوِد اہرون دے پُتریں کوں تے ⟨את⟩ لوی قوم کوں کٹھا کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "کٹھا کیتا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لوی قوم"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوی قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:41:58.002177976Z",
+  "model": "glm-5.3"
+}

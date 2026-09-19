@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "خَریف دے پُتراں دے ⟨پُتر⟩، سو باراں۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے ⟨پُتر⟩"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "خَریف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:28.540452756Z",
+  "model": "glm-5.3"
+}

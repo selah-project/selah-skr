@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے تُوں، اِنسان دا پُتر، یِسرائل دے پہاڑاں دو نبی بݨ، تے آکھ: یِسرائل دے پہاڑو، یاہوہ دا ڳالھ سُݨو۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبی بݨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:43:19.120136838Z",
+  "model": "glm-5.3"
+}

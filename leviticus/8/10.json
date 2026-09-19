@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے موشے مَشتی دا تیل گھدا، تے مسکن کوں تے سبھے اوندے وچ جو ہا، مَشتی لایا، تے اوہناں کوں پاک کیتس۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے گھدس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَشتی دا تیل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مَشتی دا"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "تے مَشتی لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "سبھے اوندے وچ جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وچ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "تے پاک کیتس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:09.454299889Z",
+  "model": "glm-5.3"
+}

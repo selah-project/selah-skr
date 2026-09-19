@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "یاہوہ گھمنڈیاں دا گھر توڑ ڈیندے، تے تریمت دی حد کوں قائم کریندے۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "گھمنڈیاں دا"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "توڑ ڈیندے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "تے قائم کریندے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "تریمت دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:42.127626229Z",
+  "model": "glm-5.3"
+}

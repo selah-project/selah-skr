@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے نُوح ترے پُتر پیدا کیتے: ⟨את⟩ شیم، ⟨את⟩ حام تے ⟨את⟩ یافت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کیتے"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:47.778102017Z",
+  "model": "glm-5.3"
+}

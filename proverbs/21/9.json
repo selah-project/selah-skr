@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "چھت دے کونے وِچ ٻہݨ چنڳاں ہے، جھیڑو زنانی توں تے سانجھے گھر توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳاں ہے"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ٻہݨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "גג",
+      "gloss": "چھت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "زنانی توں"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "جھیڑو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "سانجھے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.214656247Z",
+  "model": "glm-5.3"
+}

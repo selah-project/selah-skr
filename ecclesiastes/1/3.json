@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "بندے کوں کیا فائدہ اُوندی ساری محنت وِچوں، جیڑھی او سِجھ تلے کریندا ہے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بندے کوں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "اُوندی محنت"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "او کریندا ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:20.321707776Z",
+  "model": "glm-5.3"
+}

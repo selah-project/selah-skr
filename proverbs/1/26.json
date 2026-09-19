@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "میں وی تُہاݙی مصیبت وِچ ہساں، تُہاݙے ݙر دے آوݨ ویلے مذاق اُڑیناں۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "تُہاݙی مصیبت وِچ"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ہساں"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "مذاق اُڑیناں"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "دے آوݨ ویلے"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "تُہاݙا ݙر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:11.176198070Z",
+  "model": "glm-5.3"
+}

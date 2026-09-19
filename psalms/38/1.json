@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "داوِد دا مزمور، یاد ݙیواوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "یاد ݙیواوݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:16.744709585Z",
+  "model": "glm-5.3"
+}

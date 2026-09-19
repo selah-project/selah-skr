@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اہرون ݙونہاں ٻکریاݨیاں اُتے قرعے پاوسی — ہِک قرعہ یاہوہ کیتے، تے ہِک قرعہ عزازیل کیتے۔",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "پاوسی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙونہاں"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ٻکریاݨیاں"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قرعے"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "تے قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "عزازیل کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:27.737875891Z",
+  "model": "glm-5.3"
+}

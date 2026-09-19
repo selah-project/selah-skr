@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "شعرتنز ⟨مِلاوٹ آلا کپڑا⟩ نہ پہنیں — اُن تے سَن ہِکٹھے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "نہ پہنیں"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شعرتنز ⟨مِلاوٹ آلا کپڑا⟩"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "تے سَن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ہِکٹھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:15.323862262Z",
+  "model": "glm-5.3"
+}

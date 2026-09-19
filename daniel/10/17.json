@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے کِویں ایں ادونای دا ٻدھا ایں ادونای نال ڳالھ کر سڳسی؟ میں تاں ہُݨ توں کوئی طاقت نہ کھڑسی، تے ساہ وی میں وِچ نہ بچیا۔",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "تے کِویں"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سڳسی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻدھا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالھ کرݨ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ہُݨ توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھڑسی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں وِچ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "تے ساہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "بچیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:09.311848348Z",
+  "model": "glm-5.3"
+}

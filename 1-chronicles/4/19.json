@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 4:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ہودِیاہ دی ذال دے پُتر ہَن — نَحام دی بھیݨ، قعِیلہ دے پیو گرْمی، تے اِشتِموع مَعکھتی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "ہودِیاہ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بھیݨ"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "نَحام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قعِیلہ"
+    },
+    {
+      "surface": "הגרמי",
+      "gloss": "گرْمی"
+    },
+    {
+      "surface": "ואשתמע",
+      "gloss": "تے اِشتِموع"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "مَعکھتی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:42.590579812Z",
+  "model": "glm-5.3"
+}

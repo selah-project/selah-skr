@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "کیوں جو اساݙی جان مٹی وِچ ڈھہ ڳئی ہے، اساݙا پیٹ زمین نال چمبڑ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ڈھہ ڳئی"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "مٹی وِچ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "اساݙی جان"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چمبڑ ڳئے"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین نال"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "اساݙا پیٹ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:35.851984125Z",
+  "model": "glm-5.3"
+}

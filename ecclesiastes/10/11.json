@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "جے سانپ منتر دے بغیر ݙنگسی، تاں زبان دے مالک ⟨منتر ڄاݨݨ آلے⟩ کوں کوئی فیدا کائنی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ݙنگسی"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "منتر"
+    },
+    {
+      "surface": "وאין",
+      "gloss": "تے کوئی کائنی"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فیدا"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "مالک کوں"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "زبان دا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:37.341637797Z",
+  "model": "glm-5.3"
+}

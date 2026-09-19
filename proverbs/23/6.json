@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "بد اکھ والے دی ⟨את⟩ روٹی نہ کھا تے اوندیاں مزیدار شیواں دی تانگھ نہ رکھ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روٹی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تانگھ نہ رکھ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "اوندیاں مزیدار شیواں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:56.978721762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "بندے دا رستہ ٹیڈھا تے اوپرا ہے، پر پاک دا کم سِدھا ہے۔",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "ٹیڈھا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دا"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "تے اوپرا"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "پر پاک"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کم"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:35.703708799Z",
+  "model": "glm-5.3"
+}

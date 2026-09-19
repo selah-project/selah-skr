@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 21:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے اَوراہام بھیݙاں تے ݙنگر گھن اویملیخ کوں ݙتے، تے ݙونہیں عہد کیتا۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے … گھن"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیݙاں"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "تے ݙنگر"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے … ݙتے"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "اویملیخ کوں"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "تے … کیتا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ݙونہیں"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:04.876777215Z",
+  "model": "glm-5.3"
+}

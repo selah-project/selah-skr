@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایں کیتے تُہاݙے اُتے اسماناں اوس روکی ہے، تے زمین اپݨی فصل روکی ہے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ایں کیتے⟩"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاݙے اُتے"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "روکی ہے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "روکی ہے"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "اپݨی فصل"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:04.366282465Z",
+  "model": "glm-5.3"
+}

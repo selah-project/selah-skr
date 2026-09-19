@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں ݙٹھا جو دانائی کوں بیوقوفی توں فیدا ہے، جیویں سوجھلے کوں ہیرڑ توں فیدا ہے۔",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "تے میں ݙٹھا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "جو ہے"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فیدا"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "دانائی کوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "بیوقوفی"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "جیویں فیدا"
+    },
+    {
+      "surface": "האור",
+      "gloss": "سوجھلے کوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ہیرڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:41.768065742Z",
+  "model": "glm-5.3"
+}

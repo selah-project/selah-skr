@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "اوں طوفان کوں سکون بݨایا، تے اوندیاں لہراں خاموش تھی ڳیاں۔",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "سکون"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "خاموش تھی ڳیاں"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "اوندیاں لہراں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:27.442651013Z",
+  "model": "glm-5.3"
+}

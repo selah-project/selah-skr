@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "توں سُݨیئی ہِے انہاں دی بے عزتی، اے یاہوہ، انہاں دیاں ساریاں سوچاں میݙے اُتے۔",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "سُݨیئی ہِے"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "انہاں دی بے عزتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "انہاں دیاں سوچاں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:08.612237498Z",
+  "model": "glm-5.3"
+}

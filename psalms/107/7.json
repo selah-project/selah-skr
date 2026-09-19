@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 107,
+  "translation": "تے اُنہاں کوں سِدھے رستے وِچ ٹُرایُس، جو ہِک رہوݨ آلے شہر دو ونڄن۔",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "اُنہاں کوں ٹُرایُس"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ونڄݨ کیتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "رہوݨ آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:12.097705076Z",
+  "model": "glm-5.3"
+}

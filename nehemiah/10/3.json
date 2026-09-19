@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "شَرَیاہ، عَزَریاہ، یِرمَیاہ۔",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "شَرَیاہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریاہ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمَیاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:44.465579996Z",
+  "model": "glm-5.3"
+}

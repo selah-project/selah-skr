@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یاہوہ اُنہاں ݙینہاں وِچوں اوں ݙینہہ آپ موشے نال ڳالھ کیتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "اوں ݙینہہ آپ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھڻ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:05:43.308588215Z",
+  "model": "glm-5.3"
+}

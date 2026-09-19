@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ݙیکھو، ساری زمین دے ادونای دے عہد دا صندوق تُہاݙے اڳوں یردن وِچوں لنگھسی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھسی"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "تُہاݙے اڳوں"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "یردن وِچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:08:13.739800889Z",
+  "model": "glm-5.3"
+}

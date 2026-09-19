@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے داوِد سارے زور نال یاہوہ دے اڳوں نچدا ہا، تے داوِد سنت دا ایفود ٻدھیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "نچدا ہا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ٻدھیا"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ایفود"
+    },
+    {
+      "surface": "בד",
+      "gloss": "سنت دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:18.096448785Z",
+  "model": "glm-5.3"
+}

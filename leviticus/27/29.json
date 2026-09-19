@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "ہر اوہ چِیریم جیہڑا بندیاں وِچوں حرام کیتا ویندا ہووے، فدیہ نہ تھیسی — موت مریسی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "چِیریم ⟨حرام کیتا ہویا⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "حرام کیتا ویندا ہووے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "فدیہ تھیسی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:23.880043964Z",
+  "model": "glm-5.3"
+}

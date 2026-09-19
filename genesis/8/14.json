@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے ݙوجھے مہینے وِچ، مہینے دے ستّاں تے ویہہ ݙینہہ، زمین سُک ڳی۔",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "تے مہینے وِچ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "سُک ڳی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:44.493297873Z",
+  "model": "glm-5.3"
+}

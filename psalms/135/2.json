@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 135,
+  "translation": "جو یاہوہ دے گھر وِچ، ساݙے ایلوہیم دے گھر دے دریاں وِچ کھڑے ہن۔",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "جو کھڑے ہن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "دریاں وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:46.435557261Z",
+  "model": "glm-5.3"
+}

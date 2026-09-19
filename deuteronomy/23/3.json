@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ممزیر یاہوہ دی جماعت وِچ نہ ویسى؛ تݙاں تک جو اوندا ڈاہویں پیوہے وی یاہوہ دی جماعت وِچ نہ ویسى۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ویسى"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ممزیر"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تݙاں تک جو"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیوہے"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ڈاہویں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ویسى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:13.214981158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تُساں اوہ نہ کرو جو اساں اِتھاں اَڄ کریندے ہیں — ہر بندہ جو کجھ اوندیاں اَکھیں کوں ٹھیک ݙسے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سبھ کجھ … وانگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اساں"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کریندے ہیں"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ٹھیک"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اوندیاں اَکھیں کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:12.070290118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "سخت سزا ݙتی یاہ میکوں، پر موت دے حوالے نہ کیتس میکوں۔",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "سخت سزا ݙیندے ہوئے"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "سزا ݙتی میکوں"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "تے موت دے حوالے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "نہ کیتس میکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:54.252638887Z",
+  "model": "glm-5.3"
+}

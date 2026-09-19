@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 69,
+  "translation": "ایلوہیم میکوں بچا، کیوں جو پاݨی میݙی جان تئیں آ ڳئین۔",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "میکوں بچا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ ڳئین"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:21:35.093036589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے زرخ دے پُتریں وِچوں یعوایل تے اوہناں دے بھرا، چھ سَو نَوَوے۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریں"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرخ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یعوایل"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "تے اوہناں دے بھرا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "تے نَوَوے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:37.475314566Z",
+  "model": "glm-5.3"
+}

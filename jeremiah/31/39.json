@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ناپ دی رسی ولا نکھرسی، گارب دی پہاڑی اُتے اُوندے اڳوں، تے وٹیسی گوآہ دو۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکھرسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "رسی"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ دی"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اُوندے اڳوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "پہاڑی"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارب دی"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "تے وٹیسی"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "گوآہ دو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:12:36.475252396Z",
+  "model": "glm-5.3"
+}

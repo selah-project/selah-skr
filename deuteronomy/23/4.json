@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "عمونی تے موابی یاہوہ دی جماعت وِچ نہ ویسى؛ تݙاں تک جو اوندا ڈاہویں پیوہے وی یاہوہ دی جماعت وِچ نہ ویسى، ہمیشاں تئیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ویسى"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "عمونی"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "تے موابی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تݙاں تک جو"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیوہے"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ڈاہویں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ویسى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:01:13.215125602Z",
+  "model": "glm-5.3"
+}

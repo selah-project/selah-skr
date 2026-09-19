@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اوندا لشکر تے اُنہاں دی ڳݨتری پنجتِیہہ ہزار تے ݙو سو ہن۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوندا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اُنہاں دی ڳݨتری"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے ݙو سو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:14.094734981Z",
+  "model": "glm-5.3"
+}

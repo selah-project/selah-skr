@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اوہ کاہناں تے لویاں بارے، ہر ڳالھ وِچ تے خزانےآں وِچ، بادشاہ دے حکم توں نہ ہٹے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ہٹے"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "تے لویاں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ وِچ"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "تے خزانےآں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:12.076679806Z",
+  "model": "glm-5.3"
+}

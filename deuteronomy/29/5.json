@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "روٹی تُساں نہ کھادی، تے شراب تے نشے آلا پیال نہ پیتا، ایں کیتے جو تُساں ڄاݨو جو میں یاہوہ تُہاݙا ایلوہیم ہاں۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "کھادی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "تے نشے آلا پیال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "پیتا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ایں کیتے جو"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ڄاݨو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:41.786846334Z",
+  "model": "glm-5.3"
+}

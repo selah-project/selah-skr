@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یاہوہ کوں ڳاؤ، کیوں جو اُوں شاندار کم کیتا ⟨ہے⟩؛ ایہ ساری زمین وِچ ڄاݨیا ویندے۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "ڄاݨیا ویندے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:04.550741290Z",
+  "model": "glm-5.3"
+}

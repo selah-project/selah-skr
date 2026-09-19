@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "مُوآب دی بربادی آوݨ کیتے نیڑے ہے، تے اُوندی مصیبت ٻہوں جلدی آندی پئی ہے۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "איד",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "مואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آوݨ کیتے"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "تے اُوندی مصیبت"
+    },
+    {
+      "surface": "מהرה",
+      "gloss": "جلدی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:20:38.640659162Z",
+  "model": "glm-5.3"
+}

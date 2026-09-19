@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میݙی جان ہمیشہ میݙے ہتھ وِچ ہے، پر میں تیݙی تورات نہ بھلی۔",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "میݙے ہتھ وِچ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "تے تیݙی تورات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "میں بھلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:23.303556880Z",
+  "model": "glm-5.3"
+}

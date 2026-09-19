@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے اوہ مردوخی کوں ⟨את⟩ اَستیر دیاں ڳالھیں ݙسائے۔",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ݙسائے"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مردوخی کوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَستیر دیاں ڳالھیں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستیر دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:23:41.444458263Z",
+  "model": "glm-5.3"
+}

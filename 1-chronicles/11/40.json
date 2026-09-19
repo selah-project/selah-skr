@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "عیرا یتری، گاریب یتری۔",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "یتری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گاریب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "یتری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:24.308421776Z",
+  "model": "glm-5.3"
+}

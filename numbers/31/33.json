@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ڈنگر — ݙو تے ستر ہزار۔",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:39.792288490Z",
+  "model": "glm-5.3"
+}

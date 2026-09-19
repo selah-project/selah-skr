@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "چاہے پُتر کوں سنگ مارے چاہے دھی کوں سنگ مارے، اوندے نال ایہو فتویٰ کیتا ویسی۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سنگ مارے"
+    },
+    {
+      "surface": "או",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سنگ مارے"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "فتویٰ موجب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیتا ویسی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:43.757155762Z",
+  "model": "glm-5.3"
+}

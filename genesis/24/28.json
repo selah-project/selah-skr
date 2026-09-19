@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے چھوہِر بھڄ ڳئی تے ایہے ڳالھیں آپݨی ماء دے گھر ڈسیس۔",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "تے بھڄ ڳئی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "چھوہِر"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "تے ڈسیس"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "آپݨی ماء دے"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ایہے ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:11.820661695Z",
+  "model": "glm-5.3"
+}

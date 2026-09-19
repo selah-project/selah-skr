@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "کوڑیاں گواہی ݙیوݨ آلا مریسی، پر سُݨݨ آلا بندہ ہمیش ٻولسی۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "کوڑیاں ݙیوݨ آلا"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "مریسی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "سُݨݨ آلا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ٻولسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:50.615242685Z",
+  "model": "glm-5.3"
+}

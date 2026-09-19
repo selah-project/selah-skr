@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "اوں اوندے کوں آکھیا: “میݙے ⟨نال⟩ گھر آؤ، تے روٹی کھا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوندے کوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨میݙے نال⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے کھا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:12:10.174325200Z",
+  "model": "glm-5.3"
+}

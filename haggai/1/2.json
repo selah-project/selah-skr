@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایویں یاہوہ تصواوت آکھیا: “ایہ قوم آکھیے: ’ویلھا کائنی آوݨ دا، ویلھا کائنی یاہوہ دے گھر دے اُسارݨ دا۔’”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلھا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "اُسارݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:21.307351579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "كاہل آکھیا: “ٻاہر شیر ہے؛ چوکاں دی وِچ میکوں قتل کیتا ویسی۔”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "كاہل"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "چوکاں دی"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "قتل کیتا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:19.014251013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "تے تیݙا نوکر میݙا پیو اساکوں آکھیا: “تُساں ڄاݨدے او ہو جو میݙی ذال میکوں ݙو پُتر ڄمئے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙا نوکر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙا پیو"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "اساکوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ڄاݨدے او"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄمئے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "میݙی ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:34.926033008Z",
+  "model": "glm-5.3"
+}

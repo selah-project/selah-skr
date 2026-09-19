@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اوں پُتر ڄݨایا جو ظالم ہے، خون وہاوݨ آلا، تے اِنہاں وِچوں ہِک ڳالھ بھرا نال کر کیتیس۔",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "تے ڄݨایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "وہاوݨ آلا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کیتیس"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "اِنہاں وچوں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:31:41.973934803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے یوسیف اُنہاں کوں آکھیا: “ایہو او ہے جو میں تُہاکوں آکھیا: تُساں جاسوس ہیوے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسیف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:39:19.085049138Z",
+  "model": "glm-5.3"
+}

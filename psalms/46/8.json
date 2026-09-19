@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "یاہوہ تصواوت اساݙے نال ہے؛ یعقوو دا ایلوہیم اساݙی اُچی پناہ ہے۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اساݙے نال ہے"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "اُچی پناہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اساݙی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:32.202097505Z",
+  "model": "glm-5.3"
+}

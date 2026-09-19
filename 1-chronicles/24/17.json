@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "اِیکویہاں یاکین کوں، ݙویہاں گامول کوں۔",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "یاکین کوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "گامول کوں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:08.148039440Z",
+  "model": "glm-5.3"
+}

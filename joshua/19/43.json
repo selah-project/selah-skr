@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے ایلوں تے تمنتہ تے عقرون،",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "ایلوں"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "تمنتہ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "عقرون"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:57.156786774Z",
+  "model": "glm-5.3"
+}

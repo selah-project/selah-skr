@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 16:22",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "کیوں جو ڳݨتی دے سال آویسن، تے میں او رستہ ٹُرسیاں جتھوں میں وَل نہ آساں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی دے"
+    },
+    {
+      "surface": "יאתיו",
+      "gloss": "آویسن"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "وَل آواں"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ٹُrsaں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:56:43.944010044Z",
+  "model": "glm-5.3"
+}

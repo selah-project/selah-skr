@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 28:12",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے نبی حننیاہ دے یرمیاہہ نبی دی گردن توں ⟨את⟩ جُوا تروڑݨ دے بعد یاہوہ دا ڳالھ یرمیاہہ نبی دو آیا، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یرمیاہہ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے بعد"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "تروڑݨ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جُوا"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "جُوا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یرمیاہہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:14:49.810625199Z",
+  "model": "glm-5.3"
+}

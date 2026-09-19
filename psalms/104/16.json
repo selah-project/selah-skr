@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 104,
+  "translation": "یاہوہ دے رُکھ سیر تھی ویندن، لُبنان دیاں دیداں، جنہاں اوں لایاں۔",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر تھی ویندن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "دیداں"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لُبنان دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "لایاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:29.046022704Z",
+  "model": "glm-5.3"
+}

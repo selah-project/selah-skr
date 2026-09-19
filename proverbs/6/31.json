@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ⟨جے⟩ او پکڑیڄے، تاں ست گنا واپس ݙیسی؛ ⟨את⟩ اپݨے گھر دا سارا مال ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "تے پکڑیڄے"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "واپس ݙیسی"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ست گنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے گھر دا سارا مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپݨے گھر دا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ݙیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:08.458355823Z",
+  "model": "glm-5.3"
+}

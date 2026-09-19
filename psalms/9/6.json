@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "توں قوماں کوں جھڑکا، شریر کوں مٹایا؛ اُنہاں دا ناں ہمیشہ تے ہمیشہ کیتے مٹا ݙتا۔",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "جھڑکا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "مٹایا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "اُنہاں دا ناں"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "مٹا ݙتا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:51.881285465Z",
+  "model": "glm-5.3"
+}

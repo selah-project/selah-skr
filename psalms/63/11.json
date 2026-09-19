@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 63,
+  "translation": "تلوار دے ہتھوں او سٹیے ویسن، گیدڑاں دا حصہ بݨسن۔",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "سٹیے ویسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "گیدڑاں دا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بݨسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:37.079833196Z",
+  "model": "glm-5.3"
+}

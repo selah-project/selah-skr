@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 148,
+  "translation": "نینگر تے کنواریاں، ٻڈھے نال نوجوان،",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "نینگر"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "کنواریاں"
+    },
+    {
+      "surface": "زקנים",
+      "gloss": "ٻڈھے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نوجوان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:41.174046882Z",
+  "model": "glm-5.3"
+}

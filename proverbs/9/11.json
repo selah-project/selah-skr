@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "کیوں جو میں وِچ تیݙے ݙینہہ ودھسن، تے تیکوں حیاتی دے سال ودھائے ویسن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میں وِچ"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "ودھسن"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تیݙے ݙینہہ"
+    },
+    {
+      "surface": "ויוסיפو",
+      "gloss": "تے ودھائے ویسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیاتی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:30.374375506Z",
+  "model": "glm-5.3"
+}

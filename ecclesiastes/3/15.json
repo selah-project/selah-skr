@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "جو تھی چُکے اوہ اِی ہے، تے جو تھیوݨے ہے اوہ پہلے توں تھی چُکیا؛ تے ایلوہیم ⟨את⟩ رُلے ہوئے کوں ڳولیندے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "تھی چُکا"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے توں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اِی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "تھیوݨے"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے توں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی چُکیا"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "تے ایلوہیم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولیندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُلے ہوئے کوں"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "رُلے ہوئے کوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:18.624176071Z",
+  "model": "glm-5.3"
+}

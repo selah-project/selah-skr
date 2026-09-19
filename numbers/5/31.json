@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے بندہ گناہ توں پاک ہوسی، پر او ذال ⟨את⟩ آپݨا گناہ چینسی۔",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "تے پاک ہوسی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "گناہ توں"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "تے او ذال"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چینسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨا گناہ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "آپݙا گناہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:01.412193502Z",
+  "model": "glm-5.3"
+}

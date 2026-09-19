@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 78,
+  "translation": "اوہناں اوندا ہتھ نہ یاد کیتا ⟨את⟩، نہ اوں ݙینہہ کوں جیندے اوں اوہناں کوں دشمن توں چھڑایا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "یاد کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "چھڑایا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:06.172802731Z",
+  "model": "glm-5.3"
+}

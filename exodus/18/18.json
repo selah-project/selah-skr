@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "توں یقیناً تھک ویسیں — توں وی تے ایہ لوک وی جیڑھے تیݙے نال ہن — کیوں جو ڳالھ تیݙے توں بھاری ہے، توں کلہا اینکوں نہ کر سڳسیں۔",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تھک ویسیں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیݙے توں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "کر سڳسیں"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "اینکوں کرݨ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کلہا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:23.318162958Z",
+  "model": "glm-5.3"
+}

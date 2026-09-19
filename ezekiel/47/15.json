@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے ایہ زمین دی سرحد ہے، اُتریں پاسوں: وݙے سمندر توں، حتھلون دے رستے، صدد دو آوݨ تائیں۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسوں"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اُتریں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وݙے"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "حتھلون"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "صدد دو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:54.884162258Z",
+  "model": "glm-5.3"
+}

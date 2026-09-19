@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تاکھݨے، چن تک نہ چمکدا، تے تارے اوندیاں اکھیں وِچ صاف کائنی۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "تاکھݨے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "چمکدا"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "تے تارے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اوندیاں اکھیں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:59:35.935780059Z",
+  "model": "glm-5.3"
+}

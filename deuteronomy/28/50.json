@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ہِک قوم سخت منہ آلی، جیڑھی بُڈھے دا منہ نہ چاتیسی تے نینگر اُتے رحم نہ کریسی۔",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "چاتیسی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "بُڈھے دا"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "تے نینگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "رحم کریسی"
+    }
+  ],
+  "timestamp": "2026-09-19T16:04:10.381606124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شمّای دے بھرا یادع دے پُتر یتِر تے یوناتان ہن، تے یتِر مر ڳیا، پُتر کائناں ہَس۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یادع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "تے یوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے مر ڳیا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:42.432557180Z",
+  "model": "glm-5.3"
+}

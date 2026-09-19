@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ٻکری دا ٻکرا گناہ دی قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻکری دا ٻکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ دی قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:30:19.830915448Z",
+  "model": "glm-5.3"
+}

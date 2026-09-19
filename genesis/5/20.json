@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے یَرِد دے سارے ݙینہہ ݙو تے سِٹھ سال تے نَو سو سال تھئے، تے او مَر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرِد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سِٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "تے نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مَر ڳیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:35.927564638Z",
+  "model": "glm-5.3"
+}

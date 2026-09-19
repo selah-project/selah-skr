@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 62,
+  "translation": "کلہا ایلوہیم دو میݙی جان چُپ ہے، میݙی مُکتی اوں توں ہے۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوں توں"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میݙی مُکتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:20:10.820403193Z",
+  "model": "glm-5.3"
+}

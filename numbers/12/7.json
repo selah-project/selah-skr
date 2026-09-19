@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "نہ ایویں میݙا ٻانہاں موشے؛ سارے میݙے گھر وِچ او امین ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میݙا ٻانہاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے … وِچ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میݙے گھر"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "امین ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T15:34:55.570941454Z",
+  "model": "glm-5.3"
+}

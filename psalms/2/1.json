@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں قوماں ہنگامہ مچائی، تے لوکاں فضول ڳالھ سوچی؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ہنگامہ مچائی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "تے لوکاں"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "سوچی"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "فضول ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:38.213146777Z",
+  "model": "glm-5.3"
+}

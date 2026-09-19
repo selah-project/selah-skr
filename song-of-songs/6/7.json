@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تیݙیاں کنپٹیاں انار دے ٹکرے وانگوں ہن، تیݙے گھونٹ دے پچھوں۔",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ٹکرے وانگوں"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "انار"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "تیݙیاں کنپٹیاں"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "دے پچھوں"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "تیݙے گھونٹ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:33.511326393Z",
+  "model": "glm-5.3"
+}

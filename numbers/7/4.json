@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ موشے نال آکھیا، آکھیندے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیندے ہوئے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:07.269056619Z",
+  "model": "glm-5.3"
+}

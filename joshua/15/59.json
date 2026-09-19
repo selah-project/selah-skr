@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے مَعرات، تے بَیت عَنوت، تے اِلتِقون — چھ شہر تے اُنہاں دے پنڈ۔",
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "تے مَعرات"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بَیت"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "عَنوت"
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "تے اِلتِقون"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے اُنہاں دے پنڈ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:23.734969081Z",
+  "model": "glm-5.3"
+}

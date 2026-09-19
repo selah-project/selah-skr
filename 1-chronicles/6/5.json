@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "گِرشوم دے ⟨پُتر⟩: لِبنی اوندا پُتر، یاخت اوندا پُتر، زِمّاہ اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "گِرشوم دے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:05.410998Z",
+  "model": "glm-5.3"
+}

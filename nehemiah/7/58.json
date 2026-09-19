@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "یعللا دے پُتر، درقون دے پُتر، گدیل دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "یعللا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "درقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گدیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:44.059359281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شِکیم دے مینار دے سارے سرداراں سُݨ گھدا، تے او ایل بریت ⟨معبود بریت⟩ دے گھر دے قلعے وِچ وڑ ڳے۔",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "سُݨ گھدونے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکیم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "وڑ ڳے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بریت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:25:58.977294705Z",
+  "model": "glm-5.3"
+}

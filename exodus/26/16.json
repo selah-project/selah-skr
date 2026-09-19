@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "دس ہَتھ ہِک تختے دی لمبائی، تے ہِک ہَتھ تے ادھا ہَتھ ہِک تختے دی چوڑائی۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہَتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے دی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے ہِک ہَتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھا"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ہَتھ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے دی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T14:57:59.200651014Z",
+  "model": "glm-5.3"
+}

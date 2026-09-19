@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "تے اَوراہام ایلوہیم کوں آکھیا: “کاش یشماعیل تیݙے اُڳاہوں جی سکے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یشماعیل"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جی سکے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیݙے اُڳاہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:22:35.928832829Z",
+  "model": "glm-5.3"
+}

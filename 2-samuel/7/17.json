@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایہناں ساریاں ڳالھیں موجب تے ایہ سارے نظارے موجب، اِیں ناتان داوِد نال ڳالھ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "موجب سبھ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "تے موجب سبھ"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "نظارے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "نתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:02.832961980Z",
+  "model": "glm-5.3"
+}

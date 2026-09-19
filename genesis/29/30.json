@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے او راخل کولھ وی ڳیا، تے ⟨את⟩ راخل کوں لایا توں ودھ پیار کیتُس، تے اوندے نال ٻیاں سَت سالاں کم کیتُس۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "پیار کیتُس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راخل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخل"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ودھ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "کم کیتُس"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیاں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ٻیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:25.450787296Z",
+  "model": "glm-5.3"
+}

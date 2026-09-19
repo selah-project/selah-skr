@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے خنوخ پنج تے سٹھ سال جییا، تے اوں ⟨את⟩ متوشلح کوں ڄمایا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جییا"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خنوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "متوشلح"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "متوشلح"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:36.618911821Z",
+  "model": "glm-5.3"
+}

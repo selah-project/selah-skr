@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "کُرہی چاندی کیتے تے بھٹی سونے کیتے، تے دِلاں دی پرکھ کرݨ آلا یاہوہ ہے۔",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "کُرہی"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "چاندی کیتے"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "تے بھٹی"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "سونے کیتے"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "تے پرکھݨ آلا"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دِلاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:49.085295245Z",
+  "model": "glm-5.3"
+}

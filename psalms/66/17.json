@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 66,
+  "translation": "میں اُوں کوں آپݨے مُنہ نال سݙیا، تے تعریف میݙی زبان ہیٹھ ہئی۔",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "اُوں کوں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "آپݨے مُنہ نال"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "تے تعریف"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میݙی زبان"
+    }
+  ],
+  "timestamp": "2026-09-19T19:19:57.719776313Z",
+  "model": "glm-5.3"
+}

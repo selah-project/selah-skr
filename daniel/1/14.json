@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اوں انہاں دی ایہا ڳالھ منّیس، تے انہاں کوں ݙاہ ݙینہہ آزمایس۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "منّیس"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دی"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہا"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "آزمایس"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:44.355772808Z",
+  "model": "glm-5.3"
+}

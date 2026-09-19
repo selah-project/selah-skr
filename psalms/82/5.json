@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 82,
+  "translation": "او نہ ڄاݨدے، نہ سمجھدے، ہنیرے وِچ ٹُردے پئے ہن؛ زمین دے سارے نیہے ہل ویندن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجھدے"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ہنیرے وِچ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ٹُردے پئے ہن"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ہل ویندن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "نیہے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:33.046805378Z",
+  "model": "glm-5.3"
+}

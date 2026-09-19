@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "بیل تے ڳݙھے نال ہِکٹھے ہل نہ چلوائیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ہل چلوائیں"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "تے ڳݙھے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ہِکٹھے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:58:15.323718167Z",
+  "model": "glm-5.3"
+}

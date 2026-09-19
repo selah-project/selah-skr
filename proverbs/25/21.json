@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "جے تیݙا دشمن بُکھا ہووے، اوکوں روٹی کھوا؛ تے جے او تریہا ہووے، اوکوں پاݨی پلا۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بُکھا"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "تیݙا دشمن"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "اوکوں کھوا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تریہا"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "اوکوں پلا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:09.998943803Z",
+  "model": "glm-5.3"
+}

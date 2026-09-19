@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "بِلدا یِسرائیل وِچوں کوئی بندہ بندہ، جیڑا ڳاں یا بھیڈ یا ٻکری پڑاؤ وِچ ذبح کرے، یا جیڑا پڑاؤ توں ٻاہر ذبح کرے،",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بِلدا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑا"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کرے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڳاں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "بھیڈ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ٻکری"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "پڑاؤ وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑا"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کرے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاؤ توں"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:45.586071063Z",
+  "model": "glm-5.3"
+}

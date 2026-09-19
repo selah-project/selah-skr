@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یاہوہ موشے تے اہرون نال ہور پہاڑ تے، ادوم دی زمین دی سرحد اُتے، آکھیا جو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ تے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو:"
+    }
+  ],
+  "timestamp": "2026-09-19T15:38:58.067072986Z",
+  "model": "glm-5.3"
+}

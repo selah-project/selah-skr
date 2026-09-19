@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "سُریہے دا نَکّڑ-چھلا ہوں دی نَکّ وِچ، سوہݨی تریمت جیہڑی ذائقے توں پھر ڳئی ہے۔",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "نَکّڑ-چھلا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سُریہے دا"
+    },
+    {
+      "surface": "באף",
+      "gloss": "نَکّ وِچ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ہوں دی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "جیہڑی پھر ڳئی ہے"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ذائقے توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:47.993245829Z",
+  "model": "glm-5.3"
+}

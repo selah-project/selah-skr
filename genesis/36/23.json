@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے ایہ شوَبال دے پُتر ہن: عَلوان، تے مَناحات، تے عیبال، شِفو تے اونام۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوَبال دے"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "عَلوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "تے مَناحات"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "تے عیبال"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "شِفو"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "تے اونام"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:19.307980524Z",
+  "model": "glm-5.3"
+}

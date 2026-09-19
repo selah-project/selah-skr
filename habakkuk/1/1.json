@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایہ او بوجھ اے جیڑھا خبقّوق نبی ⟨نظر وِچ⟩ ڈٹھا۔",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ڈٹھا"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "خبقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:59:45.020158916Z",
+  "model": "glm-5.3"
+}

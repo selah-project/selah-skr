@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ موشے کوں تے اہروں کوں آکھیا، آکھݨ لڳا —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہروں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:45:20.574996552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 81,
+  "translation": "کیوں جو او یِسرائیل کیتے ہِک قانون ہے، یعقوو دے ایلوہیم دا ہِک فیصلہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חק",
+      "gloss": "قانون"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل کیتے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "دے ایلوہیم کیتے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:06.042222715Z",
+  "model": "glm-5.3"
+}

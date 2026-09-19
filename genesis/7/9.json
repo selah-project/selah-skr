@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ݙو ݙو نُوح کول بیڑے وِچ آئے، نر تے مادہ، جیویں ایلوہیم ⟨את⟩ نُوح کوں حکم ݙتا ہا۔",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "بیڑے"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "تے مادہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:11.066589905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اتھوں ہِک غریب سیاݨا بندہ لبھیا، تے اوں ⟨את⟩ شہر اپݨی سیاݨپ نال بچایا؛ پر بندے ⟨את⟩ او غریب بندے کوں یاد نہ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "تے لبھیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "تے بچایا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر کوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "اپݨی سیاݨپ نال"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "پر بندے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غریب بندے کوں"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:52.865231431Z",
+  "model": "glm-5.3"
+}

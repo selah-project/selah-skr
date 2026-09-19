@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "ٻس ہُݨ تُوں ہشیار رہویں، تے مے تے نشہ آلا شراب نہ پیویں، تے کوئی ناپاک شے نہ کھاویں۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ٻس ہُݨ"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "ہشیار رہویں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "پیویں"
+    },
+    {
+      "surface": "יין",
+      "gloss": "مے"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "نشہ آلا شراب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "کھاویں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک شے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:03.502396177Z",
+  "model": "glm-5.3"
+}

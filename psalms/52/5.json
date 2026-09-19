@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 52,
+  "translation": "توں برائی کوں بھلائی توں پیار کیتا، جھوٹ کوں راست ڳالھ کرݨ توں۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "پیار کیتا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "بھلائی توں"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ڳالھ کرݨ توں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:19:32.374887302Z",
+  "model": "glm-5.3"
+}

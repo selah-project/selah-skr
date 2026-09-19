@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "او آپݨے گھر دے رستیاں اُتے نگاہ رکھیندی ہِے، تے سُستی دی روٹی نہ کھاندی۔",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "نگاہ رکھیندی ہے"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آپݨے گھر دے"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "تے روٹی"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "سُستی دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاندی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:03.946267750Z",
+  "model": "glm-5.3"
+}

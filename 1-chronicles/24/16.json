@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "اُنویںواں پِتخیاہ کوں، ویہواں یِخِزقیایل کوں۔",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "پِتخیاہ کوں"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "اُنویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "واں"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "یِخِزقیایل کوں"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ویہواں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:02.811474824Z",
+  "model": "glm-5.3"
+}

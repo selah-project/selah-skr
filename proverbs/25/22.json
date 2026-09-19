@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "کیوں جو تُوں انگارے اوندے سر اُتے رکھیندا ایں، تے یاہوہ تیکوں بدلہ ݙیسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انگارے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "رکھیندا ایں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوندے سر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ ݙیسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:09.999191411Z",
+  "model": "glm-5.3"
+}

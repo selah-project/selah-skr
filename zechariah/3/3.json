@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اَتے یہوشوع میلے کپڑے پاتِن، اَتے فرشتے دے اڳوں کھڑا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "اَتے یہوشوع"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پاتِن"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "میلے"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "اَتے کھڑا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:04:21.382957304Z",
+  "model": "glm-5.3"
+}

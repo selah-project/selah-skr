@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 2:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے او، چاہے او سُݨن، چاہے روک ݙیون — کیوں جو بغاوت آلا گھر او ہن — ولا ڄاݨسن جو ہِک نبی اُنہاں وِچ ہا۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُݨن"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "روک ݙیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "بغاوت آلا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او ہن"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ولا ڄاݨسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "اُنہاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:25:31.871367418Z",
+  "model": "glm-5.3"
+}

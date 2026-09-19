@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے مُوآب اوں ݙینہہ یِسرائیل دے ہتھ تلے جھکیا، تے زمین اَسی سال سکون وِچ رہی۔",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "جھکیا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "سکون وِچ رہی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اَسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T16:22:35.126335432Z",
+  "model": "glm-5.3"
+}

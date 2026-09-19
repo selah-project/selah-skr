@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ⟨את⟩ رَسِن، نینوہ تے کَلح دے وچکار — اوہ وݙا شہر ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رَسِن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رَسِن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:52.240126807Z",
+  "model": "glm-5.3"
+}

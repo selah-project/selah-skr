@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "پر تُساں گھر نہ بݨیسو، کیوں جو تیݙا پُتر، جیہڑا تیݙیاں کُرھیاں توں نکلسی، او میݙے ناں کیتے گھر بݨیسے۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بݨیسو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیݙا پُتر"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "جیہڑا نکلسی"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "تیݙیاں کُرھیاں توں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بݨیسے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میݙے ناں کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:38.256473351Z",
+  "model": "glm-5.3"
+}

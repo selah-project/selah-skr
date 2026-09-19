@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے اَلیفز تَیمانی جواب ݙتا، تے آکھیا —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اَلیفز"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تَیمانی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:57:36.689151153Z",
+  "model": "glm-5.3"
+}

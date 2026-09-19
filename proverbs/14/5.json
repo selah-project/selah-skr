@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "وفادار گواہ جھوٹ نہ ٻولیندے، تے کُوڑ دا گواہ کُوڑ ⟨پھونکیندے⟩۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "وفادار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ٻولیندے جھوٹ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "پھونکیندے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ دا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:02.864602255Z",
+  "model": "glm-5.3"
+}

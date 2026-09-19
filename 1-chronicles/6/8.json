@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اِلکانہ اوندا پُتر، تے اَویساف اوندا پُتر، تے اَسّیر اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلکانہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "تے اَویساف"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "تے اَسّیر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:05.411720072Z",
+  "model": "glm-5.3"
+}

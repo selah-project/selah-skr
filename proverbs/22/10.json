@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "مذاق کرݨ آلے کوں کڈھ سٹو، تاں جھیڑا ٹُل ویسی، تے مقدمہ تے بے عزتی مُک ویسی۔",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "کڈھ سٹو"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاق کرݨ آلے کوں"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ٹُل ویسی"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "مُک ویسی"
+    },
+    {
+      "surface": "דין",
+      "gloss": "مقدمہ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "تے بے عزتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:30.055792897Z",
+  "model": "glm-5.3"
+}

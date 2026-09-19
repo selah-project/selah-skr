@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "سخت غصہ آلا بندہ سزا چیندا ہے، کیوں جو جے توں اوندا کم چھُڑویسیں تاں وَلا وَدھیک کرسی۔",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصہ آلا"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چیندا ہے"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "توں چھُڑویسیں"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "تاں وَلا"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ودھیک کرسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:49.425306716Z",
+  "model": "glm-5.3"
+}

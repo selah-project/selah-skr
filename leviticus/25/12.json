@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "کیوں جو یوبیل اوہ تُہاݙے کیتے پاک ہوسی — کھیت توں ⟨את⟩ اوندا فصل کھا گھنسو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبیل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙے کیتے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھا گھنسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا فصل"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اوندا فصل"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:17.251657493Z",
+  "model": "glm-5.3"
+}

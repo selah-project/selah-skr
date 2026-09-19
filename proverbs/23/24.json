@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "راستباز دا پیو ٻہوں خوش تھیسی، تے سیاݨے کوں جِمݨ آلا اوندے وِچ خوش تھیسی۔",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "ٻہوں خوش"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "تھیسی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دے پیو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "جِمݨ آلا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨے"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "خوش تھیسی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:21.540730443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "بدکار جھوٹی مزدوری کریندے، تے جیہڑا راستی راہیندے او سچا بدلہ پیندے۔",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کریندے"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "مزدوری"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "تے راہیندے"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:24.097238761Z",
+  "model": "glm-5.3"
+}

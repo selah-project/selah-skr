@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے اَلتولد تے کِسِیل تے خُرماہ،",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "تے اَلتولد"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "تے کِسِیل"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "تے خُرماہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:27.433993598Z",
+  "model": "glm-5.3"
+}

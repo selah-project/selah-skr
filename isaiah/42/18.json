@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "او ٻوڑے سُݨو، تے او اَندھے ݙیکھو، ⟨تاں جو ݙیکھ سڳو⟩۔",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "او ٻوڑے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "تے او اَندھے"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨تاں جو ݙیکھ سڳو⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T17:48:12.104602467Z",
+  "model": "glm-5.3"
+}

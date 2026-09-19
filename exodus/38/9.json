@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "تے اُوں ⟨את⟩ صحن بݨایا — لمے پاسے، لمݨ آلے پاسے، صحن دے پردے مُںجھیا ہویا سنھا ہن، سو ہتھ۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے اُوں بݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صحن"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "لمݨ آلے"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن دے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سنھا"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مُںجھیا ہویا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:34.673689162Z",
+  "model": "glm-5.3"
+}

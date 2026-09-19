@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے شوشن قلعے وِچ یہودیاں پنج سو بندیے مار تے فنا کیتے۔",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "تے شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعے وِچ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "مار"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیاں"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "تے فنا کیتا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندیے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:17:27.162040654Z",
+  "model": "glm-5.3"
+}

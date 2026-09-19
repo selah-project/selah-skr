@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 75,
+  "translation": "نہ اُچا کرو اُچائی اُتے تُہاݙا سنگ، تے نہ ڳالھ کرو اُکڑیلی ڳچی نال۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "اُچا کرو"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "اُچائی اُتے"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "تُہاݙا سنگ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ڳالھ کرو"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ڳچی نال"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "اُکڑیلی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:13.310310491Z",
+  "model": "glm-5.3"
+}

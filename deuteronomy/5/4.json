@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "چہرے نال چہرہ یاہوہ پہاڑ اُتے، بھاہ دے وِچوں، تُساں نال ڳالھ کیتی۔",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "چہرہ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "چہرے نال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تُساں نال"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "האש",
+      "gloss": "بھاہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:11.452338527Z",
+  "model": "glm-5.3"
+}

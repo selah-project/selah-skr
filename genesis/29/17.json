@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے لِیہ دیاں اکھیں نرم ہن، تے راحیل ہئی صورت وِچ سوہݨی تے ݙیکھݨ وِچ سوہݨی۔",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "تے … دیاں اکھیں"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیہ"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "تے راحیل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہئی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "سوہݨی"
+    },
+    {
+      "surface": "תאر",
+      "gloss": "صورت وِچ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "تے سوہݨی"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ݙیکھݨ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:59.451404065Z",
+  "model": "glm-5.3"
+}

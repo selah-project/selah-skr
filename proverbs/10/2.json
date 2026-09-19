@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "بدی دے خزانے فائدہ نہ ݙیندے، پر راستی موت توں بچیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "فائدہ ݙیندے"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچیندی ہے"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:34.235141315Z",
+  "model": "glm-5.3"
+}

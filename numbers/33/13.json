@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او دُفکہ توں ٹُرے، تے الوش وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تے ٹُرے"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "دُفکہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "الوش وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:47:00.373920179Z",
+  "model": "glm-5.3"
+}

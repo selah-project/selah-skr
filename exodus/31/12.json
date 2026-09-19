@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے یاہوہ موشے نال آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:58.085093588Z",
+  "model": "glm-5.3"
+}

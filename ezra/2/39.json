@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "خارِم دے پُتر، ہِک ہزار تے ستارہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارِم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہِک ہزار"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ارہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:49.913613040Z",
+  "model": "glm-5.3"
+}

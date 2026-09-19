@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "جیہڑا ظلم وِنڄیندے، اوہ برائی دی فصل کَپیس، تے اوندے غصے دی چھڑی مُک ویسن۔",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "وِنڄیندے"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "کَپیس"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "تے چھڑی"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "اوندے غصے دی"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "مُک ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:16.119730649Z",
+  "model": "glm-5.3"
+}

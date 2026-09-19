@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اوندے اڳوں دی چمک توں بھا دے انگارے بھڑک پئے۔",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "چمک توں"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "بھڑک پئے"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "انگارے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھا دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:04.605858627Z",
+  "model": "glm-5.3"
+}

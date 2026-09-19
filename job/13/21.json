@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 13:21",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تیݙا ہتھ میں توں پریں کر، تے تیݙا ݙر میکوں نہ ݙراوے۔",
+  "tokens": [
+    {
+      "surface": "כפך",
+      "gloss": "تیݙا ہتھ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "پریں کر"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "تے تیݙا ݙر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "میکوں ݙراوے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:31.192831767Z",
+  "model": "glm-5.3"
+}

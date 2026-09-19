@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تیکوں، اَے یاہوہ، میں سݙینداں، تے اَے ادونای، میں بھیک منگداں۔",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں سݙینداں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "میں بھیک منگداں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:53.726931022Z",
+  "model": "glm-5.3"
+}

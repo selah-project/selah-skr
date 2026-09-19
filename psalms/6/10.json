@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یاہوہ میݙی منت سُنی ہے؛ یاہوہ میݙی دعا قبول کیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُنی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "میݙی منت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میݙی دعا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "قبول کیتی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:57.849721790Z",
+  "model": "glm-5.3"
+}

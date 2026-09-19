@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے ⟨את⟩ خمور تے ⟨את⟩ اوندا پُتر شکم تلوار نال مار گھتس، تے ⟨את⟩ دینہ کوں شکم دے گھروں چا گھدونے تے نکل ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خمور"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خمور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شکم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "مار گھتس"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "نال"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "چا گھدونے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دینہ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینہ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھروں"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "نکل ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:34:50.138781585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "سُتو نال پیار نہ کر، متاں غریب تھی وینسیں؛ آپݨیاں اَکھیں کھول، روٹی نال سیر تھی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "پیار کر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سُتو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متاں"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "غریب تھی وینسیں"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "آپݨیاں اَکھیں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سیر تھی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:58.748238015Z",
+  "model": "glm-5.3"
+}

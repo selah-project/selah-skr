@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "“اِنسان دے پُتر، آپݨا مُہرٹ پہاڑ شِعیر ⟨دی طرف⟩ رکھ، تے اوندے خلاف نبوّت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا مُہرٹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شِعیر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "تے نبوّت کر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوندے خلاف"
+    }
+  ],
+  "timestamp": "2026-09-19T18:41:29.982381011Z",
+  "model": "glm-5.3"
+}

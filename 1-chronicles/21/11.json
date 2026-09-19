@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے گاد داوِد کولھ آیا تے اوں کوں آکھیس: “ایں طرح آہدا یاہوہ: ⟨توں⟩ چُݨ گھن۔”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایں طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آہدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "چُݨ گھن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨توں⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:44:17.406752059Z",
+  "model": "glm-5.3"
+}

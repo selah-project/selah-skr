@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے میں یاہوہ دے ⟨قیطاس⟩ موجب پیٹا ⟨את⟩ گھدا، تے آپݨی کمر اُتے رکھیا۔",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "گھدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیٹا"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پیٹا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨قیطاس⟩ موجب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "آپݨی کمر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:59.970610160Z",
+  "model": "glm-5.3"
+}

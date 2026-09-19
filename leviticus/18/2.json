@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "بنی یِسرایل دے پُتراں کوں آکھ، تے انہاں کوں آکھیں: “میں یاہوہ تُہاݙا ایلوہیم ہاں۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھیں"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:17:37.429189701Z",
+  "model": "glm-5.3"
+}

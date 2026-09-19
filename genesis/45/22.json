@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 45:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "ساریں کوں ہر بندے کوں کپڑے دے بدل ݙتس، پر بنیامین کوں ترے سَو چاندي تے پنج کپڑے دے بدل ݙتس۔",
+  "tokens": [
+    {
+      "surface": "לכלם",
+      "gloss": "ساریں کوں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ہر بندے کوں"
+    },
+    {
+      "surface": "חלפות",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "ולבנימן",
+      "gloss": "تے بنیامین کوں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتس"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "חלפת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "کپڑے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:41:14.846991790Z",
+  "model": "glm-5.3"
+}

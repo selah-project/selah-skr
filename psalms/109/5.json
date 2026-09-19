@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "تے او مَیں اُتے برائی رکھی نیکی دے بدلے، تے نفرت میݙے پیار دے بدلے۔",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "تے او رکھی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مَیں اُتے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "تے نفرت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "میݙے پیار"
+    }
+  ],
+  "timestamp": "2026-09-19T19:34:51.090939097Z",
+  "model": "glm-5.3"
+}

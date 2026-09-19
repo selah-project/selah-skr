@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے لہندے دا پاسہ مہان سمندر ہوسی، سرحد توں لہندے اُبھے سامݨے خماط دے آوݨ تئیں؛ ایہ لہندے دا پاسہ ہے۔",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "تے پاسہ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لہندے دا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "مہان"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "سرحد توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خماط"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لہندے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:47:13.562770515Z",
+  "model": "glm-5.3"
+}

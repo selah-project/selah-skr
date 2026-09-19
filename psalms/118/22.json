@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 118,
+  "translation": "اُو پتھر جیہڑا بانیاں رد کیتا، او کونے دا سِر بݨ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "رد کیتا"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "بانیاں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بݨ ڳئی"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سِر بݨ کے"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "کونا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:48.231092026Z",
+  "model": "glm-5.3"
+}

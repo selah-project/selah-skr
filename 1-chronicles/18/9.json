@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے تعو، حماث دا بادشاہ، سُݨیا جو داوِد ⟨את⟩ ہدّدعزر صوبہ دے بادشاہ دا سارا لشکر ماریا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "تعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماث"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہدّدعزر صوبہ دے بادشاہ دا سارا لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہدّدعزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:47.695381706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "جݙاں او ڳݨتی دے چند بندے ہن، ٻہوں تھوڑے، تے اُوندے وِچ پراتھی،",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "جݙاں او ہن"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتی دے"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ٻہوں تھوڑے"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "تے پراتھی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:12.527138094Z",
+  "model": "glm-5.3"
+}

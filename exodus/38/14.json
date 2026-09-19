@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "پردے ہک مونڈھے تئیں پندرہ ہتھ ⟨ہن⟩؛ اُنہاں دے ستون ترے تے اُنہاں دے پاوے ترے۔",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "مونڈھا"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "اُنہاں دے ستون"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "تے اُنہاں دے پاوے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:42.109117120Z",
+  "model": "glm-5.3"
+}

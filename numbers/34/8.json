@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "ہور پہاڑ توں تُساں حمات دے وڑݨ تئیں نشابر کریسو، تے سرحد دے نکلݨ دے تھاں تصدادہ ہوسن۔",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ہور توں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "نشابر کریسو"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "وڑݨ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے ہوسن"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "نکلݨ دے تھاں"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "سرحد دے"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "تصدادہ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:52.678013207Z",
+  "model": "glm-5.3"
+}

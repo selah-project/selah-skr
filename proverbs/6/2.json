@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تیݙے منہ دے لفظاں وِچ پھس ڳیاں، تیݙے منہ دے لفظاں وِچ پکڑیج ڳیاں —",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "پھس ڳیاں"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "لفظاں وِچ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙے منہ دے"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "پکڑیج ڳیاں"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "لفظاں وِچ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙے منہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:15.829022347Z",
+  "model": "glm-5.3"
+}

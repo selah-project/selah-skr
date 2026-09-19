@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے شِلیمیاہ، تے ناتان، تے عدایاہ،",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "تے شِلیمیاہ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "تے ناتان"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "تے عدایاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:28:48.205177951Z",
+  "model": "glm-5.3"
+}

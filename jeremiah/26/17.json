@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "ول ملک دے بزرگاں وِچوں کجھ مرد اُٹھیے تے سارے لوکاں دے جتھے کوں آکھیا:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "اُٹھیے"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "بزرگوں وِچوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک دے"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:10:36.575793187Z",
+  "model": "glm-5.3"
+}

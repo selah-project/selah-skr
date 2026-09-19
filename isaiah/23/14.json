@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اَے ترشیش دے جہازو، ہاڑ وُٹو، کیوں جو تُہاݙا ماڑ اُجڑ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ہاڑ وُٹو"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "جہاز"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "اُجڑ ڳئے"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "تُہاݙا ماڑ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:28.551403347Z",
+  "model": "glm-5.3"
+}

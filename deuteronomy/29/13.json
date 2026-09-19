@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "اتے صرف تُہاݙے نال کائنی، میں ⟨את⟩ ایہ عہد اتے ⟨את⟩ ایہ قسم کٹیندا ہاں۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اتے … کائنی"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہاݙے نال"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "صرف تُساں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کٹیندا ہاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ عہد"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اتے ⟨את⟩",
+      "marks": "ایہ قسم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:03:23.564181531Z",
+  "model": "glm-5.3"
+}

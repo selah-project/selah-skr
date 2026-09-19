@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں سِجھ تلے جیڑھی ساری محنت میں کیتی اوندے اُتے ⟨את⟩ اَپݨے دل کوں مایوس کرݨ وَل پِھریں ڳٖیاں۔",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "وَل پِھریں ڳٖیاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "مایوس کرݨ وَل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَپݨے دل کوں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اَپݨے دل کوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "جیڑھی میں کیتی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:44.475153238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "ایں کیتے میں تیکوں حکم ݙیندا ہاں، آکھ تے جو تُساں آپ کیتے ترے شہر وکھرے کریسو۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تیکوں حکم ݙیندا ہاں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "وکھرے کریسو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:53.032446323Z",
+  "model": "glm-5.3"
+}

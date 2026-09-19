@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے وِی ہر بندہ جو کھاوے تے پیوے تے آپݨی ساری محنت وِچ چنڳائی ݙیکھے — ایہ ایلوہیم دی ݙات ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وِی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "جو کھاوے"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "تے پیوے"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنڳائی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری … وِچ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "آپݨی محنت"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ݙات"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ ⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:18.618809719Z",
+  "model": "glm-5.3"
+}

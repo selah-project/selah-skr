@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "پرعوش دے پُتر — ݙو ہزار ہِک سو بہتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پرعوش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ݙو ہزار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ستّر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:03.930843426Z",
+  "model": "glm-5.3"
+}

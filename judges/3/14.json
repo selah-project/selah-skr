@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے یسرایل دے پُتراں موآب دے بادشاہ ⟨את⟩ عِگلون دی خدمت کیتی اَٹھارھاں ورھے۔",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "خدمت کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِگلون"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عِگلون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ارھاں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:23:30.518220183Z",
+  "model": "glm-5.3"
+}

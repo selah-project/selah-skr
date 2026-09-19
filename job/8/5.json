@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "جے تُوں سویرے ایل کوں ڳولسیں تے شدّای کنوں منت منسیں،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "سویرے ڳول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے …کنوں"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "منت منسیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:33.819260662Z",
+  "model": "glm-5.3"
+}

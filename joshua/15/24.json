@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "زیف، تے طیلیم، تے بعیلوت۔",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "تے طیلیم"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "تے بعیلوت"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:24.113173262Z",
+  "model": "glm-5.3"
+}

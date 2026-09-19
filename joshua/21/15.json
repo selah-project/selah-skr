@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے ⟨את⟩ خولون تے اوندی چراہ گاہ، تے ⟨את⟩ دِبیر تے اوندی چراہ گاہ،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خولون"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خولون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراہ گاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراہ گاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دِبیر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراہ گاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراہ گاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:16:07.605619334Z",
+  "model": "glm-5.3"
+}

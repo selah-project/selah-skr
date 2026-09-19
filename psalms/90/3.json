@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 90,
+  "translation": "توں بندے کوں مٹی تئیں وَلا ݙیندیں، تے آکھدیں: “ول آؤ، آدم دے پُترو!”",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "وَلا ݙیندیں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھدیں"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ول آؤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:31:02.500179381Z",
+  "model": "glm-5.3"
+}

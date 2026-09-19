@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 140,
+  "translation": "میں ڄاݨدا ہاں جو یاہوہ دبئے ہوئے دا انصاف تے غریباں دا حق قائم کریسی۔",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدا ہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "قائم کریسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دبئے ہوئے دا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "غریباں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:39:12.223203701Z",
+  "model": "glm-5.3"
+}

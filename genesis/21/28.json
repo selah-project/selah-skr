@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے اَوراہام ⟨את⟩ ٻکریاں دے ست وچھرے اِنج کھڑے کیتے جو او کلھے ہوون۔",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "تے … کھڑے کیتے"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ست وچھرے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "وچھرے"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ٻکریاں دے"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "کلھے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:24:04.876941913Z",
+  "model": "glm-5.3"
+}

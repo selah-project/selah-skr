@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اَدونیہ، بِگوای، عادین۔",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "اَدونیہ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگوای"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    }
+  ],
+  "timestamp": "2026-09-19T20:33:55.883148774Z",
+  "model": "glm-5.3"
+}

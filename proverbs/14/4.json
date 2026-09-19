@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "جتھاں ڈانور کائنی، اُتھاں بوسہڑا صاف ہوندا، پر ڈانور دی طاقت نال فصل ٻہوں آندی ہے۔",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "جتھاں … کائنی"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ڈانور"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "بوسہڑا"
+    },
+    {
+      "surface": "בר",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "پر ٻہوں"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "دی طاقت نال"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڈانور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:00.958874606Z",
+  "model": "glm-5.3"
+}

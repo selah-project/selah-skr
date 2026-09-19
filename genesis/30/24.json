@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے اوندے ناں کوں یوسف رکھیا، آکھ کے: “یاہوہ میکوں ہِک ٻیا پُتر ݙیسی۔”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "تے رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوندے ناں کوں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻیا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:28:49.484356803Z",
+  "model": "glm-5.3"
+}

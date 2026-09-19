@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے ایہ ہِن ݙینہہ تے سال اَوراہام دی حیاتی دے، جیڑھی اوں جِی — ہِک سو سال تے ستر سال تے پنج سال۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حیاتی دے"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-19T14:26:07.467314441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "بُقّی اوندا پُتر، عُزّی اوندا پُتر، زرخیاہ اوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بُقّی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرخیاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:30.384763401Z",
+  "model": "glm-5.3"
+}

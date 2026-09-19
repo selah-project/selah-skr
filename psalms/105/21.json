@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 105,
+  "translation": "اُوکوں اپݨے گھر دا سائیں بݨایُس، تے اپݨی ساری ملکیت تے حاکم رکھیُس۔",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "بݨایُس"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سائیں"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "اپݨے گھر دا"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے حاکم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "اپݨی ساری"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ملکیت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:33:25.331143537Z",
+  "model": "glm-5.3"
+}

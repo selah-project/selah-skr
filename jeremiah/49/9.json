@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 49:9",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "جے انگور کٹݨ آلے تیکوں آئے، ⟨تاں⟩ او بھور نہ چھوڑیسن؛ جے رات کوں چور ہوون، ⟨تاں⟩ او اپݨی قدر اجاڑ ݙیسن۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "انگور کٹݨ آلے"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישארו",
+      "gloss": "چھوڑیسن"
+    },
+    {
+      "surface": "עוללות",
+      "gloss": "بھور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "چور"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کوں"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "اجاڑ ݙیسن"
+    },
+    {
+      "surface": "דים",
+      "gloss": "اپݨی قدر"
+    }
+  ],
+  "timestamp": "2026-09-19T18:22:23.420448117Z",
+  "model": "glm-5.3"
+}

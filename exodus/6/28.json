@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اوں ݙینہہ تھیا جݙاں یاہوہ موشے نال مِتصرایم دی زمین وِچ ڳالھ کیتی،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کیتی جݙاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:45:20.877616514Z",
+  "model": "glm-5.3"
+}

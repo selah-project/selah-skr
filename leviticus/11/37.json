@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تے جے اُنہاں دے مردار توں کجھ کہیں وی بیج اُتے ڈھہسی جیہڑا وائیجا ونڄے، اوہ پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھہسی"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "اُنہاں دے مردار توں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کہیں وی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "وائیجا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ویجا ویندا ہووے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:36.754591279Z",
+  "model": "glm-5.3"
+}

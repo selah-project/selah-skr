@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "بندے دی جان دا فدیہ اوندا مال ہوندے، پر غریب کہیں سخت ڳالھ دی پرواہ کائنی کریندا۔",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "دا مال"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "پر غریب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "پرواہ کریندا"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "کہیں سخت ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:04.527568812Z",
+  "model": "glm-5.3"
+}

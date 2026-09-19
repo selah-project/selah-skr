@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے ⟨את⟩ ٻہارے ݙاہ، تے ⟨את⟩ حوض ݙاہ ٻہاریاں اُتے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ٻہارے"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ٻہارے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حوض"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ٻہاریاں"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:48.042592736Z",
+  "model": "glm-5.3"
+}

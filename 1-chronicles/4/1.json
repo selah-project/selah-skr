@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "یہوداہ دے پُتر: پِرِتس، خِتصرون، کرمی، خور تے شوبال۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پِرِتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خِتصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "تے کرمی"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "تے خور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "تے شوبال"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:55.264026537Z",
+  "model": "glm-5.3"
+}

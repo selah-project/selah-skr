@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ترے وِچوں سبھ توں مانُتا او نہ ہا؟ تے او انہاں دا سردار بݨئیا؛ پر پہلے ترے تائیں نہ پُڄا۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "کیا نہ"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "مانُتا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے بݨئیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں دا"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر تائیں"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "پُڄا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:39.634745977Z",
+  "model": "glm-5.3"
+}

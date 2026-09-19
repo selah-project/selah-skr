@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "عزماؤت دے پُتر، چالیہہ تے ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزماؤت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:24:30.893718734Z",
+  "model": "glm-5.3"
+}

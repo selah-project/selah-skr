@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "اوں آپݨا مثل چاتا تے آکھیس: “اُٹھ، بالاق، تے سُݨ؛ میݙی ڳالھ کن لڳ، صِپور دے پُتر!”",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "آپݨا مثل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سُݨ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کن لڳ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "میݙی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صِپور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:15.194217332Z",
+  "model": "glm-5.3"
+}

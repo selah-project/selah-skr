@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 47:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "حمات، بروتہ، سبریم، جیڑھا دمشق دی سرحد تے حمات دی سرحد دے وچکار ہے؛ حصیر ہتیکون، جیڑھا حوران دی سرحد دے نیڑے ہے۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "ברותה",
+      "gloss": "بروتہ"
+    },
+    {
+      "surface": "סברים",
+      "gloss": "سبریم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "حصیر"
+    },
+    {
+      "surface": "התיכון",
+      "gloss": "ہتیکون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حوران"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:54.884313058Z",
+  "model": "glm-5.3"
+}

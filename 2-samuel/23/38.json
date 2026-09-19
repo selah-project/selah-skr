@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "عیرا الیتِری، گاریب الیتِری،",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "الیتِری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گاریب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "الیتِری"
+    }
+  ],
+  "timestamp": "2026-09-19T17:02:07.265662741Z",
+  "model": "glm-5.3"
+}

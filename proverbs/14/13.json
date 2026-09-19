@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہسدی وِچ وی دل کوں درد تھیندے، تے خوشی دا اخیر مونجھ ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "ہسدی وِچ"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "درد تھیندے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کوں"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "تے اوندا اخیر"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی دا"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "مونجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:49.397299158Z",
+  "model": "glm-5.3"
+}

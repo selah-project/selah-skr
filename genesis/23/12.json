@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے اَوراہام ملک دے لوکاں دے اَمݨے سِر جُھکایا۔",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "تے سِر جُھکایا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اَمݨے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک"
+    }
+  ],
+  "timestamp": "2026-09-19T14:23:56.884159121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے ہر اوہ جان جیہڑی اِیں آپ ہی ݙینہہ کوئی کم کرسی، میں اُوں جان ⟨את⟩ آپݨی قوم دے وِچلوں مِٹا ڈیساں۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کرسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "آپ ہی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "تے میں مِٹا ڈیساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جان"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وِچلوں"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "آپݨی قوم"
+    }
+  ],
+  "timestamp": "2026-09-19T15:24:26.344647572Z",
+  "model": "glm-5.3"
+}

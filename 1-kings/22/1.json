@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے او ترے سال ٻیٹھے، اَرام تے یِسرایل دے وِچالے کوئی جنگ کائنی ہئی۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "تے او ٻیٹھے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وِچالے"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے دے وِچالے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:19:18.529424980Z",
+  "model": "glm-5.3"
+}

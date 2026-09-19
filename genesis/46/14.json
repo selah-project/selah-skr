@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "تے زبولن دے پُتر — سرد، تے ایلون، تے یحلایل۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سرد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "تے ایلون"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "تے یحلایل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:55.202235563Z",
+  "model": "glm-5.3"
+}

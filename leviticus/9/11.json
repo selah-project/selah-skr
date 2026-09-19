@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ⟨את⟩ گوشت تے ⟨את⟩ کَھل اوں بھا وِچ چاڑھ تے پوڑی دے ٻاہر ساڑ ݙتی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَھل"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کَھل"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڑ ݙتی"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پوڑی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:12:18.998150459Z",
+  "model": "glm-5.3"
+}

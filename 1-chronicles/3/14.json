@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "آمون اُوندا پُتر، یعشیاہو اُوندا پُتر۔",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یعشیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوندا پُتر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:08.153653399Z",
+  "model": "glm-5.3"
+}

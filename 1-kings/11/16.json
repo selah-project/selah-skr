@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "کیوں جو چھی مہینے یوآب تے سارا یِسرایل اُتھاں رہ ڳیا، ایڈوم وِچ ہر نر کوں مُکاوݨ تئیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہ ڳیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "مُکاوݨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ایڈوم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:11:24.906120476Z",
+  "model": "glm-5.3"
+}

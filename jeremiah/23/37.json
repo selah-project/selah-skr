@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "ایویں تُساں نبی کول آکھو: “یاہوہ تیکوں کیا جواب ݙتا، تے یاہوہ کیا آکھیا؟”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "تیکوں جواب ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:09:13.063601037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "تے ذالیں وِچوں اوہ سبھ ٻال جیہڑے نر دے سمݨ کوں نہ ڄاݨن، تُساں آپݨے کیتے جیوا رکھو۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے اوہ سبھ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ٻال"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "ذالیں وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨن"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "سمݨ کوں"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر دے"
+    },
+    {
+      "surface": "החיו",
+      "gloss": "جیوا رکھو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپݨے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:36.374759633Z",
+  "model": "glm-5.3"
+}

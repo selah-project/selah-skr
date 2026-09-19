@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ݙیکھو، یاہوہ کیتے ہِک ݙینہہ آندا، تے تیݙا لُٹ تیݙے وِچ ونڈیا ویسی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ہِک ݙینہہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کیتے"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "تے ونڈیا ویسی"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "تیݙا لُٹ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:06:32.685521275Z",
+  "model": "glm-5.3"
+}

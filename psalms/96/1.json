@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "یاہوہ کوں نواں ڳاؤݨ ڳاؤ، یاہوہ کوں ڳاؤ، ساری زمین۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاؤݨ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:45.103748516Z",
+  "model": "glm-5.3"
+}

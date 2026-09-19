@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "یرموت، تے عدُلّام، سوکوہ تے عزِقہ،",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "یرموت"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "تے عدُلّام"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "تے عزِقہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:44.120250211Z",
+  "model": "glm-5.3"
+}

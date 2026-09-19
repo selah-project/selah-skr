@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 41,
+  "translation": "مَٹی اُتے اوندا کوئی راج کائنی، او بغیر ݙر بݨایا ڳیا ہے۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مَٹی"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اوندا راج"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "بݨایا ڳیا"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ݙر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:05:15.024907100Z",
+  "model": "glm-5.3"
+}

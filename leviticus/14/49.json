@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے اوہ ⟨את⟩ گھر کوں پاک کرݨ کیتے ݙو پنچھی گھنسی، تے دیار دا رُکھ، تے قرمزی تے اذخر۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "تے گھنسی"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "پاک کرݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر کوں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پنچھی"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "تے رُکھ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دیار"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے قرمزی"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرمز"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "تے اذخر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:17.733691163Z",
+  "model": "glm-5.3"
+}

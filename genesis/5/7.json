@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے شیت اینوش ⟨את⟩ کوں پیدا کرݨ توں بعد ست سال تے اَٹھ سو سال جِییا، تے پُتر تے دھیاں پیدا کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِییا"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "اوں پیدا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اینوش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اینوش"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کیتے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:15:58.973696581Z",
+  "model": "glm-5.3"
+}

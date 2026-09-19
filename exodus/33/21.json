@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے یاہوہ آکھیا: “ݙیکھ، میݙے نال ⟨את⟩ ہِک جاہ ہے، تے تُوں چٹان اُتے کھڑا تھیسیں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاہ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "میݙے نال"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "کھڑا تھیسیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چٹان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:13.738669884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 42,
+  "translation": "تے تھیا، ݙاہ ݙینہہ دے مُکݨ تے، تے یاہوہ دی ڳالھ یِرمِیاہو کوں آئی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مُکݨ تے"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:38.220955418Z",
+  "model": "glm-5.3"
+}

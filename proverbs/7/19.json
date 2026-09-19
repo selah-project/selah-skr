@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کیوں جو بندہ اوندے گھر وِچ کائنی، او دور دے رستے ڳیا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اوندے گھر وِچ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے اُتے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دور دے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:07.993005682Z",
+  "model": "glm-5.3"
+}

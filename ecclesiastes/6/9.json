@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اکھیں دا ݙیکھݨ جان دے ٹُرݨ توں چنڳا اے؛ ایہ وی ہیول ⟨واہی، ہوا جیہا⟩ ہے تے روح دی بے چینی۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنڳا"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ݙیکھݨ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھیں"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ٹُرݨ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیول"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "تے بے چینی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:14:10.072829973Z",
+  "model": "glm-5.3"
+}

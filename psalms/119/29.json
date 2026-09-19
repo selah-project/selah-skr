@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "کُوڑ دا رستہ میں توں ہٹا ڈے، تے تیݙی تورات نال میں اُتے رحم کر۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا ڈے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "تے تیݙی تورات"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "میں اُتے رحم کر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:14.287358954Z",
+  "model": "glm-5.3"
+}

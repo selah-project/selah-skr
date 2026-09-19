@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے میں اُتھاں ⟨את⟩ اوں صندوق کوں رکھیم جیندے وِچ اُتھاں یاہوہ دا عہد ہے، جیہڑا اوں یسرائیل دے پُتراں نال کیتا۔",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "تے رکھیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوں صندوق کوں"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے وِچ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:48:38.256922676Z",
+  "model": "glm-5.3"
+}

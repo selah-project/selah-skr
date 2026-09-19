@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہ او کلام ہے جیڑھا یاہوہ دا یِرمیاہوو کولھ آیا، قحطاں دیاں ڳالھیں بارے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "قحطاں دیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T18:05:09.970597574Z",
+  "model": "glm-5.3"
+}

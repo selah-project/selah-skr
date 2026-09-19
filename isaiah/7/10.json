@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے یاہوہ ولا ٻولیا آکھاز دو، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ولا ٻولیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آکخاز"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:34:25.798846531Z",
+  "model": "glm-5.3"
+}

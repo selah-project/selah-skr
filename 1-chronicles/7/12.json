@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے شُپّم تے خُپّم عیر دے پُتر ہن؛ خُوشیم اَخیر دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "تے شُپّم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "تے خُپّم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر دے"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "خُوشیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "اَخیر دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:45.688234545Z",
+  "model": "glm-5.3"
+}

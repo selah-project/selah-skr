@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "مورخ کوں اُوندی مورخی دے موجب جواب نہ ݙے، کیتے جو تُوں آپ وی اوندے وانگوں نہ تھی ونڄیں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תען",
+      "gloss": "جواب ݙے"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورخ کوں"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "اُوندی مورخی دے موجب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کیتے جو"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "وانگوں تھی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں آپ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:36.649716511Z",
+  "model": "glm-5.3"
+}

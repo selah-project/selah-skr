@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "کیوں جو او ہیل وِچ آندے تے ہنیری وِچ ویندے، تے ہنیری وِچ اوندا ناں ڈھکیج ویندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ہیل وِچ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندے"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "تے ہنیری وِچ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ویندے"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "تے ہنیری وِچ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڈھکیج ویندے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:39.372586008Z",
+  "model": "glm-5.3"
+}

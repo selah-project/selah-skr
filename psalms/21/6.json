@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تیݙی نجات وِچ اوندا جلال وݙا ہے؛ ہود تے ہدار اوں اُتے رکھسیں۔",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "اوندا جلال"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "تیݙی نجات وِچ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ہود"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے ہدار"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "رکھسیں"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:16.118617274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "چست بھڄ نہ سکے، تے بہادر بچ نہ سکے — اُبھے پاسے، دریائے فرات دے کنارے، او کھنڈیج پئے تے ڈھہہ پئے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھڄ سکے"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "چست"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچ سکے"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اُبھے پاسے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دریائے"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "کھنڈیج پئے"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "تے ڈھہہ پئے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:19:12.612854717Z",
+  "model": "glm-5.3"
+}

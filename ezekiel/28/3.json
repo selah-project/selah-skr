@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "ݙیکھ، توں دانی ایل توں سیاݨاں ہیں؛ کوئی لُکا ہویا ڳالھ تیکوں نہ لُکی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨاں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "دانی ایل توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "لُکا ہویا ڳالھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "تیکوں لُکی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:25.889644346Z",
+  "model": "glm-5.3"
+}

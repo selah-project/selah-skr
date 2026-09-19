@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اَبشالوم اَخیتوپھیل کوں آکھیا: “تُساں صلاح ݙیؤ، اساں کیا کریے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اَخیتوپھیل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کریے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:57:49.120433102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 112,
+  "translation": "کیوں جو اوہ ہمیشاں کݙاہیں نہ ہلسے؛ راست باز دا ناں ہمیشہ دی یادگار رہسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشاں کیتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلسے"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "یادگار کیتے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست باز"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:03.002374007Z",
+  "model": "glm-5.3"
+}

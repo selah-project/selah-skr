@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 35,
+  "translation": "لاوڑے ہتھ مضبوط کرو، تے لُڑھدے گُٹھاں کوں تکڑا کرو۔",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "مضبوط کرو"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "لاوڑے"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "تے گُٹھے"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "لُڑھدے"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "تکڑا کرو"
+    }
+  ],
+  "timestamp": "2026-09-19T17:45:49.046729606Z",
+  "model": "glm-5.3"
+}

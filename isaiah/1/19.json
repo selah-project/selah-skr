@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "جے تُساں راضی تھیوو تے سݨو، زمین دا بھلا کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "راضی تھیوو"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "تے سݨو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:33:00.379908054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "یاہوہ دا آواز بھاہ دے شعلے تراشیندے۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "تراشیندے"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شعلے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بھاہ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:54.637120422Z",
+  "model": "glm-5.3"
+}

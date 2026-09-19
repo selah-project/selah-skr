@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "مزہ پیار کرݨ آلا بندہ محتالی دا رہسی، تے شراب تے تیل پیار کرݨ آلا امیر نہ تھیسی۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "محتالی دا"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرݨ آلا"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "مزہ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرݨ آلا"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "تے تیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "امیر تھیسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:54.933357653Z",
+  "model": "glm-5.3"
+}

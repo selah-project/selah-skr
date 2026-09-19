@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے او یہوداہ دے پہاڑاں وِچ شہر بݨائے، تے جنگلاں وِچ قلعے تے مینار بݨائے۔",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "تے شہر"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑاں وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "تے جنگلاں وِچ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "تے مینار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:56:09.204261556Z",
+  "model": "glm-5.3"
+}

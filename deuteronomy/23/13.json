@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تے تیݙے کیتے ہِک جاہ ہووے پڑاؤ توں ٻاہر، تے تُوں اُتھاں ٻاہر ونجسیں۔",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "تے ہِک جاہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاؤ توں"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "تے ونجسیں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ٻاہر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:55.447592887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یہوآش ست سالاں دا ہا جݙاں او بادشاہ بݨیا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یہوآش"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "بادشاہ بݨݨ ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:26:29.913263163Z",
+  "model": "glm-5.3"
+}

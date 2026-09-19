@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "میݙے پُتر، آپݨاں دِل میکوں ݙے، تے آپݨیاں اکھیں میݙیاں رستیاں توں چس چاون۔",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "آپݨاں دِل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "تے آپݨیاں اکھیں"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میݙیاں رستیاں"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "چس چاون"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:29.109237064Z",
+  "model": "glm-5.3"
+}

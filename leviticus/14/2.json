@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہ کوڑھی دی تورات ہوسی، اُوندی پاکیزگی دے ݙینہہ: او کاہن کولھ گھنایا ویسی۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "کوڑھی دی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "اُوندی پاکیزگی"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "گھنایا ویسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولھ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:05.238736633Z",
+  "model": "glm-5.3"
+}

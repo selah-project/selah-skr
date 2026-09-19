@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوں آکھیا: “مہربانی کر کے میکوں ⟨את⟩ تیݙا جلال ݙکھا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "میکوں ݙکھا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی کر کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙا جلال"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "تیݙا جلال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:36.936502979Z",
+  "model": "glm-5.3"
+}

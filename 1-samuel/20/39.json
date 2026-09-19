@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے نوجوان کوں کجھ وی علم کائنی؛ صرف یہوناتان تے داوِد ⟨את⟩ ڳالھ ڄاݨدے ہن۔",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "تے نوجوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کجھ وی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدے ہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:44:44.883767560Z",
+  "model": "glm-5.3"
+}

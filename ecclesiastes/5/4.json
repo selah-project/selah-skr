@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "چنگا ایہ ہے جو نذر نہ مَنی، نہ جو نذر مَنی تے پوری نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر مَنی"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "نذر مَنیں تو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "پوری کرے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:16.846947836Z",
+  "model": "glm-5.3"
+}

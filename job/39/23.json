@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 39:23",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "اوندے اُتے تِرکاش کڑکدے، چمکدا نیزہ تے بَرمچھا۔",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "اوندے اُتے"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "کڑکدے"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "تِرکاش"
+    },
+    {
+      "surface": "להב",
+      "gloss": "چمکدا"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "نیزہ"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "تے بَرمچھا"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:43.552609275Z",
+  "model": "glm-5.3"
+}

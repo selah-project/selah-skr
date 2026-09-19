@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 5:3",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے کجھ اہہ جِہڑے آہدن: “ساݙے کھیت، ساݙیاں وَ upgrades، ساݙے گھر — اِنہاں کوں ڳروی رکھ تے بُکھ وِچ دَاݨے گھن آؤں۔”",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "تے کجھ اہہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آہدن"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "ساݙے کھیت"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "تے ساݙیاں وَ upgrades"
+    },
+    {
+      "surface": "ובתינו",
+      "gloss": "تے ساݙے گھر"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اساں"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ڳروی رکھدے"
+    },
+    {
+      "surface": "ונקחה",
+      "gloss": "گھن آؤں"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "دَاݨے"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "بُکھ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:31:03.004987008Z",
+  "model": "glm-5.3"
+}

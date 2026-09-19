@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "یاہوہ کوں اوندے ناں دا جلال ݙیؤ، قربانی چا آؤ تے اوندے صحنیں وچ آؤ۔",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ݙیؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوں دے ناں دا"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "چا آؤ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "تے آؤ"
+    },
+    {
+      "surface": "לחצרותיو",
+      "gloss": "اوندے صحنیں وچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:34.418234298Z",
+  "model": "glm-5.3"
+}

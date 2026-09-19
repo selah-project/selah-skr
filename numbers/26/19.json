@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یہوداہ دے پُتر عیر تے اونان ہن، تے عیر تے اونان کنعان دی زمین وِچ مر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "تے اونان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳئے"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "تے اونان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:51.567279077Z",
+  "model": "glm-5.3"
+}

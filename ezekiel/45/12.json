@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "تے شیکل ویہہ گیرہ ہووے؛ ویہہ شیکل، پنج تے ویہہ شیکل، ݙاہ تے پنج شیکل — تُہاݙا منہ ہووے۔",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "تے شیکل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیرہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:45:57.607925589Z",
+  "model": "glm-5.3"
+}

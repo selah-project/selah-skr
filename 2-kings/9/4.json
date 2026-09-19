@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے نبی دا نوجوان — نوجوان نبی — راموت گِلعاد ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے ڳیا"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی دا"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-09-19T17:23:42.508679024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "مبارک ہو یاہوہ ہمیشہ کیتے، آمین تے آمین۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک ہو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "تے آمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:00.375874159Z",
+  "model": "glm-5.3"
+}

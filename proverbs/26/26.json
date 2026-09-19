@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "دشمنی دھوکے نال لُک سڳدی ہے، پر اوندی برائی مجلس وِچ ظاہر تھی ویسی۔",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "لُک سڳدی ہے"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "دشمنی"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "دھوکے نال"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ظاہر تھی ویسی"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "اوندی برائی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجلس وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:50:35.322627193Z",
+  "model": "glm-5.3"
+}

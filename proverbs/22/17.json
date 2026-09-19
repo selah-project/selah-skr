@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تیݙا کن جھکا تے عقلمنداں دے لفظ سݨ، تے تیݙا دل میݙی ڄاݨ اُتے لا۔",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "جھکا"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تیݙا کن"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سݨ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "عقلمنداں دے"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "تے تیݙا دل"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "میݙی ڄاݨ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:10.923949756Z",
+  "model": "glm-5.3"
+}

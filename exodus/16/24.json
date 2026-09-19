@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے او ⟨אתו⟩ صبح تئیں رکھیا، جیویں موشے حکم کیتا ہئی، تے او نہ بدبو ݙتی تے اوندے وِچ کیڑا نہ ہا۔",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "او (من)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا ہئی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "بدبو ݙتی"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "تے کیڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:52:40.936209331Z",
+  "model": "glm-5.3"
+}

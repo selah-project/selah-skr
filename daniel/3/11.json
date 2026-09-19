@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے جو نہ ڈھہسی تے نہ سجدہ کریسی، او بھاہ دی بھڑکی ہوئی بھٹی وِچ سٹیا ویسی۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈھہسی"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "سجدہ کریسی"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "سٹیا ویسی"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "بھٹی"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "بھڑکی ہوئی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:20:20.237213971Z",
+  "model": "glm-5.3"
+}

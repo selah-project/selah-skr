@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "کیوں جو سِدھے لوک مُلک وِچ رہسن، تے کامل لوک اوندے وِچ ٹِکسن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھے لوک"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رہسن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "مُلک وِچ"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "تے کامل لوک"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "ٹِکسن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:51.976129902Z",
+  "model": "glm-5.3"
+}

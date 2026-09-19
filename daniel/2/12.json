@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایں ڳالھ توں بادشاہ غصے تے ٻہوں قہر وِچ آ ڳیا، تے حکم ݙتوس جو بابل دے سارے عالم مارے ونڄن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "تے قہر"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے حکم ݙتوس"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "مارݨ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "عالماں"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:19:38.274880082Z",
+  "model": "glm-5.3"
+}

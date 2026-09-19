@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ایہ اوندا تورات ⟨ہدایت⟩ ہے جیندے وِچ کوڑھ دا روگ لڳیا ہووے، جیندے پاک تھیوݨ وِچ اوندا ہتھ نہ پُڄ سڳدا۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "روگ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "کوڑھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "پُڄ سڳدا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوندا ہتھ"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "اوندے پاک تھیوݨ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:42.053492777Z",
+  "model": "glm-5.3"
+}

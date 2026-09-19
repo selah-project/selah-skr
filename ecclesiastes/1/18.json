@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیوں جو ٻہوں دانائی وِچ ٻہوں کڑاہٹ ہے، تے جیہڑا علم ودھیندے اوہ درد ودھیندے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ٻہوں وِچ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "کڑاہٹ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "تے ودھیندے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ودھیندے"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "درد"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:49.010940585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 15:5",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "کیوں جو کون تیݙے اُتے ترس کریسی، یروشلایم؟ تے کون تیکوں واسطے سوگ کریسی؟ تے کون ہٹ کے تیݙی خیریت پچھسی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "ترس کریسی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "سوگ کریسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ہٹ کے"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "پچھسی"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "خیریت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙی"
+    }
+  ],
+  "timestamp": "2026-09-19T18:04:12.059837439Z",
+  "model": "glm-5.3"
+}

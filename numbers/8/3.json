@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے اہرون ایہو کیتا: منورہ دے اُتے دے پاسوں اوں اوندے دیوے چاتے، جیویں یاہوہ ⟨את⟩ موشے کوں حکم ݙتا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": " پاسے"
+    },
+    {
+      "surface": "מול",
+      "gloss": "اُتے دے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پاسوں"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "منورہ دے"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "چاتے"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "اوندے دیوے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:39.532434014Z",
+  "model": "glm-5.3"
+}

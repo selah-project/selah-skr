@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙی نونہہ دی برہنگی نہ کھولیں؛ او تیݙے پُتر دی ذال ⟨ہے⟩؛ اوندی برہنگی نہ کھولیں۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "تیݙی نونہہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیݙے پُتر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "اوندی برہنگی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:57.575442344Z",
+  "model": "glm-5.3"
+}

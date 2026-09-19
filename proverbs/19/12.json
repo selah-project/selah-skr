@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "بادشاہ دا غصہ شیر دی دھاڑ وانگوں ہے، پر اوندا مزاج گھاہ اُتے شبنم وانگوں ہے۔",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "دھاڑ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "شیر وانگوں"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "تے شبنم وانگوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "اوندا مزاج"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.992063419Z",
+  "model": "glm-5.3"
+}

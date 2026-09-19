@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "جھیڑے دا مُنڈھ پاݨی کھولھݨ وانگوں ہے، تے پھٹݨ توں پہلے جھیڑا چھوڑ ݙے۔",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "کھولھݨ آلا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "مُنڈھ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "پھٹݨ"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "چھوڑ ݙے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:12.377947675Z",
+  "model": "glm-5.3"
+}

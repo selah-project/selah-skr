@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک ٻکرا، ٻکریاں وچوں، گناہ قربانی کیتے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻکریاں وچوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ قربانی کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:29:48.994531143Z",
+  "model": "glm-5.3"
+}

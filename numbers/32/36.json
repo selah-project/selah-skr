@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے بیت نمرہ ⟨את⟩، تے بیت ہاران ⟨את⟩ — مضبوط وستیاں، تے بھیݙاں دے واڑ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بیت نمرہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "نمرہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بیت ہاران"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ہاران"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "وستیاں"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "تے واڑ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیݙاں دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:45:56.957981636Z",
+  "model": "glm-5.3"
+}

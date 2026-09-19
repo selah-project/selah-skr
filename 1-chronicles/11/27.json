@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "شموث ہہروری، حلِتص ہپلونی۔",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "شموث"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ہہروری"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حلِتص"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ہپلونی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:44.617625043Z",
+  "model": "glm-5.3"
+}

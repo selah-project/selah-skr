@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "کیوں جو دولت ہمیشہ کیتے کائنی، تے نہ تاج نسلاں توں نسل تئیں ⟨رہندا⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسلاں توں"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:51:15.858006242Z",
+  "model": "glm-5.3"
+}

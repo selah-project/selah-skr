@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے اوں ⟨את⟩ ایفُود بݨایا — سونا، نیلا، ارغوان، شنی کیڑا ⟨قرمزی⟩ تے مہین سُتی کتان۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایفُود"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایفُود"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ارغوان"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "شنی کیڑا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨قرمزی⟩"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے کتان"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "سُتی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:05:57.530224274Z",
+  "model": "glm-5.3"
+}

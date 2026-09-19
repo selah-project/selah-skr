@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تُساں ہِک ݙینہہ نہ کھاوسی، تے ݙو ݙینہہ نہ، تے پنج ݙینہہ نہ، تے ݙاہ ݙینہہ نہ، تے ویہہ ݙینہہ نہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "کھاوسی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ݙو ݙینہہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:35:35.149898487Z",
+  "model": "glm-5.3"
+}

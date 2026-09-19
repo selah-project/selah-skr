@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "پر میں ایل کوں ڳولیساں، تے ایلوہیم دو آپݨی عرض رکھیساں۔",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ڳولیساں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … دو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "رکھیساں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "آپݨی عرض"
+    }
+  ],
+  "timestamp": "2026-09-19T19:54:36.965107167Z",
+  "model": "glm-5.3"
+}

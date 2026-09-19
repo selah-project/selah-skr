@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے قوم موشے اُتے بُڑ بُڑ کیتی، آکھ تے: “اساں کیا پِسوں؟”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "بُڑ بُڑ کیتی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "پِسوں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:49:47.863021185Z",
+  "model": "glm-5.3"
+}

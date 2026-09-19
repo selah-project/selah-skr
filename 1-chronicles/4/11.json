@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے کلوب — شوخاہ دا بھرا — ⟨את⟩ مَخیر کوں ڄݨایا؛ او اِشتون دا پیو ہا۔",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "تے کلوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "شوخاہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄݨایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَخیر"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مَخیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "اِشتون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:56.680646989Z",
+  "model": "glm-5.3"
+}

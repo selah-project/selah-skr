@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 44,
+  "translation": "مہتر کیتے، قورخ دے پُتراں کیتے، ہِک مَشکیل ⟨سمجھاؤݨ آلی نظم⟩۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مہتر کیتے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کیتے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورخ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَشکیل"
+    }
+  ],
+  "timestamp": "2026-09-19T19:16:12.101951959Z",
+  "model": "glm-5.3"
+}

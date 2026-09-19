@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے اوندے سنکے تے اوندیاں تھالیاں خالص سونے دیاں ہوون۔",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "اوندے سنکے"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "اوندیاں تھالیاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-09-19T14:56:44.972158904Z",
+  "model": "glm-5.3"
+}

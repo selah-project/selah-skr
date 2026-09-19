@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے ہُݨ ݙیکھ، یاہوہ اِنہاں تیݙے نبیاں دے مُنہ وِچ کُوڑ دی روح ݙتی ہے، تے یاہوہ تیݙے اُتے برائی آکھی ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ دی"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "مُنہ وِچ"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "نبیاں دے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِنہاں"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی ہے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:41.532689619Z",
+  "model": "glm-5.3"
+}

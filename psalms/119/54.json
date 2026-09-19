@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تیݙے فرضے میݙے ڳیت بݨ ڳئے ہن میݙے پردیس دے گھر وِچ۔",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ڳیت"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بݨ ڳئے ہن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیݙے فرضے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "میݙے پردیس دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:22.055750476Z",
+  "model": "glm-5.3"
+}

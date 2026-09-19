@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "پر تُوں، یاہوہ، ہمیشہ کیتے اُچے ⟨ہِیں⟩۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "پر تُوں"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیشہ کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:20.307731320Z",
+  "model": "glm-5.3"
+}

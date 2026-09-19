@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "زِوُلون دا ڳوتھے، تے زِوُلون دیاں اولاداں دا سردار اِلیاو، خیلون دا پُتر ہے۔",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ڳوتھے"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زِوُلون"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دیاں اولاداں دا"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زِوُلون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیاو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خیلون"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:15.741406299Z",
+  "model": "glm-5.3"
+}

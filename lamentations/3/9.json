@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اُوں میݙے راستے کھڈے پتھراں نال بند کیتے، میݙیاں پِٹاں کھڈیاں کر ݙتیاں۔",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "بند کیتے"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میݙے راستے"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "کھڈے پتھراں نال"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "میݙیاں پِٹاں"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "کھڈیاں کر ݙتیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:09:26.099075552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے کاہن اوندا ݙیکھسی، تے ݙیکھو، نیتِق چم وِچ پھیل ڳیا، تاں کاہن پیلا وال ڳولیسی نہ — او اَپوترا ہے۔",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "اوندا ݙیکھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیل ڳیا"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نیتِق"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "ڳولیسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "وال"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "پیلا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اَپوترا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:41.137948146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "سَلمَا بیت لَخم دا پیو، خارِف بیت گادِر دا پیو۔",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "سَلمَا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَخم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "خارِف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گادِر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:20.394017521Z",
+  "model": "glm-5.3"
+}

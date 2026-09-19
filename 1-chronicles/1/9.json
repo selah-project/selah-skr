@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے کُوش دے پُتر ہن: سیبع تے حویلاہ تے سبطا تے رعمہ تے سبطخا؛ تے رعمہ دے پُتر ہن: شِبع تے دِدان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سیبع"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "تے حویلاہ"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "تے سبطا"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "تے رعمہ"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "تے سبطخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "رعمہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "تے دِدان"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:21.525698070Z",
+  "model": "glm-5.3"
+}

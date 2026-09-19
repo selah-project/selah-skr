@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "یاہوہ دا ݙر ݙینہہ ودھیندے، پر رشعات دیاں سالاں گھٹ کیتیاں ویسن۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ودھیندے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "پر سالاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشعات دیاں"
+    },
+    {
+      "surface": "תקצورנה",
+      "gloss": "گھٹ کیتیاں ویسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:37.601753478Z",
+  "model": "glm-5.3"
+}

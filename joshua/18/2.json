@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے یِسرائیل دے پُتریں وِچ ست قبیلے بچے، جنہاں آپݨی وراثت ⟨את⟩ نہ ونڈی۔",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "بچے"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "پُتریں وِچ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ونڈی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی وراثت"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "آپݨی وراثت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "قبیلے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:15:27.379612880Z",
+  "model": "glm-5.3"
+}

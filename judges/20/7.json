@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "ݙیکھو، تُساں سبھ اسرائیل دے پُتر ہیوے؛ اِتھاں آپݨی ڳالھ تے صلاح ݙیوو۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "تُساں سبھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیوو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "آپݨی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "تے صلاح"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "اِتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:30:56.487061913Z",
+  "model": "glm-5.3"
+}

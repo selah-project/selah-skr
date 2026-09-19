@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے یعقوو اپݨے پیر چاتے تے پوادھ دے لوکاں دی دھرتی ول ٹُر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "چاتے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اپݨے پیر"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی ول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "لوکاں دی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پوادھ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:24.346575748Z",
+  "model": "glm-5.3"
+}

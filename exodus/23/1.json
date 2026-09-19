@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "توں جھوٹی سُݨی ہوئی ڳالھ نہ کھنڈاویں؛ ظالم دے نال اپݨا ہتھ نہ رکھیں، جو توں زبردستی دا گواہ بݨیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "کھنڈاویں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُݨی ہوئی ڳالھ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "رکھیں"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپݨا ہتھ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم دے"
+    },
+    {
+      "surface": "להית",
+      "gloss": "بݨیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زبردستی دا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:49.845327718Z",
+  "model": "glm-5.3"
+}

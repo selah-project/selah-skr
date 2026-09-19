@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "سیاݨے کوں ⟨ݙے⟩، تے او ہور سیاݨا تھیسی؛ راستباز کوں ڄاݨ ݙے، تے او ودھیک سمجھ گھسی۔",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ݙے"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "سیاݨے کوں"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "تے سیاݨا تھیسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ڄاݨ ݙے"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستباز کوں"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "تے ودھیک گھسی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:43:30.373954817Z",
+  "model": "glm-5.3"
+}

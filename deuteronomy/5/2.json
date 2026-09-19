@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "یاہوہ ساݙا ایلوہیم ساݙے نال حورَب وِچ عہد کیتا۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ساݙے نال"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حورَب وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:51:11.452038394Z",
+  "model": "glm-5.3"
+}

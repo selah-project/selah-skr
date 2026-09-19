@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 33:34",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے اوہ یاطبَتہ توں ٹُرے، تے عَبرونہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מיטבתה",
+      "gloss": "یاطبَتہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בעברנה",
+      "gloss": "عَبرونہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:48.489084370Z",
+  "model": "glm-5.3"
+}

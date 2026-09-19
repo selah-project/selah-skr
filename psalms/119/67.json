@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "دکھ وِچ نہ آیا ہم، میں بھُلandi ہم؛ پر ہُݨ میں تیݙا لوظ رکھیا ہے۔",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "توں پہلے"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "دکھ وِچ آواں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "بھُلandi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "پر ہُݨ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیݙا لوظ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "میں رکھیا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:47.094052551Z",
+  "model": "glm-5.3"
+}

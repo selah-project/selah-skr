@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ڳاؤ تے خوش تھیو، صیہون دی دھی، کیوں جو ݙیکھو، میں آندا ہاں تے تیݙے وِچ وسرساں — یاہوہ دا اعلان۔",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ڳاؤ"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "تے خوش تھیو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیہون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ݙیکھو، میں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آندا ہاں"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "تے وسرساں"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "تیݙے وِچ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:03:17.881235913Z",
+  "model": "glm-5.3"
+}

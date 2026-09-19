@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "عُزیا عشتارتی، شمع تے یِعوایل، حوتام عروعری دے پُتر،",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "عُزیا"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "عشتارتی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شمع"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "تے یِعوایل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "عروعری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:27.744205504Z",
+  "model": "glm-5.3"
+}

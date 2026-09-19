@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تُساں سال بہ سال ⟨את⟩ سارے اپݨے بیج دا فصل، جو کھیت توں نکلدا ہے، دہواں لاؤ۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دہواں"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "لاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے فصل کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "زרעך",
+      "gloss": "تیݙے بیج دا"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "جو نکلدا ہے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت توں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "بہ سال"
+    }
+  ],
+  "timestamp": "2026-09-19T15:56:11.875216478Z",
+  "model": "glm-5.3"
+}

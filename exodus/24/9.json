@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "تے موشے، اہرون، ناداب تے اَبیہو، تے یِسرایل دے ستر بزرگ چڑھ ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ ڳیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "تے اَبیہو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستر"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-19T14:55:41.144103757Z",
+  "model": "glm-5.3"
+}

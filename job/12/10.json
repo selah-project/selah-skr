@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "جیندا سَبھ جِیندی جان دا نفس اونڈے ہتھ وِچ ہے، تے ہر بشر آدمی دی روح۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیندا"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اونڈے ہتھ وِچ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیندی"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:55:36.184174249Z",
+  "model": "glm-5.3"
+}

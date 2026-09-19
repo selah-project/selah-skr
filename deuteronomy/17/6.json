@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "ݙو گواہاں دے منہ اُتے یا ترے گواہاں دے منہ اُتے، او جیڑھا مرݨ والا ہے، ماریا ویسی؛ ہِک گواہ دے منہ اُتے او ماریا نہ ویسی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہاں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہاں"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا ویسی"
+    },
+    {
+      "surface": "המת",
+      "gloss": "او مرݨ والا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا ویسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T21:06:21.883537733Z",
+  "model": "glm-5.3"
+}

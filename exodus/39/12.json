@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "تے تریجھی قطار: لشیم ⟨جاسنٹ⟩، شیوو ⟨عقیق⟩ تے اَخلَمہ ⟨جمشت⟩۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "تے قطار"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تریجھی"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لشیم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شیوو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "تے اَخلَمہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:12.042252088Z",
+  "model": "glm-5.3"
+}

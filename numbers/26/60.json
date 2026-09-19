@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے اہرون کیتے ⟨את⟩ نادب تے ⟨את⟩ اَویہو، ⟨את⟩ اِلعازر تے ⟨את⟩ ایتامر ڄمائے ڳئے۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "تے ڄمائے ڳئے"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نادب"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نادب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَویہو"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "اَویہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلعازر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ایتامر"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ایتامر"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:17.461960197Z",
+  "model": "glm-5.3"
+}

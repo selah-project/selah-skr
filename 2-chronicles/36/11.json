@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ویہہ تے ہِک سال دا پُتر صِدقیاہو ہا اوں دے راج وِچ، تے یارھاں سال اُوں یروشلایم وِچ راج کیتا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "تے ہِک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "اوں دے راج وِچ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "تے ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:00:47.060307195Z",
+  "model": "glm-5.3"
+}

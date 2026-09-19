@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "مُقابلے والے کیتے، مزامیر دا، داوِد دی طرفوں۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُقابلے والے کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزامیر دا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی طرفوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:12:21.313144625Z",
+  "model": "glm-5.3"
+}

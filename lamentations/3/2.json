@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اُوں میکوں ⟨את⟩ ⟨אותי⟩ ہَکل ݙتا تے اندھارے وِچ ٹُرایا، تے چانݨ ول کائنی۔",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "میکوں"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ہَکل ݙتا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُرایا"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھارے وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:10:00.167174853Z",
+  "model": "glm-5.3"
+}

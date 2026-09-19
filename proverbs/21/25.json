@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "کاہل دی تانگھ اونکوں مرویندی ہے، کیوں جو اوندے ہتھ کرݨ توں منکر ہن۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تانگھ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل دی"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "اونکوں مرویندی ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "منکر ہن"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرݨ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:50.614780158Z",
+  "model": "glm-5.3"
+}

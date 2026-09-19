@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے موشے آکھیا: “ٹھیک آکھیا ہئی، میں ول تیݙا مُکھ نہ ݙیکھساں۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ٹھیک"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "آکھیا ہئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ول"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ودیک"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ݙیکھݨ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا مُکھ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:04.522861344Z",
+  "model": "glm-5.3"
+}

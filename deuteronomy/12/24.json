@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "نہ اونکوں کھاویسی؛ زمین اُتے اونکوں پاݨی وانگوں ڈھاویسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "اونکوں کھاویسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "اونکوں ڈھاویسی"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاݨی وانگوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:55:40.151764363Z",
+  "model": "glm-5.3"
+}

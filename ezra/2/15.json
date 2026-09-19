@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "عادین دے پُتر، چار سو پنجاہ تے چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:30.972350499Z",
+  "model": "glm-5.3"
+}

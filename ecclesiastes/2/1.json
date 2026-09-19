@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "میں آپݨے دل وِچ آکھیا: “آ ہُݨ میں تیکوں خوشی نال آزماواں تے بھلائی ݙیکھاں۔” تے ݙیکھو، اوہ وی ہیبل ہے۔",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "آپݨے دل وِچ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "آزماواں"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خوشی نال"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ݙیکھاں"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیبل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:01.415711302Z",
+  "model": "glm-5.3"
+}

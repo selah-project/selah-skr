@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 148,
+  "translation": "بھا تے اولے، برف تے کُہڑ، طوفان دی ہوا جیہڑی اُوندا آکھیا پُڄا ݙیندی ہے۔",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "بھا"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "تے اولے"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "تے کُہڑ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "طوفان دی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پُڄا ݙیندی ہے"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "اُوندا آکھیا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:28.440194217Z",
+  "model": "glm-5.3"
+}

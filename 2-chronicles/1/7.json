@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اُوں رات وِچ ایلوہیم شلومو کوں ظاہر تھیا، تے اوں کوں آکھیس: ‘منگ، جو میں تیکوں ݙیواں۔’",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "اُوں رات وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہے"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاہر تھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو کوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "منگ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ݙیواں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:36.413042931Z",
+  "model": "glm-5.3"
+}

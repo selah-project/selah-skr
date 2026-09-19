@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "اِیویں اِی بُڈھے ویلے پَھل ݙیسن، تَر تے ساوے رَہسن۔",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "اِیویں اِی"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "پَھل ݙیسن"
+    },
+    {
+      "surface": "بשיבה",
+      "gloss": "بُڈھے ویلے"
+    },
+    {
+      "surface": "دשנים",
+      "gloss": "تَر"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "تے ساوے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رَہسن"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:33.468220587Z",
+  "model": "glm-5.3"
+}

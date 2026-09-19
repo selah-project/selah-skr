@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "شِمعون دے قبیلے توں شافاط، خوری دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے توں"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافاط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "خوری"
+    }
+  ],
+  "timestamp": "2026-09-19T15:33:14.929856634Z",
+  "model": "glm-5.3"
+}

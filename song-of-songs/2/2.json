@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "جیویں کنول کانڈیاں وِچ، اونویں میݙی یار چھوہراں وِچ۔",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "جیویں کنول"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "کانڈیاں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اونویں"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میݙی یار"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "چھوہراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:06:20.349626194Z",
+  "model": "glm-5.3"
+}

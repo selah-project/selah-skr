@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ایہے اہرون تے موشے دیاں نسلاں ہن، اوں ݙینہہ جݙاں یاہوہ موشے نال کوہ سِینای اُتے ڳالھ کیتی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہے"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلاں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "تے موشے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہ اُتے"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سِینای"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:10.418035194Z",
+  "model": "glm-5.3"
+}

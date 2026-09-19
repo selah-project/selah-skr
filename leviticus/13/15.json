@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے کاہن ⟨את⟩ جِیندے گوشت کوں ݙیکھسی تے اونکوں نجس قرار ݙیسی — جِیندا گوشت نجس ہے، او صرع ہے۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جِیندے گوشت کوں"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "نجس قرار ݙیسی"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:13:58.607170172Z",
+  "model": "glm-5.3"
+}

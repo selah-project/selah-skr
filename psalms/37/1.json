@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 37,
+  "translation": "داوِد دا۔ بدکاراں توں چِڑھ نہ، تے ظلم کرݨ آلیاں توں حسد نہ کر۔",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "چِڑھ"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "بدکاراں توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد کر"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "کرݨ آلیاں توں"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:14:32.304673342Z",
+  "model": "glm-5.3"
+}

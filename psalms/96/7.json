@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 96,
+  "translation": "قومیں دے گھرانو، یاہوہ کوں ݙیؤ، یاہوہ کوں جلال تے زور ݙیؤ۔",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ݙیؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "گھرانو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں دے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ݙیؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کوں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے زور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:34.418106059Z",
+  "model": "glm-5.3"
+}

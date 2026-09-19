@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "چٹان وِچ ون٘ڄ، تے مِٹی وِچ لُک، یاہوہ دے ݙر توں تے اُوندے جلال دی شان توں۔",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "ون٘ڄ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "چٹان وِچ"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "لُک"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "مِٹی وِچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "شان توں"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "اُوندے جلال دی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:31:51.062489069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 18:22",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے اسرائیل دے پُتر ہُݨ وَدھ خیمہ ملاقات دے نزدیک نہ تھیون، گناہ چاوݨ کیتے، مرݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "نزدیک تھیون"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہُݨ وَدھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چاوݨ کیتے"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:39:06.319879919Z",
+  "model": "glm-5.3"
+}

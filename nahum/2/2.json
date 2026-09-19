@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "چھڑاوݨ آلا تیݙے اڳوں چڑھ آیا ہے؛ قلعہ راکھو، رستہ ݙیکھو، کمراں کڑھو، طاقت ٻہوں مضبوط کرو۔",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ آیا"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "چھڑاوݨ آلا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙے اڳوں"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "راکھو"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "کڑھو"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "کمراں"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "مضبوط کرو"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ٻہوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:35.710009292Z",
+  "model": "glm-5.3"
+}

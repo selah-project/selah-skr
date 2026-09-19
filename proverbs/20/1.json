@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "شراب مَتہما ہے، نشہ آلا شراب ہُلڑ مچیندا ہے؛ تے جیہڑا اوندے وِچ رل ویندے، او سیاݨا کائنی۔",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "مَتہما"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ہُلڑ مچیندا ہے"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "نشہ آلا شراب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "رل ونڄݨ آلا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "سیاݨا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:52.712164201Z",
+  "model": "glm-5.3"
+}

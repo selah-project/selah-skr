@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "بُڈھا تے عزت آلا — او ہے سِر؛ تے نبی جیہڑا کُوڑ سکھیندے — او ہے پوچھل۔",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "بُڈھا"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "تے عزت آلا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨منہ⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "سکھیندے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کُوڑ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "پوچھل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:36:34.445179356Z",
+  "model": "glm-5.3"
+}

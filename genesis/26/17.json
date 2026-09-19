@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے یِتصخاق اُتھوں ٹُر ڳیا، تے گِرار دے وادی وِچ ڈیرے لائیس، تے اُتھاں وس ڳیا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ڈیرے لائیس"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گِرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وس ڳیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:10.937441925Z",
+  "model": "glm-5.3"
+}

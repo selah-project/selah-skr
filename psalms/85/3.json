@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "تُوں تیݙی قوم دا جرم چاتا، تُوں انہاں دے سارے پاپ ڈھک پاتے۔ سِلاہ",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "چاتا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "جرم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙی قوم"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ڈھک پاتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:49.542181443Z",
+  "model": "glm-5.3"
+}

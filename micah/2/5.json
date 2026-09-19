@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ایں کیتے تیݙے کیتے کوئی نہ ہوسی جیہڑا یاہوہ دی جماعت وِچ قرعے نال ڈور سٹے۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "سٹݨ والا"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڈور"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "قرعے نال"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:17.832329885Z",
+  "model": "glm-5.3"
+}

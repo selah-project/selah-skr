@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "اہرون نال ڳالھ کر، تے اوں کوں آکھ: «جݙاں تُساں دیوے چاتے، منورہ دے اُتے دے پاسوں، او سَت دیوے چمکسن۔»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "جݙاں تُساں چاتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیوے"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "دیوے"
+    },
+    {
+      "surface": "אל",
+      "gloss": " پاسے"
+    },
+    {
+      "surface": "מול",
+      "gloss": "اُتے دے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پاسوں"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "منورہ دے"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "چمکسن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "دیوے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:32:39.532248498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "تُساں نزدیک ہو، یاہوہ، تے تیݙیاں ساریاں حکماں سچ ہن۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساریاں"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیݙیاں حکماں"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:40.390436606Z",
+  "model": "glm-5.3"
+}

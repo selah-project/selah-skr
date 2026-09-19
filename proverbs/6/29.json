@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ایویں ⟨ہے⟩ جو اپݨے سنگتی دی ذال کول ونڄݨ آلا — اوہکوں ہتھ لاوݨ آلا کوئی وی معاف نہ تھیسی۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ونڄݨ آلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپݨے سنگتی دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "معاف تھیسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ہتھ لاوݨ آلا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:08.457848593Z",
+  "model": "glm-5.3"
+}

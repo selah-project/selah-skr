@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "اوں آپݨی قوم کوں آکھیس: “ݙیکھو، بنی اِسرائیل دی قوم اساں توں ودھ تے تکڑی ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آپݨی قوم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ودھ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "تے تکڑی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اساں توں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:43:25.163941239Z",
+  "model": "glm-5.3"
+}

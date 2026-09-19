@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ڈھول دا چرھا ونجھ ڳیا، خوشی کرݨ آلیاں دا رول رک ڳیا، رباب دی خوشی ونجھ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ونجھ ڳیا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "چرھا"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "ڈھول دا"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "رک ڳیا"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "رول"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "خوشی کرݨ آلیاں دا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ونجھ ڳئی"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "رباب دی"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:38.621262691Z",
+  "model": "glm-5.3"
+}

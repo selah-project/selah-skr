@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے زمین اپݨاں پَھل ݙیسی، تے تُساں رجح تئیں کھاؤ، تے اوندے اُتے بھروسے نال وسو۔",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ݙیسی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "اپݨاں پَھل"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "رجح تئیں"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "وسو"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:00.986058381Z",
+  "model": "glm-5.3"
+}

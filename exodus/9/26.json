@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "صرف گوشن دی زمین وِچ، جتھاں بنی یِسرایل ہن، اُتھاں اولے کائنی ہا۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشن دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "اولے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:45.540621799Z",
+  "model": "glm-5.3"
+}

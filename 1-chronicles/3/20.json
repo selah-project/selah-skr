@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے خَشُوبھاہ، تے اُوہیل، تے بِرخیاہ، تے خَسِدیاہ، یُوشَب خِیسِد — پنج۔",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "تے خَشُوبھاہ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "تے اُوہیل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "تے بِرخیاہ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "تے خَسِدیاہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "یُوشَب"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خِیسِد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-09-19T20:37:13.266832623Z",
+  "model": "glm-5.3"
+}

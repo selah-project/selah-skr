@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "رِتصین دے پُتر، نِقودا دے پُتر، گَزّام دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رِتصین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:23.147188774Z",
+  "model": "glm-5.3"
+}

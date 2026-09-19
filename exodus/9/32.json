@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "پر کنned تے سپلت نہ وَٹیاں، کیوں جو او ہریاں نہ ہن۔”",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "پر کنned"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "تے سپلت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "وَٹیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ہریاں نہ ہن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "او"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:17.145272637Z",
+  "model": "glm-5.3"
+}

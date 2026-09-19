@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "مِراری دے پُتر مَخلی تے موشی ہن؛ مَخلی دے پُتر اِلعازر تے قیش ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "تے موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخلی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "تے قیش"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:15.862224637Z",
+  "model": "glm-5.3"
+}

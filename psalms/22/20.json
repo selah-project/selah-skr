@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے تُوں، اے یاہوہ، پرے نہ تھی؛ میݙی طاقت، میݙی مدد کوں جلدی آ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "پرے تھی"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "میݙی طاقت"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "میݙی مدد کوں"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلدی آ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:06.040325878Z",
+  "model": "glm-5.3"
+}

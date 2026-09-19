@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ایلوہیم نوح کوں آکھیا: “ایہ ⟨ہے⟩ او عہد دا نشان جیہڑا میں آپݨے تے سارے گوشت دے وچالے کھڑا کیتا، جیہڑا زمین اُتے ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشانون"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "کھڑا کیتا"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میݙے وچالے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچالے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:28.819681821Z",
+  "model": "glm-5.3"
+}

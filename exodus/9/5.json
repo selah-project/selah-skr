@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یاہوہ ہِک مقرر وقت رکھیا، آکھݨ لڳا: “کل یاہوہ اِیں ڳالھ کوں اِیں زمین وِچ کریسی۔”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر وقت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ کوں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:47:59.967714Z",
+  "model": "glm-5.3"
+}

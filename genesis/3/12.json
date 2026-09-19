@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے اَدم آکھیا: “او ذال جیہڑی توں میݙے نال رکھی — اوں میکوں او رُکھ توں ݙتی، تے میں کھادا۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اَدم"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "او ذال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "توں رکھی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوں"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "او رُکھ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے میں کھادا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:58.784386817Z",
+  "model": "glm-5.3"
+}

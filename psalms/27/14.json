@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "یاہوہ دی اُمید رکھ؛ ہمت کر تے تیݙا دل بہادر بݨاویں؛ بلکہ یاہوہ دی اُمید رکھ۔",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "اُمید رکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دِی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ہمت کر"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "تے بہادر بݨ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "تے اُمید رکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دِی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:11:36.197270500Z",
+  "model": "glm-5.3"
+}

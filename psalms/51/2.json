@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 51,
+  "translation": "جݙاں نتن نبی اوں کول آیا، جݙاں او بت شبع کول ڳیا۔",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جݙاں آیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوں کول"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نتن"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:01.730465705Z",
+  "model": "glm-5.3"
+}

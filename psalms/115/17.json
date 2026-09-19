@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "مردے یاہ کوں تعریف نہ کریندے، تے نہ او کوئی جیہڑے خاموشی وِچ لہندے ہِن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کریندے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "لہندے ہِن"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "خاموشی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:32.425553617Z",
+  "model": "glm-5.3"
+}

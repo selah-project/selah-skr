@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "لِخیش، تے بُتصرات، تے عِگلون،",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "لِخیش"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "تے بُتصرات"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "تے عِگلون"
+    }
+  ],
+  "timestamp": "2026-09-19T16:14:32.896874206Z",
+  "model": "glm-5.3"
+}

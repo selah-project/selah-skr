@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "موشے اہرون کوں آکھیا: “اِیں قوم تیکوں کیا کیتا، جو تیں اُوندے اُتے اِیݙا وݙا گناہ گھن آندے؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "گھن آندے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "وݙا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:01:46.690663255Z",
+  "model": "glm-5.3"
+}

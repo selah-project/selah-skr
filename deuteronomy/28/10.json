@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے زمین دیاں ساریاں قوماں ݙیکھسن جو تیݙے اُتے یاہوہ دا ناں سݙیا ڳیا ہے، تے او تیݙے کنوں ݙرسن۔",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "تے ݙیکھسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "سݙیا ڳیا ہے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "تے او ݙرسن"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیݙے کنوں"
+    }
+  ],
+  "timestamp": "2026-09-19T16:02:56.713354482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "یوایل بھرا نتان دا، مبخار پُتر هاگری۔",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نتان"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "مبخار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "هاگری"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:24.308018623Z",
+  "model": "glm-5.3"
+}

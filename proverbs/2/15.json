@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "جِنہاں دے رستے ٹیڈھے ہِن، تے اپݨیاں پڳݨاں وِچ وِٹوڑے ہِن،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "دے رستے"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "ٹیڈھے ہِن"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "وِٹوڑے ہِن"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "پڳݨاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:42:21.596584215Z",
+  "model": "glm-5.3"
+}

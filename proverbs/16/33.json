@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "چھاتی وِچ ⟨את⟩ قرعہ سٹیا ویندا ہے، تے یاہوہ کنوں ہے اوندا سارا فیصلہ۔",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "چھاتی وِچ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "سٹیا ویندا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قرعہ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "تے یاہوہ کنوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "اوندا فیصلہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:46:39.528304596Z",
+  "model": "glm-5.3"
+}

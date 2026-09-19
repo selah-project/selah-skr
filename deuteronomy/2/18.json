@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "“تُساں اَڄ مُوآب دی ⟨את⟩ سرحد کوں، ⟨את⟩ عار کوں، پار کریسو۔”",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار کریسو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوآب دی سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:50.179080265Z",
+  "model": "glm-5.3"
+}

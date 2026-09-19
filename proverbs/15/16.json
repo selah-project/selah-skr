@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "یاہوہ دا ݙر نال تھوڑا چنگا ہے، ٻہوں خزانے تے اوندے وِچ ہنگامے توں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "دا ݙر نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "خزانے توں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٻہوں"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "تے ہنگامے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:01.857054287Z",
+  "model": "glm-5.3"
+}

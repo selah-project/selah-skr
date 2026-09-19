@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے پرعوہ اَوراہام کوں سݙیا تے آکھیا: “ایہ میݙے نال کیہ کیتائی؟ میکوں کیوں نہ ݙسیا جو او تیݙی ذال ہئی؟”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "اَوراہام کوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ݙسیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "تیݙی ذال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہئی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:52.897181413Z",
+  "model": "glm-5.3"
+}

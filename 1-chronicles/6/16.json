@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے ایہ اوہ ہِن جِنہاں کوں داوِد یاہوہ دے گھر وِچ ڳاوݨ دے کَم اُتے ٻلھایا، صندوق دے سُکون پاوݨ توں بعد۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں کوں"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ٻلھایا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاوݨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "سُکون پاوݨ توں"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:24.816032122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "دروازے کھولو، تے راست قوم آوے — او ایمانداری رکھیندا۔",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "کھولو"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے آوے"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "رکھیندا"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ایمانداری"
+    }
+  ],
+  "timestamp": "2026-09-19T17:41:14.350153649Z",
+  "model": "glm-5.3"
+}

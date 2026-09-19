@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "تے شاؤل ⟨את⟩ میکݙ کوں، داوِد دی ذال، پلٹی بن لایش کوں ݙتی، جیڑھا گلیم دا ہا۔",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "تے شاؤل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکݙ کوں"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "میکݙ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "پلٹی کوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "لایش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "گلیم دا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:47:29.718128156Z",
+  "model": "glm-5.3"
+}

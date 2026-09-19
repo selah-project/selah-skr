@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "ہِک برائی موجود ہے جو میں سِجھ ہیٹھ ݙٹھی، تے اوہ بندے اُتے بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "موجود ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ݙٹھی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "تے بھاری"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:22:27.729762607Z",
+  "model": "glm-5.3"
+}

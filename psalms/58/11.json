@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 58,
+  "translation": "راست دار خوش تھیسی جݙاں او بدلہ ݙیکھسی؛ او اپݨے پیر بلے دے لہو وِچ دھوسی۔",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "خوش تھیسی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست دار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙیکھسی"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "اپݨے پیر"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "دھوسی"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بلے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:18:20.714990204Z",
+  "model": "glm-5.3"
+}

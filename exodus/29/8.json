@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے ⟨את⟩ اوندے پُتر پیش کرو، تے اوںناں کوں کُرتے پوا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اوندے پُتر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "پیش کرو"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "تے پواؤ اوںناں کوں"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "کُرتے"
+    }
+  ],
+  "timestamp": "2026-09-19T14:58:46.061771814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یاہوہ دی ڳالھ، جیہڑی یواایل کوں، پتواایل دے پُتر کوں، تھئی۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یواایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "پتواایل",
+      "gloss": "پتواایل"
+    }
+  ],
+  "timestamp": "2026-09-19T18:51:45.165209321Z",
+  "model": "glm-5.3"
+}

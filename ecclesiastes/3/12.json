@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "میں ڄاݨدا ہاں جو اُنہاں وِچ کوئی بھلائی کائنی، سوائے خوش تھیوݨ دے تے اپݨی حیاتی وِچ بھلائی کرݨ دے۔",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "میں ڄاݨدا ہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "کوئی بھلائی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنہاں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سوائے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سوائے … دے"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "خوش تھیوݨ دے"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "تے کرݨ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "اپݨی حیاتی وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:00.528725255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "آرکھ دے پُتراں دی ڳݨتری چھی سو پنجاہ تے ݙو ہئی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "آرکھ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:07.795680296Z",
+  "model": "glm-5.3"
+}

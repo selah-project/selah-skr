@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے یِسرایل دے پُتر ⟨את⟩ پسح کوں اُوندے مقرر ویلھے وِچ کریجن۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کریجن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "اُوندے مقرر ویلھے وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:32.789071410Z",
+  "model": "glm-5.3"
+}

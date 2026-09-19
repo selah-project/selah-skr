@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اونام دے پُتر ہَن شمّای تے یادع؛ تے شمّای دے پُتر ہَن ندو تے اَبِیشور۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہَن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "تے یادع"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے … پُتر"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ندو"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "تے اَبِیشور"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.725551837Z",
+  "model": "glm-5.3"
+}

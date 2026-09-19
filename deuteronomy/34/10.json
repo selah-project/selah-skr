@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "تے یسرایل وِچ وَل موشے جیہا کوئی نبی نہ اُٹھیا، جینکوں یاہوہ مُنہہ نال مُنہہ ڄاݨدا ہا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یسرایل وِچ"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "موشے جیہا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جینکوں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨدا ہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مُنہہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مُنہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:07:47.530396030Z",
+  "model": "glm-5.3"
+}

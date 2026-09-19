@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙے پیو دی ذال دا ننگ تُساں نہ کھولھو — او تیݙے پیو دا ننگ ہے۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھو"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:35.950988560Z",
+  "model": "glm-5.3"
+}

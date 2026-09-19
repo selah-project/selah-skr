@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "سِدھیاں ڳالھیں دا جواب ݙیوݨ آلے دے ہونٹھاں کوں چُمدے ہن۔",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹھاں کوں"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "چُمدے ہن"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "جواب ݙیوݨ آلا"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "سِدھیاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:34.703844440Z",
+  "model": "glm-5.3"
+}

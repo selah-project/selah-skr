@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ستویں یِسرائلہ، اوندے پُتر تے اوندے بھرا ⟨ہن⟩ بارہ۔",
+  "tokens": [
+    {
+      "surface": "השבעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "ישראלה",
+      "gloss": "یِسرائلہ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ ⟨ہن⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "بارہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:00.494390822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "اوندے پیر موت دو لہندن؛ شیول دو اوندے قدم پکڑ گھندن۔",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "اوندے پیر"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "لہندن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول دو"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "اوندے قدم"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "پکڑ گھندن"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:56.022165592Z",
+  "model": "glm-5.3"
+}

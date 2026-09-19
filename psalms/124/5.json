@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 124,
+  "translation": "تݙاں زور آلے پاݨی ساݙی جان اُتے لنگھ ویندے۔",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھ ویندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساݙی جان"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "زور آلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:38:42.211799784Z",
+  "model": "glm-5.3"
+}

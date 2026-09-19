@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "کِتلے میں تیݙی تورات نال پیار کریندا، سارا ݙینہہ او میݙی سوچ ہے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِتلے"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "پیار کریندا"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تیݙی تورات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "میݙی سوچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:37:11.023586777Z",
+  "model": "glm-5.3"
+}

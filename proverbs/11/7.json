@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "شریر بندے دے مرݨ تے اوندی اُمید مُک ویندی ہے، تے طاقت وراں دی آس برباد تھی ڳئی۔",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "دے مرݨ تے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "مُک ویندی ہے"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "تے آس"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "طاقت وراں دی"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "برباد تھی ڳئی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:59.459067245Z",
+  "model": "glm-5.3"
+}

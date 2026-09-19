@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے میں ترے تیر پاسے تے ماریسی، میݙے کیتے نشانے تے چھوڑݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ماریسی"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "چھوڑݨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "نشانے تے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:44:29.380242954Z",
+  "model": "glm-5.3"
+}

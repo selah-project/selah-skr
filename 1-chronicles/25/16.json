@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 25:16",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "نَوویں مَتنیاہو، اوندے پُتر تے اوندے بھرا ⟨ہن⟩ بارہ۔",
+  "tokens": [
+    {
+      "surface": "התשיעי",
+      "gloss": "نَوویں"
+    },
+    {
+      "surface": "מתניהו",
+      "gloss": "مَتنیاہو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوندے بھرا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ ⟨ہن⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "بارہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:45:00.494814722Z",
+  "model": "glm-5.3"
+}

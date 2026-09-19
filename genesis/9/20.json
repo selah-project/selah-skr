@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے نوح، زمین دا بندہ، کاشت شروع کیتی تے انگوری رچائی۔",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "شروع کیتی"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین دا"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "رچائی"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوری"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:28.820165442Z",
+  "model": "glm-5.3"
+}

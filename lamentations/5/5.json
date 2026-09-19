@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "ساݙیاں گردناں اُتے اساں پِچھوں لائے ڳئے، اساں تھک ڳئے، ساکوں آرام نہ ݙتا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ساݙیاں گردناں"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "اساں پِچھوں لائے ڳئے"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "اساں تھک ڳئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "آرام ݙتا ڳیا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:11:45.308778714Z",
+  "model": "glm-5.3"
+}

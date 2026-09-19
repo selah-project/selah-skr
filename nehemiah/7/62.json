@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "دِلایا دے پُتر، تووِیا دے پُتر، نِقودا دے پُتر — چھ سَو چالھی ݙو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دِلایا دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "تووِیا دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا دے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالھی"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے ݙو"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:58.070532976Z",
+  "model": "glm-5.3"
+}

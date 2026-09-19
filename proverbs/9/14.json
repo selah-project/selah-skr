@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "او آپݨے گھر دے دروازے اُتے ٻہندی ہے، شہر دے اُچے ٹھانے تے، ⟨ہِک کرسی اُتے⟩،",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "ٻہندی ہے"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آپݨے گھر دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "کرسی"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "اُچے ٹھانے"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر دے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:01.676939871Z",
+  "model": "glm-5.3"
+}

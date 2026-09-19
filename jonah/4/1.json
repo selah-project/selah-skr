@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے یونہہ کیتے اِیہ وݙی برائی ہئی، تے اوندے تے غصہ ٻل پیا۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برا لڳا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ٻل پیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:57:03.591918691Z",
+  "model": "glm-5.3"
+}

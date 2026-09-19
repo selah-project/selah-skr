@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "اوہا ⟨ایہ⟩ ݙٹھا، تݙاں حیران تھئے، ݙر ڳئے، بھڄ تُرٹے۔",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اوہا"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "حیران تھئے"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ݙر ڳئے"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "بھڄ تُرٹے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:03.247906882Z",
+  "model": "glm-5.3"
+}

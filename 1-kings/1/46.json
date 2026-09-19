@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اِیہا وی جو شلومو بادشاہی دے تخت اُتے ٻیٹھا ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے اِیہا وی"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ٻیٹھا ہے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "بادشاہی دے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:03:44.446251999Z",
+  "model": "glm-5.3"
+}

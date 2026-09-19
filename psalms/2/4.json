@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اسماناں وِچ ٻیٹھا ہویا ہسی، ادونای انہاں تے مذاق اُڑیسی۔",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "ٻیٹھا ہویا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہسی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "مذاق اُڑیسی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انہاں تے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:38.213808018Z",
+  "model": "glm-5.3"
+}

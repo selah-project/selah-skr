@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "خشُم ⟨دے پُتر⟩ — ݙو سو تے ویہہ تے ترے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "خشُم"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:25:02.003734595Z",
+  "model": "glm-5.3"
+}

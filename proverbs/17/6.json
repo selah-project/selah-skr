@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "پوت پوترے بوڑھیاں دا تاج ⟨ہن⟩، تے پُتراں دی شان اوندے پیو ⟨ہن⟩۔",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بوڑھیاں دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُترے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "تے شان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "اوندے پیو"
+    }
+  ],
+  "timestamp": "2026-09-19T19:47:40.689672626Z",
+  "model": "glm-5.3"
+}

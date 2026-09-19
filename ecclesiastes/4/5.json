@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "بیوقوف ⟨את⟩ آپݨیاں ہتھاں کوں جوڑ رکھیندے، تے ⟨את⟩ آپݨاں گوشت کھا ویندے۔",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "بیوقوف"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "جوڑ رکھیندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨیاں ہتھاں"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "آپݨیاں ہتھاں"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے کھا ویندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨاں گوشت"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "آپݨاں گوشت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:12:59.374805298Z",
+  "model": "glm-5.3"
+}

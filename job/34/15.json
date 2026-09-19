@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 34,
+  "translation": "سارا جسم ہِکے ویلے دم توڑ ویسی، تے بندہ مٹی وِچ ولیس۔",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "دم توڑ ویسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ہِکے ویلے"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ ⟨کوں⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "یשוב",
+      "gloss": "ولیس"
+    }
+  ],
+  "timestamp": "2026-09-19T20:02:24.673087811Z",
+  "model": "glm-5.3"
+}

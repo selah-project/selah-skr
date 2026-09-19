@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے میں انہاں دے اکھیں اڳوں ⟨את⟩ باروخ کوں حکم ݙتا، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "انہاں دے اکھیں اڳوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:56.992781104Z",
+  "model": "glm-5.3"
+}

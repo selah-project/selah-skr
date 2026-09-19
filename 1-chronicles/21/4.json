@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "پر بادشاہ دا ↔ aktuell حکم یوآب اُتے پکا رہیا، تے یوآب نِکلیا تے سارے اِسرائیل وِچ پھر ڳیا، تے یروشلایم آ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پکا رہیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "پھر ڳیا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے وِچ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:53.615741072Z",
+  "model": "glm-5.3"
+}

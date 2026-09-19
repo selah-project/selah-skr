@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اوں ⟨את⟩ کروباں اُتے سونا چڑھایا۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "تے چڑھایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروباں"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:07:25.117653858Z",
+  "model": "glm-5.3"
+}

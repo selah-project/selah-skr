@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے پلو دے پُتر اِلیاب ہن۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "پلو"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیاب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:40:56.766066705Z",
+  "model": "glm-5.3"
+}

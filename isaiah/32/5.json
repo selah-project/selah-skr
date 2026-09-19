@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "نابال کوں ولا سردار نہ آکھیا ویسی، تے کنجوس کوں ولا دولتمند نہ آکھیا ویسی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "آکھیا ویسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "نابال کوں"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "تے کنجوس کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھیا ویسی"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "دولتمند"
+    }
+  ],
+  "timestamp": "2026-09-19T17:43:51.935038135Z",
+  "model": "glm-5.3"
+}

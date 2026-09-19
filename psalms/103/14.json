@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 103,
+  "translation": "کیوں جو او ساݙی بݨت کوں ڄاݨدا ہے، یاد رکھدا ہے جو اساں مِٹی ہیسے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ساݙی بݨت"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "یاد رکھدا ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مِٹی"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اساں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:32:06.421138323Z",
+  "model": "glm-5.3"
+}

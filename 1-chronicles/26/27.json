@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "جنگاں توں تے لُٹ دے مال توں ⟨اوہناں⟩ یاہوہ دے گھر کوں مضبوط کرݨ کیتے پاک کیتا۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "جنگاں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "لُٹ دا مال"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "پاک کیتا"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "مضبوط کرݨ کیتے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:31.670610922Z",
+  "model": "glm-5.3"
+}

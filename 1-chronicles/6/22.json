@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تاحت دا پُتر، اسیِر دا پُتر، اویاساف دا پُتر، قورح دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تاحت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اسیِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "اویاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-09-19T20:38:15.403366561Z",
+  "model": "glm-5.3"
+}

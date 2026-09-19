@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "اتے اوں ویلے وِچ میں یاہوہ اَڳوں منت کیتم، آکھ تے:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "منت کیتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اوں ویلے وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ تے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:48:59.408998915Z",
+  "model": "glm-5.3"
+}

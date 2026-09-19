@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "کانپو، تے گناہ نہ کرو؛ آپݨے دِل وِچ آکھو، آپݨے پلنگ اُتے، تے چُپ راہو۔ سلہہ",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "کانپو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "گناہ کرو"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "آپݨے دِل وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "آپݨے پلنگ"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "تے چُپ راہو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلہہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:07:13.998636403Z",
+  "model": "glm-5.3"
+}

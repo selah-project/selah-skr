@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "رہاک کیتے، یِدوتون کیتے — داوِد دا ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رہاک کیتے"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "یِدوتون کیتے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:38.427417194Z",
+  "model": "glm-5.3"
+}

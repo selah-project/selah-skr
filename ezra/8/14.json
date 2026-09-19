@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 8:14",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے بگوی دے پُتریں وِچوں عوتای تے زبود، تے اوہدے نال ستر نَر۔",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "پُتریں وِچوں"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بگوی"
+    },
+    {
+      "surface": "עותי",
+      "gloss": "عوتای"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "تے زبود"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:29:20.373872895Z",
+  "model": "glm-5.3"
+}

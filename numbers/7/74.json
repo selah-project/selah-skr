@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ہِک سونے دا چمچا ݙاہ شیکل دا، بخور نال بھریا ہویا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریا ہویا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-09-19T15:31:29.943005432Z",
+  "model": "glm-5.3"
+}

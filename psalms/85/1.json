@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 85,
+  "translation": "موہری کیتے، قوراخ دے پُتراں کیتے، ہِک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موہری کیتے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں کیتے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-19T19:28:49.541825919Z",
+  "model": "glm-5.3"
+}

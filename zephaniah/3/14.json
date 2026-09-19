@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 3:14",
+  "book": "zephaniah",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "ڳا، دِھی صِہیون! آواز کر، اِسرائیل! خوش تھی، تے سارے دِل نال مَنَا، دِھی یروشلایم!",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ڳا"
+    },
+    {
+      "surface": "بת",
+      "gloss": "دِھی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صِہیون"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "آواز کر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "خوش تھی"
+    },
+    {
+      "surface": "ועלזי",
+      "gloss": "تے مَنَا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دِھی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:37.169667762Z",
+  "model": "glm-5.3"
+}

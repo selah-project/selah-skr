@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "دولت تے جلال میݙے نال ہن ⟨אתי⟩، تے پراݨا ہویا مال داولا تے راستی۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "میݙے نال ہن — دولت تے جلال"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال داولا"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "پراݨا ہویا"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:40.690663250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "توں اوندا چمک مُکا ݙتا، تے اوندا تخت زمین اُتے سٹ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "مُکا ݙتا"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "اوں دا چمک"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "تے اوندا تخت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین اُتے"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "سٹ ݙتا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:20.368792338Z",
+  "model": "glm-5.3"
+}

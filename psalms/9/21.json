@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "یاہوہ، انہاں اُتے ݙر رکھ، تاں جو قوماں ڄاݨن جو او صرف فانی بندے ہن۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں اُتے"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاݨن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:08:24.741878916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "منصوبے مشورے نال پکے تھیندے ہن، تے تدبیراں نال جنگ کرو۔",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "منصوبے"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "مشورے نال"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "پکے تھیندے ہن"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "تے تدبیراں نال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:38.579743395Z",
+  "model": "glm-5.3"
+}

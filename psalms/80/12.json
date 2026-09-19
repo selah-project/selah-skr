@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 80,
+  "translation": "اوں اپݨیاں ٹہنیاں سمندر تئیں بھڄایاں، تے اپݨیاں پھوٹاں دریا تئیں۔",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "بھڄایاں"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "اپݨیاں ٹہنیاں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "اپݨیاں پھوٹاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:27:36.864492817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے داوِد، یِشای دا پُتر، سارے اِسرائیل اُتے بادشاہی کیتی۔",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:46:43.230695089Z",
+  "model": "glm-5.3"
+}

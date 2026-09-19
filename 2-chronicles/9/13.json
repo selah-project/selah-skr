@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے سونے دا وزن جیڑھا ہِک سال وِچ شلومو کولہ آیا، چھ سو چھی سٹھ چھ سونے دے کِکّر ہن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہوڳیا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "لשלמה",
+      "gloss": "شلومو کولہ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ہِک سال وِچ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے چھی سٹھ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "کِکّر ⟨سونے دا گول تݨا⟩"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "سونے دے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:50:20.377351305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 147,
+  "translation": "او کہیں ٻئی قوم نال ایویں نی کیتا، تے اُوندے انصاف کوں او نہ ڄاݨدے۔ یاہ دی تعریف کرو!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کہیں ٻئی"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم نال"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "تے اُوندے انصاف"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:39.005724267Z",
+  "model": "glm-5.3"
+}

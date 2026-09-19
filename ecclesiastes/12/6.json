@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "توݙی جو چاندی دی ݙور دُور نہ تھیسی، تے سونے دا پیالہ نہ کُٹسی، تے گھڑا چمبے وِچ نہ ٹٹسی، تے پہیہ کھوہ دو نہ ریزا تھیسی۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "توݙی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "دُور تھیسی"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ݙور"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی دی"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "تے کُٹسی"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "پیالہ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "تے ٹٹسی"
+    },
+    {
+      "surface": "כד",
+      "gloss": "گھڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "چمبے"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "تے ریزا تھیسی"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "پہیہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "کھوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:40.861003764Z",
+  "model": "glm-5.3"
+}

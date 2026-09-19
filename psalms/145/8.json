@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 145,
+  "translation": "مہربان تے رحم والا یاہوہ، کاوڑ وِچ دیر کرݨ آلا، تے وݙے خیسِد والا۔",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "مہربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "تے رحم والا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دیر کرݨ آلا"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "کاوڑ وِچ"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "تے وݙے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد والا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:11.720197557Z",
+  "model": "glm-5.3"
+}

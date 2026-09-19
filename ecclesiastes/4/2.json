@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے میں ⟨את⟩ مُردیاں دی تعریف کیتی، جیہڑے پہلے ای مُر ڳئے، اُنہاں جِیندیاں توں جیہڑے ہُݨ تئیں جِیندے ہن۔",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "تے تعریف کیتی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُردیاں"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُردیاں"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "پہلے ای"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُر ڳئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جِیندیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیندے"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ہُݨ تئیں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:13:05.933965192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے ساڑ ݙیسی کپڑے ⟨את⟩ کوں، یا تانا ⟨את⟩ کوں، یا بانا ⟨את⟩ کوں — اُن وِچ یا سن وِچ — یا ہر اوں چمڑ دے برتن ⟨את⟩ کوں جیندے وِچ داغ ہووے؛ کیوں جو زہریلا صرع ⟨اوہ⟩ ہے — بھا وِچ ساڑیا ویسی۔",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "ساڑ ݙیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کپڑا"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تانا"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تانا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بانا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "بانا"
+    },
+    {
+      "surface": "בצמר",
+      "gloss": "اُن وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בפשתים",
+      "gloss": "سن وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "העור",
+      "gloss": "چمڑ دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "زہریلا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بھا وِچ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ساڑیا ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:14:34.320964269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے بعد ایں جو میں ⟨את⟩ خریدی دی کتاب نیریا دے پُتر باروخ کوں ݙتی، میں یاہوہ اڳوں دعا کیتی، آکھݨ لڳا:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "دعا کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خریدی دی کتاب"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "خریدی دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "نیریا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ لڳا"
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:56.993405606Z",
+  "model": "glm-5.3"
+}

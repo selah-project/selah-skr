@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 22:25",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے شدّای تیݙا سونا ہوسی، تے چاندی دے انبار تیکوں ہوسن۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "בצריך",
+      "gloss": "تیݙا سونا"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "תועפות",
+      "gloss": "انبار"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:58:54.444610361Z",
+  "model": "glm-5.3"
+}

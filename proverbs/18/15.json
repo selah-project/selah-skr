@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "سمجھ دار دا دل علم حاصل کریندا ہے، تے سیاناں دا کَن علم ڳولیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجھ دار دا"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "حاصل کریندا ہے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "تے کَن"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "سیاناں دا"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ڳولیندا ہے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:04.775289598Z",
+  "model": "glm-5.3"
+}

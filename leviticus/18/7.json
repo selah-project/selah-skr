@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تیݙے پیو دا ننگ تے تیݙی ماء دا ننگ تُساں نہ کھولھو — او تیݙی ماء ہے، اُوندا ننگ تُساں نہ کھولھو۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیݙے پیو دا"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "تے … ننگ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیݙی ماء دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھو"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیݙی ماء"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھو"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "اُوندا ننگ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:16:35.950884208Z",
+  "model": "glm-5.3"
+}

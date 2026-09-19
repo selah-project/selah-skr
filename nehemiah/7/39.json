@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "کاہناں ⟨وِچوں⟩: یِدَعیاہ دے پُتر، یِشوع دے گھر دے، نَو سو ستّر ترے۔",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدَعیاہ"
+    },
+    {
+      "surface": "لבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستّر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے ترے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:43.721432554Z",
+  "model": "glm-5.3"
+}

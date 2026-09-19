@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یاہوہ فرشتے کوں آکھیا، تے اوں آپݨی تلوار وَلا چا رکھی تلوار دی پُٹی وِچ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرشتے کوں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ولا چا رکھی"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "آپݨی تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "تلوار دی پُٹی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:09.947721240Z",
+  "model": "glm-5.3"
+}

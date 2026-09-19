@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "جیہڑا نفرت لُکیندے، اوندے ہونٹھ کوڑ دے ہن، تے جیہڑا چغلی کڈھیندے، اوہ بھولڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "لُکیندے"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "تے جیہڑا کڈھیندے"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "چغلی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بھولڑا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:34.369846715Z",
+  "model": "glm-5.3"
+}

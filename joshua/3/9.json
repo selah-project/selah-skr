@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "یہوشوع اسرائیل دے پُتراں نال آکھیا: “اِتھ آؤ تے اپݨے ایلوہیم یاہوہ دے لفظاں ⟨את⟩ سݨو۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِتھ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "سݨو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظاں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاݙے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-19T16:08:13.739267675Z",
+  "model": "glm-5.3"
+}

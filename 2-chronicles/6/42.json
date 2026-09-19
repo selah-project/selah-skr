@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یاہوہ ایلوہیم، آپݨے ماشیاخ دا مُکھ نہ پھیر؛ داوِد، تیݙے ٻانہے، دے خیسِد یاد کر۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "پھیر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "آپݨے ماشیاخ دا"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیݙے ٻانہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:47:56.154572864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تَعناک دا بادشاہ ہِک، مِگدو دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "تَعناک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "مِگدو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:36.446122164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اپݨیاں پیوّاں بݨائی ہوئی پراݨی حد نہ ہٹاویں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ہٹاویں"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پراݨی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بݨائی ہوئی"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "اپݨیاں پیوّاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:49:18.616805022Z",
+  "model": "glm-5.3"
+}

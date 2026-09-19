@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "توں ٻوڑے کوں ملوں نہ مار، تے اَندھے دے اڳوں اُلانگھ نہ رکھ؛ تیݙے ایلوہیم توں ݙریساں — میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ملوں مار"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ٻوڑے"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے … دے اڳوں"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اَندھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "اُلانگھ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "تے ݙریساں"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "تیݙے ایلوہیم توں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:19:03.246763845Z",
+  "model": "glm-5.3"
+}

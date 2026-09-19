@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "سارے لاوی، جیہڑے پاک شہر وِچ ⟨ہن⟩، ݙو سو چھیٹھ ہِک ہن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ݙو سو"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اَسی"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    }
+  ],
+  "timestamp": "2026-09-19T20:35:01.345558620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے دیویر وِچ ݙو کروب زیتو دی لکڑ دے بݨائے — ہر ہِک دا قد ݙاہ ہاتھ ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "دیویر وِچ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑ دے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زیتو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "قد"
+    }
+  ],
+  "timestamp": "2026-09-19T17:05:51.903699179Z",
+  "model": "glm-5.3"
+}

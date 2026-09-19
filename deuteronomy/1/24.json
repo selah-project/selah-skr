@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اوہ مُڑ کے پہاڑ اُتے چڑھیے، تے وادی اِشکول تئیں آئے، تے اوندا چھان بین کیتون ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "مُڑ کے"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھیے"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "אשכول",
+      "gloss": "اِشکول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "چھان بین کیتون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوندا (زمین دا)"
+    }
+  ],
+  "timestamp": "2026-09-19T21:05:55.572092499Z",
+  "model": "glm-5.3"
+}

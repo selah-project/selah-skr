@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے اسرائیل دے پُتر او سبھ کیتا جیڑا یاہوہ ⟨את⟩ موشے کوں حکم ݙتا؛ اویں اِی کر ݙتونے۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سبھ دے مطابق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:26:07.142690090Z",
+  "model": "glm-5.3"
+}

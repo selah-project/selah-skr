@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شووال کوں — قریت یعاریم دے پیو — پُتر ہن: ہَروع، تے مَنوحوت دا ادھا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے تھئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "شووال کوں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ہَروع"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھا"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "مَنوحوت"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:20.394163010Z",
+  "model": "glm-5.3"
+}

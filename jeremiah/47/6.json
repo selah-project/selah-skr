@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "ہائے تلوار، یاہوہ دی تلوار! کݙ تئیں نہ چپ تھیسیں؟ میغ وچ واپس ونڄ، سکون کر تے چپ رہ۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کݙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "چپ تھیسیں"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "واپس ونڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "میغ"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "سکون کر"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "تے چپ رہ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:18:54.362503519Z",
+  "model": "glm-5.3"
+}

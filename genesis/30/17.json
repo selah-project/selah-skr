@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے ایلوہیم لیاہ دی ڳالھ سُنی، تے او حاملہ تھئی، تے یعقوو کیتے پنجواں پُتر ڄایس۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دی ڳالھ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ تھئی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄایس"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کیتے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنجواں"
+    }
+  ],
+  "timestamp": "2026-09-19T14:29:20.481447404Z",
+  "model": "glm-5.3"
+}

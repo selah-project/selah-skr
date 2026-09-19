@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے یاہوہ آپݨے پاک مندر وِچ ہے — اوندے اڳوں ساری زمین چُپ راہوے۔",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "مندر وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آپݨے پاک"
+    },
+    {
+      "surface": "הס",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوندے اڳوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-19T19:00:13.776660479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "بَرقوس دے پُتر، سِسرا دے پُتر، تِماخ دے پُتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بَرقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سِسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تِماخ"
+    }
+  ],
+  "timestamp": "2026-09-19T20:26:35.614703605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے انہاں دا شبہ چاراں کیتے ہِکو ہا، جیویں پہیا پہیے دے وچکار ہووے۔",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "تے انہاں دا شبہ"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "شباہت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِکو"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "چاراں کیتے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "پہیا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وچکار"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "پہیے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:15:13.882386412Z",
+  "model": "glm-5.3"
+}

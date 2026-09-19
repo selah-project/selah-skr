@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 91,
+  "translation": "او تیکوں ہتھیں اُتے چا تھرسن، جے تیݙا پیر پتھر نال ٹکراوے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ہتھیں"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "چا تھرسن تیکوں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "جے ⟨نہ⟩"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ٹکراوے"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پتھر نال"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیݙا پیر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:30:22.219610682Z",
+  "model": "glm-5.3"
+}

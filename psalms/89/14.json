@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 89,
+  "translation": "تیݙے کیتے بازو طاقت نال ⟨ہے⟩، تیݙا ہتھ تکڑا ⟨ہے⟩، تیݙی سجھی اُچی ⟨ہے⟩ ۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "تکڑا"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیݙا ہتھ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "اُچی"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیݙی سجھی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:29:24.392538222Z",
+  "model": "glm-5.3"
+}

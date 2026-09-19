@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے پنجویں ݙینہہ نَوں بیل، ݙو دنبے، تے چوݙاں مینھ ہِک ورھے دے، بے عیب۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے … ݙینہہ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجویں"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "دنبے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ݙو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مینھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوݙاں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…اں"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:48.104051681Z",
+  "model": "glm-5.3"
+}

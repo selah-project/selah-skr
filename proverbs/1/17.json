@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "کیوں جو جال بے کار ہر پر آلے دیاں اکھیں دے اگوں وِچھایا ویندا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے کار"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "وِچھایا ویندا"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پَر"
+    }
+  ],
+  "timestamp": "2026-09-19T19:41:46.861091580Z",
+  "model": "glm-5.3"
+}

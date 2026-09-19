@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 31,
+  "translation": "اوندے شوہر دا دل اوں اُتے بھروسہ کریندے، تے لُٹ دی اوکوں کمی کائنی۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ کریندے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوں اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "اوندے شوہر"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "تے لُٹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کمی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:52:16.385851581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے عَزوبا مر ڳئی، تے کالِب نال ⟨את⟩ افرات دا پرنا کیتا، تے اوں اوندے کیتے ⟨את⟩ حور کوں جنم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "تے … مر ڳئی"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عَزوبا"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "تے … پرنا کیتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "افرات"
+    },
+    {
+      "surface": "אפרات",
+      "gloss": "افرات"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے … جنم ݙتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حور"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:53.570892789Z",
+  "model": "glm-5.3"
+}

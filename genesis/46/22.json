@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "ایہ رachel دے پُتر ہن، جیہڑے یعقوو کیتے ڄمے؛ ساریاں جاناں چوݙاں ہن۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "رachel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄمے"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو کیتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوݙاں ⟨چار⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ݙاہ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T14:40:20.326860188Z",
+  "model": "glm-5.3"
+}

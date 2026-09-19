@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے او لِبنہ توں ٹُرے، تے رِسّہ وِچ ڈیرے لائے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "لِبنہ توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "رِسّہ وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:46:52.535023999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 74,
+  "translation": "توں چشمہ تے نالہ پاڑ کھولیا، توں ہمیشہ وہندے دریا سُکا چھوڑیئی۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "پاڑ کھولیا"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "تے نالہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "سُکا چھوڑیئی"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ہمیشہ وہندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:23:14.047305732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "ہِک دریے دا ناں پیشون ⟨ہے⟩ — او ⟨את⟩ پوری حویلاہ دی زمین کوں گھیری ودا ⟨ہے⟩، جتھاں سونا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک دریے دا"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "پیشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "گھیری ودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری زمین کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حویلاہ دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:14:30.987286364Z",
+  "model": "glm-5.3"
+}

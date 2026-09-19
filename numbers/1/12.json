@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "دان کیتے: اَخیعزر، عَمیشدّای دا پُتر۔",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "دان کیتے"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اَخیعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عَمیشدّای"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:22.798985393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "حنان مَعکہ دا پُتر، تے یوشافات مِتنّی،",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعکہ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "تے یوشافات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "مِتنّی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:39:27.744044928Z",
+  "model": "glm-5.3"
+}

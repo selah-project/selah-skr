@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے ایہ نوح دے پُتراں — شیم، حام تے یافت — دیاں نسلّاں ہن، تے طوفان توں بعد انہاں کوں پُتر ڄمیے۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلّاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "تے یافت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ڄمیے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد وِچ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان"
+    }
+  ],
+  "timestamp": "2026-09-19T14:18:20.519873583Z",
+  "model": "glm-5.3"
+}

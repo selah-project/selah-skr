@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 46,
+  "translation": "قوماں ہُلڳ اُٹھیا، راج ہلیے؛ اوں آپݨی آواز ݙتی، دھرتی پِگھری ڳئی۔",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ہُلڳ اُٹھیا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "ہلیے"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "راج"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "آپݨی آواز"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "پِگھری ڳئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:17:32.201961653Z",
+  "model": "glm-5.3"
+}

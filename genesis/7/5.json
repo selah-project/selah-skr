@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے نُوح اوہ سارا کیتا جیڑھا یاہوہ اوں کوں حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "اوہ سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "حکم ݙتس اوں کوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T14:17:53.644178720Z",
+  "model": "glm-5.3"
+}

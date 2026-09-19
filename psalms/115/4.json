@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 115,
+  "translation": "اُنہاں دے بت چاندی تے سونا ہِن، انسانی ہتھاں دا کم۔",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "اُنہاں دے بت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:22.892947704Z",
+  "model": "glm-5.3"
+}

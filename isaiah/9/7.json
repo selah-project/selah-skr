@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "ادونای دی ہِک ڳالھ یعقوو وِچ بھیجی، تے اوہ اِسرائیل اُتے ڈھہہ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "یعقوو وِچ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "تے ڈھہہ ڳئی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیل اُتے"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:52.280841352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے مَتوُشَلح دے سارے ݙینہھ نَوں تے سَٹھ سال تے نَوں سو سال تھئے، تے او مریا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تھئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہھ دے"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مَتوُشَلح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سَٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "تے نَوں"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مریا"
+    }
+  ],
+  "timestamp": "2026-09-19T14:16:49.941658357Z",
+  "model": "glm-5.3"
+}

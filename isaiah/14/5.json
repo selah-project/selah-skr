@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "یاہوہ بدکاراں دی سوٹی تُوٹ ݙتی، حاکماں دا عصا ⟨تُوٹ ݙتا⟩۔",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "تُوٹ ݙتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سوٹی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "حاکماں دا"
+    }
+  ],
+  "timestamp": "2026-09-19T17:37:21.323435763Z",
+  "model": "glm-5.3"
+}

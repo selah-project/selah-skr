@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اُٹھ کے یربعام، نبط دا پُتر، شلومو دا ٻڈھا، داوِد دا پُتر، اوندے آقا دے اُتے بغاوت کر ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یربعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نبط"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻڈھا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "تے بغاوت کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے اُتے"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اوندے آقا"
+    }
+  ],
+  "timestamp": "2026-09-19T20:52:36.701979992Z",
+  "model": "glm-5.3"
+}

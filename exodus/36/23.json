@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "تے اُوں مسکن کیتے ⟨את⟩ تخت بݨائے — ویہہ تخت لموں دے پاسے، لمے دو۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بݨائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تخت"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن کیتے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "لموں"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "لمے دو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:04:28.932739762Z",
+  "model": "glm-5.3"
+}

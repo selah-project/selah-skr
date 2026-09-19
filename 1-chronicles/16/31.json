@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 16:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اسمان خوش تھیون، تے زمین ہسے، تے قوماں وِچ آکھن: یاہوہ بادشاہی کیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش تھیون"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "تے ہسے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھن"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کیتی ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T20:43:02.844093708Z",
+  "model": "glm-5.3"
+}

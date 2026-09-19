@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "یرموت دا بادشاہ ہِک؛ لکیش دا بادشاہ ہِک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "یرموت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لکیش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T16:12:28.402822514Z",
+  "model": "glm-5.3"
+}

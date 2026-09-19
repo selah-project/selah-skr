@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے مَسح تھیا ہویا کاہن وچھے دے خون وِچوں مِلݨ دے خیمے دو گھن آوے۔",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "تے گھن آوے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مَسح تھیا ہویا"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "خون وِچوں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "وچھے دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلݨ دے"
+    }
+  ],
+  "timestamp": "2026-09-19T15:09:22.424619141Z",
+  "model": "glm-5.3"
+}

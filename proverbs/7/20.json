@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "چاندی دا بنڈل ہتھ وِچ ڳھن ڳیا، پُنّم دے ݙینہہ اوندے گھر ول آسی۔",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "بنڈل"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی دا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ڳھن ڳیا"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دے ݙینہہ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "پُنّم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ول آسی"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوندے گھر"
+    }
+  ],
+  "timestamp": "2026-09-19T21:21:07.993255245Z",
+  "model": "glm-5.3"
+}

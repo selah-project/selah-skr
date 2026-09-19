@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 137,
+  "translation": "کیویں اساں ⟨את⟩ یاہوہ دا ڳاݨ ڳاؤں، اوپرے دی دھرتی اُتے؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ڳاؤں اساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا ڳاݨ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳاݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرے دی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:40:11.487404974Z",
+  "model": "glm-5.3"
+}

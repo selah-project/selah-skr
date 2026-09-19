@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے یاہوہ موشے نال تے اِلعازر نال — اہرون پُتر کاہن نال — آکھیا، آکھݨ کیتے جو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے اِلعازر نال"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے جو"
+    }
+  ],
+  "timestamp": "2026-09-19T15:42:02.607716476Z",
+  "model": "glm-5.3"
+}

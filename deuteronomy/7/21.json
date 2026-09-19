@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "انہاں توں نہ ݙر، کیوں جو یاہوہ تیݙا ایلوہیم تیݙے وِچکار ہے — ہِک وݙا ایل تے ݙراؤنا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "انہاں توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچکار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "تے ݙراؤنا"
+    }
+  ],
+  "timestamp": "2026-09-19T15:52:24.259647773Z",
+  "model": "glm-5.3"
+}

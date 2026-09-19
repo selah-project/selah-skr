@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "یاہوہ اپݨا مُکھمہر تیݙے اُتے چُمے، تے تیݙے کیتے سلامتی ݙے۔",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "چُمے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپݨا مُکھمہر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے … ݙے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:28:40.930689324Z",
+  "model": "glm-5.3"
+}

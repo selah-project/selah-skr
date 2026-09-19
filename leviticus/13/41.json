@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جے اُوندے مُکھݨے دے پاسے توں اُوندا سر ننگا تھی ویندے، تاں او مُتھا ننگا ہے — او پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "دے پاسے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اُوندے مُکھݨے"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ننگا تھی ویندے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اُوندا سر"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "مُتھا ننگا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T21:04:09.098774987Z",
+  "model": "glm-5.3"
+}

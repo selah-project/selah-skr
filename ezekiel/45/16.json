@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 45,
+  "translation": "زمین دے سبھے لوک ایہ ترمہ ⟨حصہ⟩ اِسرائیل دے نسیب ⟨سردار⟩ کوں ݙیسن۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین دے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوسن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ترمہ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "نسیب کیتے"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:46:25.868486933Z",
+  "model": "glm-5.3"
+}

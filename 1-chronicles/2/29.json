@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے اَویشور دی ذال دا ناں اَویہایل ہا، تے اوں ⟨את⟩ اَحبان تے ⟨את⟩ مولید کوں ڄݨایا۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "اَویشور"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "اَویہایل"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے ڄݨایا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَحبان"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "اَحبان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "مولید"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "مولید"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:42.431958877Z",
+  "model": "glm-5.3"
+}

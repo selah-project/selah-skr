@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اوہ کپڑہ جݙاں اُوندے وِچ تصارعت دا نغاݨ ہووے — اُنّ دے کپڑے وِچ یا کَنّھ دے کپڑے وِچ۔",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "تے اوہ کپڑہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جݙاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوندے وِچ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نغاݨ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "تصارعت دا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے وِچ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اُنّ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے وِچ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کَنّھ"
+    }
+  ],
+  "timestamp": "2026-09-19T15:15:09.196443715Z",
+  "model": "glm-5.3"
+}

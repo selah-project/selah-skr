@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "تے شاؤل داوِد توں ݙر ڳیا، کیوں جو یاہوہ اوندے نال ہا، تے شاؤل توں ہٹ ڳیا ہا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ݙر ڳیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ہٹ ڳیا ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:43:23.170223614Z",
+  "model": "glm-5.3"
+}

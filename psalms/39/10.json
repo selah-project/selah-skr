@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 39,
+  "translation": "میں ماوُنجا رہ ڳیا، میں آپݨا منہ نہ کھولیا، کیوں جو تئیں ایہ کیتا۔",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "میں ماوُنجا رہ ڳیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "کھولیا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "آپݨا منہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-09-19T19:15:22.960996618Z",
+  "model": "glm-5.3"
+}

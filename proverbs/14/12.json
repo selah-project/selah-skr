@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "ہِک رستہ ہے جو بندے دے اَڳوں سِدھا لڳدے، پر ایندا اَنت موت دے رستے ہن۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہِک … ہے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَڳوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "پر ایندا اَنت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:59.868799904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اوہ ٻئے راستے توں ٹر ڳیا، تے اوں راستے توں وَل نہ آیا جیندے وِچوں اوہ بیت ایل تائیں آیا ہا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ٹر ڳیا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے وِچ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "وَل آیا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا ہا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اونہوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-19T17:11:45.670713907Z",
+  "model": "glm-5.3"
+}

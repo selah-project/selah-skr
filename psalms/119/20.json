@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 119,
+  "translation": "میݙی جان تیݙے فیصلیاں دی تانگھ وِچ ہر ویلے کُٹیڄی رہندی ہے۔",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "کُٹیڄی رہندی ہے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میݙی جان"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "تانگھ وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دی"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیݙے فیصلیاں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:36:19.665122971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "جھیڑے توں ہٹ ونڄݨ بندے کیتے عزت ہے، پر ہر احمق اَڳوں ودھ کے جھیڑا کریندے۔",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے کیتے"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ہٹ ونڄݨ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "جھیڑے توں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "پر ہر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "اَڳوں ودھ کے جھیڑا کریندے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:52.712518256Z",
+  "model": "glm-5.3"
+}

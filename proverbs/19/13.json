@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "بیوقوف پُتر اوندے پیو کیتے تباہی ہے، تے ذال دے جھیڑے لڳاتار ٹپکݨ ہن۔",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "اوندے پیو کیتے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بیوقوف"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "تے ٹپکݨ"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "لڳاتار"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "جھیڑے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    }
+  ],
+  "timestamp": "2026-09-19T21:20:51.294198622Z",
+  "model": "glm-5.3"
+}

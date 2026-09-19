@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "گِرشون دے پُتر لِوݨی تے شِمعی ہن، اپݨیاں ٹبراں موجب۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرشون"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِوݨی"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "تے شِمعی"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اپݨیاں ٹبراں موجب"
+    }
+  ],
+  "timestamp": "2026-09-19T14:45:21.053817907Z",
+  "model": "glm-5.3"
+}

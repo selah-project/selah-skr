@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "قیروس دے پُتر، سیعا دے پُتر، پدون دے پُتر،",
+  "tokens": [
+    {
+      "surface": "بני",
+      "gloss": "قیروس دے پُتر"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "قیروس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "سیعا دے پُتر"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "سیعا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پدون دے پُتر"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "پدون"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:45.619951794Z",
+  "model": "glm-5.3"
+}

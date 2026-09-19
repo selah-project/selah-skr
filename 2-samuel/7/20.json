@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "تے داوِد ٻیا کِیا آکھے تیکوں؟ تے تُوں ⟨את⟩ اپݨے نوکر کوں ڄاݨدے، ادونای یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "تے کِیا"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ٻیا ودھے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻیا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیکوں"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاݨدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپݨے نوکر کوں"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپݨے نوکر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-19T16:53:02.833586692Z",
+  "model": "glm-5.3"
+}

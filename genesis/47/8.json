@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 47,
+  "translation": "تے پرعوہ یعقوو کوں آکھیا: “تیݙی حیاتی دے ورہیاں دے ݙینہہ کِتنے ہِن؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کِتنے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ورہیاں دے"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تیݙی حیاتی"
+    }
+  ],
+  "timestamp": "2026-09-19T14:42:10.755373424Z",
+  "model": "glm-5.3"
+}

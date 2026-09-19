@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یشووب کیتے یشووبی ٟبر، تے شمران کیتے شمرانی ٟبر۔",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "یشووب کیتے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "یشووبی"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "شمران کیتے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "شمرانی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:41:41.193580974Z",
+  "model": "glm-5.3"
+}

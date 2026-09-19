@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 109,
+  "translation": "اوہ یاہوہ دے اڳوں ہمیشہ رہن، تے اوں دی یاد زمین توں کٹی ونڄے۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "رہن"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "تے کٹی ونڄے"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "اوں دی یاد"
+    }
+  ],
+  "timestamp": "2026-09-19T19:35:15.733326416Z",
+  "model": "glm-5.3"
+}

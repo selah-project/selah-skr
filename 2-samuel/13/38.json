@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے اَوشالوم بھڄ ڳیا، تے گیشور ڳیا، تے اُتھاں ترے ورہے رہیا۔",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "تے اَوشالوم"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھڄ ڳیا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے ڳیا"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گیشور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے رہیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورہے"
+    }
+  ],
+  "timestamp": "2026-09-19T16:54:14.088804241Z",
+  "model": "glm-5.3"
+}

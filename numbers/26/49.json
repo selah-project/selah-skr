@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "یِیتصر کی، یِیتصریاں دی ٹبر؛ لِشیلم کی، لِشیلمیاں دی ٹبر۔",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "یِیتصر کی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "یِیتصریاں دی"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "لِشیلم کی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "لِشیلمیاں دی"
+    }
+  ],
+  "timestamp": "2026-09-19T15:43:01.600539803Z",
+  "model": "glm-5.3"
+}

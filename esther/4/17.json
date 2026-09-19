@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے مُردکای ⟨ایستر⟩ ٹُر ڳیا، تے سبھ کجھ کیتُس جو اِستیر اوں کوں حکم ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردکای"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتُس"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سبھ کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "حکم ݙتا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستیر"
+    }
+  ],
+  "timestamp": "2026-09-19T20:15:10.629320977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "یَتور، نافِش تے قیدمہ — ایہہ یِشماعیل دے پُتر ہن۔",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "یَتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نافِش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "تے قیدمہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او ہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماعیل"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:33.015096934Z",
+  "model": "glm-5.3"
+}

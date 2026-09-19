@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "پر گوشت، اوندی جان سمیت، اوندا لہو، تُساں نہ کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "اوندی جان سمیت"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوندا لہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُساں کھاؤ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:02:41.999390744Z",
+  "model": "glm-5.3"
+}

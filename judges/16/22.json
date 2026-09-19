@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اوندے سر دے وال اُگݨ لڳے، جیویں جو او مُنیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "اُگݨ لڳا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وال"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوندے سر دے"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "اُگݨ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں جو"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "مُنیا ہا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:30:52.891594383Z",
+  "model": "glm-5.3"
+}

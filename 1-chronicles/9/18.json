@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 9:18",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے ہُݨ تئیں بادشاہ دے دروازے اُتے، پوادھ دوں — او ہن بنی لوی دے ٹٻریاں دے دروان۔",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "تے ہُݨ تئیں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِتھاں"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "پوادھ دوں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروان"
+    },
+    {
+      "surface": "למחנות",
+      "gloss": "ٹٻریاں کیتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-09-19T20:40:22.538240011Z",
+  "model": "glm-5.3"
+}

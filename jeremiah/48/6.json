@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 48:6",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "بھڄو، تُہاݙیاں جاناں بچاؤ، تے تُساں جنگل وِچ عروعیر وانگوں تھیسو۔",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "بھڄو"
+    },
+    {
+      "surface": "מלטו",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "تُہاݙیاں جاناں"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "تے تھیسو"
+    },
+    {
+      "surface": "כערוער",
+      "gloss": "عروعیر وانگوں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "جنگل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T18:20:39.194813414Z",
+  "model": "glm-5.3"
+}

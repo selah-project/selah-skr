@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے شیشان دے پُتر کائنی ہن، صرف دھیاں ہن؛ تے شیشان دا ہِک نوکر ہا، ہِک مِتصرایم دا، تے اوندا ناں یرحع ہا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے کائنی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "شیشان دے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "تے شیشان دا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِتصرایم دا"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوندا ناں"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "یرحع"
+    }
+  ],
+  "timestamp": "2026-09-19T20:36:44.655899441Z",
+  "model": "glm-5.3"
+}

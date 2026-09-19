@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "نبی حَبَقُّوق دی دعا، سِگّیونوتاں اُتے ⟨بھٹکی ہوئی نغمیں دے اُتے⟩۔",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "حَبَقُّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "سِگّیونوتاں"
+    }
+  ],
+  "timestamp": "2026-09-19T19:01:10.301022553Z",
+  "model": "glm-5.3"
+}

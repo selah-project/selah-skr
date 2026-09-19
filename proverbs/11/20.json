@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "ٹیڑھے دل آلے یاہوہ کیتے گھناؤنے ہن، تے راستے دے سِدھے اوندے پسندیدہ ہن۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "تے اوندی پسند"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:45:24.097560756Z",
+  "model": "glm-5.3"
+}

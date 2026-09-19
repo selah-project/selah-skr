@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے میں وی تُہاݙے نال ٹیک لا کے ٹریساں، تے میں وی تُہاݙے پاپاں اُتے ست واری ماریساں۔",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "تے میں ٹریساں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تُہاݙے نال"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ٹیک لا کے"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "تے میں ماریساں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہاݙے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست واری"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "تُہاݙے پاپاں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:25:34.411642218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ٻئے نَبو دے مرد، باراں تے پنجاہ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے باراں"
+    }
+  ],
+  "timestamp": "2026-09-19T20:32:35.977863598Z",
+  "model": "glm-5.3"
+}

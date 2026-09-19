@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے لابن ⟨את⟩ اُوں جاہ دے سبھ مرد کٹھے کیتے، تے ہِک دعوت بݨائی۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "کٹھے کیتے"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُوں جاہ دے سبھ مرد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُوں جاہ دے"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "تے بݨائی"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ہِک دعوت"
+    }
+  ],
+  "timestamp": "2026-09-19T14:27:55.481171751Z",
+  "model": "glm-5.3"
+}

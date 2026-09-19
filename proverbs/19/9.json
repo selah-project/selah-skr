@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "جھوٹا گواہ بے سزا نہ تھیسی، تے جیہڑا جھوٹ پھُوکیندے او مُک ویسی۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بے سزا تھیسی"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "تے پھُوکیندے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "مُک ویسی"
+    }
+  ],
+  "timestamp": "2026-09-19T19:48:23.991583849Z",
+  "model": "glm-5.3"
+}

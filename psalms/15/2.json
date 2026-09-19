@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "جیہڑا پورے طور تے ٹُردا، راستی کریندا، تے اپݨے دل وِچ سچ الیندا۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ٹُردا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "پورے طور تے"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "تے کریندا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے الیندا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "اپݨے دل وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:40.012404571Z",
+  "model": "glm-5.3"
+}

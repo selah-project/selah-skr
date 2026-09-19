@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "تے شِمشون دی ذال اُوندے سنگتی دی تھی ڳئی، جِہڑا اُوندا یار بݨیا ہا۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تھی ڳئی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "اُوندے سنگتی کوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "یار بݨیا ہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوندا"
+    }
+  ],
+  "timestamp": "2026-09-19T16:29:55.780700560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 38,
+  "translation": "پارس، کُوش تے پُوٹ ⟨אתם⟩ اُنہاں نال — سبھے ڈھال تے سرپُوش والے۔",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "تے پُوٹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "تے سرپُوش"
+    }
+  ],
+  "timestamp": "2026-09-19T18:42:14.462135611Z",
+  "model": "glm-5.3"
+}

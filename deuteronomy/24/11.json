@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "ٻاہر کھڑو، تے اوہ بندہ جیندے توں تُساں قرض ݙتے، اوہ تیݙے کول ⟨את⟩ گروی ٻاہر کڈھسی۔",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "کھڑو"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "تے اوہ بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "قرض ݙتے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوندے توں"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھسی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیݙے کول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گروی"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "گروی"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ٻاہر"
+    }
+  ],
+  "timestamp": "2026-09-19T16:00:46.188175341Z",
+  "model": "glm-5.3"
+}

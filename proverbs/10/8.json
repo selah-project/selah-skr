@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "دل دا سیاݨا حکم منیندے، پر ہونٹھیں دا اَݨڄاݨ تِڑپ ویندا ہے۔",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "سیاݨا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "منیندے"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "پر اَݨڄاݨ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹھیں دا"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "تِڑپ ویندا ہے"
+    }
+  ],
+  "timestamp": "2026-09-19T19:44:31.417052220Z",
+  "model": "glm-5.3"
+}

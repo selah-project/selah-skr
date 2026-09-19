@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "سب ہٹ ڳئے، رل کے میلے تھئے؛ کوئی چنڳائی کرݨ آلا کائنی، نہ کوئی ہِک وی۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ہٹ ڳئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رل کے"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "میلے تھئے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی کائنی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرݨ آلا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنګائی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-19T19:09:27.197760887Z",
+  "model": "glm-5.3"
+}

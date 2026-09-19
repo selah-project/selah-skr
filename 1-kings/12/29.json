@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "اوں ہِک کوں بیت ایل وِچ رکھیا، تے ہِک کوں دان وِچ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "دان وِچ"
+    }
+  ],
+  "timestamp": "2026-09-19T17:12:42.541771894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے نفتالی دا قبیلہ، تے نفتالی دے پُتراں دا سردار اخیرع، عینان دا پُتر ہے۔",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "تے قبیلہ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں دا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اخیرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عینان"
+    }
+  ],
+  "timestamp": "2026-09-19T15:27:31.334155340Z",
+  "model": "glm-5.3"
+}
