@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے حننیاہ نبی نبی یرمیاہ دے ڳچے توں ⟨את⟩ جؤاں چا گھدی تے اونکوں ترڑا ݙتس۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چا گھدی"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جؤاں"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "جؤاں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ڳچے"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یرمیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ترڑا ݙتس"
+    }
+  ],
+  "timestamp": "2026-09-20T05:30:49.356533261Z",
+  "model": "glm-5.3"
+}
