@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "skr",
+  "chapter": 92,
+  "translation": "راستباز کھجور وانگوں کِھڑسی، لبنان دے دیodar وانگوں اُسرسی۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "کھجور وانگوں"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "کِھڑسی"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "دیodar وانگوں"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "لبنان وِچ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "اُسرسی"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:00.721268260Z",
+  "model": "glm-5.3"
+}

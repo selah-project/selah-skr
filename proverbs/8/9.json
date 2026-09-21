@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "او سارے سمجھݨ آلے کیتے کھلے ہن، تے علم ڳولݨ آلیاں کیتے سِدھے ہن۔",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "او سارے"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "کھلے ہن"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "سمجھݨ آلے کیتے"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "تے سِدھے ہن"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ڳولݨ آلیاں کیتے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:06.904189467Z",
+  "model": "glm-5.3"
+}

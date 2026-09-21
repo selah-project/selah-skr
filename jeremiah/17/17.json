@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "میکوں ݙراہوݨا نہ بݨ، تُوں میݙا پناہ اِیں برائی دے ݙینہہ وِچ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بݨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ݙراہوݨا"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میݙا پناہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے ݙینہہ وِچ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-09-21T15:23:25.270644765Z",
+  "model": "glm-5.3"
+}

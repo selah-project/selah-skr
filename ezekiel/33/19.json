@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 33:19",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "تے جݙاں شریر آپݨی شر توں وَلے تے انصاف تے راستی کرے، تاں او اُنہاں تے جیسی۔",
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "تے جݙاں … وَلے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "آپݨی شر توں"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کیتُس"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں تے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیسی"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:29.679332373Z",
+  "model": "glm-5.3"
+}

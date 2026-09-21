@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے یِساخار دے پُتریاں دے قبیلے دی لشکر اُتے نَتانایل پُتر صُعار ہا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتریاں دے"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساخار"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتانایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صُعار"
+    }
+  ],
+  "timestamp": "2026-09-21T15:23:24.578610356Z",
+  "model": "glm-5.3"
+}

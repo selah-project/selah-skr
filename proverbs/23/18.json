@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "کیوں جو یقیناً ہِک آخر ⟨ہے⟩، تے تیݙی اُمید کٹی نہ ویسی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ہِک آخر"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "تے تیݙی اُمید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "کٹی ویسی"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:27.219228210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تیݙا دل گناہ گاراں کنوں حسد نہ کرے، بلکہ یاہوہ دے ݙر وِچ سارا ݙینہہ رہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "حسد کرے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "گناہ گاراں کنوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ݙر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:27.218990870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 8:19",
+  "book": "job",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "خبرے، اوہ اوندے رستے دی خوشی ہے، تے مٹی توں ٻئے اُگسن۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "خبرے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوندے رستے دی"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "تے مٹی توں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئے"
+    },
+    {
+      "surface": "יצמחו",
+      "gloss": "اُگسن"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:37.361880082Z",
+  "model": "glm-5.3"
+}

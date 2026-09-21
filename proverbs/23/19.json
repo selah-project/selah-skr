@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "سُݨ تُساں، میݙے پُتر، تے سیاݨا تھی، تے راہ وِچ تیݙے دل کوں سِدھا کر۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میݙے پُتر"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "تے سیاݨا تھی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے سِدھا کر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ وِچ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیݙے دل کوں"
+    }
+  ],
+  "timestamp": "2026-09-21T15:24:27.219367765Z",
+  "model": "glm-5.3"
+}

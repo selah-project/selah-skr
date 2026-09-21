@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "skr",
+  "chapter": 49,
+  "translation": "شِمعون تے لِوی بھرا ہن؛ تشدد دے ہتھیار ہن انہاں دیاں تلواراں۔",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "تے لِوی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھرا ہن"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہتھیار"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد دے"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "انہاں دیاں تلواراں"
+    }
+  ],
+  "timestamp": "2026-09-21T15:23:45.057271276Z",
+  "model": "glm-5.3"
+}
