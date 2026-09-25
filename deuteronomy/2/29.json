@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":29,"ref":"deuteronomy 2:29","book":"deuteronomy","lang":"skr","chapter":2,"translation":"جیویں ایساو دے پُتر، جیہڑے شعیر وِچ وَسدے ہَن، تے موآبی، جیہڑے عار وِچ وَسدے ہَن، میݙے نال کیتا — تئیں جو میں ⟨את⟩ یردن پار کراں تے اُوں زمین دو ونجاں جینکوں یہوہ ساݙا ایلوہیم ساکوں ݙیندے۔","tokens":[{"surface":"כאשר","gloss":"جیویں"},{"surface":"עשו","gloss":"کیتی"},{"surface":"לי","gloss":"میݙے نال"},{"surface":"בני","gloss":"پُتر"},{"surface":"עשו","gloss":"ایساو"},{"surface":"הישבים","gloss":"وَسدے ہَن"},{"surface":"בשעיר","gloss":"شعیر وِچ"},{"surface":"והמואבים","gloss":"تے موآبی"},{"surface":"הישבים","gloss":"وَسدے ہَن"},{"surface":"בער","gloss":"عار وِچ"},{"surface":"עד","gloss":"تئیں جو"},{"surface":"אשר","gloss":"جو"},{"surface":"אעבר","gloss":"پار کراں"},{"surface":"את","gloss":"⟨את⟩","marks":"یردن"},{"surface":"הירדן","gloss":"یردن"},{"surface":"אל","gloss":"دو"},{"surface":"הארץ","gloss":"زمین"},{"surface":"אשר","gloss":"جینکوں"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אלהינו","gloss":"ساݙا ایلوہیم"},{"surface":"נתן","gloss":"ݙیندے"},{"surface":"לנו","gloss":"ساکوں"}],"timestamp":"2026-09-19T15:49:43.916850967Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 2:29",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "جیویں ایساو دے پُتر، جیہڑے شعیر وِچ وَسدے ہَن، تے موآبی، جیہڑے عار وِچ وَسدے ہَن، میݙے نال کیتا — تئیں جو میں ⟨את⟩ یردن پار کراں تے اُوں زمین دو ونجاں جینکوں یاہوہ ساݙا ایلوہیم ساکوں ݙیندے۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساو"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وَسدے ہَن"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "شعیر وِچ"
+    },
+    {
+      "surface": "והמואבים",
+      "gloss": "تے موآبی"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وَسدے ہَن"
+    },
+    {
+      "surface": "בער",
+      "gloss": "عار وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "پار کراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جینکوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساݙا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ݙیندے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساکوں"
+    }
+  ],
+  "timestamp": "2026-09-19T15:49:43.916850967Z",
+  "model": "glm-5.3"
+}

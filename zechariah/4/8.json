@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "skr",
   "chapter": 4,
-  "translation": "تے یہووہ دا قول میݙے کول آیا، آکھݨ لڳا:",
+  "translation": "تے یاہوہ دا قول میݙے کول آیا، آکھݨ لڳا:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تھیا \/ آیا"
+      "gloss": "تھیا / آیا"
     },
     {
       "surface": "דבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یہووہ"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "אלי",

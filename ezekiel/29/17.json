@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":17,"ref":"ezekiel 29:17","book":"ezekiel","lang":"skr","chapter":29,"translation":"تے تھیا: ویہویں تے ستویں سال، پہلے وچ، مہینے دی پہلی تاریخ کوں، یاہووہ دا کلام میݙے اُتے آیا، آکھݨ کیتے۔","tokens":[{"surface":"ויהי","gloss":"تے تھیا"},{"surface":"בעשרים","gloss":"ویہویں"},{"surface":"ושבע","gloss":"تے ستویں"},{"surface":"שנה","gloss":"سال"},{"surface":"בראשון","gloss":"پہلے ⟨مہینے⟩ وچ"},{"surface":"באחד","gloss":"پہلی تاریخ"},{"surface":"לחדש","gloss":"مہینے"},{"surface":"היה","gloss":"آ ڳیا"},{"surface":"דבר","gloss":"کلام"},{"surface":"יהוה","gloss":"یاہووہ"},{"surface":"אלי","gloss":"میݙے اُتے"},{"surface":"לאמר","gloss":"آکھݨ کیتے"}],"timestamp":"2026-09-19T18:38:27.158498440Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 29:17",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 29,
+  "translation": "تے تھیا: ویہویں تے ستویں سال، پہلے وچ، مہینے دی پہلی تاریخ کوں، یاہوہ دا کلام میݙے اُتے آیا، آکھݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ویہویں"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ستویں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "پہلے ⟨مہینے⟩ وچ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "پہلی تاریخ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-19T18:38:27.158498440Z",
+  "model": "glm-5.3"
+}
