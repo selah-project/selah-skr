@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":39,"ref":"exodus 28:39","book":"exodus","lang":"skr","chapter":28,"translation":"تے توں مہین کتّی دا چولا جُڑسیں، تے مہین کتّی دی پڳ بݨیسیں، تے کمربند بݨیسیں، کڑھائی دے کم دا۔","tokens":[{"surface":"ושבצת","gloss":"جُڑسیں"},{"surface":"הכתנת","gloss":"چولا"},{"surface":"שש","gloss":"مہین کتّی"},{"surface":"ועשית","gloss":"تے بݨیسیں"},{"surface":"מצנפת","gloss":"پڳ"},{"surface":"שש","gloss":"مہین کتّی"},{"surface":"ואבנט","gloss":"تے کمربند"},{"surface":"תעשה","gloss":"بݨیسیں"},{"surface":"מעשה","gloss":"کم"},{"surface":"רקם","gloss":"کڑھائی"}],"timestamp":"2026-09-19T14:59:25.383640093Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 28:39",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے توں کرتا باریک مَلمل دا وُݨسیں، تے پَگ باریک مَلمل دا بݨیسیں، تے کَمربست کڑھائی دا کم بݨیسیں۔",
+  "tokens": [
+    {
+      "surface": "ושבצת",
+      "gloss": "وُݨسیں"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "کرتا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "باریک مَلمل"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "بݨیسیں"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "پَگ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "باریک مَلمل"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "کَمربست"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بݨیسیں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "کڑھائی"
+    }
+  ],
+  "timestamp": "2026-09-25T06:21:17.544584527Z",
+  "model": "glm-5.3"
+}

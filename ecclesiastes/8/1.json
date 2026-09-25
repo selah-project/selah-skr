@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":1,"ref":"ecclesiastes 8:1","book":"ecclesiastes","lang":"skr","chapter":8,"translation":"کون جیویں سیاݨے دا ہے؟ تے کون ڳالھ دا مطلب ڄاݨدا ہے؟ بندے دی سیاݨپ اوندے مُکھ کوں چمکیندی ہے، تے اوندے مُکھ دی طاقت وٹیج ویندی ہے۔","tokens":[{"surface":"מי","gloss":"کون"},{"surface":"כהחכם","gloss":"جیویں سیاݨے دا"},{"surface":"ומי","gloss":"تے کون"},{"surface":"יודע","gloss":"ڄاݨدا ہے"},{"surface":"פשר","gloss":"مطلب"},{"surface":"דבר","gloss":"ڳالھ دا"},{"surface":"חכמת","gloss":"سیاݨپ"},{"surface":"אדם","gloss":"بندے دی"},{"surface":"תאיר","gloss":"چمکیندی ہے"},{"surface":"פניו","gloss":"اوندے مُکھ کوں"},{"surface":"ועז","gloss":"تے طاقت"},{"surface":"פניו","gloss":"اوندے مُکھ دی"},{"surface":"ישנא","gloss":"وٹیج ویندی ہے"}],"timestamp":"2026-09-19T20:13:33.825384222Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "کون ہِک دانا وانگوں ہے، تے کون ہِک ڳالھ دا مطلب ڄاݨدا ہے؟ بندے دی دانائی اوندا منہ روشن کریندی ہے، تے اوندے منہ دی سختِی بدل ویندی ہے۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "ہِک دانا وانگوں"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاݨدا ہے"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "مطلب"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ دا"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "روشن کریندی ہے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندا منہ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے سختِی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوندے منہ دی"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بدل ویندی ہے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:11:39.770076456Z",
+  "model": "glm-5.3"
+}

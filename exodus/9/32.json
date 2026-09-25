@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "skr",
   "chapter": 9,
-  "translation": "پر کنned تے سپلت نہ وَٹیاں، کیوں جو او ہریاں نہ ہن۔”",
+  "translation": "تے کنک تے سپلت نہ مارے ڳئے، کیوں جو او پچھیکیاں ہن۔",
   "tokens": [
     {
       "surface": "והחטה",
-      "gloss": "پر کنned"
+      "gloss": "تے کنک"
     },
     {
       "surface": "והכסמת",
@@ -20,22 +20,22 @@
       "gloss": "نہ"
     },
     {
-      "surface": "נכו",
-      "gloss": "وَٹیاں"
+      "surface": "נוכו",
+      "gloss": "مارے ڳئے"
     },
     {
       "surface": "כי",
       "gloss": "کیوں جو"
     },
     {
-      "surface": "אפילת",
-      "gloss": "ہریاں نہ ہن"
+      "surface": "אפילות",
+      "gloss": "پچھیکیاں"
     },
     {
       "surface": "הנה",
-      "gloss": "او"
+      "gloss": "ہن"
     }
   ],
-  "timestamp": "2026-09-19T14:47:17.145272637Z",
+  "timestamp": "2026-09-25T06:27:05.194199981Z",
   "model": "glm-5.3"
 }

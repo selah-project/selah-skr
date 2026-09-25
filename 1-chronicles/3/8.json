@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-chronicles 3:8","book":"1-chronicles","lang":"skr","chapter":3,"translation":"تے اِلِیشامع، تے اِلیاداع، تے اِلِیفَلَت — ناں۔","tokens":[{"surface":"ואלישמע","gloss":"تے اِلِیشامع"},{"surface":"ואלידע","gloss":"تے اِلیاداع"},{"surface":"ואליפלט","gloss":"تے اِلِیفَلَت"},{"surface":"תשעה","gloss":"نوں"}],"timestamp":"2026-09-19T20:36:55.982836388Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے الیشامع، تے الیاداع، تے اِلیفالت — کل نوں۔",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "تے الیشامع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "تے الیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "تے اِلیفالت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "کل نوں"
+    }
+  ],
+  "timestamp": "2026-09-25T04:51:50.042440477Z",
+  "model": "glm-5.3"
+}

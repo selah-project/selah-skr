@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-kings 13:22","book":"1-kings","lang":"skr","chapter":13,"translation":"تے تیں وَل آ تے اوں جاہ وِچ روٹی کھادی تے پاݨی پیتا جتھاں اوں تیکوں آکھیا: “نہ روٹی کھا تے نہ پاݨی پی” — تیݙی لوت تیݙے پیؤاں دی قبر اڳوں نہ آسی۔","tokens":[{"surface":"ותשב","gloss":"تیں وَل آ"},{"surface":"ותאכל","gloss":"کھادی"},{"surface":"לחם","gloss":"روٹی"},{"surface":"ותשת","gloss":"پیتا"},{"surface":"מים","gloss":"پاݨی"},{"surface":"במקום","gloss":"اوں جاہ وِچ"},{"surface":"אשר","gloss":"جتھاں"},{"surface":"דבר","gloss":"آکھیا"},{"surface":"אליך","gloss":"تیکوں"},{"surface":"אל","gloss":"نہ"},{"surface":"תאכל","gloss":"کھا"},{"surface":"לחם","gloss":"روٹی"},{"surface":"ואל","gloss":"تے نہ"},{"surface":"תשת","gloss":"پی"},{"surface":"מים","gloss":"پاݨی"},{"surface":"לא","gloss":"نہ"},{"surface":"תבוא","gloss":"آسی"},{"surface":"נבלתך","gloss":"تیݙی لوت"},{"surface":"אל","gloss":"اڳوں"},{"surface":"קבר","gloss":"قبر"},{"surface":"אבתיך","gloss":"تیݙے پیؤاں دی"}],"timestamp":"2026-09-19T21:10:51.894764035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے او ول ڳیا، تے اُوں جاہ وِچ جتھاں اوں کوں آکھیا ہا: “روٹی نہ کھا تے پاݨی نہ پی”، روٹی کھادُس تے پاݨی پیتُس — تیݙی لاش تیݙے پیو-داداں دی قبر وِچ نہ ویسن۔",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "ول ڳیا"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "کھادُس"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "پیتُس"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُوں جاہ وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا ہا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "پی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ویسن"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "تیݙی لاش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "تیݙے پیو-داداں دی"
+    }
+  ],
+  "timestamp": "2026-09-25T04:55:18.387015493Z",
+  "model": "glm-5.3"
+}

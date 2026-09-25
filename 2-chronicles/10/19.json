@@ -5,37 +5,37 @@
   "book": "2-chronicles",
   "lang": "skr",
   "chapter": 10,
-  "translation": "تے اسرائیل داوِد دے گھر نال بغاوت کیتی، اِیں ݙینہہ تئیں۔",
+  "translation": "تے یِسرائل داوِد دے گھر توݨی بغاوت کیتی، ایں ݙینہہ تئیں۔",
   "tokens": [
     {
       "surface": "ויפשעו",
       "gloss": "بغاوت کیتی"
     },
     {
-      "surface": "ישראל",
-      "gloss": "اسرائیل"
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "یِسرائل"
     },
     {
-      "surface": "בבית",
-      "gloss": "گھر نال"
+      "surface": "בְּבֵית",
+      "gloss": "دے گھر"
     },
     {
-      "surface": "דויד",
-      "gloss": "داوِد دے"
+      "surface": "דָּוִיד",
+      "gloss": "داوِد"
     },
     {
-      "surface": "עד",
+      "surface": "עַד",
       "gloss": "تئیں"
     },
     {
-      "surface": "היום",
-      "gloss": "اِیں ݙینہہ"
+      "surface": "הַיּוֹם",
+      "gloss": "ایں ݙینہہ"
     },
     {
-      "surface": "הזה",
-      "gloss": "اِیہ"
+      "surface": "הַזֶּה",
+      "gloss": "⟨ایہو⟩"
     }
   ],
-  "timestamp": "2026-09-19T20:49:49.378211032Z",
+  "timestamp": "2026-09-25T05:17:18.501036652Z",
   "model": "glm-5.3"
 }

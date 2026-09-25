@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 36:15","book":"exodus","lang":"skr","chapter":36,"translation":"ہِک پردے دی لمبائی تریہہ اَمہ ہئی، تے ہِک پردے دی چوڑائی چار اَمہ؛ گیاراں پردیاں کیتے ہِکو ناپ ہا۔","tokens":[{"surface":"ארך","gloss":"لمبائی"},{"surface":"היריעה","gloss":"پردے دی"},{"surface":"האחת","gloss":"ہِک"},{"surface":"שלשים","gloss":"تریہہ"},{"surface":"באמה","gloss":"اَمہ"},{"surface":"וארבע","gloss":"تے چار"},{"surface":"אמות","gloss":"اَمہ"},{"surface":"רחב","gloss":"چوڑائی"},{"surface":"היריעה","gloss":"پردے دی"},{"surface":"האחת","gloss":"ہِک"},{"surface":"מדה","gloss":"ناپ"},{"surface":"אחת","gloss":"ہِکو"},{"surface":"לעשתי","gloss":"گیاراں"},{"surface":"עשרה","gloss":"پردیاں کیتے"},{"surface":"יריעת","gloss":"پردیاں"}],"timestamp":"2026-09-19T15:05:15.779853005Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 36,
+  "translation": "ہِک پردے دی لمبائی ترھی ہتھ ہئی، تے ہِک پردے دی چوڑائی چار ہتھ؛ تراں پردیاں کیتے ہِک ناپ ہئی۔",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردے دی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ترھی"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردے دی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "تراں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردیاں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:24:10.973591444Z",
+  "model": "glm-5.3"
+}

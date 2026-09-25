@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":30,"ref":"exodus 21:30","book":"exodus","lang":"skr","chapter":21,"translation":"جے اوندے اُتے کوفر ⟨معاون، تاوان⟩ رکھیا ڳیا ہووے، تاں او اپݨی جان دا فدیہ ݙیسی، جو کجھ اوندے اُتے رکھیا ڳیا ہووے۔","tokens":[{"surface":"אם","gloss":"جے"},{"surface":"כפר","gloss":"کوفر"},{"surface":"יושת","gloss":"رکھیا ڳیا ہووے"},{"surface":"עליו","gloss":"اوندے اُتے"},{"surface":"ונתן","gloss":"تاں ݙیسی"},{"surface":"פדין","gloss":"فدیہ"},{"surface":"נפשו","gloss":"اپݨی جان دا"},{"surface":"ככל","gloss":"جو کجھ"},{"surface":"אשר","gloss":"جو"},{"surface":"יושת","gloss":"رکھیا ڳیا ہووے"},{"surface":"עליו","gloss":"اوندے اُتے"}],"timestamp":"2026-09-19T14:55:43.756998886Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "جے اُوندے اُتے فدیہ رکھیا ونڄے، تاں او اپݨی جان دا فدیہ ݙیسی، جتلا کجھ اُوندے اُتے رکھیا ونڄے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "رکھیا ونڄے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "تاں … ݙیسی"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپݨی جان دا"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جتلا کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "رکھیا ونڄے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوندے اُتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:19:20.680786418Z",
+  "model": "glm-5.3"
+}

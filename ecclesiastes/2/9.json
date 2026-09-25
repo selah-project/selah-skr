@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":9,"ref":"ecclesiastes 2:9","book":"ecclesiastes","lang":"skr","chapter":2,"translation":"تے میں وݙا تھی ڳیا، تے یروشلایم وِچ اپݨے توں پہلے سبھ توں ودھ ودھیا؛ بلکہ میݙی دانائی میݙے نال کھڑی رہی۔","tokens":[{"surface":"וגדלתי","gloss":"تے میں وݙا تھی ڳیا"},{"surface":"והוספתי","gloss":"تے ودھیک تھیا"},{"surface":"מכל","gloss":"سبھ توں"},{"surface":"שהיה","gloss":"جو ہا"},{"surface":"לפני","gloss":"توں پہلے"},{"surface":"בירושלם","gloss":"یروشلایم وِچ"},{"surface":"אף","gloss":"بلکہ"},{"surface":"חכמתי","gloss":"میݙی دانائی"},{"surface":"עמדה","gloss":"کھڑی رہی"},{"surface":"לי","gloss":"میݙے نال"}],"timestamp":"2026-09-19T20:12:29.664159253Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں وݙا تھیم، تے یروشلایم وِچ میݙے اڳوں جو ہن، سبھ توں ودھیک تھیم؛ اتے میݙا سیاݨپ وی میݙے کیتے کھڑا رہیا۔",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "تے میں وݙا تھیم"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ودھیک تھیم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ توں"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "جو ہن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "میݙے اڳوں"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اتے … وی"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "میݙا سیاݨپ"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "کھڑا رہیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݙے کیتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:09:40.115095050Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,107 @@
-{"tier":"glm-5.2","verse":1,"ref":"exodus 8:1","book":"exodus","lang":"skr","chapter":8,"translation":"تے یاہوہ موشے کوں آکھیا: “اہرون کوں آکھ: آپݨی ہتھ آپݨے عصے نال دریاواں اُتے، نہراں اُتے تے تالاواں اُتے دراز کر، تے ݙیݙیاں (مینڈکاں) کوں مِتصرایم دی زمین اُتے چڑھا۔”","tokens":[{"surface":"ויאמר","gloss":"آکھیا"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אל","gloss":"کوں"},{"surface":"משה","gloss":"موشے"},{"surface":"אמר","gloss":"آکھ"},{"surface":"אל","gloss":"کوں"},{"surface":"אהרן","gloss":"اہرون"},{"surface":"נטה","gloss":"دراز کر"},{"surface":"את","gloss":"⟨את⟩","marks":"آپݨی ہتھ"},{"surface":"ידך","gloss":"آپݨی ہتھ"},{"surface":"במטך","gloss":"آپݨے عصے نال"},{"surface":"על","gloss":"اُتے"},{"surface":"הנהרת","gloss":"دریاواں"},{"surface":"על","gloss":"اُتے"},{"surface":"היארים","gloss":"نہراں"},{"surface":"ועל","gloss":"تے اُتے"},{"surface":"האגמים","gloss":"تالاواں"},{"surface":"והעל","gloss":"تے چڑھا"},{"surface":"את","gloss":"⟨את⟩","marks":"ݙیݙیاں"},{"surface":"הצפרדעים","gloss":"ݙیݙیاں کوں"},{"surface":"על","gloss":"اُتے"},{"surface":"ארץ","gloss":"زمین"},{"surface":"מצרים","gloss":"مِتصرایم دی"}],"timestamp":"2026-09-19T14:48:23.847793970Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاہوہ موشے کوں آکھیا: “اہرون کوں آکھو — ⟨את⟩ آپݨا ہتھ اپݨے عصے نال نہارو، دریاواں اُتے، نہراں اُتے تے تالاباں اُتے، تے ⟨את⟩ ݙیڈاں کوں مِتصرایم دی زمین اُتے چاڑھ۔”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "نہارو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨا ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "آپݨا ہتھ"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "اپݨے عصے نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "دریاواں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "نہراں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "تالاباں"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "چاڑھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ݙیڈاں کوں"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ݙیڈاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-09-25T06:26:06.450509993Z",
+  "model": "glm-5.3"
+}

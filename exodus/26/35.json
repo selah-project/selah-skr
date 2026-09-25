@@ -1,1 +1,87 @@
-{"tier":"glm-5.2","verse":35,"ref":"exodus 26:35","book":"exodus","lang":"skr","chapter":26,"translation":"تے تُساں میز کوں پردے دے ٻاہر رکھسیں، تے مینورا کوں میز دے اُمامݨے، مسکن دے پاسے لَمے پاسوں رکھسیں، تے میز کوں اُبھے پاسے رکھسیں۔","tokens":[{"surface":"ושמת","gloss":"رکھسیں"},{"surface":"את","gloss":"⟨את⟩","marks":"میز"},{"surface":"השלחן","gloss":"میز"},{"surface":"מחוץ","gloss":"ٻاہر"},{"surface":"לפרכת","gloss":"پردے دے"},{"surface":"ואת","gloss":"⟨את⟩","marks":"مینورا"},{"surface":"המנרה","gloss":"مینورا"},{"surface":"נכח","gloss":"اُمامݨے"},{"surface":"השלחן","gloss":"میز دے"},{"surface":"על","gloss":"اُتے"},{"surface":"צלע","gloss":"پاسے"},{"surface":"המשכן","gloss":"مسکن دے"},{"surface":"תימנה","gloss":"لَمے"},{"surface":"והשלחן","gloss":"تے میز"},{"surface":"תתן","gloss":"رکھسیں"},{"surface":"על","gloss":"اُتے"},{"surface":"צלע","gloss":"پاسے"},{"surface":"צפון","gloss":"اُبھے"}],"timestamp":"2026-09-19T21:03:44.708917770Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 26,
+  "translation": "تے تُوں ⟨את⟩ میز کوں پردے توں ٻاہر رکھیسی، تے ⟨את⟩ چراغدان کوں میز دے سامݨے، مسکن دے پہلو اُتے لمے پاسے؛ تے میز کوں تُوں اُترلے پاسے دے پہلو اُتے رکھیسی۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "تے رکھیسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاہر"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "پردے توں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراغدان"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "چراغدان"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پہلو"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دے"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "لمے پاسے"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "تے میز"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "رکھیسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پہلو"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُترلے پاسے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:20:57.689200242Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 9:21","book":"exodus","lang":"skr","chapter":9,"translation":"تے جئیں یاہوہ دی ڳالھ دو دل نہ رکھیا، اوں ⟨את⟩ آپݨے نوکراں تے ⟨ואת⟩ آپݨے ڈھور ݙنگر کھیت وِچ چھوڑ ݙتس۔","tokens":[{"surface":"ואשר","gloss":"تے جئیں"},{"surface":"לא","gloss":"نہ"},{"surface":"שם","gloss":"رکھیا"},{"surface":"לבו","gloss":"دل"},{"surface":"אל","gloss":"دو"},{"surface":"דבר","gloss":"ڳالھ"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"ויעזב","gloss":"چھوڑ ݙتس"},{"surface":"את","gloss":"⟨את⟩","marks":"آپݨے نوکراں"},{"surface":"עבדיו","gloss":"آپݨے نوکراں"},{"surface":"ואת","gloss":"⟨ואת⟩","marks":"آپݨے ڈھور ݙنگر"},{"surface":"מקנהו","gloss":"آپݨے ڈھور ݙنگر"},{"surface":"בשדה","gloss":"کھیت وِچ"}],"timestamp":"2026-09-19T14:49:15.168621567Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے جئیں یاہوہ دے ⟨⟩ ڳالھ دو دل نہ ٻدھا، اوں ⟨את⟩ آپݨے ٻانہیاں تے ⟨את⟩ آپݨے مال کوں کھیت وِچ چھوڑ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "تے جئیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ٻدھا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "چھوڑ ݙتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے ٻانہیاں کوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "آپݨے ٻانہیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے مال کوں"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "آپݨے مال"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:27:08.079797968Z",
+  "model": "glm-5.3"
+}

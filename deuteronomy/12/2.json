@@ -1,1 +1,112 @@
-{"tier":"glm-5.2","verse":2,"ref":"deuteronomy 12:2","book":"deuteronomy","lang":"skr","chapter":12,"translation":"مِٹا مِٹیسو ⟨את⟩ سب تھاں جتھاں قوماں جنہاں کوں تُساں اُنہاں توں وارث ہیوے ⟨אתם⟩ اُتھاں اپݨے معبوداں دی عبادت کیتی — اُچے پہاڑاں اُتے، پہاڑیاں اُتے، تے ہر ساوے رُکھ تلے۔","tokens":[{"surface":"אבד","gloss":"مِٹا"},{"surface":"תאבדון","gloss":"مِٹیسو"},{"surface":"את","gloss":"⟨את⟩","marks":"سب تھاں"},{"surface":"כל","gloss":"سب"},{"surface":"המקמות","gloss":"تھاں"},{"surface":"אשר","gloss":"جتھاں"},{"surface":"עבדו","gloss":"عبادت کیتی"},{"surface":"שם","gloss":"اُتھاں"},{"surface":"הגוים","gloss":"قوماں"},{"surface":"אשר","gloss":"جنہاں"},{"surface":"אתם","gloss":"تُساں"},{"surface":"ירשים","gloss":"وارث ہیوے"},{"surface":"אתם","gloss":"⟨אתם⟩","marks":"قوماں"},{"surface":"את","gloss":"⟨את⟩","marks":"اُنہاں دے معبود"},{"surface":"אלהיהם","gloss":"معبود"},{"surface":"על","gloss":"اُتے"},{"surface":"ההרים","gloss":"پہاڑاں"},{"surface":"הרמים","gloss":"اُچے"},{"surface":"ועל","gloss":"تے اُتے"},{"surface":"הגבעות","gloss":"پہاڑیاں"},{"surface":"ותחת","gloss":"تے تلے"},{"surface":"כל","gloss":"ہر"},{"surface":"עץ","gloss":"رُکھ"},{"surface":"רענן","gloss":"ساوے"}],"timestamp":"2026-09-19T21:06:35.907959582Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تُساں مُکا مُکا ݙیسو ⟨את⟩ ساریاں اوہ تھاواں، جِتھاں قوماں — جنہاں کوں تُساں وارث بݨیسو ⟨את⟩ — اُتھاں ⟨את⟩ انہاں دے معبوداں دی عبادت کریندیاں ہن، اُچے پہاڑاں اُتے، ٹٻیاں اُتے تے ہر ٻوڑے رُکھ تلے۔",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "مُکا"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "مُکا ݙیسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں اوہ تھاواں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "تھاواں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھاں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبادت کریندیاں ہن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "وارث بݨیسو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "قوماں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انہاں دے معبود"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "انہاں دے معبود"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹٻیاں"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے تلے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ٻوڑے"
+    }
+  ],
+  "timestamp": "2026-09-25T05:58:49.687327099Z",
+  "model": "glm-5.3"
+}

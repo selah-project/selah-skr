@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":17,"ref":"deuteronomy 24:17","book":"deuteronomy","lang":"skr","chapter":24,"translation":"پرائی (اَن Bian) دا تے یتیم دا فیصلہ نہ وِٹا، تے بیوہ دا کپڑا گروی نہ رکھ۔","tokens":[{"surface":"לא","gloss":"نہ"},{"surface":"תטה","gloss":"وِٹا"},{"surface":"משפט","gloss":"فیصلہ"},{"surface":"גר","gloss":"پرائی"},{"surface":"יתום","gloss":"یتیم"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"תחבל","gloss":"گروی رکھ"},{"surface":"בגד","gloss":"کپڑا"},{"surface":"אלמנה","gloss":"بیوہ"}],"timestamp":"2026-09-19T16:01:57.935047121Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 24,
+  "translation": "پناہ گیر دا انصاف نہ وٹا، یتیم دا وی نہ، تے بیوہ دا کپڑا گروی نہ گھن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "وٹا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پناہ گیر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "گروی گھن"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:02:32.228380016Z",
+  "model": "glm-5.3"
+}

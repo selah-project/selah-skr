@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":1,"ref":"daniel 7:1","book":"daniel","lang":"skr","chapter":7,"translation":"بِلعشتصر بابل دے بادشاہ ⟨دے⟩ پہلے ورھے دانییل کوں ہِک خواب ݙٹھا تے اوندے سر دے دیدار اُوندے پلنگ ⟨اُتے⟩ آئے؛ تݙاں اوں خواب لکھیا تے ڳالھیں دا مُکھڑا آکھیُس۔","tokens":[{"surface":"בשנת","gloss":"ورھے"},{"surface":"חדה","gloss":"پہلے"},{"surface":"לבלאשצר","gloss":"بِلعشتصر"},{"surface":"מלך","gloss":"بادشاہ"},{"surface":"בבל","gloss":"بابل"},{"surface":"דניאל","gloss":"دانییل"},{"surface":"חלם","gloss":"خواب"},{"surface":"חזה","gloss":"ݙٹھا"},{"surface":"וחזוי","gloss":"تے دیدار"},{"surface":"ראשה","gloss":"اُوندے سر دے"},{"surface":"על","gloss":"اُتے"},{"surface":"משכבה","gloss":"پلنگ"},{"surface":"באדין","gloss":"تݙاں"},{"surface":"חלמא","gloss":"خواب"},{"surface":"כתב","gloss":"لکھیا"},{"surface":"ראש","gloss":"مُکھڑا"},{"surface":"מלין","gloss":"ڳالھیں دا"},{"surface":"אמר","gloss":"آکھیُس"}],"timestamp":"2026-09-19T20:23:42.932763740Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 7:1",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "بیلشصّر، بابل دے بادشاہ، دے پہلے سال دانیئیل ہِک سپݨا ݙٹھا، تے اوندے سر دے دیدار اوندے بسترے اُتے؛ تݙاں اوں سپݨا لکھیا تے ڳالھیں دا خلاصہ آکھیس۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לבלאשצר",
+      "gloss": "بیلشصّر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیئیل"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "سپݨا"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ݙٹھا"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "تے دیدار"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "اوندے سر دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משכבה",
+      "gloss": "اوندے بسترے"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "سپݨا"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لکھیا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "خلاصہ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ڳالھیں دا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیس"
+    }
+  ],
+  "timestamp": "2026-09-25T05:55:53.235380885Z",
+  "model": "glm-5.3"
+}

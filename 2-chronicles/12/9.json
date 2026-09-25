@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-chronicles 12:9","book":"2-chronicles","lang":"skr","chapter":12,"translation":"تے شیشق، مِتصرایم دا بادشاہ، یروشلایم اُتے چڑھ آیا، تے یاہوہ دے گھر دے خزانے تے بادشاہ دے گھر دے خزانے ⟨את⟩ گھدے — ⟨את⟩ سَبھ کجھ گھدس — تے سنہری ڈھالاں، جیڑھیاں شلومو بݨایاں ہن، ⟨את⟩ اوہ وی چا گھدونے۔","tokens":[{"surface":"ויעל","gloss":"چڑھ آیا"},{"surface":"שישק","gloss":"شیشق"},{"surface":"מלך","gloss":"بادشاہ"},{"surface":"מצרים","gloss":"مِتصرایم"},{"surface":"על","gloss":"اُتے"},{"surface":"ירושלם","gloss":"یروشلایم"},{"surface":"ויקח","gloss":"گھدے"},{"surface":"את","gloss":"⟨את⟩","marks":"خزانے"},{"surface":"אצרות","gloss":"خزانے"},{"surface":"בית","gloss":"گھر"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"ואת","gloss":"⟨ואת⟩","marks":"خزانے"},{"surface":"אצרות","gloss":"خزانے"},{"surface":"בית","gloss":"گھر"},{"surface":"המלך","gloss":"بادشاہ دے"},{"surface":"את","gloss":"⟨את⟩","marks":"سَبھ کجھ"},{"surface":"הכל","gloss":"سَبھ کجھ"},{"surface":"לקח","gloss":"گھدس"},{"surface":"ויקח","gloss":"چا گھدونے"},{"surface":"את","gloss":"⟨את⟩","marks":"ڈھالاں"},{"surface":"מגני","gloss":"ڈھالاں"},{"surface":"הזהב","gloss":"سونے دیاں"},{"surface":"אשר","gloss":"جیڑھیاں"},{"surface":"עשה","gloss":"بݨایاں"},{"surface":"שלמה","gloss":"شلومو"}],"timestamp":"2026-09-19T20:50:49.440761019Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے شیشک، مِتصرایم دا بادشاہ، یروشلایم اُتے چڑھ آیا، تے اوں یاہوہ دے گھر دے خزانے ⟨את⟩ تے بادشاہ دے گھر دے خزانے ⟨את⟩ گھدے — ⟨את⟩ سب کجھ گھن ڳیا — تے سونے دے ڈھالاں ⟨את⟩ وی گھدے جیہڑے شلومو بݨوائے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھ آیا"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "شیشک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خزانے"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خزانے"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کجھ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گھن ڳیا"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گھدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڈھال"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨوائے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    }
+  ],
+  "timestamp": "2026-09-25T05:18:02.219855308Z",
+  "model": "glm-5.3"
+}

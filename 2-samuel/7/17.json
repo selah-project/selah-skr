@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":17,"ref":"2-samuel 7:17","book":"2-samuel","lang":"skr","chapter":7,"translation":"ایہناں ساریاں ڳالھیں موجب تے ایہ سارے نظارے موجب، اِیں ناتان داوِد نال ڳالھ کیتی۔","tokens":[{"surface":"ככל","gloss":"موجب سبھ"},{"surface":"הדברים","gloss":"ڳالھیں"},{"surface":"האלה","gloss":"ایہناں"},{"surface":"וככל","gloss":"تے موجب سبھ"},{"surface":"החזיון","gloss":"نظارے"},{"surface":"הזה","gloss":"ایں"},{"surface":"כן","gloss":"اِیں"},{"surface":"דבר","gloss":"ڳالھ کیتی"},{"surface":"נתן","gloss":"ناتان"},{"surface":"אל","gloss":"نال"},{"surface":"דוד","gloss":"داوِد"}],"timestamp":"2026-09-19T16:53:02.832961980Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "ایہاں ساریاں ڳالھیں موجب تے اِیہو سارا منظر موجب، اِیویں ناتن داوِد نال الایا۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "موجب سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہاں"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "تے موجب سارا"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "منظر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیہو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الایا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-09-25T05:49:35.607957441Z",
+  "model": "glm-5.3"
+}

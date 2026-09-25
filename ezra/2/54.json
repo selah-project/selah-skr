@@ -5,25 +5,25 @@
   "book": "ezra",
   "lang": "skr",
   "chapter": 2,
-  "translation": "نَتصیax دے پُتر، خَتیفا دے پُتر۔",
+  "translation": "نَصیاخ دے پُتر، خَتیفہ دے پُتر۔",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "دے پُتر"
+      "gloss": "پُتر"
     },
     {
       "surface": "נציח",
-      "gloss": "نَتصیح"
+      "gloss": "نَصیاخ"
     },
     {
       "surface": "בני",
-      "gloss": "دے پُتر"
+      "gloss": "پُتر"
     },
     {
       "surface": "חטיפא",
-      "gloss": "خَتیفا"
+      "gloss": "خَتیفہ"
     }
   ],
-  "timestamp": "2026-09-19T20:26:35.616424986Z",
+  "timestamp": "2026-09-25T06:41:29.643379277Z",
   "model": "glm-5.3"
 }

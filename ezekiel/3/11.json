@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 3:11","book":"ezekiel","lang":"skr","chapter":3,"translation":"تے ونڄ، جلاوطناں کول، اپݨے لوکاں دے پُتراں کول پُڄ، انہاں نال ڳالھ کریں، تے انہاں کوں آکھیں: “ایہو آکھیندے ادونای یاہوہ: جے او سُݨن، یا جے او روک ݙیون۔”","tokens":[{"surface":"ולך","gloss":"تے ونڄ"},{"surface":"בא","gloss":"پُڄ"},{"surface":"אל","gloss":"کول"},{"surface":"הגולה","gloss":"جلاوطناں"},{"surface":"אל","gloss":"کول"},{"surface":"בני","gloss":"پُتراں"},{"surface":"עמך","gloss":"اپݨے لوکاں دے"},{"surface":"ודברת","gloss":"ڳالھ کریں"},{"surface":"אליהם","gloss":"انہاں نال"},{"surface":"ואמרת","gloss":"تے آکھیں"},{"surface":"אליהם","gloss":"انہاں کوں"},{"surface":"כה","gloss":"ایہو"},{"surface":"אמר","gloss":"آکھیندے"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אם","gloss":"جے"},{"surface":"ישמעו","gloss":"سُݨن"},{"surface":"ואם","gloss":"یا جے"},{"surface":"יחדלו","gloss":"روک ݙیون"}],"timestamp":"2026-09-19T18:25:59.868746234Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 3:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے ونڄ، جلاوطناں کول پُڄ، تیݙے لوکاں دے پُتراں کول، تے اُنہاں نال ڳالھ کر، تے اُنہاں کوں آکھ: “ایویں آکھیا ادونای یاہوہ: جے او سُݨن، تے جے او رُک ونڄن۔”",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "تے ونڄ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "پُڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطناں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے لوکاں دے"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "تے ڳالھ کر"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُنہاں نال"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "او سُݨن"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "رُک ونڄن"
+    }
+  ],
+  "timestamp": "2026-09-25T06:33:47.697942352Z",
+  "model": "glm-5.3"
+}

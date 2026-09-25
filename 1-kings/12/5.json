@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-kings 12:5","book":"1-kings","lang":"skr","chapter":12,"translation":"اوں انہاں کوں آکھیا: “ہُݨ ترے ݙینہہ ٹُرو تے میݙے کول وَل آؤ۔” تے لوک ٹُر ڳئے۔","tokens":[{"surface":"ויאמר","gloss":"اوں … آکھیا"},{"surface":"אליהם","gloss":"انہاں کوں"},{"surface":"לכו","gloss":"ٹُرو"},{"surface":"עד","gloss":"ہُݨ"},{"surface":"שלשה","gloss":"ترے"},{"surface":"ימים","gloss":"ݙینہہ"},{"surface":"ושובו","gloss":"تے وَل آؤ"},{"surface":"אלי","gloss":"میݙے کول"},{"surface":"וילכו","gloss":"تے ٹُر ڳئے"},{"surface":"העם","gloss":"لوک"}],"timestamp":"2026-09-19T17:12:44.063507654Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "اوں انہاں کوں آکھیا: “ونڄو، ہُݨ ترے ݙینہہ، تے ول میݙے کول ولو۔” تے قوم ⟨اوہ⟩ ڳئی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انہاں کوں"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ونڄو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہُݨ ⟨ٻئے⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ترے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "تے ول آ ولو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کول"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ڳئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-25T04:54:41.606952579Z",
+  "model": "glm-5.3"
+}

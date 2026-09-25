@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":21,"ref":"ezekiel 21:21","book":"ezekiel","lang":"skr","chapter":21,"translation":"رستہ پکا کر، سڄے پاسے لڳ، کھٻے پاسے لڳ — کتھاں تیݙا اَڳوڑ لڳیا ہویا ہے؟","tokens":[{"surface":"התאחדי","gloss":"رستہ پکا کر"},{"surface":"הימני","gloss":"سڄے پاسے لڳ"},{"surface":"השימי","gloss":"رکھ"},{"surface":"השמילי","gloss":"کھٻے پاسے لڳ"},{"surface":"אנה","gloss":"کتھاں"},{"surface":"פניך","gloss":"تیݙا اَڳوڑ"},{"surface":"מעדות","gloss":"لڳیا ہویا ہے"}],"timestamp":"2026-09-19T18:32:57.659308427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 21:21",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "اِکٹھی تھی، ٻیٹھکی کر، سڄے پاسے ونڄ، کھٻے پاسے رُخ کر — تیݙا منہ کِتھاں مقرر تھیا ہویا ہے؟",
+  "tokens": [
+    {
+      "surface": "התאחדי",
+      "gloss": "اِکٹھی تھی، ٻیٹھکی کر"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "سڄے پاسے ونڄ"
+    },
+    {
+      "surface": "השימי",
+      "gloss": "رُخ کر"
+    },
+    {
+      "surface": "השמילי",
+      "gloss": "کھٻے پاسے"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کِتھاں"
+    },
+    {
+      "surface": "پنچ",
+      "gloss": ""
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیݙا منہ"
+    },
+    {
+      "surface": "מועדות",
+      "gloss": "مقرر تھیا ہویا"
+    }
+  ],
+  "timestamp": "2026-09-25T06:30:57.743204883Z",
+  "model": "glm-5.3"
+}

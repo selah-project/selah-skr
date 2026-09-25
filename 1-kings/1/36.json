@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":36,"ref":"1-kings 1:36","book":"1-kings","lang":"skr","chapter":1,"translation":"تے بنیاهو، پُتر یہویاداع، بادشاہ دا جواب ݙتس تے آکھیس: “آمین، ایویں آکھے یاہوہ، میݙے سائیں بادشاہ دا ایلوہیم۔”","tokens":[{"surface":"ויען","gloss":"جواب ݙتس"},{"surface":"בניהו","gloss":"بنیاهو"},{"surface":"בן","gloss":"پُتر"},{"surface":"יהוידע","gloss":"یہویاداع"},{"surface":"את","gloss":"⟨את⟩","marks":"بادشاہ"},{"surface":"המלך","gloss":"بادشاہ"},{"surface":"ויאמר","gloss":"آکھیس"},{"surface":"אמן","gloss":"آمین"},{"surface":"כן","gloss":"ایویں"},{"surface":"יאמר","gloss":"آکھے"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אלהי","gloss":"ایلوہیم"},{"surface":"אדני","gloss":"میݙے سائیں"},{"surface":"המלך","gloss":"بادشاہ"}],"timestamp":"2026-09-19T17:04:44.067865662Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 1:36",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے بِنایاہو، یہویاداع دا پُتر، بادشاہ دا جواب ݙتا تے آکھیس: “آمین، ایویں آکھسی یاہوہ، میݙے سائیں بادشاہ دا ایلوہیم۔”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویاداع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אדנی",
+      "gloss": "سائیں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:52:59.531725100Z",
+  "model": "glm-5.3"
+}

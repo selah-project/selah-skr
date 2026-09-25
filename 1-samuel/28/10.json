@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 28:10","book":"1-samuel","lang":"skr","chapter":28,"translation":"تے شاؤل اوں کوں یاہوہ دی قسم کھادی، آکھیس: “جیویں یاہوہ زندہ ہے، ایں ڳالھ وِچ تیکوں کوئی ݙنڈ نہ آویسی۔”","tokens":[{"surface":"וישבע","gloss":"قسم کھادی"},{"surface":"לה","gloss":"اوں کوں"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"ביהוה","gloss":"یاہوہ دی"},{"surface":"לאמר","gloss":"آکھیس"},{"surface":"חי","gloss":"زندہ"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אם","gloss":"⟨نہ⟩"},{"surface":"יקרך","gloss":"تیکوں آویسی"},{"surface":"עון","gloss":"ݙنڈ"},{"surface":"בדבר","gloss":"ایں ڳالھ وِچ"},{"surface":"הזה","gloss":"ایں"}],"timestamp":"2026-09-19T16:47:41.560068817Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے شاؤل اوندے کیتے یاہوہ دے ناں تے قسم کھادی، آکھیس: “جِیندا یاہوہ ہے، ایں ڳالھ وِچ تیکوں کُئی سزا نہ آ لہسی۔”",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوندے کیتے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دے ناں تے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "تیکوں آ لہسی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ڳالھ وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:13:04.489049217Z",
+  "model": "glm-5.3"
+}

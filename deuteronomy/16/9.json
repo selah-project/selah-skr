@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 16:9","book":"deuteronomy","lang":"skr","chapter":16,"translation":"ست ہفتے تُساں اپݨے کیتے ڳݨو؛ درانتی دے کھیتی وِچ لڳݨ توں ست ہفتے ڳݨݨ شروع کرو۔","tokens":[{"surface":"שבעה","gloss":"ست"},{"surface":"שבעת","gloss":"ہفتے"},{"surface":"תספר","gloss":"ڳݨو"},{"surface":"לך","gloss":"اپݨے کیتے"},{"surface":"מהחל","gloss":"توں شروع"},{"surface":"חרמש","gloss":"درانتی"},{"surface":"בקמה","gloss":"کھیتی وِچ"},{"surface":"תחל","gloss":"شروع کرو"},{"surface":"לספר","gloss":"ڳݨݨ کوں"},{"surface":"שבעה","gloss":"ست"},{"surface":"שבעות","gloss":"ہفتے"}],"timestamp":"2026-09-19T15:55:45.359230069Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "ست ہفتے تُساں کوں ڳݨݨے؛ درانتی ⟨درانتی⟩ فصلاں وِچ لڳݨ توں تُساں ست ہفتے ڳݨݨ شروع کریسوں۔",
+  "tokens": [
+    {
+      "surface": "שִׁבְעָ֥ה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שָׁבֻעֹ֖ת",
+      "gloss": "ہفتے"
+    },
+    {
+      "surface": "תִּסְפָּ֨ר",
+      "gloss": "ڳݨݨے"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "تُساں کوں"
+    },
+    {
+      "surface": "מֵהָחֵ֤ל",
+      "gloss": "لڳݨ توں"
+    },
+    {
+      "surface": "חֶרְמֵשׁ֙",
+      "gloss": "درانتی"
+    },
+    {
+      "surface": "בַּקָּמָ֔ה",
+      "gloss": "فصلاں وِچ"
+    },
+    {
+      "surface": "תָּחֵ֣ל",
+      "gloss": "شروع کریسوں"
+    },
+    {
+      "surface": "לִסְפֹּ֔ר",
+      "gloss": "ڳݨݨ"
+    },
+    {
+      "surface": "שִׁבְעָ֖ה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שָׁבֻעֽוֹת",
+      "gloss": "ہفتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:00:28.114037718Z",
+  "model": "glm-5.3"
+}

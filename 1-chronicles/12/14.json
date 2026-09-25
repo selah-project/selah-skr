@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "skr",
   "chapter": 12,
-  "translation": "یِرمیاہو ڏاہواں، مکبّنای یارہواں۔",
+  "translation": "یِرمیاہو ݙاہواں، مکبّنای ہِکاٰی <…>۔",
   "tokens": [
     {
       "surface": "ירמיהו",
@@ -13,21 +13,21 @@
     },
     {
       "surface": "העשירי",
-      "gloss": "ڏاہواں"
+      "gloss": "ݙاہواں"
     },
     {
       "surface": "מכבני",
       "gloss": "مکبّنای"
     },
     {
-      "surface": "עשתי",
-      "gloss": "یارہ"
+      "surface": "עשتי",
+      "gloss": "ہِکاٰی"
     },
     {
       "surface": "עשר",
-      "gloss": "−واں"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-09-19T20:41:29.650934006Z",
+  "timestamp": "2026-09-25T04:47:20.033883409Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,45 @@
   "book": "1-chronicles",
   "lang": "skr",
   "chapter": 27,
-  "translation": "تے کھیت دی کمائی کرݨ آلیاں، زمین دیservice کیتے، اُتے عزری، کلُوب دا پُتر، ہا۔",
+  "translation": "تے کھیتیاں دے کم کرݨ آلیاں اُتے، زمین دی خدمت کیتے، عِزری کلوب دا پُتر ہا۔",
   "tokens": [
     {
-      "surface": "ועל",
-      "gloss": "تے اُتے"
+      "surface": "וְעַל",
+      "gloss": "تے … اُتے"
     },
     {
-      "surface": "עשי",
-      "gloss": "کرݨ آلیاں"
+      "surface": "עֹשֵי",
+      "gloss": "کم کرݨ آلیاں"
     },
     {
-      "surface": "מלאכת",
-      "gloss": "کمائی"
+      "surface": "מְלֶאכֶת",
+      "gloss": "کم"
     },
     {
-      "surface": "השדה",
-      "gloss": "کھیت دی"
+      "surface": "הַשָּׂדֶה",
+      "gloss": "کھیتیاں دے"
     },
     {
-      "surface": "לעבדת",
-      "gloss": "service کیتے"
+      "surface": "לַעֲבֹדַת",
+      "gloss": "خدمت کیتے"
     },
     {
-      "surface": "האדמה",
+      "surface": "הָאֲדָמָה",
       "gloss": "زمین دی"
     },
     {
-      "surface": "עזרי",
-      "gloss": "عزری"
+      "surface": "עֶזְרִי",
+      "gloss": "عِزری"
     },
     {
-      "surface": "בן",
+      "surface": "בֶּן",
       "gloss": "پُتر"
     },
     {
-      "surface": "כלוב",
-      "gloss": "کلُوب"
+      "surface": "כְּלוּב",
+      "gloss": "کلوب"
     }
   ],
-  "timestamp": "2026-09-19T20:46:18.374656437Z",
+  "timestamp": "2026-09-25T04:50:46.882734357Z",
   "model": "glm-5.3"
 }

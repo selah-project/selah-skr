@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-samuel 19:2","book":"2-samuel","lang":"skr","chapter":19,"translation":"تے یوآب کوں ݙسیا ڳیا: “ݙیکھو، بادشاہ روندا تے اَوشلوم اُتے سوگ کریندا ہے۔”","tokens":[{"surface":"ויגד","gloss":"ݙسیا ڳیا"},{"surface":"ליואב","gloss":"یوآب کوں"},{"surface":"הנה","gloss":"ݙیکھو"},{"surface":"המלך","gloss":"بادشاہ"},{"surface":"בכה","gloss":"روندا"},{"surface":"ויתאבל","gloss":"سوگ کریندا ہے"},{"surface":"על","gloss":"اُتے"},{"surface":"אבשלם","gloss":"اَوشلوم"}],"timestamp":"2026-09-19T17:00:14.812189009Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 19,
+  "translation": "تے یوآب کوں ݙسیا ڳیا: “ݙیکھو، بادشاہ روندا پیا ہے تے اَوشالوم کیتے ماتم کریندا ہے۔”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ݙسیا ڳیا"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "یوآب کوں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "روندا پیا ہے"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ماتم کریندا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "اَوشالوم"
+    }
+  ],
+  "timestamp": "2026-09-25T05:44:16.936583012Z",
+  "model": "glm-5.3"
+}

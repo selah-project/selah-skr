@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":32,"ref":"esther 9:32","book":"esther","lang":"skr","chapter":9,"translation":"تے ایستیر دا حکم ایہ پُورِیم دے احکام پکے کیتے، تے کتاب وِچ لکھیا ڳیا۔","tokens":[{"surface":"ומאמר","gloss":"تے حکم"},{"surface":"אסתר","gloss":"ایستیر"},{"surface":"קים","gloss":"پکے کیتے"},{"surface":"דברי","gloss":"احکام"},{"surface":"הפרים","gloss":"پُورِیم دے"},{"surface":"האלה","gloss":"ایہ"},{"surface":"ונכתב","gloss":"تے لکھیا ڳیا"},{"surface":"בספר","gloss":"کتاب وِچ"}],"timestamp":"2026-09-19T20:18:16.186808351Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے اِستیر دا حکم ⟨את⟩ اِنہاں پُریم دے کماں کوں پکا کیتا، تے او کتاب وِچ لکھیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "تے … دا حکم"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستیر"
+    },
+    {
+      "surface": "קים",
+      "gloss": "پکا کیتا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "کماں"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "پُریم دے"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِنہاں"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "تے لکھیا ڳیا"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:14:38.178892053Z",
+  "model": "glm-5.3"
+}

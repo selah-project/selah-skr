@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"deuteronomy 2:11","book":"deuteronomy","lang":"skr","chapter":2,"translation":"رفاعیم ڳِݨے ویندن، او وی، عناقیں وانگوں؛ تے موآبی اُنہاں کوں ایمیم سݙیندن۔","tokens":[{"surface":"רפאים","gloss":"رفاعیم"},{"surface":"יחשבו","gloss":"ڳِݨے ویندن"},{"surface":"אף","gloss":"وی"},{"surface":"הם","gloss":"او"},{"surface":"כענקים","gloss":"عناقیں وانگوں"},{"surface":"והמאבים","gloss":"تے موآبی"},{"surface":"יקראו","gloss":"سݙیندن"},{"surface":"להם","gloss":"اُنہاں کوں"},{"surface":"אמים","gloss":"ایمیم"}],"timestamp":"2026-09-19T15:48:46.178339810Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "رِپایم ڳݨیے ویندے ہن، او وی، عناقیم وانگوں؛ تے موآبی اُنہاں کوں اِیمیم آکھدے ہن۔",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "رِپایم"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ڳݨیے ویندے ہن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "عناقیم وانگوں"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "تے موآبی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "آکھدے ہن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں کوں"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "اِیمیم"
+    }
+  ],
+  "timestamp": "2026-09-25T06:00:30.731226283Z",
+  "model": "glm-5.3"
+}

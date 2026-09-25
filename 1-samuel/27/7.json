@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-samuel 27:7","book":"1-samuel","lang":"skr","chapter":27,"translation":"تے ݙینہاں دی ڳݨتری جہڑے داوِد فلستیاں دے دیس وِچ ٹِکیا ریہا — ⟨ہِک ورھا⟩ تے چار مہینے تھئے۔","tokens":[{"surface":"ויהי","gloss":"تھیا"},{"surface":"מספר","gloss":"ڳݨتری"},{"surface":"הימים","gloss":"ݙینہاں دی"},{"surface":"אשר","gloss":"جہڑے"},{"surface":"ישב","gloss":"ٹِکیا ریہا"},{"surface":"דוד","gloss":"داوِد"},{"surface":"בשדה","gloss":"دیس وِچ"},{"surface":"פלשתים","gloss":"فلستیاں دے"},{"surface":"ימים","gloss":"⟨ہِک ورھا⟩"},{"surface":"וארבעה","gloss":"تے چار"},{"surface":"חדשים","gloss":"مہینے"}],"timestamp":"2026-09-19T16:48:41.399718273Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "تے ݙینہہاں دی او ڳݨتری جو داوِد پلشتیاں دے دیس وِچ رہندا رہیا، ݙینہہ تے چار مہینے تھئی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھئی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتری"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہہاں دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہندا رہیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیاں دے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-09-25T05:12:50.680078535Z",
+  "model": "glm-5.3"
+}

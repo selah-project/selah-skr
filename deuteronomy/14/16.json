@@ -1,1 +1,35 @@
-{"tier":"glm-5.2","verse":16,"ref":"deuteronomy 14:16","book":"deuteronomy","lang":"skr","chapter":14,"translation":"⟨את⟩ ٻُڈولا الُّو کوّص، تے ⟨את⟩ وݙا الُّو یَنشُوف، تے تِنشیمت۔","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"ٻُڈولا الُّو کوّص"},{"surface":"הכוס","gloss":"چھوٹا الُّو کوّص"},{"surface":"ואת","gloss":"⟨את⟩","marks":"وݙا الُّو یَنشُوف"},{"surface":"הינשוף","gloss":"وݙا الُّو یَنشُوف"},{"surface":"והתנשמת","gloss":"تِنشیمت"}],"timestamp":"2026-09-19T15:55:21.445624989Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 14,
+  "translation": "⟨את⟩ کُوس کوں ⟨چھوٹی الُّو⟩، تے ⟨את⟩ یِنشُوف کوں ⟨وݙی الُّو⟩، تے تِنشَمِت کوں ⟨سفید الُّو⟩۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کُوس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کُوس ⟨چھوٹی الُّو⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یِنشُوف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "یِنشُوف ⟨وݙی الُّو⟩"
+    },
+    {
+      "surface": "وהתנשמת",
+      "gloss": "تے تِنشَمِت ⟨سفید الُّو⟩"
+    }
+  ],
+  "timestamp": "2026-09-25T05:59:35.645459018Z",
+  "model": "glm-5.3"
+}

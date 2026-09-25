@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "skr",
   "chapter": 14,
-  "translation": "تے یاہوہ دی ڳالھ میݙے کول آئی، آکھݨ لئی:",
+  "translation": "تے یاہوہ دا ⟨ٻول⟩ ⟨میکوں⟩ تھیا، آکھݨ لڳا:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تے تھی ڳئی"
+      "gloss": "تھیا"
     },
     {
       "surface": "דבר",
-      "gloss": "ڳالھ"
+      "gloss": "⟨ٻول⟩"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دی"
+      "gloss": "یاہوہ دا"
     },
     {
       "surface": "אלי",
-      "gloss": "میݙے کول"
+      "gloss": "میکوں"
     },
     {
       "surface": "לאמר",
-      "gloss": "آکھݨ لئی"
+      "gloss": "آکھݨ لڳا:"
     }
   ],
-  "timestamp": "2026-09-19T18:31:06.801349125Z",
+  "timestamp": "2026-09-25T06:28:39.071988253Z",
   "model": "glm-5.3"
 }

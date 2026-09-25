@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-samuel 12:21","book":"1-samuel","lang":"skr","chapter":12,"translation":"تے تُساں پاسے نہ تھیوو، کیوں جو بے کار چیزاں دے پچھوں ونڄو، جہڑیاں نہ فائدہ ݙیسن تے نہ بچا سڳسن، کیوں جو اوہ بے کار ہن۔","tokens":[{"surface":"ולא","gloss":"تے نہ"},{"surface":"תסורו","gloss":"تُساں پاسے تھیوو"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"אחרי","gloss":"پچھوں"},{"surface":"התהו","gloss":"بے کار چیزاں"},{"surface":"אשר","gloss":"جہڑیاں"},{"surface":"לא","gloss":"نہ"},{"surface":"יועילו","gloss":"فائدہ ݙیسن"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"יצילו","gloss":"بچا سڳسن"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"תהו","gloss":"بے کار"},{"surface":"המה","gloss":"اوہ"}],"timestamp":"2026-09-19T16:39:46.278869472Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے تُساں پاسیں نہ لنگھو، کیوں جو ⟨او⟩ بے کار شیاں پچھوں، جِنہاں کوئی فائدہ نہ ݙیون تے نہ بچا سڳن، کیوں جو او بے کار ہن۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "تُساں پاسیں لنگھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "⟨او⟩ بے کار شیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "فائدہ ݙیون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "بچا سڳن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "بے کار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او ہن"
+    }
+  ],
+  "timestamp": "2026-09-25T05:05:11.434204310Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":15,"ref":"deuteronomy 18:15","book":"deuteronomy","lang":"skr","chapter":18,"translation":"تیݙے ایلوہیم یاہوہ تیݙے کیتے ہِک نبی تُساݙے وچوں، تُساݙے بھریاں وچوں، میݙے وانگوں، کھڑا کریسی — اوندی ڳالھ تُساں سݨو۔","tokens":[{"surface":"נביא","gloss":"نبی"},{"surface":"מקרבך","gloss":"تُساݙے وچوں"},{"surface":"מאחיך","gloss":"تُساݙے بھریاں وچوں"},{"surface":"כמני","gloss":"میݙے وانگوں"},{"surface":"יקים","gloss":"کھڑا کریسی"},{"surface":"לך","gloss":"تیݙے کیتے"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אלהיך","gloss":"تیݙے ایلوہیم"},{"surface":"אליו","gloss":"اوندی"},{"surface":"תשמעון","gloss":"سݨو"}],"timestamp":"2026-09-19T15:58:47.265560254Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 18:15",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "یاہوہ تیݙا ایلوہیم تیݙے وِچوں، تیݙے بھریاں وِچوں، میں جیہا ہِک نبی تیݙے کیتے کھڑا کریسی — تُساں اُوں کوں سݨسو۔",
+  "tokens": [
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "تیݙے وِچوں"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "تیݙے بھریاں وِچوں"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "میں جیہا"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "کھڑا کریسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیݙا ایلوہیم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُوں کوں"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "سݨسو"
+    }
+  ],
+  "timestamp": "2026-09-25T06:00:47.396102382Z",
+  "model": "glm-5.3"
+}

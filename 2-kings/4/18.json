@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-kings 4:18","book":"2-kings","lang":"skr","chapter":4,"translation":"تے ٻال وݙا تھیا، تے ہِک ݙینہہ او پیو کول، فصال کپݨ آلیاں کول ڳیا۔","tokens":[{"surface":"ויגדל","gloss":"وݙا تھیا"},{"surface":"הילד","gloss":"ٻال"},{"surface":"ויהי","gloss":"تھیا"},{"surface":"היום","gloss":"ݙینہہ"},{"surface":"ויצא","gloss":"ڳیا"},{"surface":"אל","gloss":"کول"},{"surface":"אביו","gloss":"اوندے پیو"},{"surface":"אל","gloss":"کول"},{"surface":"הקצרים","gloss":"فصال کپݨ آلے"}],"timestamp":"2026-09-19T17:21:12.427651182Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے او ٻال وݙا تھیا، تے ہِک ݙینہہ تھیا جو او اپݨے پیو دو، کاپیاں دو ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وݙا تھیا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "او ٻال"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ہِک ݙینہہ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپݨے پیو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "کاپیاں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:34:59.422603600Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":3,"ref":"2-samuel 4:3","book":"2-samuel","lang":"skr","chapter":4,"translation":"تے بِیروتی گِتّایِم بھڄ ڳئے، تے اُتھاں اَڄ تئیں مہاجر بݨ تے رہ ڳئے۔","tokens":[{"surface":"ויברחו","gloss":"بھڄ ڳئے"},{"surface":"הבארתים","gloss":"بِیروتی"},{"surface":"גתימה","gloss":"گِتّایِم"},{"surface":"ויהיו","gloss":"رہ ڳئے"},{"surface":"שם","gloss":"اُتھاں"},{"surface":"גרים","gloss":"مہاجر"},{"surface":"עד","gloss":"تئیں"},{"surface":"היום","gloss":"اَڄ"},{"surface":"הזה","gloss":"ایں"}],"timestamp":"2026-09-19T16:51:21.315850577Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے بئیروت دے والے گتّایم کنوں بھڄ ڳئے، تے اُتھاں ٻاہرلے بݨ کے اِیں ݙینہہ تئیں رہے۔",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "بھڄ ڳئے"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "بئیروت دے والے"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "گتّایم کنوں"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تے اوہ تھئے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ٻاہرلے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:49:03.723362906Z",
+  "model": "glm-5.3"
+}

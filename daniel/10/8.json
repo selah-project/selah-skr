@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":8,"ref":"daniel 10:8","book":"daniel","lang":"skr","chapter":10,"translation":"تے میں کلہا رہ ڳیُم، تے ⟨את⟩ منظر ایہ وݙا ݙٹھا، تے میں وِچ کوئی طاقت نہ رہی، تے میݙا نور میں اُتے بربادی وِچ پلٹ ڳیا، تے میں کوئی طاقت نہ سنبھالی۔","tokens":[{"surface":"ואני","gloss":"تے میں"},{"surface":"נשארתי","gloss":"کلہا رہ ڳیُم"},{"surface":"לבדי","gloss":"کلہا"},{"surface":"ואראה","gloss":"تے ݙٹھا"},{"surface":"את","gloss":"⟨את⟩","marks":"منظر"},{"surface":"המראה","gloss":"منظر"},{"surface":"הגדלה","gloss":"وݙا"},{"surface":"הזאת","gloss":"ایہ"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"נשאר","gloss":"رہی"},{"surface":"בי","gloss":"میں وِچ"},{"surface":"כח","gloss":"طاقت"},{"surface":"והודי","gloss":"تے میݙا نور"},{"surface":"נהפך","gloss":"پلٹ ڳیا"},{"surface":"עלי","gloss":"میں اُتے"},{"surface":"למשחית","gloss":"بربادی وِچ"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"עצרתי","gloss":"سنبھالی"},{"surface":"כח","gloss":"طاقت"}],"timestamp":"2026-09-19T21:23:07.246895726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 10:8",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے میں کلہا رہ ڳیا، تے میں ⟨את⟩ ایہ وݙا دیدار ݙٹھا، تے میݙے وِچ کوئی طاقت نہ بچی، تے میݙی ہیبت میݙے اُتے وٹیج ڳئی ⟨بربادی دوں⟩، تے میں طاقت نہ سنبھالی۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "נשארתי",
+      "gloss": "کلہا رہ ڳیا"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "کلہا"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "تے میں ݙٹھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ وݙا دیدار"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "دیدار"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وݙا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میݙے وِچ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "והודי",
+      "gloss": "تے میݙی ہیبت"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "وٹیج ڳئی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میݙے اُتے"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "⟨بربادی دوں⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עצרתی",
+      "gloss": "سنبھالی"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-09-25T05:52:00.739986939Z",
+  "model": "glm-5.3"
+}

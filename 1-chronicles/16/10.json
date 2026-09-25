@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-chronicles 16:10","book":"1-chronicles","lang":"skr","chapter":16,"translation":"اوندے پاک ناں دی تعریف کرو، یاہوہ کوں ڳولݨ آلیاں دا دل خوش تھیوے۔","tokens":[{"surface":"התהללו","gloss":"تعریف کرو"},{"surface":"בשם","gloss":"ناں دی"},{"surface":"קדשו","gloss":"پاک"},{"surface":"ישמח","gloss":"خوش تھیوے"},{"surface":"לב","gloss":"دل"},{"surface":"מבקשי","gloss":"ڳولݨ آلیاں دا"},{"surface":"יהוה","gloss":"یاہوہ"}],"timestamp":"2026-09-19T20:41:03.478172677Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "اُوندے پاک ناں نال جِلو، یاہوہ کوں ڳولھݨ آلیاں دا دِل خُش تھیوے۔",
+  "tokens": [
+    {
+      "surface": "הִֽתְהַֽלְלוּ֙",
+      "gloss": "جِلو"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "קָדְשׁ֔וֹ",
+      "gloss": "اُوندے پاک"
+    },
+    {
+      "surface": "יִשְׂמַ֕ח",
+      "gloss": "خُش تھیوے"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֥י",
+      "gloss": "ڳولھݨ آلیاں دا"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:48:13.103627205Z",
+  "model": "glm-5.3"
+}

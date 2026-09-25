@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-chronicles 9:13","book":"2-chronicles","lang":"skr","chapter":9,"translation":"تے سونے دا وزن جیڑھا ہِک سال وِچ شلومو کولہ آیا، چھ سو چھی سٹھ چھ سونے دے کِکّر ہن۔","tokens":[{"surface":"ויהי","gloss":"تے ہوڳیا"},{"surface":"משקל","gloss":"وزن"},{"surface":"הזהב","gloss":"سونے دا"},{"surface":"אשר","gloss":"جیڑھا"},{"surface":"בא","gloss":"آیا"},{"surface":"לשלמה","gloss":"شلومو کولہ"},{"surface":"בשנה","gloss":"ہِک سال وِچ"},{"surface":"אחת","gloss":"ہِک"},{"surface":"שש","gloss":"چھ"},{"surface":"מאות","gloss":"سو"},{"surface":"וששים","gloss":"تے چھی سٹھ"},{"surface":"ושש","gloss":"تے چھ"},{"surface":"ככרי","gloss":"کِکّر ⟨سونے دا گول تݨا⟩"},{"surface":"זהב","gloss":"سونے دے"}],"timestamp":"2026-09-19T20:50:20.377351305Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے سونے دا او وزن جیڑھا ہِک سال وِچ شلومو کول آیا، چھی سَو چھیویہ تے چھی کنکر سونا ہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو کول"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ہِک سال وِچ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھی"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے چھیویہ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھی"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "کنکر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-25T05:27:26.296020027Z",
+  "model": "glm-5.3"
+}

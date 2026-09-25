@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-kings 8:2","book":"2-kings","lang":"skr","chapter":8,"translation":"تے او تریمت اُٹھی، اِنسانِ ایلوہیم دے آکھے موجب کیتس، تے او تے اوندا گھر پِلشتِیم دی زمین وِچ ست سال ٹکے۔","tokens":[{"surface":"ותקם","gloss":"اُٹھی"},{"surface":"האשה","gloss":"او تریمت"},{"surface":"ותעש","gloss":"کیتس"},{"surface":"כדבר","gloss":"آکھے موجب"},{"surface":"איש","gloss":"اِنسانِ"},{"surface":"האלהים","gloss":"ایلوہیم"},{"surface":"ותלך","gloss":"ڳئی"},{"surface":"היא","gloss":"او"},{"surface":"וביתה","gloss":"تے اوندا گھر"},{"surface":"ותגר","gloss":"ٹکے"},{"surface":"בארץ","gloss":"زمین وِچ"},{"surface":"פלשתים","gloss":"پِلشتِیم"},{"surface":"שבע","gloss":"ست"},{"surface":"שנים","gloss":"سال"}],"timestamp":"2026-09-19T17:24:01.804091120Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 8:2",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے زنانی اُٹھی، تے ایلوہیم دے بندے دے آکھے موجب کر گھدس، تے او تے اوندا ٹٻر ٹُر ڳیا، تے فلستیاں دی زمین وِچ ست سال لنڈاٻی رہی۔",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "کر گھدس"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "آکھے موجب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ٹُر ڳیا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "تے اوندا ٹٻر"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "لنڈاٻی رہی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-25T05:38:17.338989593Z",
+  "model": "glm-5.3"
+}

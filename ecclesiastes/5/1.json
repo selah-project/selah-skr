@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":1,"ref":"ecclesiastes 5:1","book":"ecclesiastes","lang":"skr","chapter":5,"translation":"تیݙے مُوں نال جلدی نہ کر، تے تیݙا دل کوئی ڳالھ ایلوہیم دے اڳوں ٻولݨ کیتے جلدی نہ کرے؛ کیوں جو ایلوہیم اسماناں وِچ ہے تے تُساں زمین اُتے ہیووے — ایں کیتے تیݙیاں ڳالھیں تھوڑیاں ہوون۔","tokens":[{"surface":"אל","gloss":"نہ"},{"surface":"תבהל","gloss":"جلدی کر"},{"surface":"על","gloss":"نال"},{"surface":"פיך","gloss":"تیݙے مُوں"},{"surface":"ולבך","gloss":"تے تیݙا دل"},{"surface":"אל","gloss":"نہ"},{"surface":"ימהר","gloss":"جلدی کرے"},{"surface":"להוציא","gloss":"ٻولݨ کیتے"},{"surface":"דבר","gloss":"ڳالھ"},{"surface":"לפני","gloss":"دے اڳوں"},{"surface":"האלהים","gloss":"ایلوہیم"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"האלהים","gloss":"ایلوہیم"},{"surface":"בשמים","gloss":"اسماناں وِچ"},{"surface":"ואתה","gloss":"تے تُساں"},{"surface":"על","gloss":"اُتے"},{"surface":"הארץ","gloss":"زمین"},{"surface":"על","gloss":"کیتے"},{"surface":"כן","gloss":"ایں"},{"surface":"יהיו","gloss":"ہوون"},{"surface":"דבריך","gloss":"تیݙیاں ڳالھیں"},{"surface":"מעטים","gloss":"تھوڑیاں"}],"timestamp":"2026-09-19T20:13:16.839726834Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "آپݨے مُونہہ نال جلدی نہ کر، تے تیݙا دل ایلوہیم دے اڳوں کوئی ڳالھ کڈھݨ کیتے کُوڑا نہ ونجے، کیوں جو ایلوہیم اسماناں اُتے ہے تے تُساں زمین اُتے ہیوے — ایں کیتے تیݙیاں ڳالھیں تھوڑیاں ہوون۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیݙے مُونہہ"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "تے تیݙا دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "کُوڑا ونجے"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "کڈھݨ کیتے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُساں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ایں کیتے⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوون"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تیݙیاں ڳالھیں"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "تھوڑیاں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:10:34.762383419Z",
+  "model": "glm-5.3"
+}

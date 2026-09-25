@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"exodus 25:7","book":"exodus","lang":"skr","chapter":25,"translation":"شُوہَم دے پَتّھر، تے جُڑݨ کیتے جُڑے ہوئے پَتّھر، <اِیفود> کیتے تے <چُوشَݨ> کیتے۔","tokens":[{"surface":"אבני","gloss":"دے پَتّھر"},{"surface":"שהם","gloss":"شُوہَم"},{"surface":"ואבני","gloss":"تے پَتّھر"},{"surface":"מלאים","gloss":"جُڑݨ کیتے جُڑے ہوئے"},{"surface":"לאפד","gloss":"<اِیفود> کیتے"},{"surface":"ולחשן","gloss":"تے <چُوشَݨ> کیتے"}],"timestamp":"2026-09-19T14:56:37.627152041Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "شوخم دے پتھر تے جڑاؤ دے پتھر ایفود کیتے تے چوشن کیتے۔",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شوخم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "تے پتھر"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "جڑاؤ"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ایفود کیتے"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "تے چوشن کیتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:20:49.010051860Z",
+  "model": "glm-5.3"
+}

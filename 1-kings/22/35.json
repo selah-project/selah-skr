@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-kings 22:35","book":"1-kings","lang":"skr","chapter":22,"translation":"تے او ݙینہہ لڑائی سخت تھی ڳئی، تے بادشاہ رتھ وِچ اَرام دے سامݨے کھڑا ریہا، تے شام کوں مر ڳیا، تے زخم دا لہو رتھ دے وچکار وہہ ڳیا۔","tokens":[{"surface":"ותעלה","gloss":"سخت تھی ڳئی"},{"surface":"המלחמה","gloss":"لڑائی"},{"surface":"ביום","gloss":"ݙینہہ"},{"surface":"ההוא","gloss":"او"},{"surface":"והמלך","gloss":"تے بادشاہ"},{"surface":"היה","gloss":"ریہا"},{"surface":"מעמד","gloss":"کھڑا"},{"surface":"במרכבה","gloss":"رتھ وِچ"},{"surface":"נכח","gloss":"سامݨے"},{"surface":"ארם","gloss":"اَرام"},{"surface":"וימת","gloss":"مر ڳیا"},{"surface":"בערב","gloss":"شام کوں"},{"surface":"ויצק","gloss":"وہہ ڳیا"},{"surface":"דם","gloss":"لہو"},{"surface":"המכה","gloss":"زخم دا"},{"surface":"אל","gloss":"…تئیں"},{"surface":"חיק","gloss":"وچکار"},{"surface":"הרכב","gloss":"رتھ دے"}],"timestamp":"2026-09-19T17:19:22.173344584Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 22:35",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "اتھوں اُتھوں اُو ݙینہہ لڑائی تِڑدی رہی، تے بادشاہ رتھ وِچ اَرام دے اُتلے پاسوں ⟨کھڑا کر ݙتا ڳیا⟩ ریہا، تے شام ویلے او مر ڳیا، تے زخم دا رتھ دے پٹ وِچ وہہ ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ותעלה",
+      "gloss": "تِڑدی رہی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "لڑائی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُو ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اتھوں اُتھوں"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ریہا"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "کھڑا"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "رتھ وِچ"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "اُتلے پاسوں"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام ویلے"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "وہہ ڳیا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دا خون"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיק",
+      "gloss": "پٹ"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رتھ دے"
+    }
+  ],
+  "timestamp": "2026-09-25T05:00:56.739706450Z",
+  "model": "glm-5.3"
+}

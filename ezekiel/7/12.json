@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":12,"ref":"ezekiel 7:12","book":"ezekiel","lang":"skr","chapter":7,"translation":"ویلہ آ ڳیا ہے، ݙینہہ پُڄ ڳیا ہے؛ گھنݨ آلا خُش نہ تھیوے تے ویچݨ آلا سوگ نہ کرے، کیوں جو غضب ساری اوندی ٹولی اُتے ہے۔","tokens":[{"surface":"בא","gloss":"آ ڳیا ہے"},{"surface":"העת","gloss":"ویلہ"},{"surface":"הגיע","gloss":"پُڄ ڳیا ہے"},{"surface":"היום","gloss":"ݙینہہ"},{"surface":"הקונה","gloss":"گھنݨ آلا"},{"surface":"אל","gloss":"نہ"},{"surface":"ישמח","gloss":"خُش تھیوے"},{"surface":"והמוכר","gloss":"تے ویچݨ آلا"},{"surface":"אל","gloss":"نہ"},{"surface":"יתאבל","gloss":"سوگ کرے"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"חרון","gloss":"غضب"},{"surface":"אל","gloss":"اُتے"},{"surface":"כל","gloss":"ساری"},{"surface":"המונה","gloss":"اوندی ٹولی"}],"timestamp":"2026-09-19T18:25:52.717635889Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 7,
+  "translation": "وقت آ ڳیا، ݙینہہ پُڄ ڳیا؛ خریدݨ آلا خوش نہ تھیوے، تے ویچݨ آلا سُوگ نہ کرے، کیوں جو ایل دا قہر اُوندی ساری بھیڑ اُتے ہے۔",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا"
+    },
+    {
+      "surface": "העת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "پُڄ ڳیا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "خریدݨ آلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش تھیوے"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "تے ویچݨ آلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "سُوگ کرے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "قہر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "بھیڑ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:40:28.472411469Z",
+  "model": "glm-5.3"
+}

@@ -5,39 +5,39 @@
   "book": "ezekiel",
   "lang": "skr",
   "chapter": 3,
-  "translation": "تے میں اپݨا مُنہ کھولیا، تے اوں میکوں ⟨את⟩ ایہ لپھ کھوائی۔",
+  "translation": "تے میں ⟨את⟩ اپݨا مُنہ کھولیا، تے اوں میکوں ایہ مِڳلی کھوائی۔",
   "tokens": [
     {
-      "surface": "ואפתח",
+      "surface": "וָאֶפְתַּח",
       "gloss": "کھولیا"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "اپݨا مُنہ"
+      "marks": "ااپݨا مُنہ"
     },
     {
-      "surface": "פי",
+      "surface": "פִּי",
       "gloss": "مُنہ"
     },
     {
-      "surface": "ויאכלני",
+      "surface": "וַיַּאֲכִלֵנִי",
       "gloss": "کھوائی"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "ایہ لپھ"
+      "marks": "ایہ مِڳلی"
     },
     {
-      "surface": "המגלה",
-      "gloss": "لپھ"
+      "surface": "הַמְּגִלָּה",
+      "gloss": "مِڳلی"
     },
     {
-      "surface": "הזאת",
+      "surface": "הַזֹּאת",
       "gloss": "ایہ"
     }
   ],
-  "timestamp": "2026-09-19T18:27:15.080921555Z",
+  "timestamp": "2026-09-25T06:34:02.269240906Z",
   "model": "glm-5.3"
 }

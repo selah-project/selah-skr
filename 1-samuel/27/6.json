@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-samuel 27:6","book":"1-samuel","lang":"skr","chapter":27,"translation":"چا تے اکیش اوں ݙینہہ اونکوں ⟨את⟩ تصقلگ ݙتی؛ ایں کیتے تصقلگ اڄ تئیں یہُوداہ دے بادشاہاں دی رہی۔","tokens":[{"surface":"ויתן","gloss":"ݙتی"},{"surface":"לו","gloss":"اونکوں"},{"surface":"אכיש","gloss":"اکیش"},{"surface":"ביום","gloss":"ݙینہہ وِچ"},{"surface":"ההוא","gloss":"اوں"},{"surface":"את","gloss":"⟨את⟩","marks":"تصقلگ"},{"surface":"צקלג","gloss":"تصقلگ"},{"surface":"לכן","gloss":"ایں کیتے"},{"surface":"היתה","gloss":"رہی"},{"surface":"צקלג","gloss":"تصقلگ"},{"surface":"למלכי","gloss":"بادشاہاں دی"},{"surface":"יהודה","gloss":"یہُوداہ"},{"surface":"עד","gloss":"تئیں"},{"surface":"היום","gloss":"اڄ"},{"surface":"הזה","gloss":"دے ݙینہہ"}],"timestamp":"2026-09-19T16:48:41.399586192Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "چو اوں ݙینہہ اکیش اوں کوں ⟨את⟩ صقلگ ݙتی، ایں کیتے صقلگ یہوداہ دے بادشاہاں کیتے اِیں ݙینہہ تئیں رہی۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ݙتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اکیش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوں ݙینہہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صقلگ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ایں کیتے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "رہی"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہاں کیتے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِیں ݙینہہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:12:47.287039324Z",
+  "model": "glm-5.3"
+}

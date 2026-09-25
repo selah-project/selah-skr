@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":19,"ref":"2-kings 8:19","book":"2-kings","lang":"skr","chapter":8,"translation":"تے یاہوہ نہ منیا جو ⟨את⟩ یہوداہ کوں برباد کرے، داوِد اپݨے ٻانہے دی خاطر، جیویں اوں اوندے نال آکھیا ہا جو اوکوں تے اوندے پُتراں کوں ساریاں ݙینہہ waryں ہِک بتی ݙیوے۔","tokens":[{"surface":"ולא","gloss":"تے نہ"},{"surface":"אבה","gloss":"منیا"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"להשחית","gloss":"جو برباد کرے"},{"surface":"את","gloss":"⟨את⟩","marks":"یہوداہ"},{"surface":"יהודה","gloss":"یہوداہ"},{"surface":"למען","gloss":"خاطر"},{"surface":"דוד","gloss":"داوِد"},{"surface":"עבדו","gloss":"اپݨے ٻانہے دی"},{"surface":"כאשר","gloss":"جیویں"},{"surface":"אמר","gloss":"آکھیا ہا"},{"surface":"לו","gloss":"اوندے نال"},{"surface":"לתת","gloss":"ݙیوے"},{"surface":"לו","gloss":"اوکوں"},{"surface":"ניר","gloss":"بتی"},{"surface":"לבניו","gloss":"اوندے پُتراں کوں"},{"surface":"כל","gloss":"ساریاں"},{"surface":"הימים","gloss":"ݙینہہ waryں"}],"timestamp":"2026-09-19T17:24:03.402737165Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "skr",
+  "chapter": 8,
+  "translation": "تے یاہوہ ⟨את⟩ یہوداہ کوں برباد نہ کرݨ چاہا، داوِد اپݨے ٻانہے دی خاطر، جیویں اوں اوندے نال آکھیا ہا جو اوندے پُتراں کوں سارے ݙینہہ ہِک بتی ݙیوے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "چاہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "برباد کرݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یهوداہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوداہ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "خاطر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ٻانہا اُوندا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے نال"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ݙیوݨ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندے"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "بتی"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ݙینہہ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:38:18.903788026Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":18,"ref":"1-samuel 9:18","book":"1-samuel","lang":"skr","chapter":9,"translation":"تے شاؤل دروازے وِچ شمُوایل ⟨את⟩ دو نیڑے تھیا، تے آکھیس: “مہربانی کر تے میکوں ݙس، ݙیکھݨ آلے دا گھر کتھاں ہے؟”","tokens":[{"surface":"ויגש","gloss":"تے … نیڑے تھیا"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"את","gloss":"⟨את⟩","marks":"شمُوایل"},{"surface":"שמואל","gloss":"شمُوایل"},{"surface":"בתוך","gloss":"وِچ"},{"surface":"השער","gloss":"دروازے"},{"surface":"ויאמר","gloss":"تے آکھیس"},{"surface":"הגידה","gloss":"ݙس"},{"surface":"נא","gloss":"مہربانی کر"},{"surface":"לי","gloss":"میکوں"},{"surface":"אי","gloss":"کتھاں"},{"surface":"זה","gloss":""},{"surface":"בית","gloss":"گھر"},{"surface":"הראה","gloss":"ݙیکھݨ آلے دا"}],"timestamp":"2026-09-19T16:39:18.624774505Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "شاؤل ⟨את⟩ شمو ایل دے کول دروازے وِچ ٹُر کے ڳیا، تے آکھیس: “میݙے کیتے ٻدھ ݙسو، ݙیکھݨ آلے دا گھر کتھاں ہِے؟”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ٹُر کے ڳیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمو ایل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمو ایل"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ٻدھ ݙسو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میݙے کیتے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کتھاں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِیہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ݙیکھݨ آلے دا"
+    }
+  ],
+  "timestamp": "2026-09-25T05:16:03.149653682Z",
+  "model": "glm-5.3"
+}

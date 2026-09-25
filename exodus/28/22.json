@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":22,"ref":"exodus 28:22","book":"exodus","lang":"skr","chapter":28,"translation":"تے توں چھاتی دی پٹی اُتے خالص سونے دیاں زنجیراں، ڳتھیاں ہوئیاں رسے وانگوں کم، بݨیسیں۔","tokens":[{"surface":"ועשית","gloss":"تے بݨیسیں"},{"surface":"על","gloss":"اُتے"},{"surface":"החשן","gloss":"چھاتی دی پٹی"},{"surface":"שרשת","gloss":"زنجیراں"},{"surface":"גבלת","gloss":"ڳتھیاں ہوئیاں"},{"surface":"מעשה","gloss":"کم"},{"surface":"עבת","gloss":"رسے وانگوں"},{"surface":"זהב","gloss":"سونے دیاں"},{"surface":"טהור","gloss":"خالص"}],"timestamp":"2026-09-19T14:58:37.011665195Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 28,
+  "translation": "تے چوسن اُتے زنجیراں بݨاسی، مُڑیاں ہویاں، موٹیاں ڈوریاں دا کم، خالص سونے دی۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے بݨاسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوسن"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "زنجیراں"
+    },
+    {
+      "surface": "گبلت",
+      "gloss": "مُڑیاں ہویاں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "موٹیاں ڈوریاں"
+    },
+    {
+      "surface": "زهب",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "طهور",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-09-25T06:21:38.721711630Z",
+  "model": "glm-5.3"
+}

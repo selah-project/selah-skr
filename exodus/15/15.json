@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 15:15","book":"exodus","lang":"skr","chapter":15,"translation":"تݙاں ایدوم دے سردار بھَر ڳئے؛ موآب دے زور آلیاں کوں ہاہُو پکڑ گھدا؛ کنعان دے سارے وسݨ آلے پگھر ڳئے۔","tokens":[{"surface":"אז","gloss":"تݙاں"},{"surface":"נבהלו","gloss":"بھَر ڳئے"},{"surface":"אלופי","gloss":"سردار"},{"surface":"אדום","gloss":"ایدوم دے"},{"surface":"אילי","gloss":"زور آلیاں"},{"surface":"מואב","gloss":"موآب دے"},{"surface":"יאחזמו","gloss":"پکڑ گھدا"},{"surface":"רעד","gloss":"ہاہُو"},{"surface":"נמגו","gloss":"پگھر ڳئے"},{"surface":"כל","gloss":"سارے"},{"surface":"ישבי","gloss":"وسݨ آلے"},{"surface":"כנען","gloss":"کنعان دے"}],"timestamp":"2026-09-19T14:50:18.650969523Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 15:15",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تݙاں اَدُوم دے سردار حیرت نال بھَڄ ویسن، مُوآب دے زور آلے سرداراں کوں کپ کپ آپکسی، کنعان دے سارے وسݨ آلے پِگھل ویسن۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "حیرت نال بھَڄ ویسن"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "دے سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "دے زور آلے سردار"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "יאחזמו",
+      "gloss": "کوں کپ کپ آپکسی"
+    },
+    {
+      "surface": "רעد",
+      "gloss": "کپ کپ"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "پِگھل ویسن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسݨ آلے"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-09-25T06:17:20.715773117Z",
+  "model": "glm-5.3"
+}

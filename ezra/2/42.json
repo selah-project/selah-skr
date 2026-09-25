@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":42,"ref":"ezra 2:42","book":"ezra","lang":"skr","chapter":2,"translation":"دروازہ چاowell—دروازہ چاوݨ آلیاں دے پُتر: شلوم دے پُتر، اطار دے پُتر، تلمون دے پُتر، عقّوب دے پُتر، خطیطا دے پُتر، شوbay—شوبای دے پُتر؛ سارے ہِک سو تریہہ تے نو۔","tokens":[{"surface":"בני","gloss":"پُتر"},{"surface":"השערים","gloss":"دروازہ چاوݨ آلے"},{"surface":"בני","gloss":"پُتر"},{"surface":"שלום","gloss":"شلوم"},{"surface":"בני","gloss":"پُتر"},{"surface":"אטר","gloss":"اتر"},{"surface":"בני","gloss":"پُتر"},{"surface":"טלמון","gloss":"تلمون"},{"surface":"בני","gloss":"پُتر"},{"surface":"עקוב","gloss":"عقّوب"},{"surface":"בני","gloss":"پُتر"},{"surface":"חטיטא","gloss":"خطیطا"},{"surface":"בני","gloss":"پُتر"},{"surface":"שבי","gloss":"شوبای"},{"surface":"הכל","gloss":"سارے"},{"surface":"מאה","gloss":"ہِک سو"},{"surface":"שלשים","gloss":"تریہہ"},{"surface":"ותשעה","gloss":"تے نو"}],"timestamp":"2026-09-19T20:26:49.646199962Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 2:42",
+  "book": "ezra",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "دروازہ باناں دے پُتر: شلُّوم دے پُتر، اطار دے پُتر، طلمون دے پُتر، عقُّوب دے پُتر، خطیطا دے پُتر، شوbay دے پُتر — سب ہِک سو انتالی ہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازہ باناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلُّوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اطر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "טלמון",
+      "gloss": "طلمون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عقُّوب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חטיטא",
+      "gloss": "خطیطا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "شوبai"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ہِک سو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "انتالی"
+    },
+    {
+      "surface": "ותשעה",
+      "gloss": "تے نَوُں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:41:20.829950435Z",
+  "model": "glm-5.3"
+}

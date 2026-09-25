@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-samuel 9:3","book":"1-samuel","lang":"skr","chapter":9,"translation":"شاؤل دے پیو قیش دیاں ڳڈھیاں ڳُم تھی ڳئیاں، تے قیش شاؤل اپݨے پُتر کوں آکھیا: “ہُݨ تیݙے نال ⟨את⟩ نوجوانیں وچوں ہِک کوں گھن، اُٹھی، ونڄ، ڳڈھیاں ⟨את⟩ ݙھون٘ڄ۔”","tokens":[{"surface":"ותאבדנה","gloss":"ڳُم تھی ڳئیاں"},{"surface":"האתנות","gloss":"ڳڈھیاں"},{"surface":"לקיש","gloss":"قیش"},{"surface":"אבי","gloss":"پیو"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"ויאמר","gloss":"آکھیا"},{"surface":"קיש","gloss":"قیش"},{"surface":"אל","gloss":"کوں"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"בנו","gloss":"پُتر"},{"surface":"קח","gloss":"گھن"},{"surface":"נא","gloss":"ہُݨ"},{"surface":"אתך","gloss":"نال ⟨את⟩","marks":"تیݙے نال"},{"surface":"את","gloss":"⟨את⟩","marks":"نوجوانیں وچوں ہِک"},{"surface":"אחד","gloss":"ہِک"},{"surface":"מהנערים","gloss":"نوجوانیں وچوں"},{"surface":"וקום","gloss":"اُٹھی"},{"surface":"לך","gloss":"ونڄ"},{"surface":"בקש","gloss":"ݙھون٘ڄ"},{"surface":"את","gloss":"⟨את⟩","marks":"ڳڈھیاں"},{"surface":"האתנת","gloss":"ڳڈھیاں"}],"timestamp":"2026-09-19T21:09:05.508475702Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "قیش شاؤل دے پیو دیاں خچراں گُم تھی گیاں، تے قیش شاؤل اپݨے پُتر کوں آکھیا: “ہُݨ نینگراں وِچوں ⟨את⟩ ہِک کوں نال گھن، اُٹھی، ونڄ، ⟨את⟩ خچراں کوں ڳول۔”",
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "گُم تھی گیاں"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "خچراں"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دے پیو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اپݨے پُتر"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گھن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُݨ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "نال ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہِک (نینگراں وِچوں ہِک)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "نینگراں وِچوں"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ونڄ"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ڳول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خچراں کوں"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "خچراں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:16:37.692384103Z",
+  "model": "glm-5.3"
+}

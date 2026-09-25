@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-chronicles 4:20","book":"2-chronicles","lang":"skr","chapter":4,"translation":"تے ⟨את⟩ چراغ دان، تے انہاں دے چراغ، جو ریت موجب اندرونی مقدس جاہ اڳوں ٻلن — خالص سونا۔","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"چراغ دان"},{"surface":"המנרות","gloss":"چراغ دان"},{"surface":"ונרתיהם","gloss":"تے انہاں دے چراغ"},{"surface":"לבערם","gloss":"ٻلڑ کیتے"},{"surface":"כמשפט","gloss":"ریت موجب"},{"surface":"לפני","gloss":"اڳوں"},{"surface":"הדביר","gloss":"اندرونی مقدس جاہ"},{"surface":"זהב","gloss":"سونا"},{"surface":"סגור","gloss":"خالص"}],"timestamp":"2026-09-19T20:48:08.209606037Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 4,
+  "translation": "تے ⟨את⟩ شمعداناں تے اُنہاں دے چراغاں کوں دیویر دے اڳوں ہدایت موجب ٻالݨ کیتے بݨائے، خالص سونے دے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شمعداناں"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "شمعداناں"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "تے اُنہاں دے چراغ"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ٻالݨ کیتے"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ہدایت موجب"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "دیویر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-09-25T05:26:11.017104557Z",
+  "model": "glm-5.3"
+}

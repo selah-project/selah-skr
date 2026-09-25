@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":26,"ref":"deuteronomy 12:26","book":"deuteronomy","lang":"skr","chapter":12,"translation":"بس اپݨیاں پاک شیئیں جیہڑیاں تیݙیاں ہوون، تے اپݻیاں نذراں چا، اوں جاہ تے آویں جیہڑی یاہوہ چُسی۔","tokens":[{"surface":"רק","gloss":"بس"},{"surface":"קדשיך","gloss":"اپݨیاں پاک شیئیں"},{"surface":"אשר","gloss":"جیہڑیاں"},{"surface":"יהיו","gloss":"ہوون"},{"surface":"לך","gloss":"تیݙیاں"},{"surface":"ונדריך","gloss":"تے اپݨیاں نذراں"},{"surface":"תשא","gloss":"چا"},{"surface":"ובאת","gloss":"تے آویں"},{"surface":"אל","gloss":"تے"},{"surface":"המקום","gloss":"اوں جاہ"},{"surface":"אשר","gloss":"جیہڑی"},{"surface":"יבחר","gloss":"چُسی"},{"surface":"יהוה","gloss":"یاہوہ"}],"timestamp":"2026-09-19T15:57:04.233474717Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "صرف تیݙیاں پاک شیزاں جو تیݙیاں ہوون، تے تیݙیاں نذراں، چا گھن، تے اُوں جاہ وِچ آ ونڄ جیڑھی یاہوہ چُݨسی۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "تیݙیاں پاک شیزاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙیاں"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "تے تیݙیاں نذراں"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چا گھن"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "آ ونڄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُوں جاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھی"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چُݨسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:59:03.249903648Z",
+  "model": "glm-5.3"
+}

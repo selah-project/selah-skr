@@ -5,49 +5,49 @@
   "book": "ezekiel",
   "lang": "skr",
   "chapter": 42,
-  "translation": "ول اوہ پچادھی پاسے دو ڳیا تے ماپیا، پنج سو نرس، نپݨ آلی نرس نال۔",
+  "translation": "اوں سمندر آلے پاسے ⟨کوں⟩ ڦریا، ناپس ݙاہاہے قدمے ناپݨ آلے قدمے نال۔",
   "tokens": [
     {
       "surface": "סבב",
-      "gloss": "ول ڳیا"
+      "gloss": "ڦریا"
     },
     {
       "surface": "אל",
-      "gloss": "دو"
+      "gloss": "⟨کوں⟩ پاسے"
     },
     {
       "surface": "רוח",
-      "gloss": "پاسے"
+      "gloss": "سمندر آلے"
     },
     {
       "surface": "הים",
-      "gloss": "پچادھی"
+      "gloss": "پاسے"
     },
     {
       "surface": "מדד",
-      "gloss": "ماپیا"
+      "gloss": "ناپس"
     },
     {
       "surface": "חמש",
-      "gloss": "پنج"
+      "gloss": "ݙاہاہے"
     },
     {
       "surface": "מאות",
-      "gloss": "سو"
+      "gloss": "قدمے"
     },
     {
       "surface": "קנים",
-      "gloss": "نرساں"
+      "gloss": "قدمے"
     },
     {
       "surface": "בקנה",
-      "gloss": "نرس نال"
+      "gloss": "ناپݨ آلے قدمے نال"
     },
     {
       "surface": "המדה",
-      "gloss": "ناپݨ آلی"
+      "gloss": "ناپݨ آلے"
     }
   ],
-  "timestamp": "2026-09-19T18:44:26.539901107Z",
+  "timestamp": "2026-09-25T06:37:41.798135619Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":23,"ref":"exodus 15:23","book":"exodus","lang":"skr","chapter":15,"translation":"تے او مارَہ وِچ آئے، تے مارَہ دے پاݨیاں توں نہ پی سڳدے ہن، کیوں جو او کَڑوے ہن؛ ایں کیتے اُوندا ناں اُتھاں مارَہ رکھیا ڳیا۔","tokens":[{"surface":"ויבאו","gloss":"آئے"},{"surface":"מרתה","gloss":"مارَہ وِچ"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"יכלו","gloss":"سڳدے ہن"},{"surface":"לשתת","gloss":"پیوݨ"},{"surface":"מים","gloss":"پاݨی"},{"surface":"ממרה","gloss":"مارَہ دے"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"מרים","gloss":"کَڑوے"},{"surface":"הם","gloss":"او ہن"},{"surface":"על","gloss":"ایں"},{"surface":"כן","gloss":"کیتے"},{"surface":"קרא","gloss":"ناں رکھیا ڳیا"},{"surface":"שמה","gloss":"اوندا ناں"},{"surface":"מרה","gloss":"مارَہ"}],"timestamp":"2026-09-19T14:49:47.862896229Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 15,
+  "translation": "تے او مَراہ وِچ آئے، پر مَراہ دے پاݨی توں نہ پی سڳدے ہن، کیوں جو او کَڑوے ہن — ایں کیتے اوندا ناں مَراہ سݙیا ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "مَراہ وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سڳدے ہن"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "پیݨ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاݨی"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "مَراہ توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "کَڑوے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "او ہن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سݙیا ڳیا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوندا ناں"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "مَراہ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:17:17.271429003Z",
+  "model": "glm-5.3"
+}

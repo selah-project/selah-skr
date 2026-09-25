@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 1:10","book":"1-samuel","lang":"skr","chapter":1,"translation":"اَتے او جان وِچ کڑھدی ہئی، اَتے یاہوہ اُتے دعا کیتی، اَتے رووݨ نال رووݨ لڳی۔","tokens":[{"surface":"והיא","gloss":"اَتے او"},{"surface":"מרת","gloss":"کڑھدی"},{"surface":"נפש","gloss":"جان"},{"surface":"ותתפלל","gloss":"دعا کیتی"},{"surface":"על","gloss":"اُتے"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"ובכה","gloss":"رووݨ نال"},{"surface":"תבכה","gloss":"رووے"}],"timestamp":"2026-09-19T16:33:32.289008397Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "تے او جان توں کڑھی ہوئی ہئی، تے یاہوہ اُتے دعا منگی، تے روندی روندی ٻہوں رُنی۔",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "تے او"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "کڑھی ہوئی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان توں"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "دعا منگی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "روندی روندی"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ٻہوں رُنی"
+    }
+  ],
+  "timestamp": "2026-09-25T05:04:08.978662389Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"ezekiel 32:1","book":"ezekiel","lang":"skr","chapter":32,"translation":"تے تِرہویں ⟨بارہویں⟩ سال وِچ، بارہویں مہینے وِچ، مہینے دے پہلے ݙینہہ یاہوہ داڳالھ میݙے کول تھئی، آکھݨ کیتے:","tokens":[{"surface":"ויהי","gloss":"تے تھیا"},{"surface":"בשתי","gloss":"وِچ"},{"surface":"עשרה","gloss":"بارہویں"},{"surface":"שנה","gloss":"سال"},{"surface":"בשני","gloss":"وِچ"},{"surface":"עשר","gloss":"بارہویں"},{"surface":"חדש","gloss":"مہینے"},{"surface":"באחד","gloss":"دے پہلے"},{"surface":"לחדש","gloss":"مہینے"},{"surface":"היה","gloss":"تھئی"},{"surface":"דבר","gloss":"ڳالھ"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אלי","gloss":"میݙے کول"},{"surface":"לאמר","gloss":"آکھݨ کیتے"}],"timestamp":"2026-09-19T18:40:29.696617030Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے ٻارھویں ورھے وِچ، ٻارھویں مہینے وِچ، مہینے دے ہِک ⟨پہلے ݙینہہ⟩ کوں یاہوہ دا کلام میکوں تھیا، ⟨آکھݨ کیتے⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … تھیا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ٻارھویں وِچ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارھویں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ٻارھویں وِچ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ٻارھویں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "دے ہِک کوں"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨آکھݨ کیتے⟩"
+    }
+  ],
+  "timestamp": "2026-09-25T06:34:29.898846400Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 16:11","book":"ezekiel","lang":"skr","chapter":16,"translation":"تے میں تیکوں سنگار ݙتم، تے تیݙے ہتھاں اُتے چوڑیاں پاتن، تے تیݙی ڳل اُتے زنجیر۔","tokens":[{"surface":"ואעדך","gloss":"سنگار ݙتم"},{"surface":"עדי","gloss":"سنگار"},{"surface":"ואתנה","gloss":"پاتن"},{"surface":"צמידים","gloss":"چوڑیاں"},{"surface":"על","gloss":"اُتے"},{"surface":"ידיך","gloss":"تیݙے ہتھاں"},{"surface":"ורביד","gloss":"زنجیر"},{"surface":"על","gloss":"اُتے"},{"surface":"גרונך","gloss":"تیݙی ڳل"}],"timestamp":"2026-09-19T18:30:57.019858828Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے میں تیکوں زیوراں نال سنگاریا، تے تیݙے ہتھاں اُتے چوڑیاں پوایم، تے تیݙے ڳل اُتے ہِک زنجیر چڑھائیم۔",
+  "tokens": [
+    {
+      "surface": "וָאֶעְדֵ֖ךְ",
+      "gloss": "میں تیکوں سنگاریا"
+    },
+    {
+      "surface": "עֶ֑דִי",
+      "gloss": "زیوراں نال"
+    },
+    {
+      "surface": "וָאֶתֵּ֥ן",
+      "gloss": "میں پوایم"
+    },
+    {
+      "surface": "צְמִידִ֖ים",
+      "gloss": "چوڑیاں"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יָדַ֔יִךְ",
+      "gloss": "تیݙے ہتھاں"
+    },
+    {
+      "surface": "וָֽרָבִ֖יד",
+      "gloss": "زنجیر"
+    },
+    {
+      "surface": "עַ֥ל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גְּרוֹנֵֽךְ",
+      "gloss": "تیݙے ڳل"
+    }
+  ],
+  "timestamp": "2026-09-25T06:28:54.599105288Z",
+  "model": "glm-5.3"
+}

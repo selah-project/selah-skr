@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":20,"ref":"1-chronicles 17:20","book":"1-chronicles","lang":"skr","chapter":17,"translation":"یاہوہ، تیݙے جیہا کوئی کائنی، تے تیں توں سوا کوئی ایلوہیم کائنی، سبھ کجھ جو اسیں اپݨے کنیں نال سُنیا ہے۔","tokens":[{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אין","gloss":"کائنی"},{"surface":"כמוך","gloss":"تیݙے جیہا"},{"surface":"ואין","gloss":"تے کائنی"},{"surface":"אלהים","gloss":"ایلوہیم"},{"surface":"זולתך","gloss":"تیں توں سوا"},{"surface":"בכל","gloss":"سبھ کجھ وِچ"},{"surface":"אשר","gloss":"جو"},{"surface":"שמענו","gloss":"اسیں سُنیا ہے"},{"surface":"באזנינו","gloss":"اپݨے کنیں نال"}],"timestamp":"2026-09-19T20:43:32.888721158Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 17,
+  "translation": "یاہوہ، تیݙے جِہیاں کوئی کائنی، تے تیݙے سِوا کوئی ایلوہیم کائنی، سبھ اوندے مطابق جو اسیں آپݨیاں کنّاں نال سُݨیا ہے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کائنی"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تیݙے جِہیاں"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے … کائنی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "تیݙے سِوا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "سُݨیا ہے"
+    },
+    {
+      "surface": "באזנינو",
+      "gloss": "آپݨیاں کنّاں نال"
+    }
+  ],
+  "timestamp": "2026-09-25T04:48:48.419930902Z",
+  "model": "glm-5.3"
+}

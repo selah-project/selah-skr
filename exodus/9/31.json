@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":31,"ref":"exodus 9:31","book":"exodus","lang":"skr","chapter":9,"translation":"تے سَن تے جَو وَٹی ڳیاں، کیوں جو جَو ہری ہئی، تے سَن پھُل وِچ ہئی۔","tokens":[{"surface":"והפשתה","gloss":"تے سَن"},{"surface":"והשערה","gloss":"تے جَو"},{"surface":"נכתה","gloss":"وَٹی ڳیاں"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"השערה","gloss":"جَو"},{"surface":"אביב","gloss":"ہری (بال ہری)"},{"surface":"והפשתה","gloss":"تے سَن"},{"surface":"גבעל","gloss":"پھُل وِچ"}],"timestamp":"2026-09-19T14:47:17.145148380Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "تے سَن تے جَو مارے ڳئے ہَن، کیوں جو جَو اَوِیو ⟨abar نویں سِٹاں⟩ وِچ ہَن تے سَن گِبعل ⟨پُھل دی ٻولی⟩ وِچ ہَن۔",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "تے سَن"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "تے جَو"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "مارے ڳئے ہَن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "השעערה",
+      "gloss": "جَو"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "اَوِیو ⟨نویں سِٹاں⟩"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "تے سَن"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "گِبعل ⟨پُھل دی ٻولی⟩"
+    }
+  ],
+  "timestamp": "2026-09-25T06:26:57.478467843Z",
+  "model": "glm-5.3"
+}

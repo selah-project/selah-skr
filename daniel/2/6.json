@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":6,"ref":"daniel 2:6","book":"daniel","lang":"skr","chapter":2,"translation":"پر جے خواب تے اوندا پندرہاں تُساں ݙسو، تاں میں توں تحفے تے انعام تے ٻہوں وݙا مانݨ گھنسو؛ ٻس خواب تے اوندا پندرہاں میکوں ݙسو۔”","tokens":[{"surface":"והן","gloss":"پر جے"},{"surface":"חלמא","gloss":"خواب"},{"surface":"ופשרה","gloss":"تے اوندا پندرہاں"},{"surface":"תהחון","gloss":"تُساں ݙسو"},{"surface":"מתנן","gloss":"تحفے"},{"surface":"ונבזבה","gloss":"تے انعام"},{"surface":"ויקר","gloss":"تے مان"},{"surface":"שגיא","gloss":"ٻہوں وݙا"},{"surface":"תקבלון","gloss":"گھنسو"},{"surface":"מן","gloss":"توں"},{"surface":"קדמי","gloss":"میں"},{"surface":"להן","gloss":"ٻس"},{"surface":"חלמא","gloss":"خواب"},{"surface":"ופשרה","gloss":"تے اوندا پندرהاں"},{"surface":"החוני","gloss":"میکوں ݙسو"}],"timestamp":"2026-09-19T20:19:06.085175526Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 2:6",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے جے خواب تے اوندا پِشر ⟨مطلب⟩ ݙکھاؤ، تاں میݙے اڳوں توں تحفے، انعام تے وݙی عزت گھنسو؛ ٻس خواب تے اوندا پِشر میکوں ݙساؤ۔",
+  "tokens": [
+    {
+      "surface": "והן",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "تے اوندا پِشر"
+    },
+    {
+      "surface": "תהחון",
+      "gloss": "ݙکھاؤ"
+    },
+    {
+      "surface": "מתנן",
+      "gloss": "تحفے"
+    },
+    {
+      "surface": "ונבזבה",
+      "gloss": "انعام"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "تے عزت"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "وݙی"
+    },
+    {
+      "surface": "תקבלון",
+      "gloss": "تُساں گھنسو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "میݙے اڳوں"
+    },
+    {
+      "surface": "لהן",
+      "gloss": "ٻس"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "تے اوندا پِشر"
+    },
+    {
+      "surface": "החוני",
+      "gloss": "ݙساؤ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:53:30.996756421Z",
+  "model": "glm-5.3"
+}

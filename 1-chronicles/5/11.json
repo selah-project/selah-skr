@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"1-chronicles 5:11","book":"1-chronicles","lang":"skr","chapter":5,"translation":"تے گاد دے پُتراں اُنہاں دے اڳوں، باشان دی بھوئیں وِچ سَلْکہ تئیں رہندے ہن۔","tokens":[{"surface":"ובני","gloss":"پُتراں"},{"surface":"גד","gloss":"گاد دے"},{"surface":"לנגדם","gloss":"اُنہاں دے اڳوں"},{"surface":"ישבו","gloss":"رہندے ہن"},{"surface":"בארץ","gloss":"بھوئیں وِچ"},{"surface":"הבשן","gloss":"باشان دی"},{"surface":"עד","gloss":"تئیں"},{"surface":"סלכה","gloss":"سَلْکہ"}],"timestamp":"2026-09-19T20:37:24.940041128Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے گاد دے پُتراں اوںناں دے اُمتے بلکل وَسے، باشان دی زمین وِچ، سَلکھا تئیں۔",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "تے … دے پُتراں"
+    },
+    {
+      "surface": "גָד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לִנְגְדָּם",
+      "gloss": "اوںناں دے اُمتے بلکل"
+    },
+    {
+      "surface": "יָשְׁב֛וּ",
+      "gloss": "وَسے"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "دی زمین وِچ"
+    },
+    {
+      "surface": "הַבָּשָׁן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "סַלְכָה",
+      "gloss": "سَلکھا"
+    }
+  ],
+  "timestamp": "2026-09-25T04:51:23.226512867Z",
+  "model": "glm-5.3"
+}

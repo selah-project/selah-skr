@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-chronicles 18:8","book":"2-chronicles","lang":"skr","chapter":18,"translation":"تے یِسرایل دے بادشاہ ہِک خواجہ سرا کوں سݙ تے آکھیا: “مِیخا، پُتر یِملاء کوں جلدی گھن آ۔”","tokens":[{"surface":"ויקרא","gloss":"سݙ تے"},{"surface":"מלך","gloss":"بادشاہ"},{"surface":"ישראל","gloss":"יِسرایل"},{"surface":"אל","gloss":"کوں"},{"surface":"סריס","gloss":"خواجہ سرا"},{"surface":"אחד","gloss":"ہِک"},{"surface":"ויאמר","gloss":"تے آکھیس"},{"surface":"מהר","gloss":"جلدی"},{"surface":"מיכהו","gloss":"مِیخا"},{"surface":"בן","gloss":"پُتر"},{"surface":"ימלא","gloss":"یِملاء"}],"timestamp":"2026-09-19T20:53:28.845754626Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اسرائیل دے بادشاہ ہِک خواجه سرا کوں سݙ ماریا تے آکھیس: “میکخاہو، یِملا دے پُتر کوں جلدی گھن آ۔”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سݙ ماریا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خواجه سرا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدی"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "میکخاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "یِملا"
+    }
+  ],
+  "timestamp": "2026-09-25T05:19:15.517002115Z",
+  "model": "glm-5.3"
+}

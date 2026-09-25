@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":22,"ref":"exodus 5:22","book":"exodus","lang":"skr","chapter":5,"translation":"تے موشے یاہوہ دو وَل ڳیا تے آکھیس: “ادونای، اِیں قوم نال برائی کیوں کیتی؟ اِیہ کیوں جو میکوں بھیجے؟”","tokens":[{"surface":"וישב","gloss":"وَل ڳیا"},{"surface":"משה","gloss":"موشے"},{"surface":"אל","gloss":"دو"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"ויאמר","gloss":"آکھیس"},{"surface":"אדני","gloss":"ادونای"},{"surface":"למה","gloss":"کیوں"},{"surface":"הרעתה","gloss":"برائی کیتی"},{"surface":"לעם","gloss":"اِیں قوم نال"},{"surface":"הזה","gloss":"اِیں"},{"surface":"למה","gloss":"کیوں"},{"surface":"זה","gloss":"اِیہ"},{"surface":"שלחתני","gloss":"میکوں بھیجے"}],"timestamp":"2026-09-19T14:44:58.936798041Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تے موشے یاہوہ دوں ولیا تے آکھیس: ”ادونای، اِیں قوم کوں تکلیف کیوں ݙتی؟ ایہ کیوں جو میکوں بھیجیا؟“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے ولیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیس"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "تکلیف ݙتی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "اِیں قوم کوں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِیں قوم کوں"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "میکوں بھیجیا"
+    }
+  ],
+  "timestamp": "2026-09-25T06:25:14.601216149Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":7,"ref":"ecclesiastes 5:7","book":"ecclesiastes","lang":"skr","chapter":5,"translation":"جے غریب اُتے ظلم، تے عدالت تے انصاف دی لُٹ ݙیکھیں ملک وِچ، تاں اِیں ڳالھ اُتے حیران نہ تھی؛ کیوں جو اُچے توں اُچا ہِک رکھوالا ہے، تے اُنہاں توں وی اُچے ہن۔","tokens":[{"surface":"אם","gloss":"جے"},{"surface":"עשק","gloss":"ظلم"},{"surface":"רש","gloss":"غریب"},{"surface":"וגזל","gloss":"تے لُٹ"},{"surface":"משפט","gloss":"عدالت"},{"surface":"וצדק","gloss":"تے انصاف"},{"surface":"תראה","gloss":"ݙیکھیں"},{"surface":"במדינה","gloss":"ملک وِچ"},{"surface":"אל","gloss":"نہ"},{"surface":"תתמה","gloss":"حیران تھی"},{"surface":"על","gloss":"اُتے"},{"surface":"החפץ","gloss":"اِیں ڳالھ"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"גבה","gloss":"اُچے"},{"surface":"מעל","gloss":"توں"},{"surface":"גבה","gloss":"اُچا"},{"surface":"שמר","gloss":"رکھوالا"},{"surface":"וגבהים","gloss":"تے اُچے"},{"surface":"עליהם","gloss":"اُنہاں اُتے"}],"timestamp":"2026-09-19T20:14:35.454352848Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 5:7",
+  "book": "ecclesiastes",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "جے تُساں غریب دا ݙکھا تے انصاف تے راستی دا زوری نقص صوبے وِچ ݙیکھو، تاں ایں ڳالھ اُتے حیران نہ تھیوو، کیوں جو اُچے توں وی اُچا ⟨ولی⟩ ݙیکھدا کھڑے، تے اُنہاں توں وی اُچے ⟨حاکم⟩ ہن۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ݙکھا"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب دا"
+    },
+    {
+      "surface": "וגזל",
+      "gloss": "تے زوری نقص"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "تے راستی"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ݙیکھو"
+    },
+    {
+      "surface": "במדינה",
+      "gloss": "صوبے وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתמה",
+      "gloss": "حیران تھیوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ایں ڳالھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں وی اُچا"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ݙیکھدا کھڑے"
+    },
+    {
+      "surface": "וגבהים",
+      "gloss": "تے اُچے"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں توں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:10:39.961148185Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-samuel 22:8","book":"2-samuel","lang":"skr","chapter":22,"translation":"تے زمین ہلی تے ہلی، اسماناں دیاں نیہیاں کپ ڳیاں تے ہلیاں، کیوں جو اوندا بھا بھڑکیا۔","tokens":[{"surface":"ותגעש","gloss":"تے ہلی"},{"surface":"ותרעש","gloss":"تے ہلی"},{"surface":"הארץ","gloss":"زمین"},{"surface":"מוסדות","gloss":"نیہیاں"},{"surface":"השמים","gloss":"اسماناں دیاں"},{"surface":"ירגזו","gloss":"کپ ڳیاں"},{"surface":"ויתגעשו","gloss":"تے ہلیاں"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"חרה","gloss":"بھا بھڑکیا"},{"surface":"לו","gloss":"اوندا"}],"timestamp":"2026-09-19T17:00:24.614929363Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 22,
+  "translation": "تے زمین ہل ڳئی تے کانپ ڳئی، اسماناں دیاں نیہاں کھڑک ڳیاں تے ہلڑ ڳیاں، کیوں جو اوندا angry بھڑکیا ہا — اوندے اندر غصہ بھڑک پیا۔",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "تے ہل ڳئی"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "تے کانپ ڳئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "نیہاں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دیاں"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "کھڑک ڳیاں"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "تے ہلڑ ڳیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "بھڑکیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوندا"
+    }
+  ],
+  "timestamp": "2026-09-25T05:47:27.199351289Z",
+  "model": "glm-5.3"
+}

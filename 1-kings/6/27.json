@@ -1,1 +1,127 @@
-{"tier":"glm-5.2","verse":27,"ref":"1-kings 6:27","book":"1-kings","lang":"skr","chapter":6,"translation":"تے اوں کروباں کوں اندرولے گھر دے وِچ loudly رکھیا — تے کروباں دے پَر کھنڈائے ڳئے، تے ہِک دا پَر ہِک کنڈ نال لڳا، تے ݙوجھے کروب دا پَر ݙوجھی کنڈ نال لڳا، تے اُنہاں دے پَر گھر دے وِچکار پَر نال پَر لڳدے ہَن۔","tokens":[{"surface":"ויתן","gloss":"تے رکھیا"},{"surface":"את","gloss":"⟨את⟩","marks":"کروباں"},{"surface":"הכרובים","gloss":"کروباں"},{"surface":"בתוך","gloss":"وِچ"},{"surface":"הבית","gloss":"گھر"},{"surface":"הפנימי","gloss":"اندرولا"},{"surface":"ויפרשו","gloss":"تے کھنڈائے ڳئے"},{"surface":"את","gloss":"⟨את⟩","marks":"پَر"},{"surface":"כנפי","gloss":"دے پَر"},{"surface":"הכרבים","gloss":"کروباں دے"},{"surface":"ותגע","gloss":"تے لڳا"},{"surface":"כנף","gloss":"پَر"},{"surface":"האחד","gloss":"ہِک دا"},{"surface":"בקיר","gloss":"کنڈ نال"},{"surface":"וכנף","gloss":"تے پَر"},{"surface":"הכרוב","gloss":"کروب"},{"surface":"השני","gloss":"ݙوجھے"},{"surface":"נגעת","gloss":"لڳدا"},{"surface":"בקיר","gloss":"کنڈ نال"},{"surface":"השני","gloss":"ݙوجھی"},{"surface":"וכנפיהם","gloss":"تے اُنہاں دے پَر"},{"surface":"אל","gloss":"وِچ"},{"surface":"תוך","gloss":"وِچکار"},{"surface":"הבית","gloss":"گھر دے"},{"surface":"נגעת","gloss":"لڳدے"},{"surface":"כנף","gloss":"پَر"},{"surface":"אל","gloss":"نال"},{"surface":"כנף","gloss":"پَر"}],"timestamp":"2026-09-19T17:07:25.117420010Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 6:27",
+  "book": "1-kings",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "اَور اُوں ⟨את⟩ کروباں کوں رکھیا اندرولے گھر دے وچکار، تے کروباں دے پر کھنڈائے ڳئے، تے ہِک دا پر ہِک کندھ کوں لڳا، تے ݙوجھے کروب دا پر ݙوجھی کندھ کوں لڳدا ہا، تے اُنہاں دے پر گھر دے وچکار پر نال پر ملدے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروباں"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "اندرولا"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "کھنڈائے ڳئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پر"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروباں دے"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "لڳا"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ہِک دا"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "וכנף",
+      "gloss": "تے پر"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھے"
+    },
+    {
+      "surface": "נגעת",
+      "gloss": "لڳدا ہا"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ݙوجھی"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "تے اُنہاں دے پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "נגעת",
+      "gloss": "ملدے ہن"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    }
+  ],
+  "timestamp": "2026-09-25T05:02:27.116235464Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":16,"ref":"ezekiel 48:16","book":"ezekiel","lang":"skr","chapter":48,"translation":"تے اِیہ اوندیاں پیمائشاں ہِن: اُبھے پاسے پنج سَو تے چار ہزار، لَمے پاسے پنج سَو تے چار ہزار، پوادھے پاسے پنج سَو تے چار ہزار، تے پچادھے پاسے پنج سَو تے چار ہزار۔","tokens":[{"surface":"ואלה","gloss":"تے اِیہ"},{"surface":"מדותיה","gloss":"اوندیاں پیمائشاں"},{"surface":"פאת","gloss":"پاسہ"},{"surface":"צפון","gloss":"اُبھا"},{"surface":"חמש","gloss":"پنج"},{"surface":"מאות","gloss":"سَو"},{"surface":"וארבעת","gloss":"تے چار"},{"surface":"אלפים","gloss":"ہزار"},{"surface":"ופאת","gloss":"تے پاسہ"},{"surface":"נגב","gloss":"لَما"},{"surface":"חמש","gloss":"پنج"},{"surface":"חמש","gloss":"پنج"},{"surface":"מאות","gloss":"سَو"},{"surface":"וארבעת","gloss":"تے چار"},{"surface":"אלפים","gloss":"ہزار"},{"surface":"ומפאת","gloss":"تے پاسے توں"},{"surface":"קדים","gloss":"پوادھ"},{"surface":"חמש","gloss":"پنج"},{"surface":"מאות","gloss":"سَو"},{"surface":"וארבעת","gloss":"تے چار"},{"surface":"אלפים","gloss":"ہزار"},{"surface":"ופאת","gloss":"تے پاسہ"},{"surface":"ימה","gloss":"پچادھ"},{"surface":"חמש","gloss":"پنج"},{"surface":"מאות","gloss":"سَو"},{"surface":"וארבעת","gloss":"تے چار"},{"surface":"אלפים","gloss":"ہزار"}],"timestamp":"2026-09-19T18:49:06.965141036Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 48:16",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 48,
+  "translation": "تے ایہ اِیندیاں ناپاں ہن: اُبھے پاسے پنج سَو تے چار ہزار، تے لمے پاسے پنج سَو تے چار ہزار، تے پوادھے پاسوں پنج سَو تے چار ہزار، تے پچادھے پاسے پنج سَو تے چار ہزار۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "מדותיה",
+      "gloss": "اِیندیاں ناپاں"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسہ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُبھے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "تے پاسہ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "لمے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומפאת",
+      "gloss": "تے پاسوں"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "پوادھے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "تے پاسہ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "پچادھے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-25T06:40:03.865191681Z",
+  "model": "glm-5.3"
+}

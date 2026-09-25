@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":26,"ref":"deuteronomy 2:26","book":"deuteronomy","lang":"skr","chapter":2,"translation":"تے میں قدموت دے بیابان توں سیحون، حشبون دے بادشاہ دوں، سلامتی دیاں ڳالھیں آلے پیغام بھیڄے، آکھ کے:","tokens":[{"surface":"ואשלח","gloss":"تے میں … بھیڄے"},{"surface":"מלאכים","gloss":"پیغام"},{"surface":"ממדבר","gloss":"بیابان توں"},{"surface":"קדמות","gloss":"قدموت دے"},{"surface":"אל","gloss":"دوں"},{"surface":"סיחון","gloss":"سیحون"},{"surface":"מלך","gloss":"بادشاہ"},{"surface":"חשבון","gloss":"حشبون دے"},{"surface":"דברי","gloss":"ڳالھیں آلے"},{"surface":"שלום","gloss":"سلامتی دیاں"},{"surface":"לאמר","gloss":"آکھ کے"}],"timestamp":"2026-09-19T15:49:02.907805560Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے میں قیدیموت دے بیابان توں سِیحون، حشبون دے بادشاہ دوے پیغام بھیجے — سلامتی دیاں ڳالھیں، آکھ کے:",
+  "tokens": [
+    {
+      "surface": "ו אשלח",
+      "gloss": "تے میں … بھیجے"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "پیغام"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "بیابان توں"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "قیدیموت دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوے"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سِیحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون دے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی دیاں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:01:12.281515631Z",
+  "model": "glm-5.3"
+}

@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "skr",
   "chapter": 38,
-  "translation": "تے یاہوہ دا کلام میݙے پاس آیا، آکھݨ لڳا:",
+  "translation": "تے یاہوہ دا ڳالھ میݙے کولھ آئی، آکھیندی:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تھیا"
+      "gloss": "تھی ڳیا"
     },
     {
       "surface": "דבר",
-      "gloss": "کلام"
+      "gloss": "ڳالھ"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "gloss": "یاہوہ دا"
     },
     {
       "surface": "אלי",
-      "gloss": "میݙے پاس"
+      "gloss": "میݙے کولھ"
     },
     {
       "surface": "לאמר",
-      "gloss": "آکھݨ لڳا"
+      "gloss": "آکھیندی"
     }
   ],
-  "timestamp": "2026-09-19T18:43:09.115317417Z",
+  "timestamp": "2026-09-25T06:36:28.516930546Z",
   "model": "glm-5.3"
 }

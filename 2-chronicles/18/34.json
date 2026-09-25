@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":34,"ref":"2-chronicles 18:34","book":"2-chronicles","lang":"skr","chapter":18,"translation":"تے اُوں ݙینہہ جنگ بھڑکدی رہی، تے اِسرائیل دا بادشاہ رتھ وِچ اَرام دے سامݨے ڈھل تئیں ⟨کھڑا تھیا رہیا⟩، تے سِجھ لہݨ دے ویلھے مر ڳیا۔","tokens":[{"surface":"ותעל","gloss":"تے بھڑکی"},{"surface":"המלחמה","gloss":"جنگ"},{"surface":"ביום","gloss":"ݙینہہ وِچ"},{"surface":"ההוא","gloss":"اوں"},{"surface":"ומלך","gloss":"تے بادشاہ"},{"surface":"ישראל","gloss":"اِسرائیل"},{"surface":"היה","gloss":"ہا"},{"surface":"מעמיד","gloss":"⟨کھڑا تھیا رہیا⟩"},{"surface":"במרכבה","gloss":"رتھ وِچ"},{"surface":"נכח","gloss":"دے سامݨے"},{"surface":"ארם","gloss":"اَرام"},{"surface":"עד","gloss":"تئیں"},{"surface":"הערב","gloss":"ڈھل"},{"surface":"וימת","gloss":"تے مر ڳیا"},{"surface":"לעת","gloss":"ویلھے"},{"surface":"בוא","gloss":"لہݨ"},{"surface":"השמש","gloss":"سِجھ"}],"timestamp":"2026-09-19T20:53:54.710837948Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-chronicles 18:34",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 18,
+  "translation": "اتلے ݙینہہ جنگ ودھ ڳئی، تے یسرایل دا بادشاہ رتھ وِچ آراَم دے سامݨے شام تئیں ہٹکائی کھڑا رہیا، تے سِجھ ٻڑھݨ دے ویلھے مُس ڳیا۔",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "ودھ ڳئی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ݙینہہ وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اتلے"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہیا"
+    },
+    {
+      "surface": "מעמיד",
+      "gloss": "ہٹکائی کھڑا"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "رتھ وِچ"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "سامݨے"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آراَم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مُس ڳیا"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ویلھے"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ٻڑھݨ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سِجھ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:19:53.427988421Z",
+  "model": "glm-5.3"
+}

@@ -5,41 +5,41 @@
   "book": "daniel",
   "lang": "skr",
   "chapter": 5,
-  "translation": "تے ایہ او لکھت ہے جیڑھی لکھی ڳئی: منی، منی، تکیل اُوپرسین۔",
+  "translation": "تے ایہ او لکھت ہے جیڑھی لکھی ڳئی: مِنے، مِنے، تِقل، اُفَرسِن۔",
   "tokens": [
     {
-      "surface": "ודנה",
+      "surface": "וּדְנָה",
       "gloss": "تے ایہ"
     },
     {
-      "surface": "כתבא",
+      "surface": "כְתָבָא",
       "gloss": "لکھت"
     },
     {
-      "surface": "די",
-      "gloss": "جو"
+      "surface": "דִּי",
+      "gloss": "جیڑھی"
     },
     {
-      "surface": "רשים",
+      "surface": "רְשִׁים",
       "gloss": "لکھی ڳئی"
     },
     {
-      "surface": "מנא",
-      "gloss": "منی"
+      "surface": "מְנֵא",
+      "gloss": "مِنے"
     },
     {
-      "surface": "מנא",
-      "gloss": "منی"
+      "surface": "מְנֵא",
+      "gloss": "مِنے"
     },
     {
-      "surface": "תקל",
-      "gloss": "تکیل"
+      "surface": "תְּקֵל",
+      "gloss": "تِقل"
     },
     {
-      "surface": "ופרסין",
-      "gloss": "اُوپرسین"
+      "surface": "וּפַרְסִין",
+      "gloss": "اُفَرسِن"
     }
   ],
-  "timestamp": "2026-09-19T20:19:35.383688206Z",
+  "timestamp": "2026-09-25T05:54:47.254327406Z",
   "model": "glm-5.3"
 }

@@ -5,43 +5,43 @@
   "book": "1-samuel",
   "lang": "skr",
   "chapter": 1,
-  "translation": "⟨את⟩ سانڈھ کوں ذبح کیتا، تے ⟨את⟩ ٻال کوں ایلی دو گھن ڳئے۔",
+  "translation": "اُنہاں ⟨את⟩ وَل وِچائی تے ⟨את⟩ نینگر کوں عیلی کول گھن ڳے۔",
   "tokens": [
     {
       "surface": "וישחטו",
-      "gloss": "ذبح کیتا"
+      "gloss": "وَل وِچائی"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "سانڈھ"
+      "marks": "وَل"
     },
     {
       "surface": "הפר",
-      "gloss": "سانڈھ"
+      "gloss": "وَل"
     },
     {
       "surface": "ויביאו",
-      "gloss": "گھن ڳئے"
+      "gloss": "گھن ڳے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ٻال"
+      "marks": "نینگر"
     },
     {
       "surface": "הנער",
-      "gloss": "ٻال"
+      "gloss": "نینگر"
     },
     {
       "surface": "אל",
-      "gloss": "دو"
+      "gloss": "کول"
     },
     {
       "surface": "עלי",
-      "gloss": "ایلی"
+      "gloss": "عیلی"
     }
   ],
-  "timestamp": "2026-09-19T16:34:23.858052130Z",
+  "timestamp": "2026-09-25T05:04:07.992000716Z",
   "model": "glm-5.3"
 }

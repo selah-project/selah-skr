@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":30,"ref":"ezekiel 21:30","book":"ezekiel","lang":"skr","chapter":21,"translation":"تے تُوں، مارے ونڄݨ والا شریر، یِسرائیل دا سردار، جیندا ݙینہہ آ ڳیا، بدکرداری دے ویلھے دے انت وِچ۔","tokens":[{"surface":"ואתה","gloss":"تے تُوں"},{"surface":"חלל","gloss":"مارے ونڄݨ والا"},{"surface":"רשע","gloss":"شریر"},{"surface":"נשיא","gloss":"سردار"},{"surface":"ישראל","gloss":"یِسرائیل"},{"surface":"אשר","gloss":"جیندا"},{"surface":"בא","gloss":"آ ڳیا"},{"surface":"יומו","gloss":"اوندا ݙینہہ"},{"surface":"בעת","gloss":"وِچ… دے ویلھے"},{"surface":"עון","gloss":"بدکرداری"},{"surface":"קץ","gloss":"انت"}],"timestamp":"2026-09-19T18:34:18.454549225Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے تُوں، ماریا ہویا، شرمیلا نگری، یِسرایل دا سردار، جیندا ݙینہہ آ ڳیا ہے، جُرم دے ویلھے ⟨تے⟩، اخیر۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ماریا ہویا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرمیلا نگری"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیندا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ ڳیا ہے"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلھے ⟨تے⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "جرم"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "اخیر"
+    }
+  ],
+  "timestamp": "2026-09-25T06:31:08.599163220Z",
+  "model": "glm-5.3"
+}

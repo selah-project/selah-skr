@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-chronicles 16:3","book":"1-chronicles","lang":"skr","chapter":16,"translation":"تے اوں ہر ہِک کوں یِسرایل دے، بندے توں تے تئیں تریمت، ہر بندے کوں ہِک ڳولھا روٹی دا، ہِک اَشپار ⟨کھجور دی بھاڄی⟩ تے ہِک اَشیشاہ ⟨کشمش دا مِٹھا ٹکر⟩ ونڈ ݙتا۔","tokens":[{"surface":"ויחלק","gloss":"ونڈ ݙتس"},{"surface":"לכל","gloss":"ہر ہِک کوں"},{"surface":"איש","gloss":"بندے"},{"surface":"ישראל","gloss":"یِسرایل"},{"surface":"מאיש","gloss":"بندے توں"},{"surface":"ועד","gloss":"تے تئیں"},{"surface":"אשה","gloss":"تریمت"},{"surface":"לאיש","gloss":"ہر بندے کوں"},{"surface":"ככר","gloss":"ہِک ڳولھا"},{"surface":"לחם","gloss":"روٹی"},{"surface":"ואשפר","gloss":"تے اَشپار"},{"surface":"ואשישה","gloss":"تے اَشیشاہ"}],"timestamp":"2026-09-21T15:24:03.809464182Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے اوں یِسرایل دے ہر بندے کوں، بندے توں ذال تئیں، ہر ہِک کوں ہِک ڈھکڑ روٹی، ہِک حصہ ⟨کھاݨاں⟩ تے ہِک کشمش آلا ڈھکڑ ونڈ ݙتا۔",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ونڈ ݙتا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "بندے توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تئیں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ہر ہِک کوں"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ڈھکڑ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "ہِک حصہ ⟨کھاݨاں⟩"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "کشمش آلا ڈھکڑ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:48:39.164463746Z",
+  "model": "glm-5.3"
+}

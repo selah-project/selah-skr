@@ -5,45 +5,45 @@
   "book": "2-kings",
   "lang": "skr",
   "chapter": 25,
-  "translation": "تے شہر محاصرے وِچ رہ ڳیا، تصدیقیاہ بادشاہ دے同心 ایہو جھیں تئیں۔",
+  "translation": "تے شہر گھیرے وِچ آ ڳیا، صدقیاہو بادشاہ دے اَویہہ ⟨یازدہویں⟩ سال تئیں۔",
   "tokens": [
     {
-      "surface": "ותבא",
-      "gloss": "تے داخل تھی ڳیا"
+      "surface": "וַתָּבֹא",
+      "gloss": "آ ڳیا"
     },
     {
-      "surface": "העיר",
+      "surface": "הָעִיר",
       "gloss": "شہر"
     },
     {
-      "surface": "במצור",
-      "gloss": "محاصرے وِچ"
+      "surface": "בַּמָּצוֹר",
+      "gloss": "گھیرے وِچ"
     },
     {
-      "surface": "עד",
+      "surface": "עַד",
       "gloss": "تئیں"
     },
     {
-      "surface": "עשתי",
-      "gloss": "numpy"
+      "surface": "עַשְׁתֵּי",
+      "gloss": "اَویہہ ⟨یازدہویں⟩"
     },
     {
-      "surface": "עשרה",
-      "gloss": null
+      "surface": "עֶשְׂרֵה",
+      "gloss": "⟨یازدہویں⟩ سال"
     },
     {
-      "surface": "שנה",
-      "gloss": null
+      "surface": "שָׁנָה",
+      "gloss": "سال"
     },
     {
-      "surface": "למלך",
-      "gloss": null
+      "surface": "לַמֶּלֶךְ",
+      "gloss": "بادشاہ دے"
     },
     {
-      "surface": "צדקיהו",
-      "gloss": null
+      "surface": "צִדְקִיָּהוּ",
+      "gloss": "صدقیاہو"
     }
   ],
-  "timestamp": "2026-09-19T17:33:40.153899362Z",
+  "timestamp": "2026-09-25T05:34:57.663737589Z",
   "model": "glm-5.3"
 }

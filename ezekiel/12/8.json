@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 12:8","book":"ezekiel","lang":"skr","chapter":12,"translation":"تے صبح دے ویلے یاہوہ دا کلام میݙے کول آیا، آکھݨ لڳا:","tokens":[{"surface":"ויהי","gloss":"تے تھیا"},{"surface":"דבר","gloss":"کلام"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"אלי","gloss":"میݙے کول"},{"surface":"בבקר","gloss":"صبح دے ویلے"},{"surface":"לאמר","gloss":"آکھݨ لڳا"}],"timestamp":"2026-09-19T18:28:36.651757846Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے صبح ویلے یاہوہ دا کلما میݙے کولھ آیا، جو آکھے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میݙے کولھ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح ویلے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:27:35.667473062Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":4,"ref":"exodus 33:4","book":"exodus","lang":"skr","chapter":33,"translation":"تے قوم ⟨את⟩ او بُری ڳالھ سُنی، تے سوڳ کیتس، تے کہیں بندے آپݨا سنگھار او اُتے نہ چاتا۔","tokens":[{"surface":"וישמע","gloss":"سُنی"},{"surface":"העם","gloss":"قوم"},{"surface":"את","gloss":"⟨את⟩","marks":"او بُری ڳالھ"},{"surface":"הדבר","gloss":"ڳالھ"},{"surface":"הרע","gloss":"بُری"},{"surface":"הזה","gloss":"او"},{"surface":"ויתאבלו","gloss":"سوڳ کیتس"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"שתו","gloss":"چاتا"},{"surface":"איש","gloss":"کہیں بندے"},{"surface":"עדיו","gloss":"آپݨا سنگھار"},{"surface":"עליו","gloss":"او اُتے"}],"timestamp":"2026-09-19T15:02:18.780345317Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 33,
+  "translation": "قوم سُݨیا ⟨את⟩ اے منہدی ڳالھ، تے او سوگ کرݨ لڳ پئے، تے کئیں بندے آپݨا سنگھار آپ اُتے نہ رکھیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُݨیا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے منہدی ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "منہدی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "سوگ کرݨ لڳ پئے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کئیں بندے"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "آپݨا سنگھار"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آپ اُتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:23:28.019654205Z",
+  "model": "glm-5.3"
+}

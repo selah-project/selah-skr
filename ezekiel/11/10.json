@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezekiel 11:10","book":"ezekiel","lang":"skr","chapter":11,"translation":"تلوار نال تُساں ڈھیسو، یسرائیل دی سرحد اُتے میں تُہاݙے نال فیصلہ کریسی، تے تُساں ڄاݨ گھنسو جو میں یاہوہ ہاں۔","tokens":[{"surface":"בחרב","gloss":"تلوار نال"},{"surface":"תפלו","gloss":"تُساں ڈھیسو"},{"surface":"על","gloss":"اُتے"},{"surface":"גבול","gloss":"سرحد"},{"surface":"ישראל","gloss":"یسرائیل"},{"surface":"אשפוט","gloss":"میں فیصلہ کریسی"},{"surface":"אתכם","gloss":"⟨אתכם⟩","marks":"تُہاݙے نال"},{"surface":"וידעתם","gloss":"تے تُساں ڄاݨ گھنسو"},{"surface":"כי","gloss":"جو"},{"surface":"אני","gloss":"میں"},{"surface":"יהוה","gloss":"یاہوہ"}],"timestamp":"2026-09-19T18:27:43.877498982Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 11,
+  "translation": "تلوار نال تُساں ڈھہسو؛ یِصرایل دے سرحد اُتے میں تُہاکوں ⟨את⟩ فیصلہ کریساں، تے تُساں ڄاݨسن جو میں یاہوہ ہاں۔",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "تُساں ڈھہسو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِصرایل"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "میں فیصلہ کریساں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاکوں"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "تے تُساں ڄاݨسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:27:54.038126706Z",
+  "model": "glm-5.3"
+}

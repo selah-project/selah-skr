@@ -5,50 +5,8 @@
   "book": "ecclesiastes",
   "lang": "skr",
   "chapter": 5,
-  "translation": "کیوں جو خواباں دی کثیرت وِچ، تے ہٻلاسیاں، تے ڳالھیں ٻہوں ہن؛ پر ⟨את⟩ ایلوہیم توں ڈر۔",
-  "tokens": [
-    {
-      "surface": "כי",
-      "gloss": "کیوں جو"
-    },
-    {
-      "surface": "ברב",
-      "gloss": "کثیرت وِچ"
-    },
-    {
-      "surface": "חלמות",
-      "gloss": "خواباں"
-    },
-    {
-      "surface": "והבלים",
-      "gloss": "تے ہٻلاسیاں"
-    },
-    {
-      "surface": "ודברים",
-      "gloss": "تے ڳالھیں"
-    },
-    {
-      "surface": "הרבה",
-      "gloss": "ٻہوں"
-    },
-    {
-      "surface": "כי",
-      "gloss": "پر"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ایلوہیم"
-    },
-    {
-      "surface": "האלהים",
-      "gloss": "ایلوہیم"
-    },
-    {
-      "surface": "ירא",
-      "gloss": "ڈر"
-    }
-  ],
-  "timestamp": "2026-09-19T20:14:35.451616799Z",
+  "translation": "کیوں جو خواباں دی وَدھicarried halted—",
+  "tokens": [],
+  "timestamp": "2026-09-25T06:10:40.539881556Z",
   "model": "glm-5.3"
 }

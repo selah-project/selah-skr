@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-chronicles 6:12","book":"2-chronicles","lang":"skr","chapter":6,"translation":"تے او یاہوہ دے مذبح دے اڳوں، سارے یسرائیل دی جماعت دے سامݨے کھڑا تھیا، تے اپݨے ݙوہیں ہتھ کھلرائے۔","tokens":[{"surface":"ויעמד","gloss":"تے کھڑا تھیا"},{"surface":"לפני","gloss":"دے اڳوں"},{"surface":"מזבח","gloss":"مذبح"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"נגד","gloss":"سامݨے"},{"surface":"כל","gloss":"سارے"},{"surface":"קהל","gloss":"جماعت"},{"surface":"ישראל","gloss":"یسرائیل"},{"surface":"ויפרש","gloss":"تے کھلرائے"},{"surface":"כפיו","gloss":"اپݨے ݙوہیں ہتھ"}],"timestamp":"2026-09-19T20:48:38.257052311Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 6,
+  "translation": "تے اوہ یاہوہ دے قربان گاہ دے اڳوں، سارے اِسرائیل دی مجلس دے سامݨے کھڑا تھیا، تے آپݨیاں ہتھیں دیاں ہتھیلیاں کھولیاں۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑا تھیا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اڳوں"
+    },
+    {
+      "surface": "مזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "دے سامݨے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "مجلس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "تے کھولیاں"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "آپݨیاں ہتھیں دیاں ہتھیلیاں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:26:14.739711603Z",
+  "model": "glm-5.3"
+}

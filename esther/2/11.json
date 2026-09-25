@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":11,"ref":"esther 2:11","book":"esther","lang":"skr","chapter":2,"translation":"تے ہر ݙینہہ تے ݙینہہ مردخائی ترائیاں دے گھر دے ویہڑے اڳوں ٹُردا ریہا، ایستر دا ⟨את⟩ سلامتی ڄاݨݨ کیتے تے کیا اوندے نال تھیندا۔","tokens":[{"surface":"ובכל","gloss":"تے ہر"},{"surface":"יום","gloss":"ݙینہہ"},{"surface":"ויום","gloss":"تے ݙینہہ"},{"surface":"מרדכי","gloss":"مردخائی"},{"surface":"מתהלך","gloss":"ٹُردا ریہا"},{"surface":"לפני","gloss":"اڳوں"},{"surface":"חצר","gloss":"ویہڑے"},{"surface":"בית","gloss":"گھر"},{"surface":"הנשים","gloss":"ترائیاں دے"},{"surface":"לדעת","gloss":"ڄاݨݨ کیتے"},{"surface":"את","gloss":"⟨את⟩","marks":"سلامتی"},{"surface":"שלום","gloss":"سلامتی"},{"surface":"אסתר","gloss":"ایستر"},{"surface":"ומה","gloss":"تے کیا"},{"surface":"יעשה","gloss":"تھیندا"},{"surface":"בה","gloss":"اوندے نال"}],"timestamp":"2026-09-19T20:16:51.297837784Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "تے ہر ݙینہہ ݙینہہ مردخائی زنانیاں دے گھر دی ٹھاہرے اڳوں ٹُردا ریہا، ایستھر دی ⟨את⟩ سلامتی ڄاݨݨ کیتے تے اوندے نال کیا تھیندا ہے۔",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ݙینہہ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخائی"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ٹُردا ریہا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳوں"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ٹھاہرے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زنانیاں دے"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاݨݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایستھر دی سلامتی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستھر دی"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "تھیندا ہے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوندے نال"
+    }
+  ],
+  "timestamp": "2026-09-25T06:12:24.509987131Z",
+  "model": "glm-5.3"
+}

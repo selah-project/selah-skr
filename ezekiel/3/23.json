@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":23,"ref":"ezekiel 3:23","book":"ezekiel","lang":"skr","chapter":3,"translation":"تے میں اُٹھیم تے وادی وِچ ڳیم، تے ݙیکھو، اُتھاں یاہوہ دا جلال کھڑا ⟨ہا⟩، اوں جلال وانگوں جیہڑا میں نہر کِبار تے ݙٹھا ہا؛ تے میں آپݨے مُہاندے اُتے ڈھہہ ڳیم۔","tokens":[{"surface":"ואקום","gloss":"اُٹھیم"},{"surface":"ואצא","gloss":"ڳیم"},{"surface":"אל","gloss":"تائیں"},{"surface":"הבקעה","gloss":"وادی"},{"surface":"והנה","gloss":"تے ݙیکھو"},{"surface":"שם","gloss":"اُتھاں"},{"surface":"כבוד","gloss":"جلال"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"עמד","gloss":"کھڑا"},{"surface":"ככבוד","gloss":"اوں جلال وانگوں"},{"surface":"אשר","gloss":"جیہڑا"},{"surface":"ראיתי","gloss":"ݙٹھا"},{"surface":"על","gloss":"تے"},{"surface":"נהר","gloss":"نہر"},{"surface":"כבר","gloss":"کِبار"},{"surface":"ואפל","gloss":"ڈھہہ ڳیم"},{"surface":"על","gloss":"اُتے"},{"surface":"פני","gloss":"مُہاندے"}],"timestamp":"2026-09-19T18:26:46.746672373Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 3:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 3,
+  "translation": "تے میں اُٹھیا تے وادی دو نِکھتھا، تے ݙیکھو، اُتھاں یاہوہ دا جلال ⟨کھڑا ہا⟩، اوں جلال وانگوں جیڑھا میں نہر کِبار دے کنارے ݙٹھا ہا، تے میں اپݨے مُہانڈے اُتے ڈھہہ پیُم۔",
+  "tokens": [
+    {
+      "surface": "ואקום",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "ואצא",
+      "gloss": "نِکھتھا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ݙیکھو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑا ہا"
+    },
+    {
+      "surface": "ככבוד",
+      "gloss": "اوں جلال وانگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ݙٹھا ہا"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "کِبار"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ڈھہہ پیُم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُہانڈے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:33:44.221128373Z",
+  "model": "glm-5.3"
+}

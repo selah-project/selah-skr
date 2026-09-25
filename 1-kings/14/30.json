@@ -5,41 +5,41 @@
   "book": "1-kings",
   "lang": "skr",
   "chapter": 14,
-  "translation": "تے جنگ رہ ڳئی رُحبعام تے یربعام دے وچالے سارے ݙینہہ۔",
+  "translation": "تے رِخبعم تے یروبعم دے وچکار لڑائی ہئی، سارے ݙینہہ۔",
   "tokens": [
     {
-      "surface": "ומלחמה",
-      "gloss": "تے جنگ"
+      "surface": "וּמִלְחָמָה",
+      "gloss": "تے لڑائی"
     },
     {
-      "surface": "היתה",
-      "gloss": "رہ ڳئی"
+      "surface": "הָיְתָה",
+      "gloss": "ہئی"
     },
     {
-      "surface": "בין",
-      "gloss": "دے وچالے"
+      "surface": "בֵּין",
+      "gloss": "دے وچکار"
     },
     {
-      "surface": "רחבעם",
-      "gloss": "رُحبعام"
+      "surface": "רְחַבְעָם",
+      "gloss": "رِخبعم"
     },
     {
-      "surface": "ובין",
-      "gloss": "تے"
+      "surface": "וּבֵּין",
+      "gloss": "تے دے وچکار"
     },
     {
-      "surface": "ירבעם",
-      "gloss": "یربعام"
+      "surface": "יָרָבְעָם",
+      "gloss": "یروبعم"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "سارے"
     },
     {
-      "surface": "הימים",
+      "surface": "הַיָּמִים",
       "gloss": "ݙینہہ"
     }
   ],
-  "timestamp": "2026-09-19T17:13:39.436026289Z",
+  "timestamp": "2026-09-25T04:55:47.557138174Z",
   "model": "glm-5.3"
 }

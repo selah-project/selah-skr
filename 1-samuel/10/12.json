@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":12,"ref":"1-samuel 10:12","book":"1-samuel","lang":"skr","chapter":10,"translation":"تے اُتھوں دے ہِک بندے جواب ݙے تے آکھیس: “تے انہاں دا پیو کون ⟨ہِن⟩؟” ایں کیتے او مثال بݨ ڳیا: “بھلا شاؤل وی نبیاں وِچ؟”","tokens":[{"surface":"ויען","gloss":"تے جواب ݙتس"},{"surface":"איש","gloss":"ہِک بندے"},{"surface":"משם","gloss":"اُتھوں دے"},{"surface":"ויאמר","gloss":"تے آکھیس"},{"surface":"ומי","gloss":"تے کون"},{"surface":"אביהם","gloss":"انہاں دا پیو"},{"surface":"על","gloss":"اُتے"},{"surface":"כן","gloss":"ایں کیتے"},{"surface":"היתה","gloss":"بݨ ڳئی"},{"surface":"למשל","gloss":"مثال"},{"surface":"הגם","gloss":"بھلا … وی"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"בנבאים","gloss":"نبیاں وِچ"}],"timestamp":"2026-09-19T16:38:53.782125684Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "اُتھوں ہِک بندے جواب ݙتا تے آکھیس: “تے انہاں دا پیو کون ہِے؟” ایں کیتے اے پکی اَکھاݨ بݨ ڳیا: “کیا شاؤل وی نبیاں وِچ ہِے؟”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ݙتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہِک بندے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتھوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "انہاں دا پیو"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بݨ ڳیا"
+    },
+    {
+      "surface": "למשل",
+      "gloss": "پکی اَکھاݨ"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "کیا … وی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "نبیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:04:39.386008710Z",
+  "model": "glm-5.3"
+}

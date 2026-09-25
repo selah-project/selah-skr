@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":36,"ref":"ezekiel 27:36","book":"ezekiel","lang":"skr","chapter":27,"translation":"قوماں وِچ سوداگر تیݙے اُتے سیٹیاں ماریاں؛ تُوں دہشت بݨ ڳیوئی، تے ہمیشہ تئیں وَلا نہ رہسی۔","tokens":[{"surface":"סחרים","gloss":"سوداگر"},{"surface":"בעמים","gloss":"قوماں وِچ"},{"surface":"שרקו","gloss":"سیٹیاں ماریاں"},{"surface":"עליך","gloss":"تیݙے اُتے"},{"surface":"בלהות","gloss":"دہشت"},{"surface":"היית","gloss":"بݨ ڳیوئی"},{"surface":"ואינך","gloss":"نہ رہسی"},{"surface":"עד","gloss":"تئیں"},{"surface":"עולם","gloss":"ہمیشہ"}],"timestamp":"2026-09-19T18:37:19.387190106Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 27:36",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 27,
+  "translation": "قومیں وِچ سوداگر تیݙے اُتے سیٹیاں وڄائن؛ توں ݙر ⟨بݨ ڳئی⟩ ہئی، تے توں کائنی رہسی — ہمیشہ کیتے۔",
+  "tokens": [
+    {
+      "surface": "סחרים",
+      "gloss": "سوداگر"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "سیٹیاں وڄائن"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ݙر"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بݨ ڳئی ہئی"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "تے توں کائنی رہسی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:33:00.064945105Z",
+  "model": "glm-5.3"
+}

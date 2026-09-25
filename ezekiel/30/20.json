@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":20,"ref":"ezekiel 30:20","book":"ezekiel","lang":"skr","chapter":30,"translation":"تے تِرویہویں سال وِچ، پہلے مہینے وِچ، مہینے دی ستویں تاریخ کوں، یاہوہ دا کلام میں اُتے آیا، آکھݨ لڳا:","tokens":[{"surface":"ויהי","gloss":"تے تھیا"},{"surface":"באחת","gloss":"ہِک"},{"surface":"עשרה","gloss":"ݙاہ"},{"surface":"שנה","gloss":"سال وِچ"},{"surface":"בראשון","gloss":"پہلے وِچ"},{"surface":"בשבעה","gloss":"ستویں"},{"surface":"לחדש","gloss":"مہینے کوں"},{"surface":"היה","gloss":"تھیا"},{"surface":"דבר","gloss":"کلام"},{"surface":"יהוה","gloss":"یاہوہ دا"},{"surface":"אלי","gloss":"میں اُتے"},{"surface":"לאמר","gloss":"آکھݨ لڳا"}],"timestamp":"2026-09-19T18:38:01.911607303Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 30:20",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 30,
+  "translation": "تے تِرہویں سال وِچ، پہلے مہینے وِچ، مہینے دے ستویں ݙینہہ، یاہوہ دا ⟨کلام⟩ میکوں تھیا، آکھݨ کیتے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "وِچ ہِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ݙاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ کیتے"
+    }
+  ],
+  "timestamp": "2026-09-25T06:34:19.117206977Z",
+  "model": "glm-5.3"
+}

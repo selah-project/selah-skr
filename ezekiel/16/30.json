@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":30,"ref":"ezekiel 16:30","book":"ezekiel","lang":"skr","chapter":16,"translation":"کِتنا کمزور تھی ڳیا تیݙا دل — ادونای یاہوہ دا فرمان — جو تیں ⟨את⟩ ایہ سارے کیتے، ہِک بدکار زنانی دا کم، زور ڈھانوݨ آلی۔","tokens":[{"surface":"מה","gloss":"کِتنا"},{"surface":"אמלה","gloss":"کمزور تھی ڳیا"},{"surface":"לבתך","gloss":"تیݙا دل"},{"surface":"נאם","gloss":"دا فرمان"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"בעשותך","gloss":"جو تیں کیتے"},{"surface":"את","gloss":"⟨את⟩","marks":"ایہ سارے"},{"surface":"כל","gloss":"سارے"},{"surface":"אלה","gloss":"ایہ"},{"surface":"מעשה","gloss":"دا کم"},{"surface":"אשה","gloss":"زنانی"},{"surface":"זונה","gloss":"بدکار"},{"surface":"שלטת","gloss":"زور ڈھانوݨ آلی"}],"timestamp":"2026-09-19T18:30:31.961157839Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 16:30",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "کِتیں مُکا ہے تیݙا دل، ادونای یاہوہ دا اِعلان، جݙاں تُوں ⟨את⟩ اے سارے کَم کریندی ہئیں — ہِک زنا کار تریمت دا کم، جیہڑی ݙھٹل حاکم آلی ہے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِتیں"
+    },
+    {
+      "surface": "אמלה",
+      "gloss": "مُکا ہے"
+    },
+    {
+      "surface": "לבתך",
+      "gloss": "تیݙا دل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا اِعلان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעשותך",
+      "gloss": "جݙاں تُوں … کریندی ہئیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے سارے کَم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمت دا"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زنا کار"
+    },
+    {
+      "surface": "שלטת",
+      "gloss": "ݙھٹل حاکم آلی"
+    }
+  ],
+  "timestamp": "2026-09-25T06:28:46.293585028Z",
+  "model": "glm-5.3"
+}

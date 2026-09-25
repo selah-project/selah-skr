@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-samuel 20:9","book":"1-samuel","lang":"skr","chapter":20,"translation":"تے یہوناتن آکھیا: “تیݙی ذات پان کیتوں ایہ ڳالھ کائنی! کیوں جو جے میکوں پک لڳے جو میݙے پیو دوالوں تیݙے اُتے آوݨ آلی برائی پکی تھی ڳئی ہے، تے میں تیکوں ⟨את⟩ او نہ ݙساواں؟”","tokens":[{"surface":"ויאמר","gloss":"آکھیا"},{"surface":"יהונתן","gloss":"یہوناتن"},{"surface":"חלילה","gloss":"پان کیتوں"},{"surface":"לך","gloss":"تیݙی ذات"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"אם","gloss":"جے"},{"surface":"ידע","gloss":"پک لڳے"},{"surface":"אדע","gloss":"میکوں … پتہ"},{"surface":"כי","gloss":"جو"},{"surface":"כלתה","gloss":"پکی تھی ڳئی ہے"},{"surface":"הרעה","gloss":"برائی"},{"surface":"מעם","gloss":"دوالوں"},{"surface":"אבי","gloss":"میݙے پیو"},{"surface":"לבוא","gloss":"آوݨ"},{"surface":"עליך","gloss":"تیݙے اُتے"},{"surface":"ולא","gloss":"تے … نہ"},{"surface":"אתה","gloss":"⟨את⟩","marks":"او (ڳالھ)"},{"surface":"אגיד","gloss":"ݙساواں"},{"surface":"לך","gloss":"تیکوں"}],"timestamp":"2026-09-19T16:43:16.668268171Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے یہوناتن آکھیا: “کݙاہیں نہ! کیوں جو جے میں پک ڄاݨاں جو میݙے پیو کنوں برائی پکی تھی ڳئی ہے جو تیݙے اُتے آوے، تاں میں تیکوں ⟨את⟩ او نہ ݙساں؟”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "کݙاہیں نہ!"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیݙے کیتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پک"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ڄاݨاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "پکی تھی ڳئی"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کنوں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میݙے پیو"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آوݨ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیݙے اُتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "او ⟨ݙساں دی نشاندہی⟩"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ݙساں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیکوں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:10:03.274454880Z",
+  "model": "glm-5.3"
+}

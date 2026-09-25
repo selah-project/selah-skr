@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-samuel 16:22","book":"1-samuel","lang":"skr","chapter":16,"translation":"تے شاؤل یِشای ول آکھ بھیجیا: “داوِد میݙے اڳوں رہوے، کیوں جو اوں میݙیاں اکھیں وِچ مہر پاتی ہے۔”","tokens":[{"surface":"וישלח","gloss":"بھیجیا"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"אל","gloss":"ول"},{"surface":"ישי","gloss":"یِشای"},{"surface":"לאמר","gloss":"آکھ بھیجیا"},{"surface":"יעמד","gloss":"رہوے"},{"surface":"נא","gloss":"⟨مہربانی⟩"},{"surface":"דוד","gloss":"داوِد"},{"surface":"לפני","gloss":"میݙے اڳوں"},{"surface":"כי","gloss":"کیوں جو"},{"surface":"מצא","gloss":"پاتی"},{"surface":"חן","gloss":"مہر"},{"surface":"בעיני","gloss":"میݙیاں اکھیں وِچ"}],"timestamp":"2026-09-19T16:40:39.953254904Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "skr",
+  "chapter": 16,
+  "translation": "تے شاؤل یِشای دوں اِیں واسطے بھیجیا جو آکھیس: “مہربانی کر تے داوِد میݙے اَڳوں کھڑا رہوے، کیوں جو اوں میݙیاں اَکھیاں وِچ خیسِد ⟨مِل ڳیا⟩ ⟨ہے⟩۔”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "יִשַׁי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیس"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھڑا رہوے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی کر تے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "میݙے اَڳوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "مِل ڳیا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "میݙیاں اَکھیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-09-25T05:07:18.936080808Z",
+  "model": "glm-5.3"
+}

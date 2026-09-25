@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 23:26","book":"exodus","lang":"skr","chapter":23,"translation":"تیݙی بھوئیں وِچ نہ گِھر ڄمسِن تے نہ بانجھ ہوسِن؛ ⟨את⟩ تیݙے ݙینہاں دی ڳݨتی میں پوری کریساں۔","tokens":[{"surface":"לא","gloss":"نہ"},{"surface":"תהיה","gloss":"ہوسی"},{"surface":"משכלה","gloss":"گِھر ڄمݨ آلی"},{"surface":"ועקרה","gloss":"تے بانجھ"},{"surface":"בארצך","gloss":"تیݙی بھوئیں وِچ"},{"surface":"את","gloss":"⟨את⟩","marks":"ڳݨتی"},{"surface":"מספר","gloss":"ڳݨتی"},{"surface":"ימיך","gloss":"تیݙے ݙینہہ"},{"surface":"אמלא","gloss":"پوری کریساں"}],"timestamp":"2026-09-19T14:56:06.775829115Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تیݙی زمین وِچ نہ وتراوݨ آلی ہوسی، نہ بانجھ؛ ⟨את⟩ تیݙے ݙینہاں دی ڳݨتری میں پوری کریساں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوسی"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "وتراوݨ آلی"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "نہ بانجھ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیݙی زمین وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیݙے ݙینہاں دی ڳݨتری"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳݨتری"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تیݙے ݙینہاں دی"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "میں پوری کریساں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:19:43.518697808Z",
+  "model": "glm-5.3"
+}

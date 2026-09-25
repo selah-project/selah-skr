@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":17,"ref":"deuteronomy 23:17","book":"deuteronomy","lang":"skr","chapter":23,"translation":"او تیݙے نال، تیݙے وِچ، اوں جاہ وِچ رہسی جو او تیݙے دروازیں وِچوں ہِک وِچ چُݨسی، جِتھاں اوں کوں چنگا لڳے؛ اوں کوں نہ ستائیں۔","tokens":[{"surface":"עמך","gloss":"تیݙے نال"},{"surface":"ישב","gloss":"رہسی"},{"surface":"בקרבך","gloss":"تیݙے وِچ"},{"surface":"במקום","gloss":"اوں جاہ وِچ"},{"surface":"אשר","gloss":"جو"},{"surface":"יבחר","gloss":"چُݨسی"},{"surface":"באחד","gloss":"ہِک وِچ"},{"surface":"שעריך","gloss":"تیݙے دروازیں"},{"surface":"בטוב","gloss":"چنگائی وِچ"},{"surface":"לו","gloss":"اوں کیتے"},{"surface":"לא","gloss":"نہ"},{"surface":"תוננו","gloss":"ستاویں"}],"timestamp":"2026-09-19T16:01:38.334183496Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 23:17",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 23,
+  "translation": "تیݙے نال او رہسی، تیݙے وِچکار، اُوں جاہ وِچ جیہڑی او چُݨسی، تیݙے دروازیاں وِچوں ہِک وِچ، جتھاں اوں کوں چنڳاں لڳے؛ اوں کوں دکھ نہ ݙیویں۔",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "تیݙے نال"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیݙے وِچکار"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُوں جاہ وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چُݨسی"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ہِک وِچ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تیݙے دروازیاں وِچوں"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چنڳاں لڳے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوں کوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוננו",
+      "gloss": "دکھ ݙیویں"
+    }
+  ],
+  "timestamp": "2026-09-25T06:02:16.312655184Z",
+  "model": "glm-5.3"
+}

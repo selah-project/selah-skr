@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-chronicles 10:6","book":"1-chronicles","lang":"skr","chapter":10,"translation":"تے شاؤل مر ڳیا، تے اوندے ترے پُتر تے اوندا سارا گھر کٹھے مر ڳئے۔","tokens":[{"surface":"וימת","gloss":"مر ڳیا"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"ושלשת","gloss":"تے ترے"},{"surface":"בניו","gloss":"پُتر"},{"surface":"וכל","gloss":"تے سارا"},{"surface":"ביתו","gloss":"گھر"},{"surface":"יחדו","gloss":"کٹھے"},{"surface":"מתו","gloss":"مر ڳئے"}],"timestamp":"2026-09-19T20:40:37.999355163Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "skr",
+  "chapter": 10,
+  "translation": "تے شاؤل مر ڳیا، تے اوندے ترے پُتر، تے اوندا پورا گھر سارے رَل کے مر ڳئے۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر ڳیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوندے پُتر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے پورا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوندا گھر"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر ڳئے"
+    }
+  ],
+  "timestamp": "2026-09-25T04:46:34.748339453Z",
+  "model": "glm-5.3"
+}

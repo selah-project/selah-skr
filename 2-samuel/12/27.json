@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":27,"ref":"2-samuel 12:27","book":"2-samuel","lang":"skr","chapter":12,"translation":"تے یوآب داوِد دو نخریئے بھیڄے تے آکھیس: “میں ربّہ وِچ لڑیا، میں پاݨی دا شہر ⟨את⟩ وی گھن گھدا ہے۔”","tokens":[{"surface":"וישלח","gloss":"بھیڄے"},{"surface":"יואב","gloss":"یوآب"},{"surface":"מלאכים","gloss":"نخریئے"},{"surface":"אל","gloss":"دو"},{"surface":"דוד","gloss":"داوِد"},{"surface":"ויאמר","gloss":"تے آکھیس"},{"surface":"נלחמתי","gloss":"میں لڑیا"},{"surface":"ברבה","gloss":"ربّہ وِچ"},{"surface":"גם","gloss":"وی"},{"surface":"לכדתי","gloss":"میں گھن گھدا"},{"surface":"את","gloss":"⟨את⟩","marks":"پاݨی دا شہر"},{"surface":"עיר","gloss":"شہر"},{"surface":"המים","gloss":"پاݨی دا"}],"timestamp":"2026-09-19T16:54:59.034204414Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 12,
+  "translation": "تے یوآب داوِد دوالے پیغام بھیڄے تے آکھیس: “میں رَبّہ نال جنگ کیتی ہے، تے پاݨی آلی شہر ⟨את⟩ وی گھن گھدا ہے۔”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیڄے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "پیغام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیس"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "میں جنگ کیتی ہے"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "رَبّہ نال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "לכדتי",
+      "gloss": "میں گھن گھدا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاݨی آلی شہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاݨی آلی"
+    }
+  ],
+  "timestamp": "2026-09-25T05:39:50.538083041Z",
+  "model": "glm-5.3"
+}

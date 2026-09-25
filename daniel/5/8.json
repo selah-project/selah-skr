@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":8,"ref":"daniel 5:8","book":"daniel","lang":"skr","chapter":5,"translation":"تݙاں بادشاہ دے سارے پاندھی اندر آئے، پر اوہ لکھت نہ پڑھ سڳدے ہن تے نہ بادشاہ کوں اوندا پد ݙسا سڳدے ہن۔","tokens":[{"surface":"אדין","gloss":"تݙاں"},{"surface":"עללין","gloss":"اندر آئے"},{"surface":"כל","gloss":"سارے"},{"surface":"חכימי","gloss":"پاندھی"},{"surface":"מלכא","gloss":"بادشاہ دے"},{"surface":"ולא","gloss":"پر نہ"},{"surface":"כהלין","gloss":"سڳدے ہن"},{"surface":"כתבא","gloss":"لکھت"},{"surface":"למקרא","gloss":"پڑھݨ"},{"surface":"ופשרא","gloss":"تے پد"},{"surface":"להודעה","gloss":"ݙسݨ"},{"surface":"למלכא","gloss":"بادشاہ کوں"}],"timestamp":"2026-09-19T20:20:51.039322119Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "skr",
+  "chapter": 5,
+  "translation": "تݙاں بادشاہ دے سارے دانا آ ڳئے، پر او لکھت نہ پڑھ سڳدے تے نہ بادشاہ کوں اوندا مطلب ݙسّݨ سڳدے ہَن۔",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تݙاں"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "آ ڳئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "سڳدے"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکھت"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "پڑھݨ"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "تے مطلب"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "ݙسّݨ"
+    },
+    {
+      "surface": "לمלכא",
+      "gloss": "بادشاہ کوں"
+    }
+  ],
+  "timestamp": "2026-09-25T05:54:54.794895283Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,63 @@
-{"tier":"glm-5.2","verse":35,"ref":"exodus 32:35","book":"exodus","lang":"skr","chapter":32,"translation":"تے یاہوہ قوم کوں ماریا، کیوں جو اُنہاں وَݙھ بݨایا ہا، جیہڑا اہرون بݨایا ہا۔","tokens":[{"surface":"ויגף","gloss":"ماریا"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"את","gloss":"⟨את⟩","marks":"قوم کوں"},{"surface":"העם","gloss":"قوم کوں"},{"surface":"על","gloss":"کیوں جو"},{"surface":"אשר","gloss":"جو"},{"surface":"עשו","gloss":"اُنہاں بݨایا ہا"},{"surface":"את","gloss":"⟨את⟩","marks":"وَݙھ کوں"},{"surface":"העגל","gloss":"وَݙھ کوں"},{"surface":"אשר","gloss":"جیہڑا"},{"surface":"עשה","gloss":"بݨایا ہا"},{"surface":"אהרן","gloss":"اہرون"}],"timestamp":"2026-09-19T15:01:26.229209431Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 32,
+  "translation": "تے یاہوہ ⟨את⟩ قوم کوں ماریا، ایں کیتے جو اوں کیتے جِہڑا اہرون بݨایا ہا — ⟨את⟩ وِچّھئے دی ڳالھ کیوں جو او وِچّھوا بݨا چکے ہن۔",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایں کیتے جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "اوں کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وِچّھئے"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "وِچّھوا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    }
+  ],
+  "timestamp": "2026-09-25T06:22:51.344171507Z",
+  "model": "glm-5.3"
+}

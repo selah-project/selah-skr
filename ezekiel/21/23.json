@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":23,"ref":"ezekiel 21:23","book":"ezekiel","lang":"skr","chapter":21,"translation":"تے یاہوہ دا ڳالھ میکوں آیا، آکھݨ کیتے:","tokens":[{"surface":"ויהי","gloss":"تھیا/آیا"},{"surface":"דבר","gloss":"ڳالھ"},{"surface":"יהוה","gloss":"یاہوہ دا"},{"surface":"אלי","gloss":"میکوں"},{"surface":"לאמר","gloss":"آکھݨ کیتے"}],"timestamp":"2026-09-19T18:32:57.659749791Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "skr",
+  "chapter": 21,
+  "translation": "تے یاہوہ دا کلام میکوں آیا، ایہ آکھ کے جو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے … آیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میکوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہ آکھ کے جو"
+    }
+  ],
+  "timestamp": "2026-09-25T06:31:01.098461561Z",
+  "model": "glm-5.3"
+}

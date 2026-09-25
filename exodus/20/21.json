@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 20:21","book":"exodus","lang":"skr","chapter":20,"translation":"تے قوم پرے کھڑی رہی، تے موشے ہنیرے ݙو نسڑ ڳیا، جِتھاں اُتھاں ایلوہیم ہا۔","tokens":[{"surface":"ויעמד","gloss":"تے کھڑی رہی"},{"surface":"העם","gloss":"قوم"},{"surface":"מרחק","gloss":"پرے"},{"surface":"ומשה","gloss":"تے موشے"},{"surface":"נגש","gloss":"نسڑ ڳیا"},{"surface":"אל","gloss":"ݙو"},{"surface":"הערפל","gloss":"ہنیرے"},{"surface":"אשר","gloss":"جِتھاں"},{"surface":"שם","gloss":"اُتھاں"},{"surface":"האלהים","gloss":"ایلوہیم"}],"timestamp":"2026-09-19T14:52:50.245742847Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 20,
+  "translation": "تے قوم پرے کھڑی رہی، تے موشے ⟨אל⟩ اوں گھُپ گھݨے اندھارے ٹُری ڳیا جتھاں ایلوہیم ہا۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "کھڑی رہی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پرے"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "تے موشے"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ٹُری ڳیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩ دوڑ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "گھُپ گھݨا اندھارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھاں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-25T06:19:27.677970012Z",
+  "model": "glm-5.3"
+}

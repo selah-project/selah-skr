@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "skr",
   "chapter": 22,
-  "translation": "تے یاہوہ دی ڳالھ میݙے کولھ آئی، آکھݨ کیتے:",
+  "translation": "تے یاہوہ دا کلام میݙے کول آیا، جو آکھیس:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تے … آئی"
+      "gloss": "تھیا"
     },
     {
       "surface": "דבר",
-      "gloss": "ڳالھ"
+      "gloss": "کلام"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دی"
+      "gloss": "یاہوہ دا"
     },
     {
       "surface": "אלי",
-      "gloss": "میݙے کولھ"
+      "gloss": "میݙے کول"
     },
     {
       "surface": "לאמר",
-      "gloss": "آکھݨ کیتے"
+      "gloss": "آکھیس"
     }
   ],
-  "timestamp": "2026-09-19T18:34:24.710323534Z",
+  "timestamp": "2026-09-25T06:31:29.152583749Z",
   "model": "glm-5.3"
 }

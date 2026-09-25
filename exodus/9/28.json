@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":28,"ref":"exodus 9:28","book":"exodus","lang":"skr","chapter":9,"translation":"یاہوہ توں دعا کرو — ٻہوں ہو ڳئے ایلوہیم دیاں گاجاں تے اولے — تے میں ⟨את⟩ تُہاکوں رلہیساں، تے تُساں ہور نہ رہسو۔”","tokens":[{"surface":"העתירו","gloss":"دعا کرو"},{"surface":"אל","gloss":"توں"},{"surface":"יהוה","gloss":"یاہوہ"},{"surface":"ורב","gloss":"ٻہوں"},{"surface":"מהית","gloss":"ہو ڳئے"},{"surface":"קלת","gloss":"گاجاں"},{"surface":"אלהים","gloss":"ایلوہیم دیاں"},{"surface":"וברד","gloss":"تے اولے"},{"surface":"ואשלחה","gloss":"رلہیساں"},{"surface":"אתכם","gloss":"⟨את⟩","marks":"تُہاکوں"},{"surface":"ולא","gloss":"نہ"},{"surface":"תספון","gloss":"ہور"},{"surface":"לעמד","gloss":"رہسو"}],"timestamp":"2026-09-19T14:47:45.540920884Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 9,
+  "translation": "یاہوہ اُتے منت کرو ⟨کیوں جو بس تھی ڳئی⟩ — ایلوہیم دیاں گاجاں تے اولے توں؛ میں تُساں کوں ⟨את⟩ ٹور ݙیساں، تے تُساں ولا کھڑݨاں نہ کریسو۔",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "منت کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "تے بس"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "تھیوݨ"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "گاجاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دیاں"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "تے اولے"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ٹور ݙیساں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساں کوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "ولا کریسو"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "کھڑݨ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:26:54.076619884Z",
+  "model": "glm-5.3"
+}

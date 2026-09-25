@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":30,"ref":"2-samuel 13:30","book":"2-samuel","lang":"skr","chapter":13,"translation":"تے تھیا، اوہ رستے وِچ ہن تے خبر داوِد کول آئی، آکھݨ لڳی: “اَبشالوم بادشاہ دے سارے پُتراں ⟨את⟩ مار سٹیے، تے انہاں وِچوں ہِک وی نہ بچیا۔”","tokens":[{"surface":"ויהי","gloss":"تھیا"},{"surface":"המה","gloss":"اوہ"},{"surface":"בדרך","gloss":"رستے وِچ"},{"surface":"והשמעה","gloss":"تے خبر"},{"surface":"באה","gloss":"آئی"},{"surface":"אל","gloss":"کول"},{"surface":"דוד","gloss":"داوِد"},{"surface":"לאמר","gloss":"آکھݨ لڳی"},{"surface":"הכה","gloss":"مار سٹیے"},{"surface":"אבשלום","gloss":"اَبشالوم"},{"surface":"את","gloss":"⟨את⟩","marks":"سارے پُتراں کوں"},{"surface":"כל","gloss":"سارے"},{"surface":"בני","gloss":"پُتراں"},{"surface":"המלך","gloss":"بادشاہ دے"},{"surface":"ולא","gloss":"تے نہ"},{"surface":"נותר","gloss":"بچیا"},{"surface":"מהם","gloss":"انہاں وِچوں"},{"surface":"אחד","gloss":"ہِک"}],"timestamp":"2026-09-19T16:56:10.262970993Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "skr",
+  "chapter": 13,
+  "translation": "تے جݙاں او رستے وِچ ہن، تاں ہِک خبر داوِد تک آئی، جو آکھیا ڳیا: “اَبشالوم ⟨את⟩ بادشاہ دے سارے پُتراں کوں ماریے، تے اُنہاں وِچوں ہِک وی بچیا کائنی۔”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے تھیا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "او"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "تے خبر"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو آکھیا ڳیا"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماریے"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے پُتراں کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں کوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "بچیا"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اُنہاں وِچوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہِک"
+    }
+  ],
+  "timestamp": "2026-09-25T05:40:52.110943256Z",
+  "model": "glm-5.3"
+}

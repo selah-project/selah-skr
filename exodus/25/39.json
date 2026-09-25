@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":39,"ref":"exodus 25:39","book":"exodus","lang":"skr","chapter":25,"translation":"ہِک ککھر خالص سونے دی ہووے، اوکوں اُوں کنوں بݨایا ویسے، ⟨את⟩ اے سارے برتن۔","tokens":[{"surface":"ככר","gloss":"ہِک ککھر"},{"surface":"זהב","gloss":"سونے"},{"surface":"טהור","gloss":"خالص"},{"surface":"יעשה","gloss":"بݨایا ویسے"},{"surface":"אתה","gloss":"⟨את⟩","marks":"منورہ"},{"surface":"את","gloss":"⟨את⟩","marks":"سارے برتن"},{"surface":"כל","gloss":"سارے"},{"surface":"הכלים","gloss":"برتن"},{"surface":"האלה","gloss":"اے"}],"timestamp":"2026-09-19T14:56:44.972289797Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "skr",
+  "chapter": 25,
+  "translation": "ہِک کِکّر خالص سونے توں ⟨את⟩ اوکوں بݨیسی، ⟨את⟩ ایہ سارے برتن۔",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "کِکّر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "יעשׂה",
+      "gloss": "بݨیسی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوکوں (منورا)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہ سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہ"
+    }
+  ],
+  "timestamp": "2026-09-25T06:21:02.446222553Z",
+  "model": "glm-5.3"
+}

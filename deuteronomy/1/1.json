@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 1:1","book":"deuteronomy","lang":"skr","chapter":1,"translation":"ایہے او ڳالھیں ہن جیڑھے موشے سارے یِسرائیل کوں یاردن دے پار، میدان وِچ، عرابہ وِچ، سوف دے ساہمنے، پاران تے توفل تے لبان تے حتسیروت تے دی زہب دے وچکار آکھئے۔","tokens":[{"surface":"אלה","gloss":"ایہے"},{"surface":"הדברים","gloss":"او ڳالھیں"},{"surface":"אשר","gloss":"جیڑھے"},{"surface":"דבר","gloss":"آکھئے"},{"surface":"משה","gloss":"موشے"},{"surface":"אל","gloss":"کوں"},{"surface":"כל","gloss":"سارے"},{"surface":"ישראל","gloss":"یِسرائیل"},{"surface":"בעבר","gloss":"دے پار"},{"surface":"הירדן","gloss":"یاردن"},{"surface":"במדבר","gloss":"میدان وِچ"},{"surface":"בערבה","gloss":"عرابہ وِچ"},{"surface":"מול","gloss":"دے ساہمنے"},{"surface":"סוף","gloss":"سوف"},{"surface":"בין","gloss":"…دے وچکار"},{"surface":"פארן","gloss":"پاران"},{"surface":"ובין","gloss":"تے"},{"surface":"תפל","gloss":"توفل"},{"surface":"ולבן","gloss":"تے لبان"},{"surface":"וחצרת","gloss":"تے حتسیروت"},{"surface":"ודי","gloss":"تے دی"},{"surface":"זהב","gloss":"زہب"}],"timestamp":"2026-09-19T15:49:51.587941222Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "skr",
+  "chapter": 1,
+  "translation": "ایہ او ڳالھیں ہن جیڑھے موشے سارے یِسرائل کوں ہَیَردن دے پار، بن وِچ، عرابا وِچ، سوف دے اُݙوں، پآران تے توپھیل تے لابن تے ختصروت تے دی زہاب دے وچکار آکھیاں۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالھیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیڑھے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "دے پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ہَیَردن"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بن وِچ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "عرابا وِچ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "دے اُݙوں"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    },
+    {
+      "surface": "בין",
+      "gloss": "تے … دے وچکار"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پآران"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "توپھیل"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "تے لابن"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "تے ختصروت"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "تے دی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زہاب"
+    }
+  ],
+  "timestamp": "2026-09-25T05:58:02.738196255Z",
+  "model": "glm-5.3"
+}

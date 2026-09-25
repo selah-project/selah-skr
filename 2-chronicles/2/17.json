@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":17,"ref":"2-chronicles 2:17","book":"2-chronicles","lang":"skr","chapter":2,"translation":"اُنہاں وِچوں اُݙاہِیک ہزار مزدور بݨایا، تے اَسی ہزار پہاڑ وِچ کاٹھ کَٹݨ آلے، تے ترے ہزار چھ سَو اڳواݨ، ⟨את⟩ لوکاں کوں کَم لاوݨ کیتے۔","tokens":[{"surface":"ויעש","gloss":"بݨایا"},{"surface":"מהם","gloss":"اُنہاں وِچوں"},{"surface":"שבעים","gloss":"اُݙاہِیک"},{"surface":"אלף","gloss":"ہزار"},{"surface":"סבל","gloss":"مزدور"},{"surface":"ושמנים","gloss":"اَسی"},{"surface":"אלף","gloss":"ہزار"},{"surface":"חצב","gloss":"کَٹݨ آلے"},{"surface":"בהר","gloss":"پہاڑ وِچ"},{"surface":"ושלשת","gloss":"ترے"},{"surface":"אלפים","gloss":"ہزار"},{"surface":"ושש","gloss":"چھ"},{"surface":"מאות","gloss":"سَو"},{"surface":"מנצחים","gloss":"اڳواݨ"},{"surface":"להעביד","gloss":"کَم لاوݨ کیتے"},{"surface":"את","gloss":"⟨את⟩","marks":"لوکاں کوں"},{"surface":"העם","gloss":"لوکاں"}],"timestamp":"2026-09-19T20:47:45.401678865Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 2:17",
+  "book": "2-chronicles",
+  "lang": "skr",
+  "chapter": 2,
+  "translation": "اُنہاں وِچوں اوں ستر ہزار بار چاوݨ آلے بݨائے، تے اسی ہزار پہاڑ وِچ تراشݨ آلے، تے ترے ہزار چھ سَو اڳواݨ، ⟨את⟩ قوم کوں کم لاوݨ کیتے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بݨائے"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اُنہاں وِچوں"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "بار چاوݨ آلے"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اسی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "تراشݨ آلے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ وِچ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "تے ترے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "מנצחים",
+      "gloss": "اڳواݨ"
+    },
+    {
+      "surface": "להעביד",
+      "gloss": "کم لاوݨ کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-25T05:19:33.780717497Z",
+  "model": "glm-5.3"
+}
