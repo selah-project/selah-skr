@@ -8,48 +8,48 @@
   "translation": "اِیہ ڳالھ سُݨو جیڑی میں تُہاݙے اُتے چا تے بیت یِصرایل کیتے ماتم دی ڳالھ چیندا ہاں۔",
   "tokens": [
     {
-      "surface": "שִׁמְעוּ",
+      "surface": "שמעו",
       "gloss": "سُݨو"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِیہ ڳالھ"
     },
     {
-      "surface": "הַדָּבָר",
+      "surface": "הדבר",
       "gloss": "ڳالھ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اِیہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جیڑی"
     },
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "میں"
     },
     {
-      "surface": "נֹשֵׂא",
+      "surface": "נשא",
       "gloss": "چیندا ہاں"
     },
     {
-      "surface": "עֲלֵיכֶם",
+      "surface": "עליכם",
       "gloss": "تُہاݙے اُتے"
     },
     {
-      "surface": "קִינָה",
+      "surface": "קינה",
       "gloss": "ماتم دی ڳالھ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یِصرایل"
     }
   ],

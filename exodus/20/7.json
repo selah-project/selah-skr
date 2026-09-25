@@ -8,74 +8,74 @@
   "translation": "تُساں آپݨے ایلوہیم یاہوہ دا ⟨את⟩ ناں وِیکار نہ چاوَو، کیوں جو یاہوہ اوں بندے کوں بے-قصر نہ چھوڑسی جیہڑا اوندا ⟨את⟩ ناں وِیکار چاوِسی۔",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִשָּׂא",
+      "surface": "תשא",
       "gloss": "چاوَو"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ناں"
     },
     {
-      "surface": "שֵׁם",
+      "surface": "שם",
       "gloss": "ناں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تیݙے ایلوہیم"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "وِیکار کیتے"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کیوں جو"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְנַקֶּה",
+      "surface": "ינקה",
       "gloss": "بے-قصر چھوڑسی"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اوں بندے کوں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جیہڑا"
     },
     {
-      "surface": "יִשָּׂא",
+      "surface": "ישא",
       "gloss": "چاوِسی"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اوندا ناں"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "اوندا ناں"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "وِیکار کیتے"
     }
   ],

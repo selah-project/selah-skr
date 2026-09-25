@@ -8,40 +8,40 @@
   "translation": "تے میکل داوِد کوں کھڑکی توں تلے لہایا ⟨את⟩، تے او ڳیا، تے بھڄ ڳیا، تے بچ نکھتا۔",
   "tokens": [
     {
-      "surface": "וַתֹּרֶד",
+      "surface": "ותרד",
       "gloss": "تلے لہایا"
     },
     {
-      "surface": "מִיכַל",
+      "surface": "מיכל",
       "gloss": "میکل"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "داوِد"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "داوِد"
     },
     {
-      "surface": "בְּעַד",
+      "surface": "בעד",
       "gloss": "توں"
     },
     {
-      "surface": "הַחַלּוֹן",
+      "surface": "החלון",
       "gloss": "کھڑکی"
     },
     {
-      "surface": "וַיֵּלֶךְ",
+      "surface": "וילך",
       "gloss": "ڳیا"
     },
     {
-      "surface": "וַיִּבְרַח",
+      "surface": "ויברח",
       "gloss": "بھڄ ڳیا"
     },
     {
-      "surface": "וַיִּמָּלֵט",
+      "surface": "וימלט",
       "gloss": "بچ نکھتا"
     }
   ],

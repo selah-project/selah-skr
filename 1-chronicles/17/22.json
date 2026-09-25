@@ -8,56 +8,56 @@
   "translation": "تے تُوں ⟨את⟩ اپݨی قوم یِسرایل کوں آپ کیتے قوم بݨائی، ہمیشہ تئیں، تے تُوں یاہوہ اُنہاں کیتے ایلوہیم بݨیوں۔",
   "tokens": [
     {
-      "surface": "וַתִּתֵּן",
+      "surface": "ותתן",
       "gloss": "بݨائی"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اپݨی قوم یِسرایل"
     },
     {
-      "surface": "עַמְּךָ",
+      "surface": "עמך",
       "gloss": "اپݨی قوم"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یِسرایل"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "آپ کیتے"
     },
     {
-      "surface": "לְעָם",
+      "surface": "לעם",
       "gloss": "قوم"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تئیں"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "ہمیشہ"
     },
     {
-      "surface": "וְאַתָּה",
+      "surface": "ואתה",
       "gloss": "تے تُوں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "הָיִיתָ",
+      "surface": "היית",
       "gloss": "بݨیوں"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اُنہاں کیتے"
     },
     {
-      "surface": "לֵאלֹהִים",
+      "surface": "לאלהים",
       "gloss": "ایلوہیم"
     }
   ],

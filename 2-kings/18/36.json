@@ -8,56 +8,56 @@
   "translation": "تے قوم چُپ رہی، تے اوندے ⟨את⟩ کوں جواب وِچ ہِک لفظ نہ ݙتس، کیوں جو بادشاہ دا حکم ہا جو آکھیا: “اوندا جواب نہ ݙیوو۔”",
   "tokens": [
     {
-      "surface": "וְהֶחֱרִ֣ישׁוּ",
+      "surface": "והחרישו",
       "gloss": "چُپ رہی"
     },
     {
-      "surface": "הָעָ֔ם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "تے نہ"
     },
     {
-      "surface": "עָנ֥וּ",
+      "surface": "ענו",
       "gloss": "جواب ݙتس"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
       "marks": "اوندے کوں"
     },
     {
-      "surface": "דָּבָ֑ר",
+      "surface": "דבר",
       "gloss": "ہِک لفظ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کیوں جو"
     },
     {
-      "surface": "מִצְוַ֨ת",
+      "surface": "מצות",
       "gloss": "حکم"
     },
     {
-      "surface": "הַמֶּ֥לֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہ دا"
     },
     {
-      "surface": "הִ֛יא",
+      "surface": "היא",
       "gloss": "ہا"
     },
     {
-      "surface": "לֵאמֹ֖ר",
+      "surface": "לאמר",
       "gloss": "آکھیا"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תַעֲנֻֽהוּ",
+      "surface": "תענהו",
       "gloss": "اوندا جواب ݙیوو"
     }
   ],
