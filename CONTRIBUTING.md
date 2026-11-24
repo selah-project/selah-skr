@@ -10,7 +10,7 @@
   **Issue** کھولو۔
 - جے غلطی تے اوندا سُدھار ݙوہیں صاف ہووݨ — **Pull request** کھولو۔
 - سافٹ ویئر یا سلامتی دے سوالاں کیتے — [Selah
-  Support](https://selahproject.com/support).
+  Support](https://s33k3r.com/learn/support).
 
 ## جو وٹایا نہ ویندا
 

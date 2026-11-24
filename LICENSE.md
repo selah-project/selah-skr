@@ -19,7 +19,7 @@ International (CC BY-SA 4.0)** license.
 ## Under these terms
 
 - **Attribution** — name the source (**the Selah project**,
-  https://selahproject.com), give a link to the license, and indicate
+  https://s33k3r.com), give a link to the license, and indicate
   whether you made changes.
 - **ShareAlike** — distribute your contributions under the same license
   as the original.
